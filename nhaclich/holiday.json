@@ -1,0 +1,31 @@
+{
+  "solarHolidays": {
+    "1/1": { "name": "Tết Dương lịch", "short": "TDL" },
+    "14/2": { "name": "Valentine", "short": "VTN" },
+    "8/3": { "name": "Quốc tế Phụ nữ", "short": "QT8/3" },
+    "30/4": { "name": "Giải phóng miền Nam", "short": "30/4" },
+    "1/5": { "name": "Quốc tế Lao động", "short": "1/5" },
+    "19/5": { "name": "Sinh nhật Bác Hồ", "short": "SN Bác" },
+    "1/6": { "name": "Quốc tế Thiếu nhi", "short": "1/6" },
+    "2/9": { "name": "Quốc khánh", "short": "QK" },
+    "20/10": { "name": "Ngày Phụ nữ Việt Nam", "short": "20/10" },
+    "20/11": { "name": "Ngày Nhà giáo", "short": "20/11" },
+    "24/11": { "name": "Ngày văn hóa Việt Nam", "short": "24/11" },
+    "24/12": { "name": "Giáng sinh", "short": "Noel" },
+    "25/12": { "name": "Giáng sinh", "short": "Noel" }
+  },
+  "lunarHolidays": {
+    "1/1": { "name": "Tết Nguyên đán", "short": "TẾT" },
+    "2/1": { "name": "Mùng 2 Tết", "short": "TẾT" },
+    "3/1": { "name": "Mùng 3 Tết", "short": "TẾT" },
+    "4/1": { "name": "Mùng 4 Tết", "short": "TẾT" },
+    "5/1": { "name": "Mùng 5 Tết", "short": "TẾT" },
+    "10/3": { "name": "Giỗ Tổ Hùng Vương", "short": "GT HV" },
+    "15/4": { "name": "Phật Đản", "short": "Phật" },
+    "5/5": { "name": "Tết Đoan Ngọ", "short": "Đoan Ngọ" },
+    "15/7": { "name": "Ngày Vu Lan", "short": "Vu Lan" },
+    "15/8": { "name": "Tết Trung Thu", "short": "Tr.Thu" },
+    "23/12": { "name": "Ông Táo về trời", "short": "Ông Táo" },
+    "30/12": { "name": "Giao thừa", "short": "Giao thừa" }
+  }
+}

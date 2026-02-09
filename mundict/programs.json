@@ -1,0 +1,18 @@
+{
+  "programs": [
+    {
+      "id": "basic-english",
+      "name": "Basic English",
+      "description": "Tiếng Anh cơ bản cho người mới bắt đầu",
+      "imageUrl": "images/programs/basic-english.png",
+      "detailUrl": "basic-english.json"
+    },
+    {
+      "id": "kids-vocabulary",
+      "name": "Kids Vocabulary",
+      "description": "Từ vựng tiếng Anh cho trẻ em tiểu học",
+      "imageUrl": "images/programs/kids.png",
+      "detailUrl": "kids-vocabulary.json"
+    }
+  ]
+}

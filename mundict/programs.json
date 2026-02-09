@@ -1,18 +1,37 @@
 {
-  "programs": [
+  "groups": [
     {
-      "id": "basic-english",
-      "name": "Basic English",
-      "description": "Tiếng Anh cơ bản cho người mới bắt đầu",
-      "imageUrl": "images/programs/basic-english.png",
-      "detailUrl": "basic-english.json"
+      "groupId": "beginner",
+      "groupName": "Người mới bắt đầu",
+      "programs": [
+        {
+          "id": "basic-english",
+          "name": "Basic English",
+          "description": "Tiếng Anh cơ bản cho người mới học",
+          "imageUrl": "images/programs/basic-english.png",
+          "detailUrl": "basic-english.json"
+        },
+        {
+          "id": "daily-words",
+          "name": "Daily Words",
+          "description": "Từ vựng giao tiếp hằng ngày",
+          "imageUrl": "images/programs/daily.png",
+          "detailUrl": "daily-words.json"
+        }
+      ]
     },
     {
-      "id": "kids-vocabulary",
-      "name": "Kids Vocabulary",
-      "description": "Từ vựng tiếng Anh cho trẻ em tiểu học",
-      "imageUrl": "images/programs/kids.png",
-      "detailUrl": "kids-vocabulary.json"
+      "groupId": "kids",
+      "groupName": "Trẻ em",
+      "programs": [
+        {
+          "id": "kids-vocabulary",
+          "name": "Kids Vocabulary",
+          "description": "Từ vựng cơ bản cho học sinh tiểu học",
+          "imageUrl": "images/programs/kids.png",
+          "detailUrl": "kids-vocabulary.json"
+        }
+      ]
     }
   ]
 }

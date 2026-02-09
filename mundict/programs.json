@@ -1,35 +1,22 @@
 {
   "groups": [
     {
-      "groupId": "beginner",
-      "groupName": "Người mới bắt đầu",
+      "groupId": "power-up",
+      "groupName": "Power Up",
       "programs": [
         {
-          "id": "basic-english",
-          "name": "Basic English",
-          "description": "Tiếng Anh cơ bản cho người mới học",
-          "imageUrl": "images/programs/basic-english.png",
-          "detailUrl": "basic-english.json"
+          "id": "power-up-4",
+          "name": "Power Up 4",
+          "description": "Power Up Level 5 Activity Book With Online Resources And Home Booklet",
+          "imageUrl": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_209594.jpg",
+          "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/power-up-4"
         },
         {
-          "id": "daily-words",
-          "name": "Daily Words",
-          "description": "Từ vựng giao tiếp hằng ngày",
-          "imageUrl": "images/programs/daily.png",
-          "detailUrl": "daily-words.json"
-        }
-      ]
-    },
-    {
-      "groupId": "kids",
-      "groupName": "Trẻ em",
-      "programs": [
-        {
-          "id": "kids-vocabulary",
-          "name": "Kids Vocabulary",
-          "description": "Từ vựng cơ bản cho học sinh tiểu học",
-          "imageUrl": "images/programs/kids.png",
-          "detailUrl": "kids-vocabulary.json"
+          "id": "power-up-5",
+          "name": "Power Up 5",
+          "description": "Power Up Level 5 Activity Book With Online Resources And Home Booklet",
+          "imageUrl": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_209595.jpg",
+          "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/power-up-4"
         }
       ]
     }

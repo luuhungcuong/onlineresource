@@ -5,7 +5,7 @@
     {
       "sectionId": "greetings",
       "sectionName": "Greetings",
-      "imageUrl": "images/sections/greetings.png",
+      "imageUrl": "",
       "vocabularies": [
         { "word": "hello", "phonetic": "/həˈləʊ/", "meaning": "xin chào" },
         { "word": "goodbye", "phonetic": "/ˌɡʊdˈbaɪ/", "meaning": "tạm biệt" }
@@ -14,7 +14,7 @@
     {
       "sectionId": "numbers",
       "sectionName": "Numbers",
-      "imageUrl": "images/sections/numbers.png",
+      "imageUrl": "",
       "vocabularies": [
         { "word": "one", "phonetic": "/wʌn/", "meaning": "một" },
         { "word": "two", "phonetic": "/tuː/", "meaning": "hai" }

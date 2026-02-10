@@ -1,0 +1,1710 @@
+{
+  "programId": "cambridge-starters-pre-a1",
+  "programName": "Cambridge English: Starters (Pre-A1)",
+  "sections": [
+    {
+      "sectionId": "unit-1-colors-numbers",
+      "sectionName": "Unit 1: Colors & Numbers",
+      "vocabularies": [
+        {
+          "word": "one",
+          "phonetic": "/wʌn/",
+          "meaning": "số 1",
+          "example": "I have one apple.\nThere is one book.\nOne and one is two."
+        },
+        {
+          "word": "two",
+          "phonetic": "/tuː/",
+          "meaning": "số 2",
+          "example": "I have two hands.\nTwo eyes and two ears.\nThere are two cats."
+        },
+        {
+          "word": "three",
+          "phonetic": "/θriː/",
+          "meaning": "số 3",
+          "example": "The three little pigs.\nThree birds are flying.\nI have three pencils."
+        },
+        {
+          "word": "four",
+          "phonetic": "/fɔː(r)/",
+          "meaning": "số 4",
+          "example": "A car has four wheels.\nFour seasons in a year.\nI have four books."
+        },
+        {
+          "word": "five",
+          "phonetic": "/faɪv/",
+          "meaning": "số 5",
+          "example": "High five!\nI have five fingers.\nFive ducks in a pond."
+        },
+        {
+          "word": "six",
+          "phonetic": "/sɪks/",
+          "meaning": "số 6",
+          "example": "A ladybug has six legs.\nI am six years old.\nSix eggs in the box."
+        },
+        {
+          "word": "seven",
+          "phonetic": "/ˈsevn/",
+          "meaning": "số 7",
+          "example": "Seven days in a week.\nThe seven dwarfs.\nI have seven apples."
+        },
+        {
+          "word": "eight",
+          "phonetic": "/eɪt/",
+          "meaning": "số 8",
+          "example": "An octopus has eight legs.\neight o'clock.\nI have eight pencils."
+        },
+        {
+          "word": "nine",
+          "phonetic": "/naɪn/",
+          "meaning": "số 9",
+          "example": "Nine comes after eight.\nI have nine toy cars.\nNine birds on the tree."
+        },
+        {
+          "word": "ten",
+          "phonetic": "/ten/",
+          "meaning": "số 10",
+          "example": "I have ten fingers.\nTen little Indians.\nTen toes on my feet."
+        },
+        {
+          "word": "eleven",
+          "phonetic": "/ɪˈlevn/",
+          "meaning": "số 11",
+          "example": "I am eleven years old.\nThere are eleven apples.\nEleven comes after ten."
+        },
+        {
+          "word": "twelve",
+          "phonetic": "/twelv/",
+          "meaning": "số 12",
+          "example": "Twelve months in a year.\nTwelve eggs make a dozen.\nIt is twelve o'clock."
+        },
+        {
+          "word": "red",
+          "phonetic": "/red/",
+          "meaning": "màu đỏ",
+          "example": "An apple is red.\nA red bus.\nI like the color red."
+        },
+        {
+          "word": "blue",
+          "phonetic": "/bluː/",
+          "meaning": "màu xanh dương",
+          "example": "The sky is blue.\nBlue sea.\nI have a blue pen."
+        },
+        {
+          "word": "green",
+          "phonetic": "/ɡriːn/",
+          "meaning": "màu xanh lá",
+          "example": "Grass is green.\nA green leaf.\nI like green grapes."
+        },
+        {
+          "word": "yellow",
+          "phonetic": "/ˈjeləʊ/",
+          "meaning": "màu vàng",
+          "example": "A yellow sun.\nYellow bananas.\nI have a yellow shirt."
+        },
+        {
+          "word": "orange",
+          "phonetic": "/ˈɒrɪndʒ/",
+          "meaning": "màu cam",
+          "example": "An orange is orange.\nOrange juice.\nA bright orange fish."
+        },
+        {
+          "word": "pink",
+          "phonetic": "/pɪŋk/",
+          "meaning": "màu hồng",
+          "example": "A pink flower.\nPink cheeks.\nI have a pink dress."
+        },
+        {
+          "word": "purple",
+          "phonetic": "/ˈpɜːpl/",
+          "meaning": "màu tím",
+          "example": "I have a purple ball.\nMy favorite color is purple.\nLook at that purple flower."
+        },
+        {
+          "word": "brown",
+          "phonetic": "/braʊn/",
+          "meaning": "màu nâu",
+          "example": "A brown bear.\nBrown eyes.\nI have a brown bag."
+        },
+        {
+          "word": "black",
+          "phonetic": "/blæk/",
+          "meaning": "màu đen",
+          "example": "A black cat.\nBlack shoes.\nThe night is black."
+        },
+        {
+          "word": "white",
+          "phonetic": "/waɪt/",
+          "meaning": "màu trắng",
+          "example": "White snow.\nA white rabbit.\nMilk is white."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "How many...?",
+          "description": "Hỏi về số lượng.",
+          "example": "How many apples? \nTwo apples."
+        },
+        {
+          "structure": "What color is it?",
+          "description": "Hỏi về màu sắc.",
+          "example": "What color is the car? \nIt is red."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-2-body",
+      "sectionName": "Unit 2: My Body",
+      "vocabularies": [
+        {
+          "word": "head",
+          "phonetic": "/hed/",
+          "meaning": "cái đầu",
+          "example": "Touch your head.\nMove your head.\nI have one head."
+        },
+        {
+          "word": "hair",
+          "phonetic": "/heə(r)/",
+          "meaning": "tóc",
+          "example": "She has long hair.\nMy hair is black.\nWash your hair."
+        },
+        {
+          "word": "face",
+          "phonetic": "/feɪs/",
+          "meaning": "khuôn mặt",
+          "example": "Wash your face.\nA happy face.\nA beautiful face."
+        },
+        {
+          "word": "eye",
+          "phonetic": "/aɪ/",
+          "meaning": "mắt",
+          "example": "Close your eyes.\nI have blue eyes.\nOpen your eyes."
+        },
+        {
+          "word": "ear",
+          "phonetic": "/ɪə(r)/",
+          "meaning": "tai",
+          "example": "Listen with your ears.\nI have two ears.\nA rabbit has long ears."
+        },
+        {
+          "word": "nose",
+          "phonetic": "/nəʊz/",
+          "meaning": "mũi",
+          "example": "I smell with my nose.\nTouch your nose.\nA big nose."
+        },
+        {
+          "word": "mouth",
+          "phonetic": "/maʊθ/",
+          "meaning": "cái miệng",
+          "example": "Open your mouth.\nI eat with my mouth.\nA fish has a small mouth."
+        },
+        {
+          "word": "shoulder",
+          "phonetic": "/ˈʃəʊldə(r)/",
+          "meaning": "cái vai",
+          "example": "Touch your shoulders.\nMy bag is on my shoulder.\nI have two shoulders."
+        },
+        {
+          "word": "arm",
+          "phonetic": "/ɑːm/",
+          "meaning": "cánh tay",
+          "example": "Wave your arms.\nI have two arms.\nLong arms."
+        },
+        {
+          "word": "hand",
+          "phonetic": "/hænd/",
+          "meaning": "bàn tay",
+          "example": "Wash your hands.\nClap your hands.\nI have two hands."
+        },
+        {
+          "word": "finger",
+          "phonetic": "/ˈfɪŋɡə(r)/",
+          "meaning": "ngón tay",
+          "example": "Point with your finger.\nTen fingers.\nI have a ring on my finger."
+        },
+        {
+          "word": "leg",
+          "phonetic": "/leɡ/",
+          "meaning": "cái chân",
+          "example": "I run with my legs.\nLong legs.\nI have two legs."
+        },
+        {
+          "word": "foot",
+          "phonetic": "/fʊt/",
+          "meaning": "bàn chân",
+          "example": "Put your foot in the shoe.\nLeft foot.\nKick with your foot."
+        },
+        {
+          "word": "toe",
+          "phonetic": "/təʊ/",
+          "meaning": "ngón chân",
+          "example": "Ten toes.\nWiggle your toes.\nTouch your toes."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "This is / These are",
+          "description": "Giới thiệu bộ phận cơ thể.",
+          "example": "This is my nose.\nThese are my eyes."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-3-family",
+      "sectionName": "Unit 3: My Family",
+      "vocabularies": [
+        {
+          "word": "family",
+          "phonetic": "/ˈfæməli/",
+          "meaning": "gia đình",
+          "example": "I love my family.\nA big family.\nFamily is important."
+        },
+        {
+          "word": "mother",
+          "phonetic": "/ˈmʌðə(r)/",
+          "meaning": "mẹ",
+          "example": "My mother is beautiful.\nI help my mother.\nShe is a kind mother."
+        },
+        {
+          "word": "father",
+          "phonetic": "/ˈfɑːðə(r)/",
+          "meaning": "bố",
+          "example": "My father is tall.\nI play with my father.\nHe is a great father."
+        },
+        {
+          "word": "sister",
+          "phonetic": "/ˈsɪstə(r)/",
+          "meaning": "chị/em gái",
+          "example": "I have two sisters.\nMy sister is young.\nI play with my sister."
+        },
+        {
+          "word": "brother",
+          "phonetic": "/ˈʌðə(r)/",
+          "meaning": "anh/em trai",
+          "example": "My brother is big.\nI have one brother.\nHe is my little brother."
+        },
+        {
+          "word": "grandmother",
+          "phonetic": "/ˈɡrænmʌðə(r)/",
+          "meaning": "bà",
+          "example": "I love my grandmother.\nMy grandmother is kind.\nShe is my father's mother."
+        },
+        {
+          "word": "grandfather",
+          "phonetic": "/ˈɡrænfɑːðə(r)/",
+          "meaning": "ông",
+          "example": "My grandfather is old.\nHe tells stories.\nI visit my grandfather."
+        },
+        {
+          "word": "baby",
+          "phonetic": "/ˈbeɪbi/",
+          "meaning": "em bé",
+          "example": "The baby is sleeping.\nA cute baby.\nI love the baby."
+        },
+        {
+          "word": "cousin",
+          "phonetic": "/ˈkʌzn/",
+          "meaning": "anh chị em họ",
+          "example": "I play with my cousin.\nHe is my cousin.\nMy cousin lives in a big house."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "Who is this?",
+          "description": "Hỏi về danh tính.",
+          "example": "Who is this? \nThis is my brother."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-4-animals-pets",
+      "sectionName": "Unit 4: Animals - Pets",
+      "vocabularies": [
+        {
+          "word": "cat",
+          "phonetic": "/kæt/",
+          "meaning": "con mèo",
+          "example": "The cat is on the mat.\nI have a black cat.\nThe cat says meow."
+        },
+        {
+          "word": "dog",
+          "phonetic": "/dɒɡ/",
+          "meaning": "con chó",
+          "example": "I have a big dog.\nThe dog is brown.\nThe dog says woof."
+        },
+        {
+          "word": "bird",
+          "phonetic": "/bɜːd/",
+          "meaning": "con chim",
+          "example": "The bird is in the tree.\nA beautiful blue bird.\nBirds can fly."
+        },
+        {
+          "word": "rabbit",
+          "phonetic": "/ˈræbɪt/",
+          "meaning": "con thỏ",
+          "example": "A small white rabbit.\nThe rabbit likes carrots.\nThe rabbit is hopping."
+        },
+        {
+          "word": "mouse",
+          "phonetic": "/maʊs/",
+          "meaning": "con chuột",
+          "example": "A little grey mouse.\nThe mouse likes cheese.\nA mouse has a long tail."
+        },
+        {
+          "word": "kitten",
+          "phonetic": "/ˈkɪtn/",
+          "meaning": "mèo con",
+          "example": "A cute kitten.\nThe kitten is playing.\nI have a small kitten."
+        },
+        {
+          "word": "puppy",
+          "phonetic": "/ˈpʌpi/",
+          "meaning": "chó con",
+          "example": "A playful puppy.\nThe puppy is brown.\nI love my puppy."
+        },
+        {
+          "word": "guinea pig",
+          "phonetic": "/ˈɡɪni pɪɡ/",
+          "meaning": "chuột lang",
+          "example": "I have a guinea pig.\nA small guinea pig.\nMy guinea pig is soft."
+        },
+        {
+          "word": "hamster",
+          "phonetic": "/ˈhæmstə(r)/",
+          "meaning": "chuột hamster",
+          "example": "A little hamster.\nThe hamster is in its cage.\nI have a hamster."
+        },
+        {
+          "word": "goldfish",
+          "phonetic": "/ˈɡəʊldfɪʃ/",
+          "meaning": "cá vàng",
+          "example": "A shiny goldfish.\nThe goldfish swims in the bowl.\nI have a goldfish."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "Have got / Has got",
+          "description": "Sở hữu vật nuôi.",
+          "example": "I have got a cat.\nShe has got a rabbit."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-5-animals-farm",
+      "sectionName": "Unit 5: Animals - Farm",
+      "vocabularies": [
+        {
+          "word": "cow",
+          "phonetic": "/kaʊ/",
+          "meaning": "con bò",
+          "example": "The cow is big.\nA cow gives milk.\nThe cow says moo."
+        },
+        {
+          "word": "horse",
+          "phonetic": "/hɔːs/",
+          "meaning": "con ngựa",
+          "example": "I can ride a horse.\nA brown horse.\nA fast horse."
+        },
+        {
+          "word": "duck",
+          "phonetic": "/dʌk/",
+          "meaning": "con vịt",
+          "example": "The duck swims in the pond.\nA yellow duck.\nThe duck says quack."
+        },
+        {
+          "word": "chicken",
+          "phonetic": "/ˈtʃɪkɪn/",
+          "meaning": "con gà",
+          "example": "A chicken has feathers.\nChickens lay eggs.\nA little chicken."
+        },
+        {
+          "word": "sheep",
+          "phonetic": "/ʃiːp/",
+          "meaning": "con cừu",
+          "example": "A white sheep.\nSheep eat grass.\nA soft sheep."
+        },
+        {
+          "word": "pig",
+          "phonetic": "/pɪɡ/",
+          "meaning": "con lợn",
+          "example": "A pink pig.\nThe pig lives on the farm.\nA big pig."
+        },
+        {
+          "word": "goat",
+          "phonetic": "/ɡəʊt/",
+          "meaning": "con dê",
+          "example": "A goat has horns.\nThe goat eats grass.\nA small goat."
+        },
+        {
+          "word": "donkey",
+          "phonetic": "/ˈdɒŋki/",
+          "meaning": "con lừa",
+          "example": "A grey donkey.\nThe donkey is strong.\nA donkey says eeyore."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "Farm animals say...",
+          "description": "Tiếng kêu của động vật.",
+          "example": "The cow says moo.\nThe duck says quack."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-6-animals-wild",
+      "sectionName": "Unit 6: Animals - Wild",
+      "vocabularies": [
+        {
+          "word": "lion",
+          "phonetic": "/ˈlaɪən/",
+          "meaning": "sư tử",
+          "example": "The lion is the king.\nA big lion.\nA lion is strong."
+        },
+        {
+          "word": "tiger",
+          "phonetic": "/ˈtaɪɡə(r)/",
+          "meaning": "con hổ",
+          "example": "A tiger has stripes.\nThe tiger is fast.\nA big tiger."
+        },
+        {
+          "word": "elephant",
+          "phonetic": "/ˈelɪfənt/",
+          "meaning": "con voi",
+          "example": "An elephant is big.\nAn elephant has a trunk.\nA grey elephant."
+        },
+        {
+          "word": "monkey",
+          "phonetic": "/ˈmʌŋki/",
+          "meaning": "con khỉ",
+          "example": "A monkey likes bananas.\nThe monkey is funny.\nA monkey can climb."
+        },
+        {
+          "word": "giraffe",
+          "phonetic": "/dʒəˈrɑːf/",
+          "meaning": "hươu cao cổ",
+          "example": "A giraffe is tall.\nA giraffe has a long neck.\nA yellow giraffe."
+        },
+        {
+          "word": "hippo",
+          "phonetic": "/ˈhɪpəʊ/",
+          "meaning": "con hà mã",
+          "example": "A big hippo.\nThe hippo lives in the water.\nA grey hippo."
+        },
+        {
+          "word": "crocodile",
+          "phonetic": "/ˈkrɒkədaɪl/",
+          "meaning": "con cá sấu",
+          "example": "A long crocodile.\nThe crocodile has big teeth.\nA green crocodile."
+        },
+        {
+          "word": "snake",
+          "phonetic": "/sneɪk/",
+          "meaning": "con rắn",
+          "example": "A long snake.\nA snake has no legs.\nA green snake."
+        },
+        {
+          "word": "zebra",
+          "phonetic": "/ˈzebrə/",
+          "meaning": "ngựa vằn",
+          "example": "A zebra is black and white.\nA zebra looks like a horse.\nA striped zebra."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "It is big / small / tall",
+          "description": "Miêu tả đặc điểm động vật.",
+          "example": "The elephant is big.\nThe giraffe is tall."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-7-house",
+      "sectionName": "Unit 7: The House",
+      "vocabularies": [
+        {
+          "word": "house",
+          "phonetic": "/haʊs/",
+          "meaning": "ngôi nhà",
+          "example": "I live in a big house.\nMy house is pink.\nI like my house."
+        },
+        {
+          "word": "flat",
+          "phonetic": "/flæt/",
+          "meaning": "căn hộ",
+          "example": "We live in a small flat.\nA flat in the city.\nMy flat is on the third floor."
+        },
+        {
+          "word": "bedroom",
+          "phonetic": "/ˈbedruːm/",
+          "meaning": "phòng ngủ",
+          "example": "I sleep in my bedroom.\nA clean bedroom.\nMy bedroom has a bed."
+        },
+        {
+          "word": "bathroom",
+          "phonetic": "/ˈbɑːθruːm/",
+          "meaning": "phòng tắm",
+          "example": "I wash in the bathroom.\nA big bathroom.\nThe bathroom is clean."
+        },
+        {
+          "word": "kitchen",
+          "phonetic": "/ˈkɪtʃɪn/",
+          "meaning": "nhà bếp",
+          "example": "Cook in the kitchen.\nMy kitchen is nice.\nBreakfast in the kitchen."
+        },
+        {
+          "word": "living room",
+          "phonetic": "/ˈlɪvɪŋ ruːm/",
+          "meaning": "phòng khách",
+          "example": "Watch TV in the living room.\nA large living room.\nSit in the living room."
+        },
+        {
+          "word": "dining room",
+          "phonetic": "/ˈdaɪnɪŋ ruːm/",
+          "meaning": "phòng ăn",
+          "example": "We eat in the dining room.\nA nice dining room.\nTable in the dining room."
+        },
+        {
+          "word": "garden",
+          "phonetic": "/ˈɡɑːdn/",
+          "meaning": "vườn",
+          "example": "Flowers in the garden.\nPlay in the garden.\nA green garden."
+        },
+        {
+          "word": "door",
+          "phonetic": "/dɔː(r)/",
+          "meaning": "cửa ra vào",
+          "example": "Open the door.\nA white door.\nClose the door."
+        },
+        {
+          "word": "window",
+          "phonetic": "/ˈwɪndəʊ/",
+          "meaning": "cửa sổ",
+          "example": "Look out the window.\nA clean window.\nClose the window."
+        },
+        {
+          "word": "wall",
+          "phonetic": "/wɔːl/",
+          "meaning": "bức tường",
+          "example": "Paint the wall.\nA white wall.\nClock on the wall."
+        },
+        {
+          "word": "floor",
+          "phonetic": "/flɔː(r)/",
+          "meaning": "sàn nhà",
+          "example": "Sit on the floor.\nA clean floor.\nWooden floor."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "Where is/are...?",
+          "description": "Hỏi vị trí.",
+          "example": "Where is the cat? In the kitchen."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-8-furniture",
+      "sectionName": "Unit 8: Furniture",
+      "vocabularies": [
+        {
+          "word": "table",
+          "phonetic": "/ˈteɪbl/",
+          "meaning": "cái bàn",
+          "example": "Sit at the table.\nA big table.\nPut it on the table."
+        },
+        {
+          "word": "chair",
+          "phonetic": "/tʃeə(r)/",
+          "meaning": "cái ghế",
+          "example": "Sit on the chair.\nA red chair.\nA small chair."
+        },
+        {
+          "word": "desk",
+          "phonetic": "/desk/",
+          "meaning": "bàn làm việc/học",
+          "example": "I study at my desk.\nA clean desk.\nMy desk is in my room."
+        },
+        {
+          "word": "bed",
+          "phonetic": "/bed/",
+          "meaning": "cái giường",
+          "example": "Go to bed.\nA soft bed.\nI have a big bed."
+        },
+        {
+          "word": "bookcase",
+          "phonetic": "/ˈbʊkkeɪs/",
+          "meaning": "kệ sách",
+          "example": "Books in the bookcase.\nA wooden bookcase.\nMy bookcase is full."
+        },
+        {
+          "word": "wardrobe",
+          "phonetic": "/ˈwɔːdrəʊb/",
+          "meaning": "tủ quần áo",
+          "example": "Clothes in the wardrobe.\nA big wardrobe.\nClose the wardrobe."
+        },
+        {
+          "word": "sofa",
+          "phonetic": "/ˈsəʊfə/",
+          "meaning": "ghế sô pha",
+          "example": "Sit on the sofa.\nA comfortable sofa.\nA green sofa."
+        },
+        {
+          "word": "armchair",
+          "phonetic": "/ˈɑːmtʃeə(r)/",
+          "meaning": "ghế bành",
+          "example": "Sit in the armchair.\nA big armchair.\nA soft armchair."
+        },
+        {
+          "word": "mirror",
+          "phonetic": "/ˈmɪrə(r)/",
+          "meaning": "cái gương",
+          "example": "Look in the mirror.\nA clean mirror.\nA large mirror."
+        },
+        {
+          "word": "clock",
+          "phonetic": "/klɒk/",
+          "meaning": "đồng hồ",
+          "example": "Look at the clock.\nA round clock.\nWhat time is it on the clock?"
+        },
+        {
+          "word": "lamp",
+          "phonetic": "/læmp/",
+          "meaning": "đèn",
+          "example": "Turn on the lamp.\nA bright lamp.\nA desk lamp."
+        },
+        {
+          "word": "computer",
+          "phonetic": "/kəmˈpjuːtə(r)/",
+          "meaning": "máy tính",
+          "example": "I use a computer.\nA fast computer.\nPlay games on the computer."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "Next to / On / In / Under",
+          "description": "Giới từ chỉ vị trí.",
+          "example": "The lamp is on the table.\nThe rug is under the chair."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-9-school",
+      "sectionName": "Unit 9: School",
+      "vocabularies": [
+        {
+          "word": "school",
+          "phonetic": "/skuːl/",
+          "meaning": "trường học",
+          "example": "I go to school.\nMy school is big.\nI like my school."
+        },
+        {
+          "word": "classroom",
+          "phonetic": "/ˈklɑːsruːm/",
+          "meaning": "lớp học",
+          "example": "A bright classroom.\nSit in the classroom.\nOur classroom is on the second floor."
+        },
+        {
+          "word": "teacher",
+          "phonetic": "/ˈtiːtʃə(r)/",
+          "meaning": "giáo viên",
+          "example": "My teacher is kind.\nListen to the teacher.\nA great teacher."
+        },
+        {
+          "word": "student",
+          "phonetic": "/ˈstjuːdnt/",
+          "meaning": "học sinh",
+          "example": "I am a student.\nMany students in the school.\nA good student."
+        },
+        {
+          "word": "book",
+          "phonetic": "/bʊk/",
+          "meaning": "quyển sách",
+          "example": "Read a book.\nA fun book.\nI have many books."
+        },
+        {
+          "word": "notebook",
+          "phonetic": "/ˈnəʊtbʊk/",
+          "meaning": "vở",
+          "example": "Write in the notebook.\nA clean notebook.\nMy notebook is full."
+        },
+        {
+          "word": "pen",
+          "phonetic": "/pen/",
+          "meaning": "bút mực",
+          "example": "A blue pen.\nWrite with a pen.\nI have a pen."
+        },
+        {
+          "word": "pencil",
+          "phonetic": "/ˈpensl/",
+          "meaning": "bút chì",
+          "example": "A long pencil.\nDraw with a pencil.\nA sharp pencil."
+        },
+        {
+          "word": "eraser",
+          "phonetic": "/ɪˈreɪzə(r)/",
+          "meaning": "cục tẩy",
+          "example": "Use an eraser.\nA small eraser.\nA white eraser."
+        },
+        {
+          "word": "ruler",
+          "phonetic": "/ˈruːlə(r)/",
+          "meaning": "thước kẻ",
+          "example": "A long ruler.\nMeasure with a ruler.\nA plastic ruler."
+        },
+        {
+          "word": "bag",
+          "phonetic": "/bæɡ/",
+          "meaning": "cái cặp/túi",
+          "example": "A school bag.\nPut it in your bag.\nMy bag is heavy."
+        },
+        {
+          "word": "board",
+          "phonetic": "/bɔːd/",
+          "meaning": "cái bảng",
+          "example": "Write on the board.\nA white board.\nLook at the board."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "What's in your bag?",
+          "description": "Hỏi về đồ vật trong cặp.",
+          "example": "What's in your bag? \nA book and a pen."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-10-food",
+      "sectionName": "Unit 10: Food",
+      "vocabularies": [
+        {
+          "word": "food",
+          "phonetic": "/fuːd/",
+          "meaning": "đồ ăn",
+          "example": "I like food.\nYummy food.\nHealthy food."
+        },
+        {
+          "word": "bread",
+          "phonetic": "/bred/",
+          "meaning": "bánh mì",
+          "example": "Eat some bread.\nA loaf of bread.\nWhite bread."
+        },
+        {
+          "word": "cake",
+          "phonetic": "/keɪk/",
+          "meaning": "bánh ngọt",
+          "example": "A birthday cake.\nA chocolate cake.\nI like cake."
+        },
+        {
+          "word": "chocolate",
+          "phonetic": "/ˈtʃɒklət/",
+          "meaning": "Sô-cô-la",
+          "example": "I love chocolate.\nA bar of chocolate.\nDark chocolate."
+        },
+        {
+          "word": "egg",
+          "phonetic": "/eɡ/",
+          "meaning": "quả trứng",
+          "example": "A fried egg.\nA chicken egg.\nI have an egg for breakfast."
+        },
+        {
+          "word": "meat",
+          "phonetic": "/miːt/",
+          "meaning": "thịt",
+          "example": "Eat some meat.\nA piece of meat.\nRed meat."
+        },
+        {
+          "word": "rice",
+          "phonetic": "/raɪs/",
+          "meaning": "cơm/gạo",
+          "example": "Eat rice.\nA bowl of rice.\nWhite rice."
+        },
+        {
+          "word": "noodle",
+          "phonetic": "/ˈnuːdl/",
+          "meaning": "mì",
+          "example": "Eat noodles.\nI like noodles.\nHot noodles."
+        },
+        {
+          "word": "pizza",
+          "phonetic": "/ˈpiːtsə/",
+          "meaning": "bánh pizza",
+          "example": "Eat pizza.\nA big pizza.\nI love pizza."
+        },
+        {
+          "word": "burger",
+          "phonetic": "/ˈbɜːɡə(r)/",
+          "meaning": "bánh mì kẹp",
+          "example": "A chicken burger.\nEat a burger.\nA tasty burger."
+        },
+        {
+          "word": "fries",
+          "phonetic": "/fraɪz/",
+          "meaning": "khoai tây chiên",
+          "example": "I like fries.\nFrench fries.\nSalty fries."
+        },
+        {
+          "word": "ice cream",
+          "phonetic": "/ˌaɪs ˈkriːm/",
+          "meaning": "kem",
+          "example": "Eat ice cream.\nA cold ice cream.\nVanilla ice cream."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "I like / I don't like",
+          "description": "Nói về sở thích ăn uống.",
+          "example": "I like cake.\nI don't like meat."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-11-fruit-veg",
+      "sectionName": "Unit 11: Fruit & Vegetables",
+      "vocabularies": [
+        {
+          "word": "fruit",
+          "phonetic": "/fruːt/",
+          "meaning": "trái cây",
+          "example": "I like fruit.\nEat fresh fruit.\nWhat is your favorite fruit?"
+        },
+        {
+          "word": "apple",
+          "phonetic": "/ˈæpl/",
+          "meaning": "quả táo",
+          "example": "A red apple.\nEat an apple.\nI have an apple in my bag."
+        },
+        {
+          "word": "banana",
+          "phonetic": "/bəˈnɑːnə/",
+          "meaning": "quả chuối",
+          "example": "A yellow banana.\nMonkey likes bananas.\nEat a banana."
+        },
+        {
+          "word": "orange",
+          "phonetic": "/ˈɒrɪndʒ/",
+          "meaning": "quả cam",
+          "example": "An orange is orange.\nI like orange juice.\nA sweet orange."
+        },
+        {
+          "word": "grape",
+          "phonetic": "/ɡreɪp/",
+          "meaning": "quả nho",
+          "example": "Green grapes.\nI eat grapes.\nA bunch of grapes."
+        },
+        {
+          "word": "pear",
+          "phonetic": "/peə(r)/",
+          "meaning": "quả lê",
+          "example": "A green pear.\nEat a pear.\nA sweet pear."
+        },
+        {
+          "word": "pineapple",
+          "phonetic": "/ˈpaɪnæpl/",
+          "meaning": "quả dứa",
+          "example": "A big pineapple.\nI like pineapple.\nA yellow pineapple."
+        },
+        {
+          "word": "watermelon",
+          "phonetic": "/ˈwɔːtəmelən/",
+          "meaning": "quả dưa hấu",
+          "example": "A big watermelon.\nWatermelon is sweet.\nRed watermelon."
+        },
+        {
+          "word": "mango",
+          "phonetic": "/ˈmæŋɡəʊ/",
+          "meaning": "quả xoài",
+          "example": "A yellow mango.\nI like mango.\nA sweet mango."
+        },
+        {
+          "word": "strawberry",
+          "phonetic": "/ˈstrɔːbəri/",
+          "meaning": "quả dâu tây",
+          "example": "A red strawberry.\nI like strawberries.\nA small strawberry."
+        },
+        {
+          "word": "lemon",
+          "phonetic": "/ˈlemən/",
+          "meaning": "quả chanh vàng",
+          "example": "A yellow lemon.\nLemonade is made from lemons.\nA sour lemon."
+        },
+        {
+          "word": "lime",
+          "phonetic": "/laɪm/",
+          "meaning": "quả chanh xanh",
+          "example": "A green lime.\nAdd some lime juice.\nA sour line."
+        },
+        {
+          "word": "coconut",
+          "phonetic": "/ˈkəʊkənʌt/",
+          "meaning": "quả dừa",
+          "example": "A big coconut.\nCoconut water.\nA brown coconut."
+        },
+        {
+          "word": "vegetable",
+          "phonetic": "/ˈvedʒtəbl/",
+          "meaning": "rau củ",
+          "example": "Eat your vegetables.\nGreen vegetables.\nVegetables are healthy."
+        },
+        {
+          "word": "potato",
+          "phonetic": "/pəˈteɪtəʊ/",
+          "meaning": "khoai tây",
+          "example": "I like potatoes.\nBaked potato.\nA big potato."
+        },
+        {
+          "word": "tomato",
+          "phonetic": "/təˈmɑːtəʊ/",
+          "meaning": "quả cà chua",
+          "example": "A red tomato.\nTomato soup.\nI like tomatoes."
+        },
+        {
+          "word": "carrot",
+          "phonetic": "/ˈkærət/",
+          "meaning": "củ cà rốt",
+          "example": "An orange carrot.\nRabbit likes carrots.\nEat a carrot."
+        },
+        {
+          "word": "onion",
+          "phonetic": "/ˈʌnjən/",
+          "meaning": "củ hành tây",
+          "example": "A white onion.\nChop the onion.\nAn onion is round."
+        },
+        {
+          "word": "pea",
+          "phonetic": "/piː/",
+          "meaning": "đậu hà lan",
+          "example": "Green peas.\nI eat peas.\nA small pea."
+        },
+        {
+          "word": "bean",
+          "phonetic": "/biːn/",
+          "meaning": "đậu/đỗ",
+          "example": "Green beans.\nI like beans.\nA long bean."
+        },
+        {
+          "word": "corn",
+          "phonetic": "/kɔːn/",
+          "meaning": "ngô/bắp",
+          "example": "Yellow corn.\nSweet corn.\nI eat corn."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "Some / Any",
+          "description": "Dùng some/any với danh từ không đếm được và số nhiều.",
+          "example": "I have some apples.\nDo you have any grapes?"
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-12-drinks",
+      "sectionName": "Unit 12: Drinks",
+      "vocabularies": [
+        {
+          "word": "drink",
+          "phonetic": "/drɪŋk/",
+          "meaning": "đồ uống",
+          "example": "I want a drink.\nCold drink.\nWhat is your favorite drink?"
+        },
+        {
+          "word": "water",
+          "phonetic": "/ˈwɔːtə(r)/",
+          "meaning": "nước",
+          "example": "Drink some water.\nCold water.\nA glass of water."
+        },
+        {
+          "word": "milk",
+          "phonetic": "/mɪlk/",
+          "meaning": "sữa",
+          "example": "Drink milk.\nWhite milk.\nA glass of milk."
+        },
+        {
+          "word": "juice",
+          "phonetic": "/dʒuːs/",
+          "meaning": "nước ép",
+          "example": "Fruit juice.\nI like juice.\nOrange juice."
+        },
+        {
+          "word": "lemonade",
+          "phonetic": "/ˌleməˈneɪd/",
+          "meaning": "nước chanh",
+          "example": "I like lemonade.\nSweet lemonade.\nA glass of lemonade."
+        },
+        {
+          "word": "tea",
+          "phonetic": "/tiː/",
+          "meaning": "trà",
+          "example": "Drink some tea.\nHot tea.\nI like tea."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "Would you like...?",
+          "description": "Mời ai đó dùng đồ uống/đồ ăn.",
+          "example": "Would you like some water?\nYes, please."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-13-clothes",
+      "sectionName": "Unit 13: Clothes",
+      "vocabularies": [
+        {
+          "word": "clothes",
+          "phonetic": "/kləʊðz/",
+          "meaning": "quần áo",
+          "example": "I have many clothes.\nClean clothes.\nPut on your clothes."
+        },
+        {
+          "word": "hat",
+          "phonetic": "/hæt/",
+          "meaning": "mũ (có vành)",
+          "example": "A sun hat.\nPut on your hat.\nI have a red hat."
+        },
+        {
+          "word": "cap",
+          "phonetic": "/kæp/",
+          "meaning": "mũ lưỡi trai",
+          "example": "A baseball cap.\nI wear a cap.\nA blue cap."
+        },
+        {
+          "word": "t-shirt",
+          "phonetic": "/ˈtiː ʃɜːt/",
+          "meaning": "áo thun",
+          "example": "A white t-shirt.\nI wear a t-shirt.\nMy favorite t-shirt."
+        },
+        {
+          "word": "shirt",
+          "phonetic": "/ʃɜːt/",
+          "meaning": "áo sơ mi",
+          "example": "A blue shirt.\nClean shirt.\nPut on your shirt."
+        },
+        {
+          "word": "sweater",
+          "phonetic": "/ˈswetə(r)/",
+          "meaning": "áo len",
+          "example": "A warm sweater.\nI wear a sweater.\nA green sweater."
+        },
+        {
+          "word": "jacket",
+          "phonetic": "/ˈdʒækɪt/",
+          "meaning": "áo khoác ngắn",
+          "example": "A red jacket.\nPut on your jacket.\nA new jacket."
+        },
+        {
+          "word": "coat",
+          "phonetic": "/kəʊt/",
+          "meaning": "áo khoác dài",
+          "example": "A warm coat.\nI wear a coat in winter.\nA long coat."
+        },
+        {
+          "word": "dress",
+          "phonetic": "/dres/",
+          "meaning": "váy liền",
+          "example": "A pink dress.\nShe wears a dress.\nA beautiful dress."
+        },
+        {
+          "word": "skirt",
+          "phonetic": "/skɜːt/",
+          "meaning": "chân váy",
+          "example": "A short skirt.\nShe wears a skirt.\nA blue skirt."
+        },
+        {
+          "word": "trousers",
+          "phonetic": "/ˈtraʊzəz/",
+          "meaning": "quần dài",
+          "example": "Blue trousers.\nI wear trousers.\nA pair of trousers."
+        },
+        {
+          "word": "shorts",
+          "phonetic": "/ʃɔːts/",
+          "meaning": "quần đùi",
+          "example": "I wear shorts in summer.\nRed shorts.\nA pair of shorts."
+        },
+        {
+          "word": "jeans",
+          "phonetic": "/dʒiːnz/",
+          "meaning": "quần bò",
+          "example": "I like jeans.\nBlue jeans.\nA pair of jeans."
+        },
+        {
+          "word": "socks",
+          "phonetic": "/sɒks/",
+          "meaning": "tất",
+          "example": "White socks.\nI wear socks.\nA pair of socks."
+        },
+        {
+          "word": "shoes",
+          "phonetic": "/ʃuːz/",
+          "meaning": "giày",
+          "example": "Black shoes.\nPut on your shoes.\nA pair of shoes."
+        },
+        {
+          "word": "boots",
+          "phonetic": "/buːts/",
+          "meaning": "ủng/bốt",
+          "example": "Rain boots.\nI wear boots.\nA pair of boots."
+        },
+        {
+          "word": "handbag",
+          "phonetic": "/ˈhændbæɡ/",
+          "meaning": "túi xách",
+          "example": "A small handbag.\nMy mother has a handbag.\nA brown handbag."
+        },
+        {
+          "word": "watch",
+          "phonetic": "/wɒtʃ/",
+          "meaning": "đồng hồ đeo tay",
+          "example": "A new watch.\nLook at my watch.\nWhat time is it on your watch?"
+        },
+        {
+          "word": "glasses",
+          "phonetic": "/ˈɡlɑːsɪz/",
+          "meaning": "kính mắt",
+          "example": "I wear glasses.\nA pair of glasses.\nWhere are my glasses?"
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "What are you wearing?",
+          "description": "Hỏi ai đó đang mặc gì.",
+          "example": "What are you wearing? \nI am wearing a t-shirt and shorts."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-14-sports-hobbies",
+      "sectionName": "Unit 14: Sports & Hobbies",
+      "vocabularies": [
+        {
+          "word": "sport",
+          "phonetic": "/spɔːt/",
+          "meaning": "thể thao",
+          "example": "I like sports.\nMy favorite sport is football.\nDo you play sports?"
+        },
+        {
+          "word": "play",
+          "phonetic": "/pleɪ/",
+          "meaning": "chơi",
+          "example": "Play football.\nI play with my friends.\nLet's play!"
+        },
+        {
+          "word": "run",
+          "phonetic": "/rʌn/",
+          "meaning": "chạy",
+          "example": "Run fast.\nI can run.\nLet's run to the park."
+        },
+        {
+          "word": "swim",
+          "phonetic": "/swɪm/",
+          "meaning": "bơi",
+          "example": "I can swim.\nSwim in the sea.\nLet's go swimming."
+        },
+        {
+          "word": "jump",
+          "phonetic": "/dʒʌmp/",
+          "meaning": "nhảy",
+          "example": "Jump high.\nA kangaroo can jump.\nLet's jump!"
+        },
+        {
+          "word": "kick",
+          "phonetic": "/kɪk/",
+          "meaning": "đá",
+          "example": "Kick the ball.\nI can kick.\nKick it hard."
+        },
+        {
+          "word": "hit",
+          "phonetic": "/hɪt/",
+          "meaning": "đánh/đập",
+          "example": "Hit the ball.\nDon't hit your friend.\nHit the drum."
+        },
+        {
+          "word": "catch",
+          "phonetic": "/kætʃ/",
+          "meaning": "bắt lấy",
+          "example": "Catch the ball.\nI can catch.\nCatch the bus."
+        },
+        {
+          "word": "throw",
+          "phonetic": "/θrəʊ/",
+          "meaning": "ném",
+          "example": "Throw the ball.\nI can throw.\nDon't throw stones."
+        },
+        {
+          "word": "ride a bike",
+          "phonetic": "/raɪd ə baɪk/",
+          "meaning": "đi xe đạp",
+          "example": "I can ride a bike.\nA new bike.\nLet's ride our bikes."
+        },
+        {
+          "word": "football",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "meaning": "bóng đá",
+          "example": "Play football.\nI like football.\nA football match."
+        },
+        {
+          "word": "basketball",
+          "phonetic": "/ˈbɑːskɪtbɔːl/",
+          "meaning": "bóng rổ",
+          "example": "Play basketball.\nA big basketball.\nI am good at basketball."
+        },
+        {
+          "word": "tennis",
+          "phonetic": "/ˈtenɪs/",
+          "meaning": "quần vợt",
+          "example": "Play tennis.\nA tennis ball.\nI like tennis."
+        },
+        {
+          "word": "badminton",
+          "phonetic": "/ˈbædmɪntən/",
+          "meaning": "cầu lông",
+          "example": "Play badminton.\nA badminton racket.\nI like badminton."
+        },
+        {
+          "word": "dance",
+          "phonetic": "/dɑːns/",
+          "meaning": "nhảy múa",
+          "example": "I can dance.\nDance to the music.\nLet's dance!"
+        },
+        {
+          "word": "sing",
+          "phonetic": "/sɪŋ/",
+          "meaning": "hát",
+          "example": "I can sing.\nSing a song.\nShe sings beautifully."
+        },
+        {
+          "word": "draw",
+          "phonetic": "/drɔː/",
+          "meaning": "vẽ",
+          "example": "Draw a picture.\nI can draw a cat.\nUse a pencil to draw."
+        },
+        {
+          "word": "paint",
+          "phonetic": "/peɪnt/",
+          "meaning": "tô màu/vẽ (bằng cọ)",
+          "example": "Paint a house.\nI like painting.\nUse blue paint."
+        },
+        {
+          "word": "music",
+          "phonetic": "/ˈmjuːzɪk/",
+          "meaning": "âm nhạc",
+          "example": "Listen to music.\nI like music.\nPlay some music."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "I can / I can't",
+          "description": "Nói về khả năng làm gì đó.",
+          "example": "I can swim.\nI can't fly."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-15-toys",
+      "sectionName": "Unit 15: Toys",
+      "vocabularies": [
+        {
+          "word": "toy",
+          "phonetic": "/tɔɪ/",
+          "meaning": "đồ chơi",
+          "example": "I have many toys.\nA toy box.\nMy favorite toy."
+        },
+        {
+          "word": "doll",
+          "phonetic": "/dɒl/",
+          "meaning": "búp bê",
+          "example": "A beautiful doll.\nPlay with a doll.\nShe has a doll."
+        },
+        {
+          "word": "ball",
+          "phonetic": "/bɔːl/",
+          "meaning": "quả bóng",
+          "example": "A red ball.\nKick the ball.\nThrow the ball."
+        },
+        {
+          "word": "robot",
+          "phonetic": "/ˈrəʊbɒt/",
+          "meaning": "rô bốt",
+          "example": "A cool robot.\nI have a robot.\nMy robot can walk."
+        },
+        {
+          "word": "teddy bear",
+          "phonetic": "/ˈtedi beə(r)/",
+          "meaning": "gấu bông",
+          "example": "A soft teddy bear.\nI sleep with my teddy bear.\nA cute teddy bear."
+        },
+        {
+          "word": "balloon",
+          "phonetic": "/bəˈluːn/",
+          "meaning": "quả bóng bay",
+          "example": "A red balloon.\nA big balloon.\nThe balloon is flying."
+        },
+        {
+          "word": "kite",
+          "phonetic": "/kaɪt/",
+          "meaning": "con diều",
+          "example": "Fly a kite.\nA colorful kite.\nMy kite is high in the sky."
+        },
+        {
+          "word": "game",
+          "phonetic": "/ɡeɪm/",
+          "meaning": "trò chơi",
+          "example": "Play a game.\nA fun game.\nComputer game."
+        },
+        {
+          "word": "train",
+          "phonetic": "/treɪn/",
+          "meaning": "tàu hỏa (đồ chơi)",
+          "example": "A toy train.\nThe train goes choo-choo.\nI have a train set."
+        },
+        {
+          "word": "plane",
+          "phonetic": "/pleɪn/",
+          "meaning": "máy bay (đồ chơi)",
+          "example": "A toy plane.\nThe plane can fly.\nA white plane."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "I like playing with...",
+          "description": "Nói về trò chơi yêu thích.",
+          "example": "I like playing with my robot.\nShe likes playing with her doll."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-16-transport",
+      "sectionName": "Unit 16: Transport",
+      "vocabularies": [
+        {
+          "word": "car",
+          "phonetic": "/kɑː(r)/",
+          "meaning": "xe hơi",
+          "example": "A red car.\nMy father has a car.\nDrive a car."
+        },
+        {
+          "word": "bus",
+          "phonetic": "/bʌs/",
+          "meaning": "xe buýt",
+          "example": "Go to school by bus.\nA yellow bus.\nWait for the bus."
+        },
+        {
+          "word": "bike",
+          "phonetic": "/baɪk/",
+          "meaning": "xe đạp",
+          "example": "I have a bike.\nRide a bike.\nA new bike."
+        },
+        {
+          "word": "motorbike",
+          "phonetic": "/ˈməʊtəbaɪk/",
+          "meaning": "xe máy",
+          "example": "A fast motorbike.\nRide a motorbike.\nA blue motorbike."
+        },
+        {
+          "word": "boat",
+          "phonetic": "/bəʊt/",
+          "meaning": "con thuyền",
+          "example": "A boat on the sea.\nRow a boat.\nA small boat."
+        },
+        {
+          "word": "ship",
+          "phonetic": "/ʃɪp/",
+          "meaning": "tàu thủy",
+          "example": "A big ship.\nA ship on the ocean.\nWatch the ship."
+        },
+        {
+          "word": "truck",
+          "phonetic": "/trʌk/",
+          "meaning": "xe tải",
+          "example": "A big truck.\nA red truck.\nA truck carries things."
+        },
+        {
+          "word": "helicopter",
+          "phonetic": "/ˈhelɪkɒptə(r)/",
+          "meaning": "trực thăng",
+          "example": "A helicopter in the sky.\nA noisy helicopter.\nWatch the helicopter."
+        },
+        {
+          "word": "van",
+          "phonetic": "/væn/",
+          "meaning": "xe tải nhỏ/xe bán tải",
+          "example": "A white van.\nA delivery van.\nA big van."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "How do you go to...?",
+          "description": "Hỏi về phương tiện di chuyển.",
+          "example": "How do you go to school? By bus.\nHow do you go to the park? By bike."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-17-places",
+      "sectionName": "Unit 17: Places",
+      "vocabularies": [
+        {
+          "word": "park",
+          "phonetic": "/pɑːk/",
+          "meaning": "công viên",
+          "example": "Play in the park.\nA big park.\nGo to the park."
+        },
+        {
+          "word": "street",
+          "phonetic": "/striːt/",
+          "meaning": "con đường/phố",
+          "example": "Walk on the street.\nA busy street.\nCross the street."
+        },
+        {
+          "word": "beach",
+          "phonetic": "/biːtʃ/",
+          "meaning": "bãi biển",
+          "example": "Go to the beach.\nSwim at the beach.\nA beautiful beach."
+        },
+        {
+          "word": "zoo",
+          "phonetic": "/zuː/",
+          "meaning": "vườn thú",
+          "example": "Visit the zoo.\nWatch animals at the zoo.\nA big zoo."
+        },
+        {
+          "word": "shop",
+          "phonetic": "/ʃɒp/",
+          "meaning": "cửa hàng",
+          "example": "Go to the shop.\nA toy shop.\nBuy things at the shop."
+        },
+        {
+          "word": "market",
+          "phonetic": "/ˈmɑːkɪt/",
+          "meaning": "chợ",
+          "example": "Go to the market.\nBuy fruit at the market.\nA busy market."
+        },
+        {
+          "word": "hospital",
+          "phonetic": "/ˈhɒspɪtl/",
+          "meaning": "bệnh viện",
+          "example": "Doctors work in the hospital.\nA big hospital.\nGo to the hospital."
+        },
+        {
+          "word": "city",
+          "phonetic": "/ˈsɪti/",
+          "meaning": "trong thành phố",
+          "example": "Live in the city.\nA big city.\nMany cars in the city."
+        },
+        {
+          "word": "countryside",
+          "phonetic": "/ˈkʌntrisaɪd/",
+          "meaning": "nông thôn",
+          "example": "Live in the countryside.\nA quiet countryside.\nGreen fields in the countryside."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "Where are you going?",
+          "description": "Hỏi ai đó đang đi đâu.",
+          "example": "Where are you going? \nI am going to the park."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-18-adjectives",
+      "sectionName": "Unit 18: Adjectives",
+      "vocabularies": [
+        {
+          "word": "big",
+          "phonetic": "/bɪɡ/",
+          "meaning": "to/lớn",
+          "example": "A big elephant.\nA big house.\nMy dog is big."
+        },
+        {
+          "word": "small",
+          "phonetic": "/smɔːl/",
+          "meaning": "nhỏ",
+          "example": "A small mouse.\nA small cat.\nMy toy is small."
+        },
+        {
+          "word": "happy",
+          "phonetic": "/ˈhæpi/",
+          "meaning": "hạnh phúc",
+          "example": "A happy face.\nI am happy.\nA happy boy."
+        },
+        {
+          "word": "sad",
+          "phonetic": "/sæd/",
+          "meaning": "buồn",
+          "example": "A sad face.\nI am sad.\nDon't be sad."
+        },
+        {
+          "word": "hot",
+          "phonetic": "/hɒt/",
+          "meaning": "nóng",
+          "example": "Hot weather.\nHot tea.\nI am hot."
+        },
+        {
+          "word": "cold",
+          "phonetic": "/kəʊld/",
+          "meaning": "lạnh",
+          "example": "Cold water.\nCold weather.\nI am cold."
+        },
+        {
+          "word": "long",
+          "phonetic": "/lɒŋ/",
+          "meaning": "dài",
+          "example": "A long snake.\nLong hair.\nA long pencil."
+        },
+        {
+          "word": "short",
+          "phonetic": "/ʃɔːt/",
+          "meaning": "ngắn/thấp",
+          "example": "A short pencil.\nA short boy.\nShort hair."
+        },
+        {
+          "word": "new",
+          "phonetic": "/njuː/",
+          "meaning": "mới",
+          "example": "A new toy.\nA new car.\nI have new shoes."
+        },
+        {
+          "word": "old",
+          "phonetic": "/əʊld/",
+          "meaning": "cũ/già",
+          "example": "An old book.\nAn old man.\nMy shoes are old."
+        },
+        {
+          "word": "good",
+          "phonetic": "/ɡʊd/",
+          "meaning": "tốt",
+          "example": "A good boy.\nA good book.\nYou are good."
+        },
+        {
+          "word": "bad",
+          "phonetic": "/bæd/",
+          "meaning": "xấu/tệ",
+          "example": "A bad dream.\nA bad boy.\nThat is bad."
+        },
+        {
+          "word": "clean",
+          "phonetic": "/kliːn/",
+          "meaning": "sạch sẽ",
+          "example": "Clean hands.\nA clean room.\nI am clean."
+        },
+        {
+          "word": "dirty",
+          "phonetic": "/ˈdɜːti/",
+          "meaning": "bẩn",
+          "example": "Dirty hands.\nA dirty face.\nMy shoes are dirty."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "Description",
+          "description": "Dùng tính từ để miêu tả.",
+          "example": "The elephant is big.\nThe mouse is small."
+        }
+      ]
+    },
+    {
+      "sectionId": "unit-19-verbs",
+      "sectionName": "Unit 19: Action Verbs",
+      "vocabularies": [
+        {
+          "word": "walk",
+          "phonetic": "/wɔːk/",
+          "meaning": "đi bộ",
+          "example": "Walk to school.\nI can walk.\nLet's walk."
+        },
+        {
+          "word": "sit",
+          "phonetic": "/sɪt/",
+          "meaning": "ngồi",
+          "example": "Sit down.\nSit on the chair.\nI am sitting."
+        },
+        {
+          "word": "stand",
+          "phonetic": "/stænd/",
+          "meaning": "đứng",
+          "example": "Stand up.\nStand on the floor.\nI am standing."
+        },
+        {
+          "word": "look",
+          "phonetic": "/lʊk/",
+          "meaning": "nhìn",
+          "example": "Look at the bird.\nLook at me.\nLook out the window."
+        },
+        {
+          "word": "listen",
+          "phonetic": "/ˈlɪsn/",
+          "meaning": "nghe",
+          "example": "Listen to the music.\nListen to the teacher.\nI am listening."
+        },
+        {
+          "word": "speak",
+          "phonetic": "/spiːk/",
+          "meaning": "nói",
+          "example": "Speak English.\nSpeak slowly.\nI can speak."
+        },
+        {
+          "word": "read",
+          "phonetic": "/riːd/",
+          "meaning": "đọc",
+          "example": "Read a book.\nI can read.\nI am reading."
+        },
+        {
+          "word": "write",
+          "phonetic": "/raɪt/",
+          "meaning": "viết",
+          "example": "Write your name.\nWrite in the notebook.\nI am writing."
+        },
+        {
+          "word": "color",
+          "phonetic": "/ˈkʌlə(r)/",
+          "meaning": "tô màu",
+          "example": "Color the picture.\nI like coloring.\nUse red to color."
+        },
+        {
+          "word": "draw",
+          "phonetic": "/drɔː/",
+          "meaning": "vẽ",
+          "example": "Draw a dog.\nI can draw.\nI am drawing."
+        },
+        {
+          "word": "point",
+          "phonetic": "/pɔɪnt/",
+          "meaning": "chỉ",
+          "example": "Point to the board.\nPoint to your nose.\nDon't point."
+        },
+        {
+          "word": "wave",
+          "phonetic": "/weɪv/",
+          "meaning": "vẫy tay",
+          "example": "Wave goodbye.\nWave your hand.\nI am waving."
+        },
+        {
+          "word": "put",
+          "phonetic": "/pʊt/",
+          "meaning": "đặt/để",
+          "example": "Put it on the table.\nPut your bag down.\nPut on your shoes."
+        },
+        {
+          "word": "give",
+          "phonetic": "/ɡɪv/",
+          "meaning": "đưa/cho",
+          "example": "Give me the book.\nGive it to me.\nI give you an apple."
+        },
+        {
+          "word": "take",
+          "phonetic": "/teɪk/",
+          "meaning": "lấy",
+          "example": "Take a pencil.\nTake it.\nDon't take my toy."
+        }
+      ],
+      "grammars": [
+        {
+          "structure": "Imperatives",
+          "description": "Câu mệnh lệnh.",
+          "example": "Sit down!\nStand up!\nOpen your book!"
+        }
+      ]
+    }
+  ]
+}

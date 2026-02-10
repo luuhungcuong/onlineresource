@@ -1,0 +1,24 @@
+{
+  "programId": "basic-english",
+  "programName": "Basic English",
+  "sections": [
+    {
+      "sectionId": "greetings",
+      "sectionName": "Greetings",
+      "imageUrl": "",
+      "vocabularies": [
+        { "word": "hello", "phonetic": "/həˈləʊ/", "meaning": "xin chào" },
+        { "word": "goodbye", "phonetic": "/ˌɡʊdˈbaɪ/", "meaning": "tạm biệt" }
+      ]
+    },
+    {
+      "sectionId": "numbers",
+      "sectionName": "Numbers",
+      "imageUrl": "",
+      "vocabularies": [
+        { "word": "one", "phonetic": "/wʌn/", "meaning": "một" },
+        { "word": "two", "phonetic": "/tuː/", "meaning": "hai" }
+      ]
+    }
+  ]
+}

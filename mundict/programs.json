@@ -18,13 +18,6 @@
           "description": "Power Up Level 4 Activity Book With Online Resources And Home Booklet",
           "imageUrl": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_209594.jpg",
           "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/power-up-4.json"
-        },
-        {
-          "id": "power-up-5",
-          "name": "Power Up 5",
-          "description": "Power Up Level 5 Activity Book With Online Resources And Home Booklet",
-          "imageUrl": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_209595.jpg",
-          "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/power-up-5.json"
         }
       ]
     }

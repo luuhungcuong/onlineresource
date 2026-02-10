@@ -7,19 +7,84 @@
       "sectionName": "Unit 1: Practice time",
       "imageUrl": "",
       "vocabularies": [
-        { "word": "seven o’clock", "phonetic": "/ˌsevn əˈklɒk/", "meaning": "7 giờ đúng", "example": "School starts at seven o’clock.\nI wake up at seven o’clock.\nDinner is at seven o’clock." },
-        { "word": "half past twelve", "phonetic": "/hɑːf pɑːst twelv/", "meaning": "12 giờ rưỡi", "example": "We have lunch at half past twelve.\nIt is now half past twelve.\nThe bus leaves at half past twelve." },
-        { "word": "midnight", "phonetic": "/ˈmɪd.naɪt/", "meaning": "nửa đêm", "example": "The party ended at midnight.\nCinderella left at midnight.\nIt is dark at midnight." },
-        { "word": "midday", "phonetic": "/ˌmɪdˈdeɪ/", "meaning": "giữa trưa", "example": "The sun is high at midday.\nWe eat lunch at midday.\nIt is hot at midday." },
-        { "word": "dance", "phonetic": "/dɑːns/", "meaning": "nhảy múa", "example": "They dance to the music.\nCan you dance?\nWe like to dance at parties." },
-        { "word": "shout", "phonetic": "/ʃaʊt/", "meaning": "hét lên", "example": "Don't shout in the library.\nHe shouted my name.\nPlease do not shout." },
-        { "word": "laugh", "phonetic": "/lɑːf/", "meaning": "cười lớn", "example": "The clowns make us laugh.\nShe laughed at the joke.\nIt is good to laugh." },
-        { "word": "jump", "phonetic": "/dʒʌmp/", "meaning": "nhảy", "example": "Can you jump high?\nThe cat jumped onto the wall.\nI jump over the puddle." },
-        { "word": "hop", "phonetic": "/hɒp/", "meaning": "nhảy lò cò", "example": "I could hop on one leg when I was four.\nRabbits hop in the field.\nCan you hop on your left foot?" },
-        { "word": "skip", "phonetic": "/skɪp/", "meaning": "nhảy dây/nhảy chân sáo", "example": "She likes to skip in the playground.\nI can skip with a rope.\nWe skip to school." },
-        { "word": "dress up", "phonetic": "/dres ʌp/", "meaning": "hóa trang", "example": "We dress up for the party.\nI like to dress up as a pirate.\nThey dress up in funny clothes." },
-        { "word": "climb", "phonetic": "/klaɪm/", "meaning": "leo trèo", "example": "Monkeys climb trees very well.\nDon't climb that wall.\nHe climbed the ladder." },
-        { "word": "catch", "phonetic": "/kætʃ/", "meaning": "bắt lấy", "example": "Try to catch the ball.\nHe caught the train.\nCan you catch me?" }
+        {
+          "word": "seven o’clock",
+          "phonetic": "/ˌsevn əˈklɒk/",
+          "meaning": "7 giờ đúng",
+          "example": "School starts at seven o’clock.\nI wake up at seven o’clock.\nDinner is at seven o’clock."
+        },
+        {
+          "word": "half past twelve",
+          "phonetic": "/hɑːf pɑːst twelv/",
+          "meaning": "12 giờ rưỡi",
+          "example": "We have lunch at half past twelve.\nIt is now half past twelve.\nThe bus leaves at half past twelve."
+        },
+        {
+          "word": "midnight",
+          "phonetic": "/ˈmɪd.naɪt/",
+          "meaning": "nửa đêm",
+          "example": "The party ended at midnight.\nCinderella left at midnight.\nIt is dark at midnight."
+        },
+        {
+          "word": "midday",
+          "phonetic": "/ˌmɪdˈdeɪ/",
+          "meaning": "giữa trưa",
+          "example": "The sun is high at midday.\nWe eat lunch at midday.\nIt is hot at midday."
+        },
+        {
+          "word": "dance",
+          "phonetic": "/dɑːns/",
+          "meaning": "nhảy múa",
+          "example": "They dance to the music.\nCan you dance?\nWe like to dance at parties."
+        },
+        {
+          "word": "shout",
+          "phonetic": "/ʃaʊt/",
+          "meaning": "hét lên",
+          "example": "Don't shout in the library.\nHe shouted my name.\nPlease do not shout."
+        },
+        {
+          "word": "laugh",
+          "phonetic": "/lɑːf/",
+          "meaning": "cười lớn",
+          "example": "The clowns make us laugh.\nShe laughed at the joke.\nIt is good to laugh."
+        },
+        {
+          "word": "jump",
+          "phonetic": "/dʒʌmp/",
+          "meaning": "nhảy",
+          "example": "Can you jump high?\nThe cat jumped onto the wall.\nI jump over the puddle."
+        },
+        {
+          "word": "hop",
+          "phonetic": "/hɒp/",
+          "meaning": "nhảy lò cò",
+          "example": "I could hop on one leg when I was four.\nRabbits hop in the field.\nCan you hop on your left foot?"
+        },
+        {
+          "word": "skip",
+          "phonetic": "/skɪp/",
+          "meaning": "nhảy dây/nhảy chân sáo",
+          "example": "She likes to skip in the playground.\nI can skip with a rope.\nWe skip to school."
+        },
+        {
+          "word": "dress up",
+          "phonetic": "/dres ʌp/",
+          "meaning": "hóa trang",
+          "example": "We dress up for the party.\nI like to dress up as a pirate.\nThey dress up in funny clothes."
+        },
+        {
+          "word": "climb",
+          "phonetic": "/klaɪm/",
+          "meaning": "leo trèo",
+          "example": "Monkeys climb trees very well.\nDon't climb that wall.\nHe climbed the ladder."
+        },
+        {
+          "word": "catch",
+          "phonetic": "/kætʃ/",
+          "meaning": "bắt lấy",
+          "example": "Try to catch the ball.\nHe caught the train.\nCan you catch me?"
+        }
       ],
       "grammars": [
         {
@@ -39,22 +104,102 @@
       "sectionName": "Unit 2: What’s for breakfast?",
       "imageUrl": "",
       "vocabularies": [
-        { "word": "tea", "phonetic": "/tiː/", "meaning": "trà", "example": "Grandma drinks a cup of tea.\nDo you like tea?\nI want some tea." },
-        { "word": "coffee", "phonetic": "/ˈkɒf.i/", "meaning": "cà phê", "example": "Dad likes hot coffee.\nThis coffee is strong.\nShe drinks coffee with milk." },
-        { "word": "milkshake", "phonetic": "/ˈmɪlk.ʃeɪk/", "meaning": "sữa lắc", "example": "I want a strawberry milkshake.\nThis chocolate milkshake is good.\nCan I have a banana milkshake?" },
-        { "word": "sauce", "phonetic": "/sɔːs/", "meaning": "nước sốt", "example": "Pass me the tomato sauce.\nI like chocolate sauce on ice cream.\nThe sauce is spicy." },
-        { "word": "cereal", "phonetic": "/ˈsɪə.ri.əl/", "meaning": "ngũ cốc", "example": "I have cereal for breakfast.\nDo you put milk in your cereal?\nThis box of cereal is new." },
-        { "word": "noodles", "phonetic": "/ˈnuː.dəl/", "meaning": "mì/phở", "example": "We ate a bowl of noodles.\nChicken noodles are yummy.\nShe cooks noodles for lunch." },
-        { "word": "pancake", "phonetic": "/ˈpæn.keɪk/", "meaning": "bánh kếp", "example": "She made a delicious pancake.\nI like lemon on my pancake.\nWe had pancakes for breakfast." },
-        { "word": "strawberries", "phonetic": "/ˈstrɔː.bər.iz/", "meaning": "dâu tây", "example": "These strawberries are sweet.\nI like strawberries and cream.\nRed strawberries are in the garden." },
-        { "word": "yoghurt", "phonetic": "/ˈjɒɡ.ət/", "meaning": "sữa chua", "example": "Yoghurt is good for you.\nI eat strawberry yoghurt.\nDo you want some yoghurt?" },
-        { "word": "glass", "phonetic": "/ɡlɑːs/", "meaning": "cái ly", "example": "A glass of milk.\nPlease give me a glass of water.\nThe glass is full." },
-        { "word": "cup", "phonetic": "/kʌp/", "meaning": "cái tách", "example": "A cup of tea.\nI broke the cup.\nWould you like a cup of coffee?" },
-        { "word": "bottle", "phonetic": "/ˈbɒt.əl/", "meaning": "cái chai", "example": "A bottle of water.\nThe baby has a bottle.\nOpen the bottle please." },
-        { "word": "bowl", "phonetic": "/bəʊl/", "meaning": "cái bát", "example": "A bowl of soup.\nPut the fruit in the bowl.\nI ate a bowl of rice." },
-        { "word": "drove", "phonetic": "/drəʊv/", "meaning": "đã lái xe (quá khứ của drive)", "example": "Yesterday we drove to town.\nMy dad drove the car.\nShe drove to the beach." },
-        { "word": "saw", "phonetic": "/sɔː/", "meaning": "đã nhìn thấy (quá khứ của see)", "example": "We saw the place where May grew up.\nI saw a bird in the tree.\nHe saw his friend yesterday." },
-        { "word": "taught", "phonetic": "/tɔːt/", "meaning": "đã dạy (quá khứ của teach)", "example": "The teacher taught us a song.\nMy dad taught me to swim.\nShe taught English last year." }
+        {
+          "word": "tea",
+          "phonetic": "/tiː/",
+          "meaning": "trà",
+          "example": "Grandma drinks a cup of tea.\nDo you like tea?\nI want some tea."
+        },
+        {
+          "word": "coffee",
+          "phonetic": "/ˈkɒf.i/",
+          "meaning": "cà phê",
+          "example": "Dad likes hot coffee.\nThis coffee is strong.\nShe drinks coffee with milk."
+        },
+        {
+          "word": "milkshake",
+          "phonetic": "/ˈmɪlk.ʃeɪk/",
+          "meaning": "sữa lắc",
+          "example": "I want a strawberry milkshake.\nThis chocolate milkshake is good.\nCan I have a banana milkshake?"
+        },
+        {
+          "word": "sauce",
+          "phonetic": "/sɔːs/",
+          "meaning": "nước sốt",
+          "example": "Pass me the tomato sauce.\nI like chocolate sauce on ice cream.\nThe sauce is spicy."
+        },
+        {
+          "word": "cereal",
+          "phonetic": "/ˈsɪə.ri.əl/",
+          "meaning": "ngũ cốc",
+          "example": "I have cereal for breakfast.\nDo you put milk in your cereal?\nThis box of cereal is new."
+        },
+        {
+          "word": "noodles",
+          "phonetic": "/ˈnuː.dəl/",
+          "meaning": "mì/phở",
+          "example": "We ate a bowl of noodles.\nChicken noodles are yummy.\nShe cooks noodles for lunch."
+        },
+        {
+          "word": "pancake",
+          "phonetic": "/ˈpæn.keɪk/",
+          "meaning": "bánh kếp",
+          "example": "She made a delicious pancake.\nI like lemon on my pancake.\nWe had pancakes for breakfast."
+        },
+        {
+          "word": "strawberries",
+          "phonetic": "/ˈstrɔː.bər.iz/",
+          "meaning": "dâu tây",
+          "example": "These strawberries are sweet.\nI like strawberries and cream.\nRed strawberries are in the garden."
+        },
+        {
+          "word": "yoghurt",
+          "phonetic": "/ˈjɒɡ.ət/",
+          "meaning": "sữa chua",
+          "example": "Yoghurt is good for you.\nI eat strawberry yoghurt.\nDo you want some yoghurt?"
+        },
+        {
+          "word": "glass",
+          "phonetic": "/ɡlɑːs/",
+          "meaning": "cái ly",
+          "example": "A glass of milk.\nPlease give me a glass of water.\nThe glass is full."
+        },
+        {
+          "word": "cup",
+          "phonetic": "/kʌp/",
+          "meaning": "cái tách",
+          "example": "A cup of tea.\nI broke the cup.\nWould you like a cup of coffee?"
+        },
+        {
+          "word": "bottle",
+          "phonetic": "/ˈbɒt.əl/",
+          "meaning": "cái chai",
+          "example": "A bottle of water.\nThe baby has a bottle.\nOpen the bottle please."
+        },
+        {
+          "word": "bowl",
+          "phonetic": "/bəʊl/",
+          "meaning": "cái bát",
+          "example": "A bowl of soup.\nPut the fruit in the bowl.\nI ate a bowl of rice."
+        },
+        {
+          "word": "drove",
+          "phonetic": "/drəʊv/",
+          "meaning": "đã lái xe (quá khứ của drive)",
+          "example": "Yesterday we drove to town.\nMy dad drove the car.\nShe drove to the beach."
+        },
+        {
+          "word": "saw",
+          "phonetic": "/sɔː/",
+          "meaning": "đã nhìn thấy (quá khứ của see)",
+          "example": "We saw the place where May grew up.\nI saw a bird in the tree.\nHe saw his friend yesterday."
+        },
+        {
+          "word": "taught",
+          "phonetic": "/tɔːt/",
+          "meaning": "đã dạy (quá khứ của teach)",
+          "example": "The teacher taught us a song.\nMy dad taught me to swim.\nShe taught English last year."
+        }
       ],
       "grammars": [
         {
@@ -74,20 +219,90 @@
       "sectionName": "Unit 3: A healthy body",
       "imageUrl": "",
       "vocabularies": [
-        { "word": "shoulder", "phonetic": "/ˈʃəʊl.dər/", "meaning": "vai", "example": "Put your hand on your shoulder.\nMy shoulder hurts.\nShe carried the bag on her shoulder." },
-        { "word": "neck", "phonetic": "/nek/", "meaning": "cổ", "example": "Giraffes have long necks.\nMy neck is cold.\nShe wears a scarf around her neck." },
-        { "word": "stomach", "phonetic": "/ˈstʌm.ək/", "meaning": "bụng/dạ dày", "example": "My stomach is full.\nHe has a big stomach.\nThe food goes into your stomach." },
-        { "word": "finger", "phonetic": "/ˈfɪŋ.ɡər/", "meaning": "ngón tay", "example": "He pointed his finger at the map.\nI have ten fingers.\nShe cut her finger." },
-        { "word": "knee", "phonetic": "/niː/", "meaning": "đầu gối", "example": "I hurt my knee when I fell.\nBend your knees.\nThe baby is on my knee." },
-        { "word": "toe", "phonetic": "/təʊ/", "meaning": "ngón chân", "example": "Wiggle your toes.\nI stubbed my toe.\nHe has big toes." },
-        { "word": "elbow", "phonetic": "/ˈel.bəʊ/", "meaning": "khuỷu tay", "example": "Don't put your elbows on the table.\nMy elbow is itchy.\nHe hurt his elbow playing tennis." },
-        { "word": "back", "phonetic": "/bæk/", "meaning": "lưng", "example": "He carried the bag on his back.\nMy back hurts.\nLie on your back." },
-        { "word": "bandage", "phonetic": "/ˈbæn.dɪdʒ/", "meaning": "băng gạc", "example": "The nurse put a bandage on his arm.\nI need a bandage for my cut.\nHe has a white bandage." },
-        { "word": "cough", "phonetic": "/kɒf/", "meaning": "ho", "example": "He has a loud cough.\nShe has a bad cough.\nCover your mouth when you cough." },
-        { "word": "temperature", "phonetic": "/ˈtem.prə.tʃər/", "meaning": "sốt/nhiệt độ", "example": "She has a high temperature.\nThe doctor checked my temperature.\nI have a temperature today." },
-        { "word": "sore throat", "phonetic": "/ˌsɔː ˈθrəʊt/", "meaning": "đau họng", "example": "Ice cream is good for a sore throat.\nMy sore throat hurts when I talk.\nHe has a cold and a sore throat." },
-        { "word": "backache", "phonetic": "/ˈbæk.eɪk/", "meaning": "đau lưng", "example": "Grandpa has backache.\nMy dad got backache yesterday.\nYoga is good for backache." },
-        { "word": "stomach-ache", "phonetic": "/ˈstʌm.ək.eɪk/", "meaning": "đau bụng", "example": "Don't eat too much or you'll get a stomach-ache.\nI have a stomach-ache.\nShe stayed home because of a stomach-ache." }
+        {
+          "word": "shoulder",
+          "phonetic": "/ˈʃəʊl.dər/",
+          "meaning": "vai",
+          "example": "Put your hand on your shoulder.\nMy shoulder hurts.\nShe carried the bag on her shoulder."
+        },
+        {
+          "word": "neck",
+          "phonetic": "/nek/",
+          "meaning": "cổ",
+          "example": "Giraffes have long necks.\nMy neck is cold.\nShe wears a scarf around her neck."
+        },
+        {
+          "word": "stomach",
+          "phonetic": "/ˈstʌm.ək/",
+          "meaning": "bụng/dạ dày",
+          "example": "My stomach is full.\nHe has a big stomach.\nThe food goes into your stomach."
+        },
+        {
+          "word": "finger",
+          "phonetic": "/ˈfɪŋ.ɡər/",
+          "meaning": "ngón tay",
+          "example": "He pointed his finger at the map.\nI have ten fingers.\nShe cut her finger."
+        },
+        {
+          "word": "knee",
+          "phonetic": "/niː/",
+          "meaning": "đầu gối",
+          "example": "I hurt my knee when I fell.\nBend your knees.\nThe baby is on my knee."
+        },
+        {
+          "word": "toe",
+          "phonetic": "/təʊ/",
+          "meaning": "ngón chân",
+          "example": "Wiggle your toes.\nI stubbed my toe.\nHe has big toes."
+        },
+        {
+          "word": "elbow",
+          "phonetic": "/ˈel.bəʊ/",
+          "meaning": "khuỷu tay",
+          "example": "Don't put your elbows on the table.\nMy elbow is itchy.\nHe hurt his elbow playing tennis."
+        },
+        {
+          "word": "back",
+          "phonetic": "/bæk/",
+          "meaning": "lưng",
+          "example": "He carried the bag on his back.\nMy back hurts.\nLie on your back."
+        },
+        {
+          "word": "bandage",
+          "phonetic": "/ˈbæn.dɪdʒ/",
+          "meaning": "băng gạc",
+          "example": "The nurse put a bandage on his arm.\nI need a bandage for my cut.\nHe has a white bandage."
+        },
+        {
+          "word": "cough",
+          "phonetic": "/kɒf/",
+          "meaning": "ho",
+          "example": "He has a loud cough.\nShe has a bad cough.\nCover your mouth when you cough."
+        },
+        {
+          "word": "temperature",
+          "phonetic": "/ˈtem.prə.tʃər/",
+          "meaning": "sốt/nhiệt độ",
+          "example": "She has a high temperature.\nThe doctor checked my temperature.\nI have a temperature today."
+        },
+        {
+          "word": "sore throat",
+          "phonetic": "/ˌsɔː ˈθrəʊt/",
+          "meaning": "đau họng",
+          "example": "Ice cream is good for a sore throat.\nMy sore throat hurts when I talk.\nHe has a cold and a sore throat."
+        },
+        {
+          "word": "backache",
+          "phonetic": "/ˈbæk.eɪk/",
+          "meaning": "đau lưng",
+          "example": "Grandpa has backache.\nMy dad got backache yesterday.\nYoga is good for backache."
+        },
+        {
+          "word": "stomach-ache",
+          "phonetic": "/ˈstʌm.ək.eɪk/",
+          "meaning": "đau bụng",
+          "example": "Don't eat too much or you'll get a stomach-ache.\nI have a stomach-ache.\nShe stayed home because of a stomach-ache."
+        }
       ],
       "grammars": [
         {
@@ -112,15 +327,60 @@
       "sectionName": "Unit 4: Fun in the jungle",
       "imageUrl": "",
       "vocabularies": [
-        { "word": "moon", "phonetic": "/muːn/", "meaning": "mặt trăng", "example": "The moon is bright tonight.\nThere is a full moon.\nThe moon goes round the earth." },
-        { "word": "sky", "phonetic": "/skaɪ/", "meaning": "bầu trời", "example": "There are no clouds in the sky.\nThe sky is blue.\nBirds fly in the sky." },
-        { "word": "star", "phonetic": "/stɑːr/", "meaning": "ngôi sao", "example": "Look at that shining star.\nThere are millions of stars.\nThe star is very far away." },
-        { "word": "waterfall", "phonetic": "/ˈwɔː.tə.fɔːl/", "meaning": "thác nước", "example": "We swam near the waterfall.\nThe waterfall is loud.\nWater falls down the waterfall." },
-        { "word": "jungle", "phonetic": "/ˈdʒʌŋ.ɡəl/", "meaning": "rừng nhiệt đới", "example": "Many animals live in the jungle.\nThe jungle is green.\nWe walked in the jungle." },
-        { "word": "plant", "phonetic": "/plɑːnt/", "meaning": "cây cối/thực vật", "example": "Water the plant every day.\nThis plant has red flowers.\nDon't step on the plant." },
-        { "word": "wave", "phonetic": "/weɪv/", "meaning": "con sóng", "example": "The surfer rode the big wave.\nThe waves are high today.\nWe jumped over the waves." },
-        { "word": "world", "phonetic": "/wɜːld/", "meaning": "thế giới", "example": "It's the highest mountain in the world.\nWe live in a big world.\nShe wants to travel the world." },
-        { "word": "island", "phonetic": "/ˈaɪ.lənd/", "meaning": "hòn đảo", "example": "They sailed to a desert island.\nWe live on an island.\nThe island has nice beaches." }
+        {
+          "word": "moon",
+          "phonetic": "/muːn/",
+          "meaning": "mặt trăng",
+          "example": "The moon is bright tonight.\nThere is a full moon.\nThe moon goes round the earth."
+        },
+        {
+          "word": "sky",
+          "phonetic": "/skaɪ/",
+          "meaning": "bầu trời",
+          "example": "There are no clouds in the sky.\nThe sky is blue.\nBirds fly in the sky."
+        },
+        {
+          "word": "star",
+          "phonetic": "/stɑːr/",
+          "meaning": "ngôi sao",
+          "example": "Look at that shining star.\nThere are millions of stars.\nThe star is very far away."
+        },
+        {
+          "word": "waterfall",
+          "phonetic": "/ˈwɔː.tə.fɔːl/",
+          "meaning": "thác nước",
+          "example": "We swam near the waterfall.\nThe waterfall is loud.\nWater falls down the waterfall."
+        },
+        {
+          "word": "jungle",
+          "phonetic": "/ˈdʒʌŋ.ɡəl/",
+          "meaning": "rừng nhiệt đới",
+          "example": "Many animals live in the jungle.\nThe jungle is green.\nWe walked in the jungle."
+        },
+        {
+          "word": "plant",
+          "phonetic": "/plɑːnt/",
+          "meaning": "cây cối/thực vật",
+          "example": "Water the plant every day.\nThis plant has red flowers.\nDon't step on the plant."
+        },
+        {
+          "word": "wave",
+          "phonetic": "/weɪv/",
+          "meaning": "con sóng",
+          "example": "The surfer rode the big wave.\nThe waves are high today.\nWe jumped over the waves."
+        },
+        {
+          "word": "world",
+          "phonetic": "/wɜːld/",
+          "meaning": "thế giới",
+          "example": "It's the highest mountain in the world.\nWe live in a big world.\nShe wants to travel the world."
+        },
+        {
+          "word": "island",
+          "phonetic": "/ˈaɪ.lənd/",
+          "meaning": "hòn đảo",
+          "example": "They sailed to a desert island.\nWe live on an island.\nThe island has nice beaches."
+        }
       ],
       "grammars": [
         {
@@ -140,20 +400,90 @@
       "sectionName": "Unit 5: Behind the scenes",
       "imageUrl": "",
       "vocabularies": [
-        { "word": "gold", "phonetic": "/ɡəʊld/", "meaning": "màu vàng kim/vàng", "example": "The king wears a gold crown.\nShe has a gold ring.\nThe medal is gold." },
-        { "word": "silver", "phonetic": "/ˈsɪl.vər/", "meaning": "màu bạc/bạc", "example": "She has silver wings.\nThe car is silver.\nI have a silver coin." },
-        { "word": "bright", "phonetic": "/braɪt/", "meaning": "sáng màu/tươi sáng", "example": "He wears a bright orange shirt.\nThe light is very bright.\nShe likes bright colours." },
-        { "word": "light", "phonetic": "/laɪt/", "meaning": "nhạt màu/nhẹ", "example": "Light blue is my favorite color.\nThis bag is very light.\nI need a light jacket." },
-        { "word": "dark", "phonetic": "/dɑːk/", "meaning": "sẫm màu/tối", "example": "It's getting dark outside.\nHe has dark hair.\nThe room is dark." },
-        { "word": "striped", "phonetic": "/straɪpt/", "meaning": "kẻ sọc", "example": "Zebras are striped animals.\nHe wore a striped tie.\nThe flag is striped." },
-        { "word": "spotted", "phonetic": "/ˈspɒt.ɪd/", "meaning": "có chấm bi/đốm", "example": "The clown has spotted trousers.\nI saw a spotted dog.\nHer dress is spotted." },
-        { "word": "wing", "phonetic": "/wɪŋ/", "meaning": "cánh", "example": "Birds have wings to fly.\nThe fairy has wings.\nThe plane has big wings." },
-        { "word": "card", "phonetic": "/kɑːd/", "meaning": "bìa cứng", "example": "This box is made of card.\nWe use card to make masks.\nDraw on the card." },
-        { "word": "metal", "phonetic": "/ˈmet.əl/", "meaning": "kim loại", "example": "The scissors are made of metal.\nGold is a metal.\nThe gate is metal." },
-        { "word": "glass", "phonetic": "/ɡlɑːs/", "meaning": "thủy tinh", "example": "Be careful, it's made of glass.\nThe window is glass.\nDrink from a glass." },
-        { "word": "plastic", "phonetic": "/ˈplæs.tɪk/", "meaning": "nhựa", "example": "This bottle is made of plastic.\nToys are often plastic.\nDon't burn plastic." },
-        { "word": "wool", "phonetic": "/wʊl/", "meaning": "len", "example": "My scarf is made of wool.\nSheep give us wool.\nThis jumper is wool." },
-        { "word": "wood", "phonetic": "/wʊd/", "meaning": "gỗ", "example": "The table is made of wood.\nWe burn wood for fire.\nThe door is wood." }
+        {
+          "word": "gold",
+          "phonetic": "/ɡəʊld/",
+          "meaning": "màu vàng kim/vàng",
+          "example": "The king wears a gold crown.\nShe has a gold ring.\nThe medal is gold."
+        },
+        {
+          "word": "silver",
+          "phonetic": "/ˈsɪl.vər/",
+          "meaning": "màu bạc/bạc",
+          "example": "She has silver wings.\nThe car is silver.\nI have a silver coin."
+        },
+        {
+          "word": "bright",
+          "phonetic": "/braɪt/",
+          "meaning": "sáng màu/tươi sáng",
+          "example": "He wears a bright orange shirt.\nThe light is very bright.\nShe likes bright colours."
+        },
+        {
+          "word": "light",
+          "phonetic": "/laɪt/",
+          "meaning": "nhạt màu/nhẹ",
+          "example": "Light blue is my favorite color.\nThis bag is very light.\nI need a light jacket."
+        },
+        {
+          "word": "dark",
+          "phonetic": "/dɑːk/",
+          "meaning": "sẫm màu/tối",
+          "example": "It's getting dark outside.\nHe has dark hair.\nThe room is dark."
+        },
+        {
+          "word": "striped",
+          "phonetic": "/straɪpt/",
+          "meaning": "kẻ sọc",
+          "example": "Zebras are striped animals.\nHe wore a striped tie.\nThe flag is striped."
+        },
+        {
+          "word": "spotted",
+          "phonetic": "/ˈspɒt.ɪd/",
+          "meaning": "có chấm bi/đốm",
+          "example": "The clown has spotted trousers.\nI saw a spotted dog.\nHer dress is spotted."
+        },
+        {
+          "word": "wing",
+          "phonetic": "/wɪŋ/",
+          "meaning": "cánh",
+          "example": "Birds have wings to fly.\nThe fairy has wings.\nThe plane has big wings."
+        },
+        {
+          "word": "card",
+          "phonetic": "/kɑːd/",
+          "meaning": "bìa cứng",
+          "example": "This box is made of card.\nWe use card to make masks.\nDraw on the card."
+        },
+        {
+          "word": "metal",
+          "phonetic": "/ˈmet.əl/",
+          "meaning": "kim loại",
+          "example": "The scissors are made of metal.\nGold is a metal.\nThe gate is metal."
+        },
+        {
+          "word": "glass",
+          "phonetic": "/ɡlɑːs/",
+          "meaning": "thủy tinh",
+          "example": "Be careful, it's made of glass.\nThe window is glass.\nDrink from a glass."
+        },
+        {
+          "word": "plastic",
+          "phonetic": "/ˈplæs.tɪk/",
+          "meaning": "nhựa",
+          "example": "This bottle is made of plastic.\nToys are often plastic.\nDon't burn plastic."
+        },
+        {
+          "word": "wool",
+          "phonetic": "/wʊl/",
+          "meaning": "len",
+          "example": "My scarf is made of wool.\nSheep give us wool.\nThis jumper is wool."
+        },
+        {
+          "word": "wood",
+          "phonetic": "/wʊd/",
+          "meaning": "gỗ",
+          "example": "The table is made of wood.\nWe burn wood for fire.\nThe door is wood."
+        }
       ],
       "grammars": [
         {
@@ -173,22 +503,102 @@
       "sectionName": "Unit 6: Classroom stars",
       "imageUrl": "",
       "vocabularies": [
-        { "word": "geography", "phonetic": "/dʒiˈɒɡ.rə.fi/", "meaning": "địa lý", "example": "We learn about maps in geography.\nI like geography class.\nGeography is interesting." },
-        { "word": "history", "phonetic": "/ˈhɪs.tər.i/", "meaning": "lịch sử", "example": "History tells us about the past.\nWe study Romans in history.\nDo you like history?" },
-        { "word": "sports", "phonetic": "/spɔːts/", "meaning": "thể thao", "example": "I play sports on Tuesdays.\nFootball is a sport.\nWe do sports outside." },
-        { "word": "maths", "phonetic": "/mæθs/", "meaning": "toán học", "example": "Maths is about numbers.\nI am good at maths.\nWe have a maths test." },
-        { "word": "science", "phonetic": "/ˈsaɪ.əns/", "meaning": "khoa học", "example": "We do experiments in science.\nScience explains the world.\nI love science class." },
-        { "word": "IT", "phonetic": "/ˌaɪˈtiː/", "meaning": "tin học", "example": "We use computers in IT.\nIT stands for Information Technology.\nWe learn coding in IT." },
-        { "word": "art", "phonetic": "/ɑːt/", "meaning": "mỹ thuật", "example": "I love painting in art class.\nShe is good at art.\nWe draw in art." },
-        { "word": "laptop", "phonetic": "/ˈlæp.tɒp/", "meaning": "máy tính xách tay", "example": "I've got a new laptop.\nOpen your laptop.\nMy laptop is slow." },
-        { "word": "apps", "phonetic": "/æps/", "meaning": "ứng dụng", "example": "My phone has many apps.\nDownload this app.\nGames are apps too." },
-        { "word": "e-book", "phonetic": "/ˈiː.bʊk/", "meaning": "sách điện tử", "example": "I read an e-book on my tablet.\nDo you like e-books?\nThis e-book is free." },
-        { "word": "wifi", "phonetic": "/ˈwaɪ.faɪ/", "meaning": "mạng wifi", "example": "Is there wifi in the cafe?\nThe wifi is fast.\nConnect to the wifi." },
-        { "word": "rucksack", "phonetic": "/ˈrʌk.sæk/", "meaning": "ba lô", "example": "Put your books in your rucksack.\nMy rucksack is heavy.\nI lost my rucksack." },
-        { "word": "dictionary", "phonetic": "/ˈdɪk.ʃən.ər.i/", "meaning": "từ điển", "example": "Look up the word in the dictionary.\nUse a dictionary to check spelling.\nThis is a big dictionary." },
-        { "word": "bin", "phonetic": "/bɪn/", "meaning": "thùng rác", "example": "Throw the paper in the bin.\nThe bin is full.\nWhere is the bin?" },
-        { "word": "scissors", "phonetic": "/ˈsɪz.əz/", "meaning": "cái kéo", "example": "Use scissors to cut the paper.\nThe scissors are sharp.\nPass me the scissors." },
-        { "word": "glue", "phonetic": "/ɡluː/", "meaning": "hồ dán", "example": "Stick it with glue.\nI need some glue.\nThe glue is sticky." }
+        {
+          "word": "geography",
+          "phonetic": "/dʒiˈɒɡ.rə.fi/",
+          "meaning": "địa lý",
+          "example": "We learn about maps in geography.\nI like geography class.\nGeography is interesting."
+        },
+        {
+          "word": "history",
+          "phonetic": "/ˈhɪs.tər.i/",
+          "meaning": "lịch sử",
+          "example": "History tells us about the past.\nWe study Romans in history.\nDo you like history?"
+        },
+        {
+          "word": "sports",
+          "phonetic": "/spɔːts/",
+          "meaning": "thể thao",
+          "example": "I play sports on Tuesdays.\nFootball is a sport.\nWe do sports outside."
+        },
+        {
+          "word": "maths",
+          "phonetic": "/mæθs/",
+          "meaning": "toán học",
+          "example": "Maths is about numbers.\nI am good at maths.\nWe have a maths test."
+        },
+        {
+          "word": "science",
+          "phonetic": "/ˈsaɪ.əns/",
+          "meaning": "khoa học",
+          "example": "We do experiments in science.\nScience explains the world.\nI love science class."
+        },
+        {
+          "word": "IT",
+          "phonetic": "/ˌaɪˈtiː/",
+          "meaning": "tin học",
+          "example": "We use computers in IT.\nIT stands for Information Technology.\nWe learn coding in IT."
+        },
+        {
+          "word": "art",
+          "phonetic": "/ɑːt/",
+          "meaning": "mỹ thuật",
+          "example": "I love painting in art class.\nShe is good at art.\nWe draw in art."
+        },
+        {
+          "word": "laptop",
+          "phonetic": "/ˈlæp.tɒp/",
+          "meaning": "máy tính xách tay",
+          "example": "I've got a new laptop.\nOpen your laptop.\nMy laptop is slow."
+        },
+        {
+          "word": "apps",
+          "phonetic": "/æps/",
+          "meaning": "ứng dụng",
+          "example": "My phone has many apps.\nDownload this app.\nGames are apps too."
+        },
+        {
+          "word": "e-book",
+          "phonetic": "/ˈiː.bʊk/",
+          "meaning": "sách điện tử",
+          "example": "I read an e-book on my tablet.\nDo you like e-books?\nThis e-book is free."
+        },
+        {
+          "word": "wifi",
+          "phonetic": "/ˈwaɪ.faɪ/",
+          "meaning": "mạng wifi",
+          "example": "Is there wifi in the cafe?\nThe wifi is fast.\nConnect to the wifi."
+        },
+        {
+          "word": "rucksack",
+          "phonetic": "/ˈrʌk.sæk/",
+          "meaning": "ba lô",
+          "example": "Put your books in your rucksack.\nMy rucksack is heavy.\nI lost my rucksack."
+        },
+        {
+          "word": "dictionary",
+          "phonetic": "/ˈdɪk.ʃən.ər.i/",
+          "meaning": "từ điển",
+          "example": "Look up the word in the dictionary.\nUse a dictionary to check spelling.\nThis is a big dictionary."
+        },
+        {
+          "word": "bin",
+          "phonetic": "/bɪn/",
+          "meaning": "thùng rác",
+          "example": "Throw the paper in the bin.\nThe bin is full.\nWhere is the bin?"
+        },
+        {
+          "word": "scissors",
+          "phonetic": "/ˈsɪz.əz/",
+          "meaning": "cái kéo",
+          "example": "Use scissors to cut the paper.\nThe scissors are sharp.\nPass me the scissors."
+        },
+        {
+          "word": "glue",
+          "phonetic": "/ɡluː/",
+          "meaning": "hồ dán",
+          "example": "Stick it with glue.\nI need some glue.\nThe glue is sticky."
+        }
       ],
       "grammars": [
         {
@@ -208,21 +618,96 @@
       "sectionName": "Unit 7: When I grow up ...",
       "imageUrl": "",
       "vocabularies": [
-        { "word": "waiter", "phonetic": "/ˈweɪ.tər/", "meaning": "bồi bàn nam", "example": "The waiter brought our food.\nHe works as a waiter.\nThe waiter was polite." },
-        { "word": "actor", "phonetic": "/ˈæk.tər/", "meaning": "diễn viên", "example": "He wants to be a famous actor.\nThe actor is in a movie.\nShe is a good actor." },
-        { "word": "cook", "phonetic": "/kʊk/", "meaning": "đầu bếp", "example": "The cook makes delicious meals.\nMy dad is a cook.\nThe cook is in the kitchen." },
-        { "word": "driver", "phonetic": "/ˈdraɪ.vər/", "meaning": "tài xế", "example": "The bus driver drives carefully.\nMy uncle is a driver.\nBe a safe driver." },
-        { "word": "journalist", "phonetic": "/ˈdʒɜː.nə.lɪst/", "meaning": "nhà báo", "example": "A journalist writes news stories.\nThe journalist interviewed him.\nShe wants to be a journalist." },
-        { "word": "photographer", "phonetic": "/fəˈtɒɡ.rə.fər/", "meaning": "nhiếp ảnh gia", "example": "The photographer took a photo.\nHe is a wildlife photographer.\nThe photographer has a camera." },
-        { "word": "artist", "phonetic": "/ˈɑː.tɪst/", "meaning": "họa sĩ", "example": "The artist painted a picture.\nShe is a talented artist.\nPicasso was an artist." },
-        { "word": "designer", "phonetic": "/dɪˈzaɪ.nər/", "meaning": "nhà thiết kế", "example": "She is a fashion designer.\nThe designer made this dress.\nHe wants to be a game designer." },
-        { "word": "singer", "phonetic": "/ˈsɪŋ.ər/", "meaning": "ca sĩ", "example": "The singer has a beautiful voice.\nShe is a pop singer.\nThe singer is on stage." },
-        { "word": "interesting", "phonetic": "/ˈɪn.trəs.tɪŋ/", "meaning": "thú vị", "example": "This book is very interesting.\nThe story is interesting.\nHe is an interesting person." },
-        { "word": "kind", "phonetic": "/kaɪnd/", "meaning": "tốt bụng", "example": "She is kind to animals.\nBe kind to your friends.\nThank you, you are very kind." },
-        { "word": "friendly", "phonetic": "/ˈfrend.li/", "meaning": "thân thiện", "example": "Our new neighbours are friendly.\nThe dog is friendly.\nShe gave a friendly smile." },
-        { "word": "clever", "phonetic": "/ˈklev.ər/", "meaning": "thông minh/khéo léo", "example": "He is a clever boy.\nThat is a clever idea.\nShe is clever at maths." },
-        { "word": "lazy", "phonetic": "/ˈleɪ.zi/", "meaning": "lười biếng", "example": "Don't be lazy.\nHe is too lazy to walk.\nThe cat is lazy." },
-        { "word": "brave", "phonetic": "/breɪv/", "meaning": "dũng cảm", "example": "Firefighters are very brave.\nShe was brave at the dentist.\nBe brave and try it." }
+        {
+          "word": "waiter",
+          "phonetic": "/ˈweɪ.tər/",
+          "meaning": "bồi bàn nam",
+          "example": "The waiter brought our food.\nHe works as a waiter.\nThe waiter was polite."
+        },
+        {
+          "word": "actor",
+          "phonetic": "/ˈæk.tər/",
+          "meaning": "diễn viên",
+          "example": "He wants to be a famous actor.\nThe actor is in a movie.\nShe is a good actor."
+        },
+        {
+          "word": "cook",
+          "phonetic": "/kʊk/",
+          "meaning": "đầu bếp",
+          "example": "The cook makes delicious meals.\nMy dad is a cook.\nThe cook is in the kitchen."
+        },
+        {
+          "word": "driver",
+          "phonetic": "/ˈdraɪ.vər/",
+          "meaning": "tài xế",
+          "example": "The bus driver drives carefully.\nMy uncle is a driver.\nBe a safe driver."
+        },
+        {
+          "word": "journalist",
+          "phonetic": "/ˈdʒɜː.nə.lɪst/",
+          "meaning": "nhà báo",
+          "example": "A journalist writes news stories.\nThe journalist interviewed him.\nShe wants to be a journalist."
+        },
+        {
+          "word": "photographer",
+          "phonetic": "/fəˈtɒɡ.rə.fər/",
+          "meaning": "nhiếp ảnh gia",
+          "example": "The photographer took a photo.\nHe is a wildlife photographer.\nThe photographer has a camera."
+        },
+        {
+          "word": "artist",
+          "phonetic": "/ˈɑː.tɪst/",
+          "meaning": "họa sĩ",
+          "example": "The artist painted a picture.\nShe is a talented artist.\nPicasso was an artist."
+        },
+        {
+          "word": "designer",
+          "phonetic": "/dɪˈzaɪ.nər/",
+          "meaning": "nhà thiết kế",
+          "example": "She is a fashion designer.\nThe designer made this dress.\nHe wants to be a game designer."
+        },
+        {
+          "word": "singer",
+          "phonetic": "/ˈsɪŋ.ər/",
+          "meaning": "ca sĩ",
+          "example": "The singer has a beautiful voice.\nShe is a pop singer.\nThe singer is on stage."
+        },
+        {
+          "word": "interesting",
+          "phonetic": "/ˈɪn.trəs.tɪŋ/",
+          "meaning": "thú vị",
+          "example": "This book is very interesting.\nThe story is interesting.\nHe is an interesting person."
+        },
+        {
+          "word": "kind",
+          "phonetic": "/kaɪnd/",
+          "meaning": "tốt bụng",
+          "example": "She is kind to animals.\nBe kind to your friends.\nThank you, you are very kind."
+        },
+        {
+          "word": "friendly",
+          "phonetic": "/ˈfrend.li/",
+          "meaning": "thân thiện",
+          "example": "Our new neighbours are friendly.\nThe dog is friendly.\nShe gave a friendly smile."
+        },
+        {
+          "word": "clever",
+          "phonetic": "/ˈklev.ər/",
+          "meaning": "thông minh/khéo léo",
+          "example": "He is a clever boy.\nThat is a clever idea.\nShe is clever at maths."
+        },
+        {
+          "word": "lazy",
+          "phonetic": "/ˈleɪ.zi/",
+          "meaning": "lười biếng",
+          "example": "Don't be lazy.\nHe is too lazy to walk.\nThe cat is lazy."
+        },
+        {
+          "word": "brave",
+          "phonetic": "/breɪv/",
+          "meaning": "dũng cảm",
+          "example": "Firefighters are very brave.\nShe was brave at the dentist.\nBe brave and try it."
+        }
       ],
       "grammars": [
         {
@@ -242,19 +727,84 @@
       "sectionName": "Unit 8: City break",
       "imageUrl": "",
       "vocabularies": [
-        { "word": "left", "phonetic": "/left/", "meaning": "trái", "example": "Turn left.\nThe shop is on the left.\nLook left and right." },
-        { "word": "right", "phonetic": "/raɪt/", "meaning": "phải", "example": "Turn right.\nRaise your right hand.\nIt is on the right side." },
-        { "word": "straight on", "phonetic": "/streɪt ɒn/", "meaning": "đi thẳng", "example": "Go straight on.\nWalk straight on for two minutes.\nDon't turn, go straight on." },
-        { "word": "airport", "phonetic": "/ˈeə.pɔːt/", "meaning": "sân bay", "example": "We're going to the airport.\nThe plane is at the airport.\nThe airport is busy." },
-        { "word": "bank", "phonetic": "/bæŋk/", "meaning": "ngân hàng", "example": "I need to go to the bank.\nThe bank opens at nine.\nHe works in a bank." },
-        { "word": "money", "phonetic": "/ˈmʌn.i/", "meaning": "tiền", "example": "He saved his money.\nI have no money.\nMoney is in the bank." },
-        { "word": "post office", "phonetic": "/ˈpəʊst ˌɒf.ɪs/", "meaning": "bưu điện", "example": "Buy stamps at the post office.\nWhere is the post office?\nI mailed a letter at the post office." },
-        { "word": "stamp", "phonetic": "/stæmp/", "meaning": "tem thư", "example": "Put a stamp on the letter.\nI collect stamps.\nThis stamp is from China." },
-        { "word": "chemist’s", "phonetic": "/ˈkem.ɪsts/", "meaning": "hiệu thuốc", "example": "We need medicine from the chemist's.\nThe chemist's is closed.\nGo to the chemist's for aspirin." },
-        { "word": "theatre", "phonetic": "/ˈθɪə.tər/", "meaning": "nhà hát", "example": "We watched a play at the theatre.\nThe theatre is old.\nThey act in the theatre." },
-        { "word": "museum", "phonetic": "/mjuːˈziː.əm/", "meaning": "bảo tàng", "example": "The museum has old objects.\nWe visited the history museum.\nThe museum is free." },
-        { "word": "hotel", "phonetic": "/həʊˈtel/", "meaning": "khách sạn", "example": "We stayed in a nice hotel.\nThe hotel has a pool.\nThis is a big hotel." },
-        { "word": "restaurant", "phonetic": "/ˈres.trɒnt/", "meaning": "nhà hàng", "example": "Let's eat at a restaurant.\nThe restaurant serves pasta.\nIs there a restaurant nearby?" }
+        {
+          "word": "left",
+          "phonetic": "/left/",
+          "meaning": "trái",
+          "example": "Turn left.\nThe shop is on the left.\nLook left and right."
+        },
+        {
+          "word": "right",
+          "phonetic": "/raɪt/",
+          "meaning": "phải",
+          "example": "Turn right.\nRaise your right hand.\nIt is on the right side."
+        },
+        {
+          "word": "straight on",
+          "phonetic": "/streɪt ɒn/",
+          "meaning": "đi thẳng",
+          "example": "Go straight on.\nWalk straight on for two minutes.\nDon't turn, go straight on."
+        },
+        {
+          "word": "airport",
+          "phonetic": "/ˈeə.pɔːt/",
+          "meaning": "sân bay",
+          "example": "We're going to the airport.\nThe plane is at the airport.\nThe airport is busy."
+        },
+        {
+          "word": "bank",
+          "phonetic": "/bæŋk/",
+          "meaning": "ngân hàng",
+          "example": "I need to go to the bank.\nThe bank opens at nine.\nHe works in a bank."
+        },
+        {
+          "word": "money",
+          "phonetic": "/ˈmʌn.i/",
+          "meaning": "tiền",
+          "example": "He saved his money.\nI have no money.\nMoney is in the bank."
+        },
+        {
+          "word": "post office",
+          "phonetic": "/ˈpəʊst ˌɒf.ɪs/",
+          "meaning": "bưu điện",
+          "example": "Buy stamps at the post office.\nWhere is the post office?\nI mailed a letter at the post office."
+        },
+        {
+          "word": "stamp",
+          "phonetic": "/stæmp/",
+          "meaning": "tem thư",
+          "example": "Put a stamp on the letter.\nI collect stamps.\nThis stamp is from China."
+        },
+        {
+          "word": "chemist’s",
+          "phonetic": "/ˈkem.ɪsts/",
+          "meaning": "hiệu thuốc",
+          "example": "We need medicine from the chemist's.\nThe chemist's is closed.\nGo to the chemist's for aspirin."
+        },
+        {
+          "word": "theatre",
+          "phonetic": "/ˈθɪə.tər/",
+          "meaning": "nhà hát",
+          "example": "We watched a play at the theatre.\nThe theatre is old.\nThey act in the theatre."
+        },
+        {
+          "word": "museum",
+          "phonetic": "/mjuːˈziː.əm/",
+          "meaning": "bảo tàng",
+          "example": "The museum has old objects.\nWe visited the history museum.\nThe museum is free."
+        },
+        {
+          "word": "hotel",
+          "phonetic": "/həʊˈtel/",
+          "meaning": "khách sạn",
+          "example": "We stayed in a nice hotel.\nThe hotel has a pool.\nThis is a big hotel."
+        },
+        {
+          "word": "restaurant",
+          "phonetic": "/ˈres.trɒnt/",
+          "meaning": "nhà hàng",
+          "example": "Let's eat at a restaurant.\nThe restaurant serves pasta.\nIs there a restaurant nearby?"
+        }
       ],
       "grammars": [
         {
@@ -274,17 +824,72 @@
       "sectionName": "Unit 9: Let’s travel!",
       "imageUrl": "",
       "vocabularies": [
-        { "word": "huge", "phonetic": "/hjuːdʒ/", "meaning": "khổng lồ", "example": "The elephant is huge.\nThere is a huge building.\nThe hole is huge." },
-        { "word": "noisy", "phonetic": "/ˈnɔɪ.zi/", "meaning": "ồn ào", "example": "The city is very noisy.\nDon't be noisy.\nThe car is noisy." },
-        { "word": "strange", "phonetic": "/streɪndʒ/", "meaning": "kỳ lạ", "example": "I saw a strange animal.\nIt makes a strange sound.\nThat is a strange hat." },
-        { "word": "excellent", "phonetic": "/ˈek.səl.ənt/", "meaning": "xuất sắc", "example": "The food was excellent.\nYou did an excellent job.\nThis book is excellent." },
-        { "word": "special", "phonetic": "/ˈspeʃ.əl/", "meaning": "đặc biệt", "example": "Today is a special day.\nI have a special gift.\nShe is a special friend." },
-        { "word": "horrible", "phonetic": "/ˈhɒr.ə.bəl/", "meaning": "kinh khủng", "example": "The weather was horrible.\nThat smell is horrible.\nI had a horrible dream." },
-        { "word": "compass", "phonetic": "/ˈkʌm.pəs/", "meaning": "la bàn", "example": "Use a compass to find the way.\nThe compass points North.\nWe lost our compass." },
-        { "word": "suitcase", "phonetic": "/ˈsuːt.keɪs/", "meaning": "vali", "example": "Pack your suitcase.\nMy suitcase is heavy.\nOpen the suitcase." },
-        { "word": "tent", "phonetic": "/tent/", "meaning": "cái lều", "example": "We slept in a tent.\nPitch the tent here.\nThe tent is waterproof." },
-        { "word": "sleeping bag", "phonetic": "/ˈsliː.pɪŋ ˌbæɡ/", "meaning": "túi ngủ", "example": "My sleeping bag is warm.\nRoll up the sleeping bag.\nSleep in the sleeping bag." },
-        { "word": "torch", "phonetic": "/tɔːtʃ/", "meaning": "đèn pin", "example": "It's dark, turn on the torch.\nI need batteries for the torch.\nShine the torch here." }
+        {
+          "word": "huge",
+          "phonetic": "/hjuːdʒ/",
+          "meaning": "khổng lồ",
+          "example": "The elephant is huge.\nThere is a huge building.\nThe hole is huge."
+        },
+        {
+          "word": "noisy",
+          "phonetic": "/ˈnɔɪ.zi/",
+          "meaning": "ồn ào",
+          "example": "The city is very noisy.\nDon't be noisy.\nThe car is noisy."
+        },
+        {
+          "word": "strange",
+          "phonetic": "/streɪndʒ/",
+          "meaning": "kỳ lạ",
+          "example": "I saw a strange animal.\nIt makes a strange sound.\nThat is a strange hat."
+        },
+        {
+          "word": "excellent",
+          "phonetic": "/ˈek.səl.ənt/",
+          "meaning": "xuất sắc",
+          "example": "The food was excellent.\nYou did an excellent job.\nThis book is excellent."
+        },
+        {
+          "word": "special",
+          "phonetic": "/ˈspeʃ.əl/",
+          "meaning": "đặc biệt",
+          "example": "Today is a special day.\nI have a special gift.\nShe is a special friend."
+        },
+        {
+          "word": "horrible",
+          "phonetic": "/ˈhɒr.ə.bəl/",
+          "meaning": "kinh khủng",
+          "example": "The weather was horrible.\nThat smell is horrible.\nI had a horrible dream."
+        },
+        {
+          "word": "compass",
+          "phonetic": "/ˈkʌm.pəs/",
+          "meaning": "la bàn",
+          "example": "Use a compass to find the way.\nThe compass points North.\nWe lost our compass."
+        },
+        {
+          "word": "suitcase",
+          "phonetic": "/ˈsuːt.keɪs/",
+          "meaning": "vali",
+          "example": "Pack your suitcase.\nMy suitcase is heavy.\nOpen the suitcase."
+        },
+        {
+          "word": "tent",
+          "phonetic": "/tent/",
+          "meaning": "cái lều",
+          "example": "We slept in a tent.\nPitch the tent here.\nThe tent is waterproof."
+        },
+        {
+          "word": "sleeping bag",
+          "phonetic": "/ˈsliː.pɪŋ ˌbæɡ/",
+          "meaning": "túi ngủ",
+          "example": "My sleeping bag is warm.\nRoll up the sleeping bag.\nSleep in the sleeping bag."
+        },
+        {
+          "word": "torch",
+          "phonetic": "/tɔːtʃ/",
+          "meaning": "đèn pin",
+          "example": "It's dark, turn on the torch.\nI need batteries for the torch.\nShine the torch here."
+        }
       ],
       "grammars": [
         {
@@ -296,6 +901,398 @@
           "structure": "-ed / -ing adjectives",
           "description": "Phân biệt tính từ đuôi -ed (cảm xúc) và -ing (tính chất).",
           "example": "I was excited because the film was exciting.\nThis book is boring, I am bored.\nShe is interested in history, it is interesting."
+        }
+      ]
+    },
+    {
+      "sectionId": "irregular-verbs-full",
+      "sectionName": "Full Irregular Verb List",
+      "imageUrl": "assets/irregular_verbs_full.jpg",
+      "vocabularies": [
+        {
+          "word": "be",
+          "phonetic": "/biː/",
+          "meaning": "thì, là, ở (V2: was/were, V3: been)",
+          "example": "I was at home yesterday.\nShe has been to London twice.\nThey were happy together."
+        },
+        {
+          "word": "begin",
+          "phonetic": "/bɪˈɡɪn/",
+          "meaning": "bắt đầu (V2: began, V3: begun)",
+          "example": "The show began at 7 PM.\nIt has begun to rain.\nHe began his journey early."
+        },
+        {
+          "word": "bring",
+          "phonetic": "/brɪŋ/",
+          "meaning": "mang lại (V2: brought, V3: brought)",
+          "example": "She brought a cake to the party.\nI have brought my books.\nHe brought his dog along."
+        },
+        {
+          "word": "build",
+          "phonetic": "/bɪld/",
+          "meaning": "xây dựng (V2: built, V3: built)",
+          "example": "They built a sandcastle.\nThe house was built in 1990.\nHe has built a model plane."
+        },
+        {
+          "word": "buy",
+          "phonetic": "/baɪ/",
+          "meaning": "mua (V2: bought, V3: bought)",
+          "example": "I bought a new shirt.\nShe has bought some apples.\nWe bought tickets for the cinema."
+        },
+        {
+          "word": "can",
+          "phonetic": "/kæn/",
+          "meaning": "có thể (V2: could, V3: been able to)",
+          "example": "I could swim when I was five.\nShe can play the piano.\nThey couldn't come to the party."
+        },
+        {
+          "word": "catch",
+          "phonetic": "/kætʃ/",
+          "meaning": "bắt lấy (V2: caught, V3: caught)",
+          "example": "He caught the ball.\nThe cat has caught a mouse.\nI caught a cold yesterday."
+        },
+        {
+          "word": "choose",
+          "phonetic": "/tʃuːz/",
+          "meaning": "chọn (V2: chose, V3: chosen)",
+          "example": "She chose the red dress.\nI have chosen a gift.\nHe chose to stay home."
+        },
+        {
+          "word": "come",
+          "phonetic": "/kʌm/",
+          "meaning": "đến (V2: came, V3: come)",
+          "example": "He came to visit me.\nThey have come back home.\nShe came late to class."
+        },
+        {
+          "word": "do",
+          "phonetic": "/duː/",
+          "meaning": "làm (V2: did, V3: done)",
+          "example": "I did my homework.\nShe has done a great job.\nWe did the dishes."
+        },
+        {
+          "word": "drive",
+          "phonetic": "/draɪv/",
+          "meaning": "lái xe (V2: drove, V3: driven)",
+          "example": "He drove to the beach.\nI have never driven a truck.\nShe drove very carefully."
+        },
+        {
+          "word": "eat",
+          "phonetic": "/iːt/",
+          "meaning": "ăn (V2: ate, V3: eaten)",
+          "example": "I ate a sandwich.\nHave you eaten breakfast?\nShe ate all the cake."
+        },
+        {
+          "word": "fall",
+          "phonetic": "/fɔːl/",
+          "meaning": "ngã/rơi (V2: fell, V3: fallen)",
+          "example": "He fell off his bike.\nThe leaves have fallen.\nShe fell asleep on the sofa."
+        },
+        {
+          "word": "feel",
+          "phonetic": "/fiːl/",
+          "meaning": "cảm thấy (V2: felt, V3: felt)",
+          "example": "I felt happy yesterday.\nShe has felt sick all week.\nHe felt the cold wind."
+        },
+        {
+          "word": "find",
+          "phonetic": "/faɪnd/",
+          "meaning": "tìm thấy (V2: found, V3: found)",
+          "example": "I found my keys.\nShe has found a new job.\nWe found a coin on the street."
+        },
+        {
+          "word": "fly",
+          "phonetic": "/flaɪ/",
+          "meaning": "bay (V2: flew, V3: flown)",
+          "example": "The bird flew away.\nWe have flown to Paris.\nThe pilot flew the plane."
+        },
+        {
+          "word": "forget",
+          "phonetic": "/fəˈɡet/",
+          "meaning": "quên (V2: forgot, V3: forgotten)",
+          "example": "I forgot his name.\nShe has forgotten her keys.\nDon't forget to call me."
+        },
+        {
+          "word": "get",
+          "phonetic": "/ɡet/",
+          "meaning": "lấy/được (V2: got, V3: got)",
+          "example": "I got a present.\nShe has got a new car.\nWe got up early."
+        },
+        {
+          "word": "give",
+          "phonetic": "/ɡɪv/",
+          "meaning": "đưa/tặng (V2: gave, V3: given)",
+          "example": "She gave me a book.\nI have given him the money.\nThey gave us some food."
+        },
+        {
+          "word": "go",
+          "phonetic": "/ɡəʊ/",
+          "meaning": "đi (V2: went, V3: gone)",
+          "example": "He went to school.\nShe has gone to the shop.\nWe went for a walk."
+        },
+        {
+          "word": "grow",
+          "phonetic": "/ɡrəʊ/",
+          "meaning": "lớn lên/trồng (V2: grew, V3: grown)",
+          "example": "The plant grew quickly.\nHe has grown very tall.\nWe grew vegetables in the garden."
+        },
+        {
+          "word": "have",
+          "phonetic": "/hæv/",
+          "meaning": "có/ăn (V2: had, V3: had)",
+          "example": "I had a bike.\nShe has had lunch.\nWe had a good time."
+        },
+        {
+          "word": "hear",
+          "phonetic": "/hɪər/",
+          "meaning": "nghe thấy (V2: heard, V3: heard)",
+          "example": "I heard a noise.\nHave you heard the news?\nShe heard the phone ring."
+        },
+        {
+          "word": "hide",
+          "phonetic": "/haɪd/",
+          "meaning": "trốn/giấu (V2: hid, V3: hidden)",
+          "example": "He hid behind the tree.\nThe treasure was hidden.\nShe hid the gift."
+        },
+        {
+          "word": "hold",
+          "phonetic": "/həʊld/",
+          "meaning": "cầm/nắm (V2: held, V3: held)",
+          "example": "She held the baby.\nHe held my hand.\nI held the door open."
+        },
+        {
+          "word": "keep",
+          "phonetic": "/kiːp/",
+          "meaning": "giữ (V2: kept, V3: kept)",
+          "example": "He kept his promise.\nShe kept the secret.\nWe kept walking."
+        },
+        {
+          "word": "learn",
+          "phonetic": "/lɜːn/",
+          "meaning": "học (V2: learnt, V3: learnt)",
+          "example": "I learnt English.\nShe has learnt to swim.\nWe learnt a new song."
+        },
+        {
+          "word": "let",
+          "phonetic": "/let/",
+          "meaning": "để/cho phép (V2: let, V3: let)",
+          "example": "She let me go.\nLet him finish.\nThey let us play outside."
+        },
+        {
+          "word": "lose",
+          "phonetic": "/luːz/",
+          "meaning": "mất (V2: lost, V3: lost)",
+          "example": "I lost my pen.\nHe has lost the game.\nDon't lose your ticket."
+        },
+        {
+          "word": "make",
+          "phonetic": "/meɪk/",
+          "meaning": "làm/chế tạo (V2: made, V3: made)",
+          "example": "She made a cake.\nIt is made of wood.\nI made a mistake."
+        },
+        {
+          "word": "mean",
+          "phonetic": "/miːn/",
+          "meaning": "có nghĩa là (V2: meant, V3: meant)",
+          "example": "What did you mean?\nIt meant a lot to me.\nI meant to call you."
+        },
+        {
+          "word": "meet",
+          "phonetic": "/miːt/",
+          "meaning": "gặp gỡ (V2: met, V3: met)",
+          "example": "I met him yesterday.\nWe have met before.\nShe met her friends at the cafe."
+        },
+        {
+          "word": "must",
+          "phonetic": "/mʌst/",
+          "meaning": "phải (V2: must, V3: N/A)",
+          "example": "I must go now.\nYou must listen.\nHe must be tired."
+        },
+        {
+          "word": "put",
+          "phonetic": "/pʊt/",
+          "meaning": "đặt/để (V2: put, V3: put)",
+          "example": "He put the book on the table.\nShe put on her coat.\nI have put it away."
+        },
+        {
+          "word": "ride",
+          "phonetic": "/raɪd/",
+          "meaning": "cưỡi/lái xe 2 bánh (V2: rode, V3: ridden)",
+          "example": "He rode his bike.\nI have ridden a horse.\nShe rode to school."
+        },
+        {
+          "word": "run",
+          "phonetic": "/rʌn/",
+          "meaning": "chạy (V2: ran, V3: run)",
+          "example": "He ran fast.\nShe has run a marathon.\nWe ran for the bus."
+        },
+        {
+          "word": "say",
+          "phonetic": "/seɪ/",
+          "meaning": "nói (V2: said, V3: said)",
+          "example": "He said hello.\nShe said she was tired.\nThey said goodbye."
+        },
+        {
+          "word": "see",
+          "phonetic": "/siː/",
+          "meaning": "nhìn thấy (V2: saw, V3: seen)",
+          "example": "I saw a movie.\nHave you seen my glasses?\nWe saw him yesterday."
+        },
+        {
+          "word": "send",
+          "phonetic": "/send/",
+          "meaning": "gửi (V2: sent, V3: sent)",
+          "example": "I sent a letter.\nShe has sent an email.\nHe sent me a gift."
+        },
+        {
+          "word": "sit",
+          "phonetic": "/sɪt/",
+          "meaning": "ngồi (V2: sat, V3: sat)",
+          "example": "He sat on the chair.\nWe sat down to eat.\nShe sat next to me."
+        },
+        {
+          "word": "speak",
+          "phonetic": "/spiːk/",
+          "meaning": "nói chuyện (V2: spoke, V3: spoken)",
+          "example": "He spoke quietly.\nI have spoken to him.\nShe spoke English well."
+        },
+        {
+          "word": "stand",
+          "phonetic": "/stænd/",
+          "meaning": "đứng (V2: stood, V3: stood)",
+          "example": "He stood up.\nShe stood by the door.\nWe stood in line."
+        },
+        {
+          "word": "swim",
+          "phonetic": "/swɪm/",
+          "meaning": "bơi (V2: swam, V3: swum)",
+          "example": "I swam in the pool.\nShe has swum across the river.\nThey swam all day."
+        },
+        {
+          "word": "take",
+          "phonetic": "/teɪk/",
+          "meaning": "cầm/lấy/chụp (V2: took, V3: taken)",
+          "example": "He took a photo.\nI have taken the medicine.\nShe took the bus."
+        },
+        {
+          "word": "teach",
+          "phonetic": "/tiːtʃ/",
+          "meaning": "dạy (V2: taught, V3: taught)",
+          "example": "He taught math.\nShe has taught me well.\nWho taught you that?"
+        },
+        {
+          "word": "tell",
+          "phonetic": "/tel/",
+          "meaning": "kể/bảo (V2: told, V3: told)",
+          "example": "He told a joke.\nI have told you already.\nShe told the truth."
+        },
+        {
+          "word": "think",
+          "phonetic": "/θɪŋk/",
+          "meaning": "nghĩ (V2: thought, V3: thought)",
+          "example": "I thought about it.\nShe thought he was nice.\nWe thought it would rain."
+        },
+        {
+          "word": "throw",
+          "phonetic": "/θrəʊ/",
+          "meaning": "ném (V2: threw, V3: thrown)",
+          "example": "He threw the ball.\nShe has thrown it away.\nI threw a stone."
+        },
+        {
+          "word": "wake",
+          "phonetic": "/weɪk/",
+          "meaning": "thức dậy (V2: woke, V3: woken)",
+          "example": "I woke up early.\nShe has woken up.\nThe noise woke him."
+        },
+        {
+          "word": "wear",
+          "phonetic": "/weər/",
+          "meaning": "mặc (V2: wore, V3: worn)",
+          "example": "She wore a red dress.\nI have worn this shirt before.\nHe wore glasses."
+        },
+        {
+          "word": "write",
+          "phonetic": "/raɪt/",
+          "meaning": "viết (V2: wrote, V3: written)",
+          "example": "He wrote a book.\nI have written a letter.\nShe wrote her name."
+        }
+      ]
+    },
+    {
+      "sectionId": "adjectives-adverbs-condensed",
+      "sectionName": "Adjectives & Adverbs (Word Families)",
+      "imageUrl": "assets/adj_adv_detail_cover.jpg",
+      "vocabularies": [
+        {
+          "word": "carefully",
+          "phonetic": "/ˈkeə.fəl.i/",
+          "meaning": "một cách cẩn thận\n(Type: Adverb)\nNoun: care\nAdj: careful",
+          "example": "Please listen carefully to the instructions.\nYou must cross the road carefully.\nShe painted the picture carefully."
+        },
+        {
+          "word": "noisy",
+          "phonetic": "/ˈnɔɪ.zi/",
+          "meaning": "ồn ào\n(Type: Adjective)\nNoun: noise\nAdv: noisily",
+          "example": "The city is very noisy.\nDon't be noisy in class.\nThe children played noisily outside."
+        },
+        {
+          "word": "brave",
+          "phonetic": "/breɪv/",
+          "meaning": "dũng cảm\n(Type: Adjective)\nNoun: bravery\nAdv: bravely",
+          "example": "The firefighter was very brave.\nShe bravely fought the dragon.\nHe showed great bravery."
+        },
+        {
+          "word": "quickly",
+          "phonetic": "/ˈkwɪk.li/",
+          "meaning": "nhanh chóng\n(Type: Adverb)\nNoun: quickness\nAdj: quick",
+          "example": "Run quickly! There's a bear!\nShe finished her homework quickly.\nHe gave a quick answer."
+        },
+        {
+          "word": "friendly",
+          "phonetic": "/ˈfrend.li/",
+          "meaning": "thân thiện\n(Type: Adjective)\nNoun: friend\nNoun: friendliness",
+          "example": "Our new neighbours are friendly.\nShe gave me a friendly smile.\nHe behaved in a friendly way."
+        },
+        {
+          "word": "lazy",
+          "phonetic": "/ˈleɪ.zi/",
+          "meaning": "lười biếng\n(Type: Adjective)\nNoun: laziness\nAdv: lazily",
+          "example": "Don't be lazy, help me clean!\nThe cat stretched lazily in the sun.\nHis laziness is a problem."
+        },
+        {
+          "word": "excellent",
+          "phonetic": "/ˈek.səl.ənt/",
+          "meaning": "xuất sắc\n(Type: Adjective)\nNoun: excellence\nAdv: excellently",
+          "example": "The food was excellent.\nShe played the piano excellently.\nThey achieved excellence in their work."
+        },
+        {
+          "word": "excited",
+          "phonetic": "/ɪkˈsaɪ.tɪd/",
+          "meaning": "hào hứng (cảm xúc)\n(Type: Adjective)\nNoun: excitement\nAdj: exciting (thú vị)\nAdv: excitedly",
+          "example": "I am excited about the trip.\n'We won!' he shouted excitedly.\nThe excitement of the game was huge."
+        },
+        {
+          "word": "dangerously",
+          "phonetic": "/ˈdeɪn.dʒər.əs.li/",
+          "meaning": "một cách nguy hiểm\n(Type: Adverb)\nNoun: danger\nAdj: dangerous",
+          "example": "He drove dangerously fast.\nLions are dangerous animals.\nKeep out of danger."
+        },
+        {
+          "word": "kind",
+          "phonetic": "/kaɪnd/",
+          "meaning": "tốt bụng\n(Type: Adjective)\nNoun: kindness\nAdv: kindly",
+          "example": "She is kind to animals.\nThank you for your kindness.\nHe kindly helped me carry the bags."
+        },
+        {
+          "word": "loudly",
+          "phonetic": "/ˈlaʊd.li/",
+          "meaning": "to tiếng, ồn ào\n(Type: Adverb)\nNoun: loudness\nAdj: loud",
+          "example": "Don't speak loudly in the library.\nThe music is too loud.\nHe laughed loudly."
+        },
+        {
+          "word": "strange",
+          "phonetic": "/streɪndʒ/",
+          "meaning": "kỳ lạ\n(Type: Adjective)\nNoun: stranger\nAdv: strangely",
+          "example": "I saw a strange animal.\nStrangely, no one was there.\nDon't talk to strangers."
         }
       ]
     }

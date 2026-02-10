@@ -1,0 +1,3624 @@
+{
+    "programId": "hackers-toeic-vocabulary",
+    "programName": "Hackers TOEIC Vocabulary",
+    "sections": [
+        {
+            "sectionId": "day-01-recruitment",
+            "sectionName": "Day 01: Recruitment (Tuyển dụng)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "résumé",
+                    "phonetic": "/ˈrezəmeɪ/",
+                    "meaning": "sơ yếu lý lịch",
+                    "example": "Fax your résumé and cover letter to the above number."
+                },
+                {
+                    "word": "opening",
+                    "phonetic": "/ˈoʊpnɪŋ/",
+                    "meaning": "vị trí trống, sự mở cửa",
+                    "example": "There are several job openings at the restaurant right now.\nJX Finances officially announced the opening of its first international branch."
+                },
+                {
+                    "word": "applicant",
+                    "phonetic": "/ˈæplɪkənt/",
+                    "meaning": "ứng viên, người xin việc",
+                    "example": "Applicants are required to submit a résumé."
+                },
+                {
+                    "word": "requirement",
+                    "phonetic": "/rɪˈkwaɪərmənt/",
+                    "meaning": "điều kiện cần thiết, yêu cầu",
+                    "example": "A driver's license is a requirement of this job."
+                },
+                {
+                    "word": "meet",
+                    "phonetic": "/miːt/",
+                    "meaning": "thỏa mãn, đáp ứng (yêu cầu, điều kiện)",
+                    "example": "Applicants must meet all the requirements for the job."
+                },
+                {
+                    "word": "qualified",
+                    "phonetic": "/ˈkwɑːlɪfaɪd/",
+                    "meaning": "đủ khả năng, trình độ, điều kiện",
+                    "example": "People with master's degrees are qualified for the research position."
+                },
+                {
+                    "word": "candidate",
+                    "phonetic": "/ˈkændɪdeɪt/",
+                    "meaning": "thí sinh, ứng viên",
+                    "example": "Five candidates will be selected for final interviews."
+                },
+                {
+                    "word": "confidence",
+                    "phonetic": "/ˈkɑːnfɪdəns/",
+                    "meaning": "sự tự tin, sự tin tưởng, lòng tin",
+                    "example": "We have confidence that she can handle the position."
+                },
+                {
+                    "word": "highly",
+                    "phonetic": "/ˈhaɪli/",
+                    "meaning": "rất, hết sức",
+                    "example": "Mr. Monroe's experience makes him highly qualified for the job."
+                },
+                {
+                    "word": "professional",
+                    "phonetic": "/prəˈfeʃənl/",
+                    "meaning": "có tính chuyên môn, chuyên nghiệp / chuyên gia",
+                    "example": "Jeff is known as a professional photographer.\nMerseyside Hospital is looking for a certified health professional."
+                },
+                {
+                    "word": "interview",
+                    "phonetic": "/ˈɪntərvjuː/",
+                    "meaning": "cuộc phỏng vấn / phỏng vấn",
+                    "example": "The interviews are being held in meeting room three.\nThe manager interviewed almost 100 applicants."
+                },
+                {
+                    "word": "hire",
+                    "phonetic": "/ˈhaɪər/",
+                    "meaning": "thuê mướn, tuyển dụng",
+                    "example": "The company expects to hire several new employees next month."
+                },
+                {
+                    "word": "training",
+                    "phonetic": "/ˈtreɪnɪŋ/",
+                    "meaning": "sự đào tạo, huấn luyện",
+                    "example": "This company offers on-the-job training for new staff."
+                },
+                {
+                    "word": "reference",
+                    "phonetic": "/ˈrefrəns/",
+                    "meaning": "sự giới thiệu, sự tham khảo",
+                    "example": "Philip asked his previous employer to write a reference letter for him."
+                },
+                {
+                    "word": "position",
+                    "phonetic": "/pəˈzɪʃn/",
+                    "meaning": "chức vụ, vị trí / định vị, đặt vào vị trí",
+                    "example": "The advertised position provides health care and other benefits.\nThe secretary positioned the chairs around the table before the meeting began."
+                },
+                {
+                    "word": "achievement",
+                    "phonetic": "/əˈtʃiːvmənt/",
+                    "meaning": "thành tựu, thành tích, sự đạt được",
+                    "example": "List all of your achievements from previous jobs on your résumé."
+                },
+                {
+                    "word": "impressed",
+                    "phonetic": "/ɪmˈprest/",
+                    "meaning": "có ấn tượng, cảm phục",
+                    "example": "The CEO was impressed by his assistant's organizing skills."
+                },
+                {
+                    "word": "excellent",
+                    "phonetic": "/ˈeksələnt/",
+                    "meaning": "xuất sắc, vượt trội, ưu tú",
+                    "example": "Because of her excellent managerial skills, Erin was hired for the job."
+                },
+                {
+                    "word": "eligible",
+                    "phonetic": "/ˈelɪdʒəbl/",
+                    "meaning": "có đủ tư cách, thích hợp",
+                    "example": "The part-time workers are also eligible for paid holidays."
+                },
+                {
+                    "word": "identify",
+                    "phonetic": "/aɪˈdentɪfaɪ/",
+                    "meaning": "nhận diện, nhận ra",
+                    "example": "Staff members wear uniforms so that they are easy for customers to identify."
+                },
+                {
+                    "word": "associate",
+                    "phonetic": "/əˈsoʊʃieɪt/",
+                    "meaning": "liên kết, kết giao",
+                    "example": "Two of the applicants were associated with a competitor."
+                },
+                {
+                    "word": "condition",
+                    "phonetic": "/kənˈdɪʃn/",
+                    "meaning": "điều kiện",
+                    "example": "The conditions of employment are listed in the job opening."
+                },
+                {
+                    "word": "employment",
+                    "phonetic": "/ɪmˈplɔɪmənt/",
+                    "meaning": "việc làm",
+                    "example": "The company announced employment opportunities in personnel department."
+                },
+                {
+                    "word": "lack",
+                    "phonetic": "/læk/",
+                    "meaning": "thiếu, không có / sự thiếu hụt",
+                    "example": "Carl lacked the ability to get along well with his coworkers.\nDue to a lack of funds, the project has been temporarily halted."
+                },
+                {
+                    "word": "managerial",
+                    "phonetic": "/ˌmænəˈdʒɪriəl/",
+                    "meaning": "thuộc về quản lý",
+                    "example": "Mike is seeking a managerial position in the accounting field."
+                },
+                {
+                    "word": "diligent",
+                    "phonetic": "/ˈdɪlɪdʒənt/",
+                    "meaning": "siêng năng, cần cù",
+                    "example": "Carmen is one of the most diligent workers in the company."
+                },
+                {
+                    "word": "familiar",
+                    "phonetic": "/fəˈmɪliər/",
+                    "meaning": "quen thuộc, thuần thục",
+                    "example": "Staff must review the handbook to become familiar with it."
+                },
+                {
+                    "word": "proficiency",
+                    "phonetic": "/prəˈfɪʃnsi/",
+                    "meaning": "sự thông thạo, sự thành thạo",
+                    "example": "Overseas workers need proof of proficiency in a second language."
+                },
+                {
+                    "word": "prospective",
+                    "phonetic": "/prəˈspektɪv/",
+                    "meaning": "có triển vọng, có tiềm năng, có tương lai",
+                    "example": "Prospective employees were asked to come in for a second interview."
+                },
+                {
+                    "word": "appeal",
+                    "phonetic": "/əˈpiːl/",
+                    "meaning": "kêu gọi, lôi cuốn, hấp dẫn",
+                    "example": "The 10 percent pay increase appealed to the staff."
+                },
+                {
+                    "word": "specialize",
+                    "phonetic": "/ˈspeʃəlaɪz/",
+                    "meaning": "chuyên làm về, học chuyên về",
+                    "example": "Most of the programmers specialized in software design in college."
+                },
+                {
+                    "word": "apprehensive",
+                    "phonetic": "/ˌæprɪˈhensɪv/",
+                    "meaning": "lo lắng, e sợ",
+                    "example": "Many people feel apprehensive before an important job interview."
+                },
+                {
+                    "word": "consultant",
+                    "phonetic": "/kənˈsʌltənt/",
+                    "meaning": "người tư vấn, cố vấn",
+                    "example": "Emma currently works in London as an interior design consultant."
+                },
+                {
+                    "word": "entitle",
+                    "phonetic": "/ɪnˈtaɪtl/",
+                    "meaning": "cho quyền (làm gì)",
+                    "example": "Executives are entitled to additional benefits."
+                },
+                {
+                    "word": "degree",
+                    "phonetic": "/dɪˈɡriː/",
+                    "meaning": "trình độ, bằng cấp",
+                    "example": "A bachelor's degree in engineering is a requirement for this position."
+                },
+                {
+                    "word": "payroll",
+                    "phonetic": "/ˈpeɪroʊl/",
+                    "meaning": "bảng lương, tổng quỹ lương",
+                    "example": "Fifteen new employees were added to the payroll last month."
+                },
+                {
+                    "word": "recruit",
+                    "phonetic": "/rɪˈkruːt/",
+                    "meaning": "tuyển dụng / sự tuyển dụng, nhân viên mới",
+                    "example": "The firm recruits promising graduates on a yearly basis."
+                },
+                {
+                    "word": "certification",
+                    "phonetic": "/ˌsɜːrtɪfɪˈkeɪʃn/",
+                    "meaning": "sự chứng nhận, giấy chứng nhận",
+                    "example": "Obtaining accounting certification takes approximately a year."
+                },
+                {
+                    "word": "occupation",
+                    "phonetic": "/ˌɑːkjuˈpeɪʃn/",
+                    "meaning": "nghề nghiệp",
+                    "example": "Journalism is an interesting and challenging occupation."
+                },
+                {
+                    "word": "wage",
+                    "phonetic": "/weɪdʒ/",
+                    "meaning": "tiền lương, tiền công",
+                    "example": "Workers with formal education may earn higher wages than those without."
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "be eligible for + membership/compensation/position",
+                    "description": "Đủ tư cách, điều kiện cho việc gì đó (hội viên, bồi thường, thăng chức, vị trí...).",
+                    "example": "The part-time workers are also eligible for paid holidays."
+                },
+                {
+                    "structure": "be familiar with",
+                    "description": "Quen thuộc với, nắm rõ điều gì.",
+                    "example": "Staff must review the handbook to become familiar with it."
+                },
+                {
+                    "structure": "be associated with",
+                    "description": "Có liên quan tới, hợp tác/liên minh với.",
+                    "example": "Two of the applicants were associated with a competitor."
+                },
+                {
+                    "structure": "be entitled to + noun",
+                    "description": "Được hưởng, có quyền lợi gì đó.",
+                    "example": "Executives are entitled to additional benefits."
+                }
+            ]
+        },
+        {
+            "sectionId": "day-01-recruitment-800",
+            "sectionName": "Day 01: Recruitment (800 Points)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "achieve one's goal",
+                    "phonetic": "/əˈtʃiːv wʌnz ɡoʊl/",
+                    "meaning": "đạt mục tiêu của ai đó",
+                    "example": ""
+                },
+                {
+                    "word": "apprentice",
+                    "phonetic": "/əˈprentɪs/",
+                    "meaning": "người học việc, người tập sự",
+                    "example": ""
+                },
+                {
+                    "word": "dress formally",
+                    "phonetic": "/dres ˈfɔːrməli/",
+                    "meaning": "ăn mặc trang trọng",
+                    "example": ""
+                },
+                {
+                    "word": "dressed in suit",
+                    "phonetic": "/drest ɪn suːt/",
+                    "meaning": "mặc vest, com lê",
+                    "example": ""
+                },
+                {
+                    "word": "figure out",
+                    "phonetic": "/ˈfɪɡjər aʊt/",
+                    "meaning": "tìm ra, phát hiện ra",
+                    "example": ""
+                },
+                {
+                    "word": "full time work",
+                    "phonetic": "/fʊl taɪm wɜːrk/",
+                    "meaning": "công việc toàn thời gian",
+                    "example": ""
+                },
+                {
+                    "word": "job opportunity",
+                    "phonetic": "/dʒɑːb ˌɑːpərˈtuːnəti/",
+                    "meaning": "cơ hội việc làm",
+                    "example": ""
+                },
+                {
+                    "word": "job search",
+                    "phonetic": "/dʒɑːb sɜːrtʃ/",
+                    "meaning": "sự tìm việc làm",
+                    "example": ""
+                },
+                {
+                    "word": "job seeker",
+                    "phonetic": "/dʒɑːb ˈsiːkər/",
+                    "meaning": "người tìm việc",
+                    "example": ""
+                },
+                {
+                    "word": "lay out",
+                    "phonetic": "/leɪ aʊt/",
+                    "meaning": "đặt ra, bày ra",
+                    "example": ""
+                },
+                {
+                    "word": "letter of recommendation",
+                    "phonetic": "/ˈletər əv ˌrekəmenˈdeɪʃn/",
+                    "meaning": "thư giới thiệu",
+                    "example": ""
+                },
+                {
+                    "word": "pay raise",
+                    "phonetic": "/peɪ reɪz/",
+                    "meaning": "sự tăng lương",
+                    "example": ""
+                },
+                {
+                    "word": "practical experience",
+                    "phonetic": "/ˈpræktɪkl ɪkˈspɪriəns/",
+                    "meaning": "kinh nghiệm thực tế",
+                    "example": ""
+                },
+                {
+                    "word": "proof of employment",
+                    "phonetic": "/pruːf əv ɪmˈplɔɪmənt/",
+                    "meaning": "bằng chứng công việc",
+                    "example": ""
+                },
+                {
+                    "word": "reapply",
+                    "phonetic": "/ˌriːəˈplaɪ/",
+                    "meaning": "ứng tuyển lại, áp dụng lại",
+                    "example": ""
+                },
+                {
+                    "word": "recommendation letter",
+                    "phonetic": "/ˌrekəmenˈdeɪʃn ˈletər/",
+                    "meaning": "thư giới thiệu, thư tiến cử",
+                    "example": ""
+                },
+                {
+                    "word": "reference letter",
+                    "phonetic": "/ˈrefrəns ˈletər/",
+                    "meaning": "thư giới thiệu, thư xác nhận",
+                    "example": ""
+                },
+                {
+                    "word": "send off to",
+                    "phonetic": "/send ɔːf tuː/",
+                    "meaning": "gửi (thư) tới",
+                    "example": ""
+                },
+                {
+                    "word": "set up an interview",
+                    "phonetic": "/set ʌp ən ˈɪntərvjuː/",
+                    "meaning": "sắp xếp một cuộc phỏng vấn",
+                    "example": ""
+                },
+                {
+                    "word": "take an examination",
+                    "phonetic": "/teɪk ən ɪɡˌzæmɪˈneɪʃn/",
+                    "meaning": "làm một bài kiểm tra",
+                    "example": ""
+                },
+                {
+                    "word": "training center",
+                    "phonetic": "/ˈtreɪnɪŋ ˈsentər/",
+                    "meaning": "trung tâm đào tạo",
+                    "example": ""
+                },
+                {
+                    "word": "waiting room",
+                    "phonetic": "/ˈweɪtɪŋ ruːm/",
+                    "meaning": "phòng chờ",
+                    "example": ""
+                },
+                {
+                    "word": "well-educated",
+                    "phonetic": "/wel ˈedʒukeɪtɪd/",
+                    "meaning": "có học thức, được giáo dục tốt",
+                    "example": ""
+                },
+                {
+                    "word": "workstation",
+                    "phonetic": "/ˈwɜːrksteɪʃn/",
+                    "meaning": "chỗ ngồi (để làm việc)",
+                    "example": ""
+                },
+                {
+                    "word": "zealous",
+                    "phonetic": "/ˈzeləs/",
+                    "meaning": "hăng hái, nhiệt huyết",
+                    "example": ""
+                },
+                {
+                    "word": "cover letter",
+                    "phonetic": "/ˈkʌvər ˈletər/",
+                    "meaning": "thư xin việc",
+                    "example": ""
+                },
+                {
+                    "word": "devoted",
+                    "phonetic": "/dɪˈvoʊtɪd/",
+                    "meaning": "hết lòng, tận tâm",
+                    "example": ""
+                },
+                {
+                    "word": "energetic",
+                    "phonetic": "/ˌenərˈdʒetɪk/",
+                    "meaning": "tràn đầy năng lượng, năng động",
+                    "example": ""
+                },
+                {
+                    "word": "enthusiastic",
+                    "phonetic": "/ɪnˌθuːziˈæstɪk/",
+                    "meaning": "nhiệt tình",
+                    "example": ""
+                },
+                {
+                    "word": "excel",
+                    "phonetic": "/ɪkˈsel/",
+                    "meaning": "trội hơn, xuất sắc hơn",
+                    "example": ""
+                },
+                {
+                    "word": "exclude",
+                    "phonetic": "/ɪkˈskluːd/",
+                    "meaning": "ngoại trừ, không bao gồm",
+                    "example": ""
+                },
+                {
+                    "word": "fluently",
+                    "phonetic": "/ˈfluːəntli/",
+                    "meaning": "một cách trôi chảy",
+                    "example": ""
+                },
+                {
+                    "word": "get through",
+                    "phonetic": "/ɡet θruː/",
+                    "meaning": "vượt qua, đỗ",
+                    "example": ""
+                },
+                {
+                    "word": "match",
+                    "phonetic": "/mætʃ/",
+                    "meaning": "hợp với, xứng với",
+                    "example": ""
+                },
+                {
+                    "word": "necessity",
+                    "phonetic": "/nəˈsesəti/",
+                    "meaning": "sự cần thiết, điều bắt buộc",
+                    "example": ""
+                },
+                {
+                    "word": "qualification",
+                    "phonetic": "/ˌkwɑːlɪfɪˈkeɪʃn/",
+                    "meaning": "năng lực chuyên môn, bằng cấp",
+                    "example": ""
+                },
+                {
+                    "word": "relevant",
+                    "phonetic": "/ˈreləvənt/",
+                    "meaning": "có liên quan, thích hợp",
+                    "example": ""
+                },
+                {
+                    "word": "sign up for",
+                    "phonetic": "/saɪn ʌp fɔːr/",
+                    "meaning": "đăng ký",
+                    "example": ""
+                },
+                {
+                    "word": "talented",
+                    "phonetic": "/ˈtæləntɪd/",
+                    "meaning": "có tài",
+                    "example": ""
+                },
+                {
+                    "word": "visiting",
+                    "phonetic": "/ˈvɪzɪtɪŋ/",
+                    "meaning": "sự thăm viếng; (adj) thăm viếng, tham quan",
+                    "example": ""
+                },
+                {
+                    "word": "workforce",
+                    "phonetic": "/ˈwɜːrkfɔːrs/",
+                    "meaning": "lực lượng lao động",
+                    "example": ""
+                },
+                {
+                    "word": "address the audience",
+                    "phonetic": "/əˈdres ðə ˈɔːdiəns/",
+                    "meaning": "giao lưu với khán giả",
+                    "example": ""
+                },
+                {
+                    "word": "be influenced by appearance",
+                    "phonetic": "/bi ˈɪnfluənst baɪ əˈpɪrəns/",
+                    "meaning": "bị chi phối bởi vẻ ngoài",
+                    "example": ""
+                },
+                {
+                    "word": "bilingual",
+                    "phonetic": "/ˌbaɪˈlɪŋɡwəl/",
+                    "meaning": "song ngữ",
+                    "example": ""
+                },
+                {
+                    "word": "curriculum vitae",
+                    "phonetic": "/kəˌrɪkjələm ˈviːtaɪ/",
+                    "meaning": "sơ yếu lý lịch",
+                    "example": ""
+                },
+                {
+                    "word": "diploma",
+                    "phonetic": "/dɪˈploʊmə/",
+                    "meaning": "bằng tốt nghiệp",
+                    "example": ""
+                },
+                {
+                    "word": "endurance",
+                    "phonetic": "/ɪnˈdʊrəns/",
+                    "meaning": "sự chịu đựng, khả năng chịu đựng",
+                    "example": ""
+                },
+                {
+                    "word": "external",
+                    "phonetic": "/ɪkˈstɜːrnl/",
+                    "meaning": "bên ngoài",
+                    "example": ""
+                },
+                {
+                    "word": "fluency",
+                    "phonetic": "/ˈfluːənsi/",
+                    "meaning": "sự lưu loát, trôi chảy",
+                    "example": ""
+                },
+                {
+                    "word": "fluent in",
+                    "phonetic": "/ˈfluːənt ɪn/",
+                    "meaning": "thành thạo về",
+                    "example": ""
+                },
+                {
+                    "word": "human resources",
+                    "phonetic": "/ˌhjuːmən ˈriːsɔːrsɪz/",
+                    "meaning": "quản lý nhân lực, nhân sự",
+                    "example": ""
+                },
+                {
+                    "word": "improperly",
+                    "phonetic": "/ɪmˈprɑːpərli/",
+                    "meaning": "không đúng cách, không thích hợp",
+                    "example": ""
+                },
+                {
+                    "word": "in a positive manner",
+                    "phonetic": "/ɪn ə ˈpɑːzətɪv ˈmænər/",
+                    "meaning": "theo một cách tích cực",
+                    "example": ""
+                },
+                {
+                    "word": "in the field of",
+                    "phonetic": "/ɪn ðə fiːld əv/",
+                    "meaning": "trong lĩnh vực",
+                    "example": ""
+                },
+                {
+                    "word": "inexperience",
+                    "phonetic": "/ˌɪnɪkˈspɪriəns/",
+                    "meaning": "sự thiếu kinh nghiệm",
+                    "example": ""
+                },
+                {
+                    "word": "lack confidence",
+                    "phonetic": "/læk ˈkɑːnfɪdəns/",
+                    "meaning": "thiếu sự tự tin",
+                    "example": ""
+                },
+                {
+                    "word": "make A a regular habit",
+                    "phonetic": "/meɪk ... ə ˈreɡjələr ˈhæbɪt/",
+                    "meaning": "biến A thành thói quen thường xuyên",
+                    "example": ""
+                },
+                {
+                    "word": "make a commitment to",
+                    "phonetic": "/meɪk ə kəˈmɪtmənt tuː/",
+                    "meaning": "đưa ra cam kết, gắn bó với",
+                    "example": ""
+                },
+                {
+                    "word": "make a point of -ing",
+                    "phonetic": "/meɪk ə pɔɪnt əv .../",
+                    "meaning": "quan tâm, tận tâm với (việc gì)",
+                    "example": ""
+                },
+                {
+                    "word": "manpower",
+                    "phonetic": "/ˈmænpaʊər/",
+                    "meaning": "nhân lực",
+                    "example": ""
+                },
+                {
+                    "word": "master's degree",
+                    "phonetic": "/ˈmæstərz dɪˈɡriː/",
+                    "meaning": "bằng thạc sĩ",
+                    "example": ""
+                },
+                {
+                    "word": "novice",
+                    "phonetic": "/ˈnɑːvɪs/",
+                    "meaning": "người học việc, tập sự",
+                    "example": ""
+                },
+                {
+                    "word": "paycheck",
+                    "phonetic": "/ˈpeɪtʃek/",
+                    "meaning": "tiền lương, tiền công",
+                    "example": ""
+                },
+                {
+                    "word": "self-motivation",
+                    "phonetic": "/ˌself moʊtɪˈveɪʃn/",
+                    "meaning": "sự tự tạo động lực cho bản thân",
+                    "example": ""
+                },
+                {
+                    "word": "send a notification",
+                    "phonetic": "/send ə ˌnoʊtɪfɪˈkeɪʃn/",
+                    "meaning": "gửi thông báo",
+                    "example": ""
+                },
+                {
+                    "word": "vacancy",
+                    "phonetic": "/ˈveɪkənsi/",
+                    "meaning": "vị trí còn trống",
+                    "example": ""
+                },
+                {
+                    "word": "wanted",
+                    "phonetic": "/ˈwɑːntɪd/",
+                    "meaning": "được cần đến, được yêu cầu",
+                    "example": ""
+                },
+                {
+                    "word": "work history",
+                    "phonetic": "/wɜːrk ˈhɪstri/",
+                    "meaning": "lịch sử làm việc, kinh nghiệm làm việc",
+                    "example": ""
+                }
+            ],
+            "grammars": []
+        },
+        {
+            "sectionId": "day-01-recruitment-900",
+            "sectionName": "Day 01: Recruitment (900 Points)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "credential",
+                    "phonetic": "/krəˈdenʃl/",
+                    "meaning": "thông tin xác thực, giấy chứng nhận",
+                    "example": ""
+                },
+                {
+                    "word": "firsthand",
+                    "phonetic": "/ˈfɜːrst hænd/",
+                    "meaning": "trực tiếp, mắt thấy tai nghe",
+                    "example": ""
+                },
+                {
+                    "word": "hiring committee",
+                    "phonetic": "/ˈhaɪərɪŋ kəˈmɪti/",
+                    "meaning": "ủy ban tuyển dụng",
+                    "example": ""
+                },
+                {
+                    "word": "not to mention",
+                    "phonetic": "/nɑːt tuː ˈmenʃn/",
+                    "meaning": "không đề cập đến",
+                    "example": ""
+                },
+                {
+                    "word": "on occasion",
+                    "phonetic": "/ɑːn əˈkeɪʒn/",
+                    "meaning": "nhân dịp",
+                    "example": ""
+                },
+                {
+                    "word": "overqualified",
+                    "phonetic": "/ˌoʊvərˈkwɑːlɪfaɪd/",
+                    "meaning": "có thừa năng lực, trình độ",
+                    "example": ""
+                },
+                {
+                    "word": "screening",
+                    "phonetic": "/ˈskriːnɪŋ/",
+                    "meaning": "sự sàng lọc, sự phân loại",
+                    "example": ""
+                },
+                {
+                    "word": "lag",
+                    "phonetic": "/læɡ/",
+                    "meaning": "chậm trễ",
+                    "example": ""
+                },
+                {
+                    "word": "on the waiting list",
+                    "phonetic": "/ɑːn ðə ˈweɪtɪŋ lɪst/",
+                    "meaning": "trong danh sách chờ",
+                    "example": ""
+                },
+                {
+                    "word": "oriented",
+                    "phonetic": "/ˈɔːrientɪd/",
+                    "meaning": "được định hướng",
+                    "example": ""
+                },
+                {
+                    "word": "pertaining to",
+                    "phonetic": "/pərˈteɪnɪŋ tuː/",
+                    "meaning": "gắn liền, đi đôi với",
+                    "example": ""
+                },
+                {
+                    "word": "questionably",
+                    "phonetic": "/ˈkwestʃənəbli/",
+                    "meaning": "đáng ngờ, có vấn đề",
+                    "example": ""
+                },
+                {
+                    "word": "regularity",
+                    "phonetic": "/ˌreɡjuˈlærəti/",
+                    "meaning": "sự đều đặn, thường xuyên",
+                    "example": ""
+                },
+                {
+                    "word": "replenish",
+                    "phonetic": "/rɪˈplenɪʃ/",
+                    "meaning": "cấp thêm, bổ sung",
+                    "example": ""
+                },
+                {
+                    "word": "simplicity",
+                    "phonetic": "/sɪmˈplɪsəti/",
+                    "meaning": "sự đơn giản",
+                    "example": ""
+                },
+                {
+                    "word": "stellar",
+                    "phonetic": "/ˈstelər/",
+                    "meaning": "xuất sắc, ưu tú",
+                    "example": ""
+                },
+                {
+                    "word": "versatile",
+                    "phonetic": "/ˈvɜːrsətl/",
+                    "meaning": "nhiều tài, linh hoạt",
+                    "example": ""
+                },
+                {
+                    "word": "adept",
+                    "phonetic": "/əˈdept/",
+                    "meaning": "thành thạo, tinh thông",
+                    "example": ""
+                },
+                {
+                    "word": "against all odds",
+                    "phonetic": "/əˈɡenst ɔːl ɑːdz/",
+                    "meaning": "bất chấp sự chống đối mạnh mẽ/mọi điều kiện bất lợi",
+                    "example": ""
+                },
+                {
+                    "word": "command",
+                    "phonetic": "/kəˈmænd/",
+                    "meaning": "lệnh, sự điều khiển, sự chỉ huy",
+                    "example": ""
+                },
+                {
+                    "word": "commensurate",
+                    "phonetic": "/kəˈmenʃərət/",
+                    "meaning": "tỷ lệ thuận, xứng với",
+                    "example": ""
+                },
+                {
+                    "word": "computer literate",
+                    "phonetic": "/kəmˈpjuːtər ˈlɪtərət/",
+                    "meaning": "biết sử dụng máy tính",
+                    "example": ""
+                },
+                {
+                    "word": "eagerness",
+                    "phonetic": "/ˈiːɡərnəs/",
+                    "meaning": "sự say mê, sự háo hức",
+                    "example": ""
+                },
+                {
+                    "word": "familiarize oneself with",
+                    "phonetic": "/fəˈmɪliəraɪz wʌnˈself wɪð/",
+                    "meaning": "tự tìm hiểu, tự làm quen với",
+                    "example": ""
+                },
+                {
+                    "word": "increment",
+                    "phonetic": "/ˈɪŋkrəmənt/",
+                    "meaning": "sự tăng dần",
+                    "example": ""
+                },
+                {
+                    "word": "interpersonal skills",
+                    "phonetic": "/ˌɪntərˈpɜːrsənl skɪlz/",
+                    "meaning": "khả năng kết nối, kỹ năng mềm",
+                    "example": ""
+                },
+                {
+                    "word": "mindful",
+                    "phonetic": "/ˈmaɪndfl/",
+                    "meaning": "lưu tâm, quan tâm",
+                    "example": ""
+                },
+                {
+                    "word": "preeminent",
+                    "phonetic": "/priˈemɪnənt/",
+                    "meaning": "xuất sắc, ưu việt, vượt trội",
+                    "example": ""
+                },
+                {
+                    "word": "preliminary",
+                    "phonetic": "/prɪˈlɪmɪneri/",
+                    "meaning": "sơ bộ, mở đầu",
+                    "example": ""
+                },
+                {
+                    "word": "prerequisite",
+                    "phonetic": "/ˌpriːˈrekwəzɪt/",
+                    "meaning": "điều kiện tiên quyết; (adj) cần thiết",
+                    "example": ""
+                },
+                {
+                    "word": "probationer",
+                    "phonetic": "/proʊˈbeɪʃənər/",
+                    "meaning": "nhân viên tập sự, người bị quản chế",
+                    "example": ""
+                },
+                {
+                    "word": "sternly",
+                    "phonetic": "/ˈstɜːrnli/",
+                    "meaning": "nghiêm khắc, cứng rắn",
+                    "example": ""
+                }
+            ],
+            "grammars": []
+        },
+        {
+            "sectionId": "day-02-rules-regulations",
+            "sectionName": "Day 02: Rules & Regulations (Phép tắc - Quy định)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "attire",
+                    "phonetic": "/əˈtaɪər/",
+                    "meaning": "quần áo, cách ăn mặc",
+                    "example": "Professional business attire is required of all staff giving presentations."
+                },
+                {
+                    "word": "code",
+                    "phonetic": "/koʊd/",
+                    "meaning": "quy định, điều lệ, mật mã",
+                    "example": "Employees are expected to follow the dress code."
+                },
+                {
+                    "word": "concern",
+                    "phonetic": "/kənˈsɜːrn/",
+                    "meaning": "sự lo lắng, mối quan ngại / vấn đề, việc",
+                    "example": "The board voiced concerns about safety at the meeting.\nCitizens are concerned about the new trade protocol."
+                },
+                {
+                    "word": "policy",
+                    "phonetic": "/ˈpɑːləsi/",
+                    "meaning": "quy chế, chính sách",
+                    "example": "The employee benefit policy will be expanded next year.\nCompanies must distribute health insurance policies to all workers."
+                },
+                {
+                    "word": "comply",
+                    "phonetic": "/kəmˈplaɪ/",
+                    "meaning": "tuân thủ, tuân theo",
+                    "example": "Employees must comply with the regulations governing computer use."
+                },
+                {
+                    "word": "regulation",
+                    "phonetic": "/ˌreɡjuˈleɪʃn/",
+                    "meaning": "quy định, quy tắc, điều lệ",
+                    "example": "Regulations regarding lunch breaks were established."
+                },
+                {
+                    "word": "exception",
+                    "phonetic": "/ɪkˈsepʃn/",
+                    "meaning": "ngoại lệ",
+                    "example": "Management decided not to make any exceptions to the rules."
+                },
+                {
+                    "word": "adhere",
+                    "phonetic": "/ədˈhɪr/",
+                    "meaning": "bám sát, tuân thủ",
+                    "example": "All staff should do their best to adhere to the company's policies."
+                },
+                {
+                    "word": "severely",
+                    "phonetic": "/sɪˈvɪrli/",
+                    "meaning": "nghiêm khắc, khắt khe; gay go, dữ dội",
+                    "example": "Those who share company data with outside parties will be severely punished."
+                },
+                {
+                    "word": "refrain",
+                    "phonetic": "/rɪˈfreɪn/",
+                    "meaning": "kiềm chế, hạn chế",
+                    "example": "Guards should refrain from making personal calls during a shift."
+                },
+                {
+                    "word": "permission",
+                    "phonetic": "/pərˈmɪʃn/",
+                    "meaning": "sự cho phép",
+                    "example": "The CEO gave managers permission to hold a weekend workshop."
+                },
+                {
+                    "word": "access",
+                    "phonetic": "/ˈækses/",
+                    "meaning": "quyền truy cập, sự lui tới, đường vào",
+                    "example": "Only authorized personnel may gain access to client files.\nClick on the link to access the detailed job description."
+                },
+                {
+                    "word": "thoroughly",
+                    "phonetic": "/ˈθɜːroʊli/",
+                    "meaning": "một cách kỹ lưỡng, hoàn toàn, triệt để",
+                    "example": "Please read the user manual thoroughly before installing this software."
+                },
+                {
+                    "word": "revise",
+                    "phonetic": "/rɪˈvaɪz/",
+                    "meaning": "sửa đổi, thay đổi (ý kiến, kế hoạch)",
+                    "example": "The office's policies regarding vacations have been revised."
+                },
+                {
+                    "word": "approach",
+                    "phonetic": "/əˈproʊtʃ/",
+                    "meaning": "cách tiếp cận, phương pháp xử lý / tiếp cận",
+                    "example": "The manager has a strict approach to enforcing office regulations.\nPolice approached carefully to arrest the suspect."
+                },
+                {
+                    "word": "approval",
+                    "phonetic": "/əˈpruːvl/",
+                    "meaning": "sự chấp thuận, sự phê duyệt",
+                    "example": "Please obtain the supervisor's approval before purchasing supplies."
+                },
+                {
+                    "word": "form",
+                    "phonetic": "/fɔːrm/",
+                    "meaning": "kiểu, loại, hình thức",
+                    "example": "Visitors are required to present a form of identification to security guards."
+                },
+                {
+                    "word": "immediately",
+                    "phonetic": "/ɪˈmiːdiətli/",
+                    "meaning": "ngay lập tức",
+                    "example": "Effective immediately, taxes will be automatically deducted from each paycheck."
+                },
+                {
+                    "word": "inspection",
+                    "phonetic": "/ɪnˈspekʃn/",
+                    "meaning": "sự kiểm tra, sự thanh tra",
+                    "example": "The facility inspection should be conducted at least once a month."
+                },
+                {
+                    "word": "arrangement",
+                    "phonetic": "/əˈreɪndʒmənt/",
+                    "meaning": "sự sắp xếp, sự sắp đặt, sự chuẩn bị",
+                    "example": "The manager made arrangements for purchase of new machinery."
+                },
+                {
+                    "word": "procedure",
+                    "phonetic": "/prəˈsiːdʒər/",
+                    "meaning": "thủ tục",
+                    "example": "The procedure for patent applications is outlined on the APTO website."
+                },
+                {
+                    "word": "negative",
+                    "phonetic": "/ˈneɡətɪv/",
+                    "meaning": "tiêu cực, bi quan",
+                    "example": "The new vacation policy received negative feedback from the employees."
+                },
+                {
+                    "word": "mandate",
+                    "phonetic": "/ˈmændeɪt/",
+                    "meaning": "ra lệnh, ủy quyền / lệnh, trát, sự ủy thác",
+                    "example": "The board of directors has mandated an increase for research funding."
+                },
+                {
+                    "word": "effect",
+                    "phonetic": "/ɪˈfekt/",
+                    "meaning": "hiệu ứng, hiệu quả, hiệu lực / thực hiện, đem lại",
+                    "example": "The incentive policy will be in effect starting next week.\nHe effected a sudden change in the company's expansion plan."
+                },
+                {
+                    "word": "drastically",
+                    "phonetic": "/ˈdræstɪkli/",
+                    "meaning": "một cách mạnh mẽ, quyết liệt, triệt để",
+                    "example": "Fines for breaking rules have been drastically increased."
+                },
+                {
+                    "word": "according to",
+                    "phonetic": "/əˈkɔːrdɪŋ tuː/",
+                    "meaning": "theo",
+                    "example": "All transactions must be handled according to the guidelines."
+                },
+                {
+                    "word": "enable",
+                    "phonetic": "/ɪˈneɪbl/",
+                    "meaning": "làm cho có thể, cho phép",
+                    "example": "Jenny's promotion enabled her to participate in the board meeting."
+                },
+                {
+                    "word": "standard",
+                    "phonetic": "/ˈstændərd/",
+                    "meaning": "tiêu chuẩn, chuẩn, trình độ",
+                    "example": "The company must make changes to the current safety standards."
+                },
+                {
+                    "word": "constant",
+                    "phonetic": "/ˈkɑːnstənt/",
+                    "meaning": "liên tục, không ngớt, không dứt",
+                    "example": "The store received constant inquiries about its new return policy."
+                },
+                {
+                    "word": "act",
+                    "phonetic": "/ækt/",
+                    "meaning": "việc, hành động; đạo luật",
+                    "example": "The new act makes it easier to file personal income tax forms online.\nA lawyer always acts on behalf of his clients."
+                },
+                {
+                    "word": "compensation",
+                    "phonetic": "/ˌkɑːmpenˈseɪʃn/",
+                    "meaning": "sự đền bù, sự bồi thường",
+                    "example": "Employees will receive compensation based on their performance and evaluation."
+                },
+                {
+                    "word": "ban",
+                    "phonetic": "/bæn/",
+                    "meaning": "lệnh cấm, sự cấm đoán / cấm",
+                    "example": "The government placed a ban on carrying a large volume of liquid on board a plane."
+                },
+                {
+                    "word": "obligation",
+                    "phonetic": "/ˌɑːblɪˈɡeɪʃn/",
+                    "meaning": "nghĩa vụ, trách nhiệm",
+                    "example": "All researchers have an obligation to publish at least one paper every year."
+                },
+                {
+                    "word": "authorize",
+                    "phonetic": "/ˈɔːθəraɪz/",
+                    "meaning": "ủy quyền, cho phép",
+                    "example": "Allocations of funds must be authorized by management."
+                },
+                {
+                    "word": "prohibit",
+                    "phonetic": "/prəˈhɪbɪt/",
+                    "meaning": "ngăn cấm, ngăn chặn, không cho phép",
+                    "example": "The museum prohibits visitors from taking pictures."
+                },
+                {
+                    "word": "abolish",
+                    "phonetic": "/əˈbɑːlɪʃ/",
+                    "meaning": "thủ tiêu, bãi bỏ, hủy bỏ",
+                    "example": "Congress decided to abolish taxes on imported fruit."
+                },
+                {
+                    "word": "enforce",
+                    "phonetic": "/ɪnˈfɔːrs/",
+                    "meaning": "làm cho có hiệu lực, thúc ép, thi hành",
+                    "example": "All departments must enforce the no smoking policy."
+                },
+                {
+                    "word": "habit",
+                    "phonetic": "/ˈhæbɪt/",
+                    "meaning": "thói quen, tập quán",
+                    "example": "Setting goals should be a regular habit."
+                },
+                {
+                    "word": "legislation",
+                    "phonetic": "/ˌledʒɪsˈleɪʃn/",
+                    "meaning": "sự làm luật, pháp luật, pháp chế",
+                    "example": "The committee unanimously voted for the new export limitation legislation."
+                },
+                {
+                    "word": "restrict",
+                    "phonetic": "/rɪˈstrɪkt/",
+                    "meaning": "giới hạn, hạn chế",
+                    "example": "Access is restricted to authorized personnel."
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "concern + about/over",
+                    "description": "Lo lắng, quan ngại về vấn đề gì.",
+                    "example": "The board voiced concerns about safety at the meeting."
+                },
+                {
+                    "structure": "comply + with",
+                    "description": "Tuân thủ, tuân theo (quy định, luật lệ).",
+                    "example": "Employees must comply with the regulations."
+                },
+                {
+                    "structure": "adhere + to",
+                    "description": "Bám sát, tuân thủ (chính sách, quy tắc).",
+                    "example": "All staff should adhere to the company's policies."
+                },
+                {
+                    "structure": "refrain + from",
+                    "description": "Kiềm chế, hạn chế làm việc gì.",
+                    "example": "Guards should refrain from making personal calls."
+                },
+                {
+                    "structure": "have access to",
+                    "description": "Có quyền truy cập, tiếp cận vào cái gì.",
+                    "example": "Only authorized personnel may gain access to client files."
+                },
+                {
+                    "structure": "prohibit A from -ing",
+                    "description": "Cấm ai làm việc gì.",
+                    "example": "The museum prohibits visitors from taking pictures."
+                },
+                {
+                    "structure": "restrict A to B",
+                    "description": "Hạn chế A đối với B (hoặc trong phạm vi B).",
+                    "example": "Access is restricted to authorized personnel."
+                },
+                {
+                    "structure": "in effect / come into effect",
+                    "description": "Có hiệu lực / Bắt đầu có hiệu lực.",
+                    "example": "The incentive policy will be in effect starting next week."
+                }
+            ]
+        },
+        {
+            "sectionId": "day-02-rules-regulations-800",
+            "sectionName": "Day 02: Rules & Regulations (800 Points)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "against the law",
+                    "phonetic": "/əˈɡenst ðə lɔː/",
+                    "meaning": "phạm luật, chống lại luật",
+                    "example": ""
+                },
+                {
+                    "word": "by all means",
+                    "phonetic": "/baɪ ɔːl miːnz/",
+                    "meaning": "bằng mọi cách, chắc chắn",
+                    "example": ""
+                },
+                {
+                    "word": "by mistake",
+                    "phonetic": "/baɪ mɪˈsteɪk/",
+                    "meaning": "do sơ suất, nhầm lẫn",
+                    "example": ""
+                },
+                {
+                    "word": "come to an end",
+                    "phonetic": "/kʌm tuː ən end/",
+                    "meaning": "chấm dứt, kết thúc",
+                    "example": ""
+                },
+                {
+                    "word": "company regulations",
+                    "phonetic": "/ˈkʌmpəni ˌreɡjuˈleɪʃnz/",
+                    "meaning": "nội quy công ty",
+                    "example": ""
+                },
+                {
+                    "word": "give directions",
+                    "phonetic": "/ɡɪv dəˈrekʃnz/",
+                    "meaning": "đưa ra hướng dẫn, chỉ đường",
+                    "example": ""
+                },
+                {
+                    "word": "hold up",
+                    "phonetic": "/hoʊld ʌp/",
+                    "meaning": "duy trì, chống đỡ; làm đình trệ, giữ lại",
+                    "example": ""
+                },
+                {
+                    "word": "if I'm not mistaken",
+                    "phonetic": "/ɪf aɪm nɑːt mɪˈsteɪkən/",
+                    "meaning": "nếu tôi không nhầm",
+                    "example": ""
+                },
+                {
+                    "word": "in progress",
+                    "phonetic": "/ɪn ˈprɑːɡres/",
+                    "meaning": "đang trong tiến trình, đang diễn ra",
+                    "example": ""
+                },
+                {
+                    "word": "keep in mind",
+                    "phonetic": "/kiːp ɪn maɪnd/",
+                    "meaning": "ghi nhớ, lưu ý rằng",
+                    "example": ""
+                },
+                {
+                    "word": "legal counsel",
+                    "phonetic": "/ˈliːɡl ˈkaʊnsl/",
+                    "meaning": "tư vấn pháp lý, luật sư tư vấn",
+                    "example": ""
+                },
+                {
+                    "word": "self-defense",
+                    "phonetic": "/ˌself dɪˈfens/",
+                    "meaning": "sự tự vệ",
+                    "example": ""
+                },
+                {
+                    "word": "suspect",
+                    "phonetic": "/səˈspekt/ (v), /ˈsʌspekt/ (n)",
+                    "meaning": "nghi ngờ (v); kẻ nghi ngờ, nghi phạm (n)",
+                    "example": ""
+                },
+                {
+                    "word": "take one's advice",
+                    "phonetic": "/teɪk wʌnz ədˈvaɪs/",
+                    "meaning": "làm theo lời khuyên của ai đó",
+                    "example": ""
+                },
+                {
+                    "word": "to one's advantage",
+                    "phonetic": "/tuː wʌnz ədˈvæntɪdʒ/",
+                    "meaning": "thành lợi thế của ai",
+                    "example": ""
+                },
+                {
+                    "word": "under control",
+                    "phonetic": "/ˈʌndər kənˈtroʊl/",
+                    "meaning": "trong tầm kiểm soát",
+                    "example": ""
+                },
+                {
+                    "word": "under the supervision of",
+                    "phonetic": "/ˈʌndər ðə ˌsuːpərˈvɪʒn əv/",
+                    "meaning": "dưới sự giám sát của",
+                    "example": ""
+                },
+                {
+                    "word": "abuse",
+                    "phonetic": "/əˈbjuːs/ (n), /əˈbjuːz/ (v)",
+                    "meaning": "sự lạm dụng (n); lạm dụng (v)",
+                    "example": ""
+                },
+                {
+                    "word": "alert",
+                    "phonetic": "/əˈlɜːrt/",
+                    "meaning": "cảnh báo (v); cảnh giác (adj)",
+                    "example": ""
+                },
+                {
+                    "word": "assessment",
+                    "phonetic": "/əˈsesmənt/",
+                    "meaning": "sự đánh giá",
+                    "example": ""
+                },
+                {
+                    "word": "at all times",
+                    "phonetic": "/ət ɔːl taɪmz/",
+                    "meaning": "mọi lúc, luôn luôn",
+                    "example": ""
+                },
+                {
+                    "word": "authorization",
+                    "phonetic": "/ˌɔːθərəˈzeɪʃn/",
+                    "meaning": "sự cho phép, sự ủy quyền",
+                    "example": ""
+                },
+                {
+                    "word": "concerning",
+                    "phonetic": "/kənˈsɜːrnɪŋ/",
+                    "meaning": "liên quan đến (prep)",
+                    "example": ""
+                },
+                {
+                    "word": "consideration",
+                    "phonetic": "/kənˌsɪdəˈreɪʃn/",
+                    "meaning": "sự cân nhắc, suy xét",
+                    "example": ""
+                },
+                {
+                    "word": "declaration",
+                    "phonetic": "/ˌdekləˈreɪʃn/",
+                    "meaning": "lời tuyên bố, tuyên ngôn",
+                    "example": ""
+                },
+                {
+                    "word": "defensive",
+                    "phonetic": "/dɪˈfensɪv/",
+                    "meaning": "có tính chất phòng thủ, bảo vệ",
+                    "example": ""
+                },
+                {
+                    "word": "depiction",
+                    "phonetic": "/dɪˈpɪkʃn/",
+                    "meaning": "sự miêu tả",
+                    "example": ""
+                },
+                {
+                    "word": "disobedient",
+                    "phonetic": "/ˌdɪsəˈbiːdiənt/",
+                    "meaning": "không vâng lời, nổi loạn",
+                    "example": ""
+                },
+                {
+                    "word": "endure",
+                    "phonetic": "/ɪnˈdʊr/",
+                    "meaning": "chịu đựng, kéo dài",
+                    "example": ""
+                },
+                {
+                    "word": "exemplary",
+                    "phonetic": "/ɪɡˈzempləri/",
+                    "meaning": "gương mẫu, mẫu mực",
+                    "example": ""
+                },
+                {
+                    "word": "ignore",
+                    "phonetic": "/ɪɡˈnɔːr/",
+                    "meaning": "lờ đi, phớt lờ",
+                    "example": ""
+                },
+                {
+                    "word": "illegal",
+                    "phonetic": "/ɪˈliːɡl/",
+                    "meaning": "bất hợp pháp",
+                    "example": ""
+                },
+                {
+                    "word": "in accordance with",
+                    "phonetic": "/ɪn əˈkɔːrdəns wɪð/",
+                    "meaning": "phù hợp với, tuân theo",
+                    "example": ""
+                },
+                {
+                    "word": "indecisive",
+                    "phonetic": "/ˌɪndɪˈsaɪsɪv/",
+                    "meaning": "không quyết đoán, thiếu dứt khoát",
+                    "example": ""
+                },
+                {
+                    "word": "obey",
+                    "phonetic": "/əˈbeɪ/",
+                    "meaning": "tuân theo, vâng lời",
+                    "example": ""
+                },
+                {
+                    "word": "observance",
+                    "phonetic": "/əbˈzɜːrvəns/",
+                    "meaning": "sự tuân thủ",
+                    "example": ""
+                },
+                {
+                    "word": "on-site",
+                    "phonetic": "/ˈɑːn saɪt/",
+                    "meaning": "tại chỗ, tại hiện trường",
+                    "example": ""
+                },
+                {
+                    "word": "penalty",
+                    "phonetic": "/ˈpenəlti/",
+                    "meaning": "hình phạt, tiền phạt",
+                    "example": ""
+                },
+                {
+                    "word": "pointed",
+                    "phonetic": "/ˈpɔɪntɪd/",
+                    "meaning": "sắc bén; được nhắm vào, được nhấn mạnh",
+                    "example": ""
+                },
+                {
+                    "word": "precious",
+                    "phonetic": "/ˈpreʃəs/",
+                    "meaning": "quý giá, quý báu",
+                    "example": ""
+                },
+                {
+                    "word": "principle",
+                    "phonetic": "/ˈprɪnsəpl/",
+                    "meaning": "nguyên tắc",
+                    "example": ""
+                },
+                {
+                    "word": "punishment",
+                    "phonetic": "/ˈpʌnɪʃmənt/",
+                    "meaning": "sự trừng phạt",
+                    "example": ""
+                },
+                {
+                    "word": "regulate",
+                    "phonetic": "/ˈreɡjuleɪt/",
+                    "meaning": "chỉnh đốn, điều chỉnh, quy định",
+                    "example": ""
+                },
+                {
+                    "word": "restricted area",
+                    "phonetic": "/rɪˈstrɪktɪd ˈeriə/",
+                    "meaning": "khu vực giới hạn",
+                    "example": ""
+                },
+                {
+                    "word": "restriction",
+                    "phonetic": "/rɪˈstrɪkʃn/",
+                    "meaning": "sự hạn chế",
+                    "example": ""
+                },
+                {
+                    "word": "safety inspection",
+                    "phonetic": "/ˈseɪfti ɪnˈspekʃn/",
+                    "meaning": "kiểm tra an toàn",
+                    "example": ""
+                },
+                {
+                    "word": "suppress",
+                    "phonetic": "/səˈpres/",
+                    "meaning": "cấm, chặn, ngăn cản, đàn áp",
+                    "example": ""
+                },
+                {
+                    "word": "tensely",
+                    "phonetic": "/ˈtensli/",
+                    "meaning": "một cách căng thẳng",
+                    "example": ""
+                },
+                {
+                    "word": "unauthorized",
+                    "phonetic": "/ʌnˈɔːθəraɪzd/",
+                    "meaning": "không được phép, trái phép",
+                    "example": ""
+                },
+                {
+                    "word": "with respect to",
+                    "phonetic": "/wɪð rɪˈspekt tuː/",
+                    "meaning": "liên quan đến, trong mối quan hệ với",
+                    "example": ""
+                },
+                {
+                    "word": "accuse",
+                    "phonetic": "/əˈkjuːz/",
+                    "meaning": "cáo buộc, buộc tội",
+                    "example": ""
+                },
+                {
+                    "word": "assess",
+                    "phonetic": "/əˈses/",
+                    "meaning": "đánh giá",
+                    "example": ""
+                },
+                {
+                    "word": "attorney",
+                    "phonetic": "/əˈtɜːrni/",
+                    "meaning": "luật sư, người được ủy quyền",
+                    "example": ""
+                },
+                {
+                    "word": "be absent from",
+                    "phonetic": "/bi ˈæbsənt frəm/",
+                    "meaning": "vắng mặt khỏi",
+                    "example": ""
+                },
+                {
+                    "word": "be allowed to do",
+                    "phonetic": "/bi əˈlaʊd tuː duː/",
+                    "meaning": "được phép làm gì",
+                    "example": ""
+                },
+                {
+                    "word": "by way of",
+                    "phonetic": "/baɪ weɪ əv/",
+                    "meaning": "bằng cách, như là một cách",
+                    "example": ""
+                },
+                {
+                    "word": "distrust",
+                    "phonetic": "/dɪsˈtrʌst/",
+                    "meaning": "nghi ngờ (v); sự nghi ngờ (n)",
+                    "example": ""
+                },
+                {
+                    "word": "from this day onward",
+                    "phonetic": "/frəm ðɪs deɪ ˈɔːnwərd/",
+                    "meaning": "từ hôm nay trở đi",
+                    "example": ""
+                },
+                {
+                    "word": "have permission to do",
+                    "phonetic": "/hæv pərˈmɪʃn tuː duː/",
+                    "meaning": "được phép làm gì...",
+                    "example": ""
+                },
+                {
+                    "word": "in a strict way",
+                    "phonetic": "/ɪn ə strɪkt weɪ/",
+                    "meaning": "một cách nghiêm khắc",
+                    "example": ""
+                },
+                {
+                    "word": "make clear",
+                    "phonetic": "/meɪk klɪr/",
+                    "meaning": "làm sáng tỏ",
+                    "example": ""
+                },
+                {
+                    "word": "ministry",
+                    "phonetic": "/ˈmɪnɪstri/",
+                    "meaning": "bộ (trong chính phủ)",
+                    "example": ""
+                },
+                {
+                    "word": "newly established",
+                    "phonetic": "/ˈnuːli ɪˈstæblɪʃt/",
+                    "meaning": "mới được thành lập",
+                    "example": ""
+                },
+                {
+                    "word": "put into effect",
+                    "phonetic": "/pʊt ˈɪntuː ɪˈfekt/",
+                    "meaning": "thực hiện, làm cho xảy ra, thi hành",
+                    "example": ""
+                },
+                {
+                    "word": "registration confirmation",
+                    "phonetic": "/ˌredʒɪˈstreɪʃn ˌkɑːnfərˈmeɪʃn/",
+                    "meaning": "sự xác nhận đăng ký",
+                    "example": ""
+                },
+                {
+                    "word": "stand over",
+                    "phonetic": "/stænd ˈoʊvər/",
+                    "meaning": "đứng kèm bên cạnh, giám sát chặt",
+                    "example": ""
+                },
+                {
+                    "word": "warn",
+                    "phonetic": "/wɔːrn/",
+                    "meaning": "cảnh báo",
+                    "example": ""
+                },
+                {
+                    "word": "without respect to",
+                    "phonetic": "/wɪˈðaʊt rɪˈspekt tuː/",
+                    "meaning": "không quan tâm, không tính đến",
+                    "example": ""
+                }
+            ],
+            "grammars": []
+        },
+        {
+            "sectionId": "day-02-rules-regulations-900",
+            "sectionName": "Day 02: Rules & Regulations (900 Points)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "commonplace",
+                    "phonetic": "/ˈkɑːmənpleɪs/",
+                    "meaning": "điều bình thường, chuyện thường; (adj) tầm thường, cũ rích",
+                    "example": ""
+                },
+                {
+                    "word": "protective smock",
+                    "phonetic": "/prəˈtektɪv smɑːk/",
+                    "meaning": "áo bảo vệ, áo blouse",
+                    "example": ""
+                },
+                {
+                    "word": "testimony",
+                    "phonetic": "/ˈtestɪmoʊni/",
+                    "meaning": "sự chứng nhận, bằng chứng, lời khai",
+                    "example": ""
+                },
+                {
+                    "word": "accordance",
+                    "phonetic": "/əˈkɔːrdəns/",
+                    "meaning": "sự phù hợp",
+                    "example": ""
+                },
+                {
+                    "word": "compel",
+                    "phonetic": "/kəmˈpel/",
+                    "meaning": "bắt buộc, thúc ép",
+                    "example": ""
+                },
+                {
+                    "word": "crucial",
+                    "phonetic": "/ˈkruːʃl/",
+                    "meaning": "cốt yếu, chủ yếu",
+                    "example": ""
+                },
+                {
+                    "word": "effortlessly",
+                    "phonetic": "/ˈefərtləsli/",
+                    "meaning": "dễ dàng, không tốn sức",
+                    "example": ""
+                },
+                {
+                    "word": "in observance of",
+                    "phonetic": "/ɪn əbˈzɜːrvəns əv/",
+                    "meaning": "tuân theo (quy tắc, luật lệ)",
+                    "example": ""
+                },
+                {
+                    "word": "inadvertently",
+                    "phonetic": "/ˌɪnədˈvɜːrtəntli/",
+                    "meaning": "tình cờ, không cố ý",
+                    "example": ""
+                },
+                {
+                    "word": "judicial",
+                    "phonetic": "/dʒuˈdɪʃl/",
+                    "meaning": "thuộc tòa án, do tòa xét xử",
+                    "example": ""
+                },
+                {
+                    "word": "keenly",
+                    "phonetic": "/ˈkiːnli/",
+                    "meaning": "sắc sảo, hăng hái, nhiệt tình",
+                    "example": ""
+                },
+                {
+                    "word": "lawsuit",
+                    "phonetic": "/ˈlɔːsuːt/",
+                    "meaning": "việc kiện cáo, vụ kiện",
+                    "example": ""
+                },
+                {
+                    "word": "observant",
+                    "phonetic": "/əbˈzɜːrvənt/",
+                    "meaning": "tinh mắt; phục tùng, dễ dãi",
+                    "example": ""
+                },
+                {
+                    "word": "off-limits",
+                    "phonetic": "/ˌɔːf ˈlɪmɪts/",
+                    "meaning": "bị cấm, không được lui tới",
+                    "example": ""
+                },
+                {
+                    "word": "ordinance",
+                    "phonetic": "/ˈɔːrdɪnəns/",
+                    "meaning": "sắc lệnh, quy định",
+                    "example": ""
+                },
+                {
+                    "word": "pulled",
+                    "phonetic": "/pʊld/",
+                    "meaning": "bị rút lại",
+                    "example": ""
+                },
+                {
+                    "word": "punctuality",
+                    "phonetic": "/ˌpʌŋktʃuˈæləti/",
+                    "meaning": "sự đúng giờ",
+                    "example": ""
+                },
+                {
+                    "word": "reprimand",
+                    "phonetic": "/ˈreprɪmænd/",
+                    "meaning": "khiển trách, quở trách",
+                    "example": ""
+                },
+                {
+                    "word": "resolution",
+                    "phonetic": "/ˌrezəˈluːʃn/",
+                    "meaning": "nghị quyết, sự quyết tâm",
+                    "example": ""
+                },
+                {
+                    "word": "stiff",
+                    "phonetic": "/stɪf/",
+                    "meaning": "cứng nhắc, không linh động",
+                    "example": ""
+                },
+                {
+                    "word": "substantiate",
+                    "phonetic": "/səbˈstænʃieɪt/",
+                    "meaning": "chứng minh",
+                    "example": ""
+                },
+                {
+                    "word": "trespass",
+                    "phonetic": "/ˈtrespəs/",
+                    "meaning": "xâm phạm, xâm lấn",
+                    "example": ""
+                },
+                {
+                    "word": "violate",
+                    "phonetic": "/ˈvaɪəleɪt/",
+                    "meaning": "vi phạm, xâm phạm",
+                    "example": ""
+                },
+                {
+                    "word": "at the discretion of",
+                    "phonetic": "/ət ðə dɪˈskreʃn əv/",
+                    "meaning": "theo quyết định của",
+                    "example": ""
+                },
+                {
+                    "word": "bound",
+                    "phonetic": "/baʊnd/",
+                    "meaning": "bắt buộc, buộc phải",
+                    "example": ""
+                },
+                {
+                    "word": "circumscribe",
+                    "phonetic": "/ˈsɜːrkəmskraɪb/",
+                    "meaning": "giới hạn, hạn chế",
+                    "example": ""
+                },
+                {
+                    "word": "enactment",
+                    "phonetic": "/ɪˈnæktmənt/",
+                    "meaning": "sự ban hành (đạo luật)",
+                    "example": ""
+                },
+                {
+                    "word": "impeccable",
+                    "phonetic": "/ɪmˈpekəbl/",
+                    "meaning": "hoàn hảo, không tì vết",
+                    "example": ""
+                },
+                {
+                    "word": "infringement",
+                    "phonetic": "/ɪnˈfrɪndʒmənt/",
+                    "meaning": "sự vi phạm, xâm phạm",
+                    "example": ""
+                },
+                {
+                    "word": "legitimate",
+                    "phonetic": "/lɪˈdʒɪtɪmət/",
+                    "meaning": "hợp pháp, chính đáng",
+                    "example": ""
+                },
+                {
+                    "word": "petition",
+                    "phonetic": "/pəˈtɪʃn/",
+                    "meaning": "lời thỉnh cầu, kiến nghị",
+                    "example": ""
+                },
+                {
+                    "word": "when it comes to",
+                    "phonetic": "/wen ɪt kʌmz tuː/",
+                    "meaning": "khi nói đến, khi xem xét đến",
+                    "example": ""
+                }
+            ],
+            "grammars": []
+        },
+        {
+            "sectionId": "day-03-office-work-1",
+            "sectionName": "Day 03: Office Work 1 (Công việc văn phòng 1)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "accustomed",
+                    "phonetic": "/əˈkʌstəmd/",
+                    "meaning": "quen với, thành thói quen",
+                    "example": "All our employees are accustomed to using the new design software."
+                },
+                {
+                    "word": "corporation",
+                    "phonetic": "/ˌkɔːrpəˈreɪʃn/",
+                    "meaning": "công ty, tập đoàn",
+                    "example": "Delroy Lee heads a multinational telecommunications corporation based in Virginia."
+                },
+                {
+                    "word": "demanding",
+                    "phonetic": "/dɪˈmændɪŋ/",
+                    "meaning": "đòi hỏi khắt khe",
+                    "example": "Although Ms. Jenkins is a demanding supervisor, she has a reputation for being fair."
+                },
+                {
+                    "word": "colleague",
+                    "phonetic": "/ˈkɑːliːɡ/",
+                    "meaning": "đồng nghiệp",
+                    "example": "Regular social activities can improve cooperation among colleagues."
+                },
+                {
+                    "word": "division",
+                    "phonetic": "/dɪˈvɪʒn/",
+                    "meaning": "bộ phận, sự phân chia",
+                    "example": "The technician will transfer to the automobile division after training."
+                },
+                {
+                    "word": "request",
+                    "phonetic": "/rɪˈkwest/",
+                    "meaning": "lời yêu cầu, lời thỉnh cầu / yêu cầu",
+                    "example": "Factory tours are available upon request.\nMike requested a copy of the contract from the sales director."
+                },
+                {
+                    "word": "efficiently",
+                    "phonetic": "/ɪˈfɪʃntli/",
+                    "meaning": "một cách hiệu quả",
+                    "example": "The software helps employees work more efficiently."
+                },
+                {
+                    "word": "manage",
+                    "phonetic": "/ˈmænɪdʒ/",
+                    "meaning": "quản lý, xoay xở, giải quyết được",
+                    "example": "The boss decided Colleen could manage the new store.\nThey managed to do the assigned work in time."
+                },
+                {
+                    "word": "submit",
+                    "phonetic": "/səbˈmɪt/",
+                    "meaning": "đệ trình, nộp",
+                    "example": "Applicants should submit a résumé to the personnel manager."
+                },
+                {
+                    "word": "directly",
+                    "phonetic": "/dáɪrektli/",
+                    "meaning": "trực tiếp, thẳng, ngay",
+                    "example": "All regional branches report directly to the head office in Washington."
+                },
+                {
+                    "word": "remind",
+                    "phonetic": "/rɪˈmaɪnd/",
+                    "meaning": "nhắc nhở",
+                    "example": "Ms. Williams reminded Mr. Johnson of his lunch meeting."
+                },
+                {
+                    "word": "instruct",
+                    "phonetic": "/ɪnˈstrʌkt/",
+                    "meaning": "hướng dẫn, chỉ thị, dạy",
+                    "example": "The manager instructed the staff to read the conference materials beforehand."
+                },
+                {
+                    "word": "deadline",
+                    "phonetic": "/ˈdedlaɪn/",
+                    "meaning": "hạn chót, thời hạn",
+                    "example": "The team worked together closely and finished the project ahead of the deadline."
+                },
+                {
+                    "word": "sample",
+                    "phonetic": "/ˈsæmpl/",
+                    "meaning": "vật mẫu, mẫu thử / thử",
+                    "example": "We need to prepare samples of our products for the fair.\nThe customer sampled some cake at the opening of the bakery."
+                },
+                {
+                    "word": "notify",
+                    "phonetic": "/ˈnoʊtɪfaɪ/",
+                    "meaning": "thông báo, cho biết",
+                    "example": "All staff applying for leave must notify their supervisors in writing."
+                },
+                {
+                    "word": "perform",
+                    "phonetic": "/pərˈfɔːrm/",
+                    "meaning": "thi hành, thực hiện, hoạt động",
+                    "example": "All work on the assembly line stopped while equipment repairs were being performed."
+                },
+                {
+                    "word": "monitor",
+                    "phonetic": "/ˈmɑːnɪtər/",
+                    "meaning": "giám sát, theo dõi",
+                    "example": "The new director will monitor progress on the project."
+                },
+                {
+                    "word": "deserve",
+                    "phonetic": "/dɪˈzɜːrv/",
+                    "meaning": "đáng, xứng đáng",
+                    "example": "The person with the highest performance evaluation deserves the Employee of the Year Award."
+                },
+                {
+                    "word": "assignment",
+                    "phonetic": "/əˈsaɪnmənt/",
+                    "meaning": "công việc, nhiệm vụ, bài tập",
+                    "example": "Walter took the assignment in India because he was promised a promotion there."
+                },
+                {
+                    "word": "entire",
+                    "phonetic": "/ɪnˈtaɪər/",
+                    "meaning": "trọn vẹn, hoàn toàn",
+                    "example": "The entire team gathers every Monday morning to discuss plans for the week."
+                },
+                {
+                    "word": "release",
+                    "phonetic": "/rɪˈliːs/",
+                    "meaning": "phát hành, làm nhẹ bớt / sự phát hành, sự ra mắt",
+                    "example": "The company released its annual report.\nThe new clothing line will be ready for release by early next year."
+                },
+                {
+                    "word": "extension",
+                    "phonetic": "/ɪkˈstenʃn/",
+                    "meaning": "sự gia hạn, sự kéo dài; máy lẻ (điện thoại)",
+                    "example": "The manager granted an extension of the deadline.\nTo reach Mr. Jackson, call our main office and press extension number 727."
+                },
+                {
+                    "word": "electronically",
+                    "phonetic": "/ɪˌlekˈtrɑːnɪkli/",
+                    "meaning": "bằng điện tử",
+                    "example": "It saves time and resources to send invoices electronically."
+                },
+                {
+                    "word": "attendance",
+                    "phonetic": "/əˈtendəns/",
+                    "meaning": "sự tham gia, sự có mặt",
+                    "example": "Attendance records are taken into consideration when determining eligibility for promotion."
+                },
+                {
+                    "word": "absolutely",
+                    "phonetic": "/ˈæbsəluːtli/",
+                    "meaning": "hoàn toàn, chắc chắn, nhất định",
+                    "example": "It is absolutely necessary that everyone on the board is in agreement with the plan."
+                },
+                {
+                    "word": "delegate",
+                    "phonetic": "/ˈdelɪɡeɪt/ (v), /ˈdelɪɡət/ (n)",
+                    "meaning": "ủy quyền, giao phó (v); đại biểu (n)",
+                    "example": "Managers must be skilled in delegating responsibilities to subordinates.\nA delegate sent to the trade fair returned with a profitable business deal."
+                },
+                {
+                    "word": "attentively",
+                    "phonetic": "/əˈtentɪvli/",
+                    "meaning": "chăm chú, thận trọng",
+                    "example": "Stockholders listened attentively as executives explained the company strategy."
+                },
+                {
+                    "word": "supervision",
+                    "phonetic": "/ˌsuːpərˈvɪʒn/",
+                    "meaning": "sự giám sát",
+                    "example": "Close supervision ensures high quality."
+                },
+                {
+                    "word": "workshop",
+                    "phonetic": "/ˈwɜːrkʃɑːp/",
+                    "meaning": "hội thảo, buổi đào tạo",
+                    "example": "Mr. Kim was asked to speak at the workshop on Friday."
+                },
+                {
+                    "word": "draw",
+                    "phonetic": "/drɔː/",
+                    "meaning": "lôi kéo, thu hút",
+                    "example": "The company's annual conference usually draws 800 employees from around the world."
+                },
+                {
+                    "word": "revision",
+                    "phonetic": "/rɪˈvɪʒn/",
+                    "meaning": "sự sửa lại, duyệt lại",
+                    "example": "The team manager will make revisions to the proposal."
+                },
+                {
+                    "word": "reluctantly",
+                    "phonetic": "/rɪˈlʌktəntli/",
+                    "meaning": "miễn cưỡng, bất đắc dĩ",
+                    "example": "Ms. Danvers reluctantly agreed to cut the advertising budget."
+                },
+                {
+                    "word": "acquaint",
+                    "phonetic": "/əˈkweɪnt/",
+                    "meaning": "làm quen với, làm cho ai quen với",
+                    "example": "The training program acquaints new employees with company procedures."
+                },
+                {
+                    "word": "convey",
+                    "phonetic": "/kənˈveɪ/",
+                    "meaning": "truyền đạt, vận chuyển",
+                    "example": "The secretary urgently conveyed the message to the director."
+                },
+                {
+                    "word": "check",
+                    "phonetic": "/tʃek/",
+                    "meaning": "kiểm tra, xem xét, xác nhận",
+                    "example": "Please check your computer regularly for disk errors.\nClick this link to check for the latest updates."
+                },
+                {
+                    "word": "headquarters",
+                    "phonetic": "/ˈhedkwɔːrtərz/",
+                    "meaning": "trụ sở chính",
+                    "example": "The company headquarters is located in London."
+                },
+                {
+                    "word": "file",
+                    "phonetic": "/faɪl/",
+                    "meaning": "sắp xếp, lưu giữ (hồ sơ); trình lên, đưa ra (văn kiện)",
+                    "example": "Old accounting documents are filed in the storage room.\nThe department filed an insurance claim for the water damage."
+                },
+                {
+                    "word": "oversee",
+                    "phonetic": "/ˌoʊvərˈsiː/",
+                    "meaning": "quan sát, giám sát",
+                    "example": "Natalie will oversee the office relocation process."
+                },
+                {
+                    "word": "involved",
+                    "phonetic": "/ɪnˈvɑːlvd/",
+                    "meaning": "có tham gia vào, có liên quan, dính líu",
+                    "example": "Dr. Mair was deeply involved in the decision-making process."
+                },
+                {
+                    "word": "concentrate",
+                    "phonetic": "/ˈkɑːnsntreɪt/",
+                    "meaning": "tập trung, chú tâm",
+                    "example": "The sales team concentrated on developing new strategies."
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "be accustomed to -ing",
+                    "description": "Quen với việc làm gì đó.",
+                    "example": "Be accustomed to using the new software."
+                },
+                {
+                    "structure": "manage to do",
+                    "description": "Xoay xở để làm được việc gì, thành công trong việc làm gì.",
+                    "example": "They managed to do the assigned work in time."
+                },
+                {
+                    "structure": "submit A to B",
+                    "description": "Nộp cái gì (A) cho ai (B).",
+                    "example": "Submit a résumé to the personnel manager."
+                },
+                {
+                    "structure": "remind sb of sth / remind sb to do",
+                    "description": "Nhắc ai về việc gì / Nhắc ai làm gì.",
+                    "example": "Ms. Williams reminded Mr. Johnson of his lunch meeting."
+                },
+                {
+                    "structure": "acquaint A with B",
+                    "description": "Làm cho A quen với B (hoặc phổ biến B cho A).",
+                    "example": "The training program acquaints new employees with company procedures."
+                },
+                {
+                    "structure": "be involved in",
+                    "description": "Tham gia vào, liên quan đến.",
+                    "example": "Be involved in the decision-making process."
+                },
+                {
+                    "structure": "concentrate on",
+                    "description": "Tập trung vào vấn đề gì.",
+                    "example": "Concentrate on developing new strategies."
+                }
+            ]
+        },
+        {
+            "sectionId": "day-03-office-work-1-800",
+            "sectionName": "Day 03: Office Work 1 (800 Points)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "adjust the mirror",
+                    "phonetic": "/əˈdʒʌst ðə ˈmɪrər/",
+                    "meaning": "điều chỉnh gương",
+                    "example": ""
+                },
+                {
+                    "word": "advance reservation",
+                    "phonetic": "/ədˈvæns ˌrezərˈveɪʃn/",
+                    "meaning": "đặt trước",
+                    "example": ""
+                },
+                {
+                    "word": "arrange an appointment",
+                    "phonetic": "/əˈreɪndʒ ən əˈpɔɪntmənt/",
+                    "meaning": "sắp xếp một cuộc hẹn",
+                    "example": ""
+                },
+                {
+                    "word": "bulletin board",
+                    "phonetic": "/ˈbʊlətɪn bɔːrd/",
+                    "meaning": "bảng thông báo",
+                    "example": ""
+                },
+                {
+                    "word": "call back",
+                    "phonetic": "/kɔːl bæk/",
+                    "meaning": "gọi lại",
+                    "example": ""
+                },
+                {
+                    "word": "confused",
+                    "phonetic": "/kənˈfjuːzd/",
+                    "meaning": "bối rối, lúng túng",
+                    "example": ""
+                },
+                {
+                    "word": "deadline",
+                    "phonetic": "/ˈdedlaɪn/",
+                    "meaning": "hạn chót, thời hạn",
+                    "example": ""
+                },
+                {
+                    "word": "errand",
+                    "phonetic": "/ˈerənd/",
+                    "meaning": "việc lặt vặt",
+                    "example": ""
+                },
+                {
+                    "word": "extend an invitation",
+                    "phonetic": "/ɪkˈstend ən ˌɪnvɪˈteɪʃn/",
+                    "meaning": "đưa ra lời mời",
+                    "example": ""
+                },
+                {
+                    "word": "get a permit",
+                    "phonetic": "/ɡet ə ˈpɜːrmɪt/",
+                    "meaning": "xin phép",
+                    "example": ""
+                },
+                {
+                    "word": "hand in",
+                    "phonetic": "/hænd ɪn/",
+                    "meaning": "nộp, gửi",
+                    "example": ""
+                },
+                {
+                    "word": "have a day off",
+                    "phonetic": "/hæv ə deɪ ɔːf/",
+                    "meaning": "có một ngày nghỉ",
+                    "example": ""
+                },
+                {
+                    "word": "have a long day",
+                    "phonetic": "/hæv ə lɔːŋ deɪ/",
+                    "meaning": "có một ngày dài",
+                    "example": ""
+                },
+                {
+                    "word": "head up",
+                    "phonetic": "/hed ʌp/",
+                    "meaning": "lãnh đạo, điều hành",
+                    "example": ""
+                },
+                {
+                    "word": "in a hurry",
+                    "phonetic": "/ɪn ə ˈhɜːri/",
+                    "meaning": "đang vội, vội vã",
+                    "example": ""
+                },
+                {
+                    "word": "in alphabetical order",
+                    "phonetic": "/ɪn ˌælfəˈbetɪkl ˈɔːrdər/",
+                    "meaning": "theo thứ tự bảng chữ cái",
+                    "example": ""
+                },
+                {
+                    "word": "in luck",
+                    "phonetic": "/ɪn lʌk/",
+                    "meaning": "may mắn",
+                    "example": ""
+                },
+                {
+                    "word": "leave A up to B",
+                    "phonetic": "/liːv ... ʌp tuː .../",
+                    "meaning": "để A cho B",
+                    "example": ""
+                },
+                {
+                    "word": "leave A with B",
+                    "phonetic": "/liːv ... wɪð .../",
+                    "meaning": "để A lại với B",
+                    "example": ""
+                },
+                {
+                    "word": "listing",
+                    "phonetic": "/ˈlɪstɪŋ/",
+                    "meaning": "danh sách",
+                    "example": ""
+                },
+                {
+                    "word": "make a call",
+                    "phonetic": "/meɪk ə kɔːl/",
+                    "meaning": "gọi điện thoại",
+                    "example": ""
+                },
+                {
+                    "word": "make a correction",
+                    "phonetic": "/meɪk ə kəˈrekʃn/",
+                    "meaning": "sửa sai",
+                    "example": ""
+                },
+                {
+                    "word": "make a final change",
+                    "phonetic": "/meɪk ə ˈfaɪnl tʃeɪndʒ/",
+                    "meaning": "thực hiện thay đổi cuối cùng",
+                    "example": ""
+                },
+                {
+                    "word": "make a note of",
+                    "phonetic": "/meɪk ə noʊt əv/",
+                    "meaning": "ghi lại",
+                    "example": ""
+                },
+                {
+                    "word": "make an impression",
+                    "phonetic": "/meɪk ən ɪmˈpreʃn/",
+                    "meaning": "tạo ấn tượng",
+                    "example": ""
+                },
+                {
+                    "word": "move ahead with",
+                    "phonetic": "/muːv əˈhed wɪð/",
+                    "meaning": "tiến hành, xúc tiến",
+                    "example": ""
+                },
+                {
+                    "word": "on a business trip",
+                    "phonetic": "/ɑːn ə ˈbɪznəs trɪp/",
+                    "meaning": "trong chuyến công tác",
+                    "example": ""
+                },
+                {
+                    "word": "on a weekly basis",
+                    "phonetic": "/ɑːn ə ˈwiːkli ˈbeɪsɪs/",
+                    "meaning": "hằng tuần, mỗi tuần",
+                    "example": ""
+                },
+                {
+                    "word": "on business",
+                    "phonetic": "/ɑːn ˈbɪznəs/",
+                    "meaning": "đi công tác",
+                    "example": ""
+                },
+                {
+                    "word": "on duty",
+                    "phonetic": "/ɑːn ˈduːti/",
+                    "meaning": "trong ca trực",
+                    "example": ""
+                },
+                {
+                    "word": "pick up the phone",
+                    "phonetic": "/pɪk ʌp ðə foʊn/",
+                    "meaning": "nghe điện thoại",
+                    "example": ""
+                },
+                {
+                    "word": "scrub",
+                    "phonetic": "/skrʌb/",
+                    "meaning": "chà xát, chùi",
+                    "example": ""
+                },
+                {
+                    "word": "seal",
+                    "phonetic": "/siːl/",
+                    "meaning": "dấu niêm phong; (v) đóng dấu",
+                    "example": ""
+                },
+                {
+                    "word": "speak into the microphone",
+                    "phonetic": "/spiːk ˈɪntuː ðə ˈmaɪkrəfoʊn/",
+                    "meaning": "nói vào micro",
+                    "example": ""
+                },
+                {
+                    "word": "speak on the phone",
+                    "phonetic": "/spiːk ɑːn ðə foʊn/",
+                    "meaning": "nói chuyện điện thoại",
+                    "example": ""
+                },
+                {
+                    "word": "stand in a line",
+                    "phonetic": "/stænd ɪn ə laɪn/",
+                    "meaning": "đứng thành một hàng",
+                    "example": ""
+                },
+                {
+                    "word": "take a message",
+                    "phonetic": "/teɪk ə ˈmesɪdʒ/",
+                    "meaning": "nhận lời nhắn",
+                    "example": ""
+                },
+                {
+                    "word": "take apart",
+                    "phonetic": "/teɪk əˈpɑːrt/",
+                    "meaning": "tách ra, tháo ra",
+                    "example": ""
+                },
+                {
+                    "word": "utility provider",
+                    "phonetic": "/juːˈtɪləti prəˈvaɪdər/",
+                    "meaning": "nhà cung cấp tiện ích",
+                    "example": ""
+                },
+                {
+                    "word": "acquired",
+                    "phonetic": "/əˈkwaɪərd/",
+                    "meaning": "thu được, giành được",
+                    "example": ""
+                },
+                {
+                    "word": "adapt",
+                    "phonetic": "/əˈdæpt/",
+                    "meaning": "thích nghi",
+                    "example": ""
+                },
+                {
+                    "word": "administer",
+                    "phonetic": "/ədˈmɪnɪstər/",
+                    "meaning": "quản lý, thi hành",
+                    "example": ""
+                },
+                {
+                    "word": "clerical",
+                    "phonetic": "/ˈklerɪkl/",
+                    "meaning": "thuộc về công việc văn phòng",
+                    "example": ""
+                },
+                {
+                    "word": "conclusive",
+                    "phonetic": "/kənˈkluːsɪv/",
+                    "meaning": "quyết đoán (theo sách); xác định",
+                    "example": ""
+                },
+                {
+                    "word": "delete",
+                    "phonetic": "/dɪˈliːt/",
+                    "meaning": "xóa",
+                    "example": ""
+                },
+                {
+                    "word": "editorial",
+                    "phonetic": "/ˌedɪˈtɔːriəl/",
+                    "meaning": "thuộc về biên tập",
+                    "example": ""
+                },
+                {
+                    "word": "endless",
+                    "phonetic": "/ˈendləs/",
+                    "meaning": "vô tận, vĩnh cửu",
+                    "example": ""
+                },
+                {
+                    "word": "in one's absence",
+                    "phonetic": "/ɪn wʌnz ˈæbsəns/",
+                    "meaning": "khi ai đó đi vắng, thay mặt ai đó",
+                    "example": ""
+                },
+                {
+                    "word": "on purpose",
+                    "phonetic": "/ɑːn ˈpɜːrpəs/",
+                    "meaning": "cố tình",
+                    "example": ""
+                },
+                {
+                    "word": "overseas",
+                    "phonetic": "/ˌoʊvərˈsiːz/",
+                    "meaning": "hải ngoại; (adv) ở nước ngoài",
+                    "example": ""
+                },
+                {
+                    "word": "perceive",
+                    "phonetic": "/pərˈsiːv/",
+                    "meaning": "nhận thức",
+                    "example": ""
+                },
+                {
+                    "word": "reminder",
+                    "phonetic": "/rɪˈmaɪndər/",
+                    "meaning": "vật nhắc nhở, lời nhắc nhở",
+                    "example": ""
+                },
+                {
+                    "word": "strive",
+                    "phonetic": "/straɪv/",
+                    "meaning": "đấu tranh",
+                    "example": ""
+                },
+                {
+                    "word": "translate",
+                    "phonetic": "/trænzˈleɪt/",
+                    "meaning": "dịch",
+                    "example": ""
+                },
+                {
+                    "word": "boardroom",
+                    "phonetic": "/ˈbɔːrdruːm/",
+                    "meaning": "phòng họp",
+                    "example": ""
+                },
+                {
+                    "word": "familiarize",
+                    "phonetic": "/fəˈmɪliəraɪz/",
+                    "meaning": "làm cho quen với",
+                    "example": ""
+                },
+                {
+                    "word": "in person",
+                    "phonetic": "/ɪn ˈpɜːrsn/",
+                    "meaning": "cá nhân, trực tiếp",
+                    "example": ""
+                },
+                {
+                    "word": "including",
+                    "phonetic": "/ɪnˈkluːdɪŋ/",
+                    "meaning": "bao gồm",
+                    "example": ""
+                },
+                {
+                    "word": "on time",
+                    "phonetic": "/ɑːn taɪm/",
+                    "meaning": "đúng giờ",
+                    "example": ""
+                },
+                {
+                    "word": "panic",
+                    "phonetic": "/ˈpænɪk/",
+                    "meaning": "hoảng loạn, hoang mang",
+                    "example": ""
+                },
+                {
+                    "word": "past due",
+                    "phonetic": "/pæst duː/",
+                    "meaning": "quá hạn",
+                    "example": ""
+                },
+                {
+                    "word": "put forward",
+                    "phonetic": "/pʊt ˈfɔːrwərd/",
+                    "meaning": "đưa ra, đề xuất",
+                    "example": ""
+                },
+                {
+                    "word": "regard A as B",
+                    "phonetic": "/rɪˈɡɑːrd ... æz .../",
+                    "meaning": "coi A là B",
+                    "example": ""
+                },
+                {
+                    "word": "return one's call",
+                    "phonetic": "/rɪˈtɜːrn wʌnz kɔːl/",
+                    "meaning": "gọi lại cho ai đó",
+                    "example": ""
+                },
+                {
+                    "word": "secretarial",
+                    "phonetic": "/ˌsekrəˈteriəl/",
+                    "meaning": "(thuộc) thư ký",
+                    "example": ""
+                },
+                {
+                    "word": "take charge of",
+                    "phonetic": "/teɪk tʃɑːrdʒ əv/",
+                    "meaning": "phụ trách",
+                    "example": ""
+                },
+                {
+                    "word": "take on responsibility",
+                    "phonetic": "/teɪk ɑːn rɪˌspɑːnsəˈbɪləti/",
+                    "meaning": "chịu trách nhiệm",
+                    "example": ""
+                },
+                {
+                    "word": "throw one's effort into",
+                    "phonetic": "/θroʊ wʌnz ˈefərt ˈɪntuː/",
+                    "meaning": "dồn hết nỗ lực của ai đó vào",
+                    "example": ""
+                }
+            ],
+            "grammars": []
+        },
+        {
+            "sectionId": "day-03-office-work-1-900",
+            "sectionName": "Day 03: Office Work 1 (900 Points)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "arrange items on the shelf",
+                    "phonetic": "/əˈreɪndʒ ˈaɪtəmz ɑːn ðə ʃelf/",
+                    "meaning": "sắp xếp đồ trên giá",
+                    "example": ""
+                },
+                {
+                    "word": "call in sick",
+                    "phonetic": "/kɔːl ɪn sɪk/",
+                    "meaning": "gọi điện thoại báo ốm",
+                    "example": ""
+                },
+                {
+                    "word": "cover one's shift",
+                    "phonetic": "/ˈkʌvər wʌnz ʃɪft/",
+                    "meaning": "làm thay ca của ai đó",
+                    "example": ""
+                },
+                {
+                    "word": "day-to-day operation",
+                    "phonetic": "/ˌdeɪ tə ˌdeɪ ˌɑːpəˈreɪʃn/",
+                    "meaning": "công việc hằng ngày",
+                    "example": ""
+                },
+                {
+                    "word": "in line with",
+                    "phonetic": "/ɪn laɪn wɪð/",
+                    "meaning": "phù hợp với",
+                    "example": ""
+                },
+                {
+                    "word": "officiate",
+                    "phonetic": "/əˈfɪʃieɪt/",
+                    "meaning": "thi hành nhiệm vụ, làm bổn phận",
+                    "example": ""
+                },
+                {
+                    "word": "on hold",
+                    "phonetic": "/ɑːn hoʊld/",
+                    "meaning": "tạm dừng; chờ máy (điện thoại)",
+                    "example": ""
+                },
+                {
+                    "word": "set down to work",
+                    "phonetic": "/set daʊn tuː wɜːrk/",
+                    "meaning": "bắt đầu làm, bắt đầu thực hiện",
+                    "example": ""
+                },
+                {
+                    "word": "stay awake",
+                    "phonetic": "/steɪ əˈweɪk/",
+                    "meaning": "giữ tỉnh táo",
+                    "example": ""
+                },
+                {
+                    "word": "strew",
+                    "phonetic": "/struː/",
+                    "meaning": "rải, rắc, phân tán",
+                    "example": ""
+                },
+                {
+                    "word": "take the place of",
+                    "phonetic": "/teɪk ðə pleɪs əv/",
+                    "meaning": "thay thế",
+                    "example": ""
+                },
+                {
+                    "word": "take turns",
+                    "phonetic": "/teɪk tɜːrnz/",
+                    "meaning": "lần lượt, thay phiên",
+                    "example": ""
+                },
+                {
+                    "word": "behind schedule",
+                    "phonetic": "/bɪˈhaɪnd ˈskedʒuːl/",
+                    "meaning": "chậm tiến độ",
+                    "example": ""
+                },
+                {
+                    "word": "condense",
+                    "phonetic": "/kənˈdens/",
+                    "meaning": "làm đặc lại; nói (viết) cô đọng",
+                    "example": ""
+                },
+                {
+                    "word": "follow up on",
+                    "phonetic": "/ˈfɑːloʊ ʌp ɑːn/",
+                    "meaning": "theo đuổi, điều tra",
+                    "example": ""
+                },
+                {
+                    "word": "in writing",
+                    "phonetic": "/ɪn ˈraɪtɪŋ/",
+                    "meaning": "bằng văn bản",
+                    "example": ""
+                },
+                {
+                    "word": "popularize",
+                    "phonetic": "/ˈpɑːpjələraɪz/",
+                    "meaning": "truyền bá, phổ cập",
+                    "example": ""
+                },
+                {
+                    "word": "productively",
+                    "phonetic": "/prəˈdʌktɪvli/",
+                    "meaning": "có năng suất, màu mỡ",
+                    "example": ""
+                },
+                {
+                    "word": "sincerity",
+                    "phonetic": "/sɪnˈserəti/",
+                    "meaning": "sự thật thà, trung thực",
+                    "example": ""
+                },
+                {
+                    "word": "utilization",
+                    "phonetic": "/ˌjuːtələˈzeɪʃn/",
+                    "meaning": "sự dùng, sự tận dụng",
+                    "example": ""
+                },
+                {
+                    "word": "administrative",
+                    "phonetic": "/ədˈmɪnɪstreɪtɪv/",
+                    "meaning": "(thuộc) hành chính",
+                    "example": ""
+                },
+                {
+                    "word": "be affiliated with",
+                    "phonetic": "/bi əˈfɪlieɪtɪd wɪð/",
+                    "meaning": "được liên kết với",
+                    "example": ""
+                },
+                {
+                    "word": "conglomerate",
+                    "phonetic": "/kənˈɡlɑːmərət/",
+                    "meaning": "tập đoàn (đa ngành)",
+                    "example": ""
+                },
+                {
+                    "word": "default",
+                    "phonetic": "/dɪˈfɔːlt/",
+                    "meaning": "sự bỏ mặc, sự thiếu",
+                    "example": ""
+                },
+                {
+                    "word": "impending",
+                    "phonetic": "/ɪmˈpendɪŋ/",
+                    "meaning": "sắp xảy ra",
+                    "example": ""
+                },
+                {
+                    "word": "proponent",
+                    "phonetic": "/prəˈpoʊnənt/",
+                    "meaning": "người bào chữa, người bênh vực",
+                    "example": ""
+                },
+                {
+                    "word": "proprietor",
+                    "phonetic": "/prəˈpraɪətər/",
+                    "meaning": "chủ sở hữu",
+                    "example": ""
+                },
+                {
+                    "word": "site inspection",
+                    "phonetic": "/saɪt ɪnˈspekʃn/",
+                    "meaning": "giám sát hiện trường",
+                    "example": ""
+                },
+                {
+                    "word": "subordinate",
+                    "phonetic": "/səˈbɔːrdɪnət/",
+                    "meaning": "cấp dưới",
+                    "example": ""
+                },
+                {
+                    "word": "subsidiary",
+                    "phonetic": "/səbˈsɪdieri/",
+                    "meaning": "công ty con",
+                    "example": ""
+                },
+                {
+                    "word": "take initiative",
+                    "phonetic": "/teɪk ɪˈnɪʃətɪv/",
+                    "meaning": "khởi xướng, tiên phong",
+                    "example": ""
+                },
+                {
+                    "word": "telecommute",
+                    "phonetic": "/ˌtelikəˈmjuːt/",
+                    "meaning": "làm việc tại nhà",
+                    "example": ""
+                }
+            ],
+            "grammars": []
+        },
+        {
+            "sectionId": "day-04-office-work-2",
+            "sectionName": "Day 04: Office Work 2 (Công việc văn phòng 2)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "lax",
+                    "phonetic": "/læks/",
+                    "meaning": "không cẩn thận, lơ là",
+                    "example": "As of late, the staff has been rather lax in turning in reports."
+                },
+                {
+                    "word": "procrastinate",
+                    "phonetic": "/proʊˈkræstɪneɪt/",
+                    "meaning": "trì hoãn, chần chừ",
+                    "example": "Mr. Jones procrastinated with his fund request and missed the deadline."
+                },
+                {
+                    "word": "combined",
+                    "phonetic": "/kəmˈbaɪnd/",
+                    "meaning": "được kết hợp, chung, tổng hợp",
+                    "example": "Retail Specialists employs professionals with a combined experience of 30 years in sales."
+                },
+                {
+                    "word": "accomplish",
+                    "phonetic": "/əˈkɑːmplɪʃ/",
+                    "meaning": "hoàn thành, làm xong, đạt được",
+                    "example": "Careful planning is essential for accomplishing goals."
+                },
+                {
+                    "word": "voluntarily",
+                    "phonetic": "/ˌvɑːlənˈterəli/",
+                    "meaning": "tự nguyện, tình nguyện",
+                    "example": "He voluntarily took on the challenging assignment in order to gain experience."
+                },
+                {
+                    "word": "undertake",
+                    "phonetic": "/ˌʌndərˈteɪk/",
+                    "meaning": "đảm nhận, tiếp quản",
+                    "example": "She had to undertake the task on short notice."
+                },
+                {
+                    "word": "assume",
+                    "phonetic": "/əˈsuːm/",
+                    "meaning": "cho rằng (là đúng); đảm đương, gánh vác",
+                    "example": "The management assumes employees are satisfied.\nThe marketing department will assume responsibility for the project."
+                },
+                {
+                    "word": "occasionally",
+                    "phonetic": "/əˈkeɪʒnəli/",
+                    "meaning": "thỉnh thoảng, đôi khi",
+                    "example": "Staff should occasionally take time to relax so they do not get tired."
+                },
+                {
+                    "word": "employee",
+                    "phonetic": "/ɪmˈplɔɪiː/",
+                    "meaning": "nhân viên, người lao động",
+                    "example": "There are only three employees working under Ms. Anderson."
+                },
+                {
+                    "word": "assist",
+                    "phonetic": "/əˈsɪst/",
+                    "meaning": "trợ giúp, hỗ trợ",
+                    "example": "A staff member assisted with preparations for the conference."
+                },
+                {
+                    "word": "satisfied",
+                    "phonetic": "/ˈsætɪsfaɪd/",
+                    "meaning": "hài lòng, thỏa mãn",
+                    "example": "Not everyone was satisfied with changes to the overtime policy."
+                },
+                {
+                    "word": "manner",
+                    "phonetic": "/ˈmænər/",
+                    "meaning": "cách, lối; thái độ, cử chỉ",
+                    "example": "Sean was annoyed by the manner in which his boss gave him orders."
+                },
+                {
+                    "word": "responsible",
+                    "phonetic": "/rɪˈspɑːnsəbl/",
+                    "meaning": "có trách nhiệm, chịu trách nhiệm",
+                    "example": "Businesses are responsible for ensuring customer satisfaction."
+                },
+                {
+                    "word": "conduct",
+                    "phonetic": "/kənˈdʌkt/",
+                    "meaning": "tiến hành, chỉ đạo, điều khiển",
+                    "example": "IJMR Ltd.'s technology department will conduct the research study."
+                },
+                {
+                    "word": "adjust",
+                    "phonetic": "/əˈdʒʌst/",
+                    "meaning": "điều chỉnh, làm cho thích hợp",
+                    "example": "The employees quickly adjusted to the new e-mail system."
+                },
+                {
+                    "word": "personnel",
+                    "phonetic": "/ˌpɜːrsəˈnel/",
+                    "meaning": "nhân viên, công chức (bộ phận nhân sự)",
+                    "example": "We often use an agency to find reliable temporary personnel."
+                },
+                {
+                    "word": "agree",
+                    "phonetic": "/əˈɡriː/",
+                    "meaning": "đồng ý",
+                    "example": "The team agreed on the recommendations of the advisor."
+                },
+                {
+                    "word": "supervise",
+                    "phonetic": "/ˈsuːpərvaɪz/",
+                    "meaning": "giám sát",
+                    "example": "Ms. Wilson supervises the employees in sector B."
+                },
+                {
+                    "word": "coworker",
+                    "phonetic": "/ˌkoʊˈwɜːrkər/",
+                    "meaning": "đồng nghiệp",
+                    "example": "Coworkers who live near each other often travel to work together."
+                },
+                {
+                    "word": "direct",
+                    "phonetic": "/dəˈrekt/",
+                    "meaning": "hướng dẫn, chỉ đạo",
+                    "example": "The receptionist directs new employees to the auditorium."
+                },
+                {
+                    "word": "confidential",
+                    "phonetic": "/ˌkɑːnfɪˈdenʃl/",
+                    "meaning": "bí mật, cẩn mật, tuyệt mật",
+                    "example": "Internal documents must be kept confidential."
+                },
+                {
+                    "word": "assign",
+                    "phonetic": "/əˈsaɪn/",
+                    "meaning": "phân công, bổ nhiệm",
+                    "example": "The office manager assigned desks to the new recruits."
+                },
+                {
+                    "word": "leading",
+                    "phonetic": "/ˈliːdɪŋ/",
+                    "meaning": "dẫn đầu, tiên phong, hàng đầu",
+                    "example": "Shepherd Inc. is a leading exporter in the wood furniture industry."
+                },
+                {
+                    "word": "formal",
+                    "phonetic": "/ˈfɔːrml/",
+                    "meaning": "trang trọng, chính thức",
+                    "example": "The awards ceremony requires wearing formal business attire."
+                },
+                {
+                    "word": "remove",
+                    "phonetic": "/rɪˈmuːv/",
+                    "meaning": "xóa, dẹp; đuổi, cách chức",
+                    "example": "The vice president was removed from his position because of a scandal."
+                },
+                {
+                    "word": "collect",
+                    "phonetic": "/kəˈlekt/",
+                    "meaning": "thu thập, tập hợp",
+                    "example": "The author collected management ideas from around the world for his book."
+                },
+                {
+                    "word": "coordinate",
+                    "phonetic": "/koʊˈɔːrdɪneɪt/",
+                    "meaning": "điều phối, kết hợp",
+                    "example": "The Chicago office coordinated the planning process."
+                },
+                {
+                    "word": "hardly",
+                    "phonetic": "/ˈhɑːrdli/",
+                    "meaning": "hiếm khi, khó khăn, hầu như không",
+                    "example": "She was hardly ever late for her shift."
+                },
+                {
+                    "word": "abstract",
+                    "phonetic": "/ˈæbstrækt/",
+                    "meaning": "trừu tượng, mơ hồ",
+                    "example": "Copland spent thousands of dollars on an abstract painting for the lobby."
+                },
+                {
+                    "word": "directory",
+                    "phonetic": "/dəˈrektəri/",
+                    "meaning": "danh bạ, sổ địa chỉ",
+                    "example": "The company directory shows where the marketing department is."
+                },
+                {
+                    "word": "accountable",
+                    "phonetic": "/əˈkaʊntəbl/",
+                    "meaning": "chịu trách nhiệm, có thể giải thích được",
+                    "example": "All employees are accountable for the duties they have been assigned to complete."
+                },
+                {
+                    "word": "skillfully",
+                    "phonetic": "/ˈskɪlfəli/",
+                    "meaning": "thành thạo, khéo léo",
+                    "example": "Brenda skillfully edited the report to fit on one page."
+                },
+                {
+                    "word": "exclusive",
+                    "phonetic": "/ɪkˈskluːsɪv/",
+                    "meaning": "riêng biệt, độc quyền",
+                    "example": "Delegates with special passes have exclusive access to a tour of the facilities."
+                },
+                {
+                    "word": "intention",
+                    "phonetic": "/ɪnˈtenʃn/",
+                    "meaning": "ý định, mục đích, ý muốn",
+                    "example": "She had every intention of attending the conference, but could not."
+                },
+                {
+                    "word": "transform",
+                    "phonetic": "/trænsˈfɔːrm/",
+                    "meaning": "biến đổi, thay đổi",
+                    "example": "Computerization has transformed the way companies do business."
+                },
+                {
+                    "word": "respectful",
+                    "phonetic": "/rɪˈspektfl/",
+                    "meaning": "tôn trọng, lễ phép, kính cẩn",
+                    "example": "Sales clerks are reminded to be respectful to all clients."
+                },
+                {
+                    "word": "duplicate",
+                    "phonetic": "/ˈduːplɪkət/",
+                    "meaning": "bản sao",
+                    "example": "A duplicate of each contract is kept in the company records."
+                },
+                {
+                    "word": "contrary",
+                    "phonetic": "/ˈkɑːntreri/",
+                    "meaning": "sự trái ngược, điều ngược lại",
+                    "example": "Techworld is in financial trouble, despite claims to the contrary."
+                },
+                {
+                    "word": "disturbing",
+                    "phonetic": "/dɪˈstɜːrbɪŋ/",
+                    "meaning": "làm nhiễu loạn, làm xáo trộn, gây lo ngại",
+                    "example": "Shareholders found reports of the CEO's incompetence disturbing."
+                },
+                {
+                    "word": "engage",
+                    "phonetic": "/ɪnˈɡeɪdʒ/",
+                    "meaning": "tham gia, cam kết, thu hút",
+                    "example": "Each worker was engaged in at least two projects."
+                },
+                {
+                    "word": "foster",
+                    "phonetic": "/ˈfɔːstər/",
+                    "meaning": "thúc đẩy, bồi dưỡng, bồi đắp",
+                    "example": "Staff dinners helped foster better work relations."
+                },
+                {
+                    "word": "neutrality",
+                    "phonetic": "/nuːˈtræləti/",
+                    "meaning": "tính chất trung lập, thái độ trung lập",
+                    "example": "Managers must display complete neutrality in disagreements between employees."
+                },
+                {
+                    "word": "widely",
+                    "phonetic": "/ˈwaɪdli/",
+                    "meaning": "rộng, nhiều, xa",
+                    "example": "Ben Hurley is a widely admired business leader."
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "assist with",
+                    "description": "Hỗ trợ, trợ giúp việc gì.",
+                    "example": "A staff member assisted with preparations for the conference."
+                },
+                {
+                    "structure": "be satisfied with",
+                    "description": "Hài lòng với cái gì.",
+                    "example": "Not everyone was satisfied with changes to the overtime policy."
+                },
+                {
+                    "structure": "be responsible for",
+                    "description": "Chịu trách nhiệm về việc gì.",
+                    "example": "Businesses are responsible for ensuring customer satisfaction."
+                },
+                {
+                    "structure": "conduct an inspection / a seminar / a research study",
+                    "description": "Tiến hành một cuộc kiểm tra / hội thảo / nghiên cứu.",
+                    "example": "Conduct an inspection / conduct a seminar."
+                },
+                {
+                    "structure": "adjust to",
+                    "description": "Thích nghi, điều chỉnh với cái gì.",
+                    "example": "The employees quickly adjusted to the new e-mail system."
+                },
+                {
+                    "structure": "agree on + ý kiến / agree to + phương án / agree with + người",
+                    "description": "Đồng ý về vấn đề gì / Đồng ý với kế hoạch gì / Đồng ý với ai.",
+                    "example": "The team agreed on the recommendations."
+                },
+                {
+                    "structure": "be accountable for A / to B",
+                    "description": "Chịu trách nhiệm về việc A / trước người B.",
+                    "example": "Be accountable to the director for the project."
+                },
+                {
+                    "structure": "have every intention of -ing",
+                    "description": "Rất có ý định làm gì, nhất định sẽ làm gì.",
+                    "example": "She had every intention of attending the conference."
+                },
+                {
+                    "structure": "be engaged in",
+                    "description": "Tham gia vào, liên quan đến.",
+                    "example": "Each worker was engaged in at least two projects."
+                }
+            ]
+        },
+        {
+            "sectionId": "day-04-office-work-2-800",
+            "sectionName": "Day 04: Office Work 2 (800 Points)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "be satisfied with",
+                    "phonetic": "/bi ˈsætɪsfaɪd wɪð/",
+                    "meaning": "hài lòng với",
+                    "example": ""
+                },
+                {
+                    "word": "be seated",
+                    "phonetic": "/bi ˈsiːtɪd/",
+                    "meaning": "được xếp chỗ, ngồi",
+                    "example": ""
+                },
+                {
+                    "word": "be surrounded by",
+                    "phonetic": "/bi səˈraʊndɪd baɪ/",
+                    "meaning": "được bao quanh bởi",
+                    "example": ""
+                },
+                {
+                    "word": "business contacts",
+                    "phonetic": "/ˈbɪznəs ˈkɑːntækts/",
+                    "meaning": "liên hệ công việc",
+                    "example": ""
+                },
+                {
+                    "word": "chairperson",
+                    "phonetic": "/ˈtʃerpɜːrsn/",
+                    "meaning": "chủ tịch",
+                    "example": ""
+                },
+                {
+                    "word": "copy editor",
+                    "phonetic": "/ˈkɑːpi ˈedɪtər/",
+                    "meaning": "biên tập viên bản thảo",
+                    "example": ""
+                },
+                {
+                    "word": "deep end",
+                    "phonetic": "/diːp end/",
+                    "meaning": "tận cùng, phần sâu nhất",
+                    "example": ""
+                },
+                {
+                    "word": "double-sided",
+                    "phonetic": "/ˌdʌbl ˈsaɪdɪd/",
+                    "meaning": "hai mặt",
+                    "example": ""
+                },
+                {
+                    "word": "drawer",
+                    "phonetic": "/ˈdrɔːər/",
+                    "meaning": "ngăn kéo",
+                    "example": ""
+                },
+                {
+                    "word": "get one's approval",
+                    "phonetic": "/ɡet wʌnz əˈpruːvl/",
+                    "meaning": "nhận được sự chấp thuận của ai đó",
+                    "example": ""
+                },
+                {
+                    "word": "halfway",
+                    "phonetic": "/ˌhæfˈweɪ/",
+                    "meaning": "ở giữa; (adj) nửa chừng, nửa vời",
+                    "example": ""
+                },
+                {
+                    "word": "hand over",
+                    "phonetic": "/hænd ˈoʊvər/",
+                    "meaning": "bàn giao",
+                    "example": ""
+                },
+                {
+                    "word": "in a pile",
+                    "phonetic": "/ɪn ə paɪl/",
+                    "meaning": "thành chồng, thành đống",
+                    "example": ""
+                },
+                {
+                    "word": "It could have been worse",
+                    "phonetic": "/ɪt kʊd hæv bɪn wɜːrs/",
+                    "meaning": "Nó đã có thể tệ hơn",
+                    "example": ""
+                },
+                {
+                    "word": "just in time",
+                    "phonetic": "/dʒʌst ɪn taɪm/",
+                    "meaning": "vừa kịp giờ",
+                    "example": ""
+                },
+                {
+                    "word": "literacy",
+                    "phonetic": "/ˈlɪtərəsi/",
+                    "meaning": "sự biết đọc, biết viết",
+                    "example": ""
+                },
+                {
+                    "word": "litter",
+                    "phonetic": "/ˈlɪtər/",
+                    "meaning": "rác rưởi; (v) xả rác",
+                    "example": ""
+                },
+                {
+                    "word": "make a selection",
+                    "phonetic": "/meɪk ə sɪˈlekʃn/",
+                    "meaning": "lựa chọn",
+                    "example": ""
+                },
+                {
+                    "word": "make room for",
+                    "phonetic": "/meɪk ruːm fɔːr/",
+                    "meaning": "nhường chỗ cho",
+                    "example": ""
+                },
+                {
+                    "word": "out of paper",
+                    "phonetic": "/aʊt əv ˈpeɪpər/",
+                    "meaning": "hết giấy",
+                    "example": ""
+                },
+                {
+                    "word": "raise one's hand",
+                    "phonetic": "/reɪz wʌnz hænd/",
+                    "meaning": "giơ tay",
+                    "example": ""
+                },
+                {
+                    "word": "report a problem",
+                    "phonetic": "/rɪˈpɔːrt ə ˈprɑːbləm/",
+                    "meaning": "báo lỗi",
+                    "example": ""
+                },
+                {
+                    "word": "sort",
+                    "phonetic": "/sɔːrt/",
+                    "meaning": "loại; (v) sắp xếp",
+                    "example": ""
+                },
+                {
+                    "word": "stationery",
+                    "phonetic": "/ˈsteɪʃəneri/",
+                    "meaning": "văn phòng phẩm",
+                    "example": ""
+                },
+                {
+                    "word": "take another look",
+                    "phonetic": "/teɪk əˈnʌðər lʊk/",
+                    "meaning": "nhìn lại một lần nữa",
+                    "example": ""
+                },
+                {
+                    "word": "take A out",
+                    "phonetic": "/teɪk ... aʊt/",
+                    "meaning": "đưa A ra",
+                    "example": ""
+                },
+                {
+                    "word": "typewriter",
+                    "phonetic": "/ˈtaɪpraɪtər/",
+                    "meaning": "máy đánh chữ",
+                    "example": ""
+                },
+                {
+                    "word": "work in groups",
+                    "phonetic": "/wɜːrk ɪn ɡruːps/",
+                    "meaning": "làm việc theo nhóm",
+                    "example": ""
+                },
+                {
+                    "word": "writing pad",
+                    "phonetic": "/ˈraɪtɪŋ pæd/",
+                    "meaning": "tập giấy viết, sổ tay",
+                    "example": ""
+                },
+                {
+                    "word": "anticipation",
+                    "phonetic": "/ænˌtɪsɪˈpeɪʃn/",
+                    "meaning": "sự đoán trước, sự mong đợi",
+                    "example": ""
+                },
+                {
+                    "word": "automobile",
+                    "phonetic": "/ˈɔːtəməbiːl/",
+                    "meaning": "xe ô tô",
+                    "example": ""
+                },
+                {
+                    "word": "be asked to do",
+                    "phonetic": "/bi æskt tuː duː/",
+                    "meaning": "được yêu cầu làm gì",
+                    "example": ""
+                },
+                {
+                    "word": "be paid for",
+                    "phonetic": "/bi peɪd fɔːr/",
+                    "meaning": "được trả tiền cho",
+                    "example": ""
+                },
+                {
+                    "word": "be qualified for",
+                    "phonetic": "/bi ˈkwɑːlɪfaɪd fɔːr/",
+                    "meaning": "đủ điều kiện cho",
+                    "example": ""
+                },
+                {
+                    "word": "casual",
+                    "phonetic": "/ˈkæʒuəl/",
+                    "meaning": "không chính thức, giản dị",
+                    "example": ""
+                },
+                {
+                    "word": "draft",
+                    "phonetic": "/dræft/",
+                    "meaning": "phác thảo, dự thảo",
+                    "example": ""
+                },
+                {
+                    "word": "draw on",
+                    "phonetic": "/drɔː ɑːn/",
+                    "meaning": "dựa vào",
+                    "example": ""
+                },
+                {
+                    "word": "excuse",
+                    "phonetic": "/ɪkˈskjuːs/",
+                    "meaning": "lý do, lời bào chữa; (v) tha thứ",
+                    "example": ""
+                },
+                {
+                    "word": "head office",
+                    "phonetic": "/hed ˈɔːfɪs/",
+                    "meaning": "trụ sở chính",
+                    "example": ""
+                },
+                {
+                    "word": "in anticipation of",
+                    "phonetic": "/ɪn ænˌtɪsɪˈpeɪʃn əv/",
+                    "meaning": "phòng khi, với sự mong đợi",
+                    "example": ""
+                },
+                {
+                    "word": "in light of",
+                    "phonetic": "/ɪn laɪt əv/",
+                    "meaning": "bởi vì, xét đến",
+                    "example": ""
+                },
+                {
+                    "word": "instrument",
+                    "phonetic": "/ˈɪnstrəmənt/",
+                    "meaning": "dụng cụ, công cụ, nhạc cụ",
+                    "example": ""
+                },
+                {
+                    "word": "popularly",
+                    "phonetic": "/ˈpɑːpjələrli/",
+                    "meaning": "phổ biến, đại chúng",
+                    "example": ""
+                },
+                {
+                    "word": "regarding",
+                    "phonetic": "/rɪˈɡɑːrdɪŋ/",
+                    "meaning": "về, đối với",
+                    "example": ""
+                },
+                {
+                    "word": "routinely",
+                    "phonetic": "/ruːˈtiːnli/",
+                    "meaning": "thông thường, thường lệ",
+                    "example": ""
+                },
+                {
+                    "word": "supplementary",
+                    "phonetic": "/ˌsʌplɪˈmentri/",
+                    "meaning": "bổ sung, phụ thêm vào",
+                    "example": ""
+                },
+                {
+                    "word": "work overtime",
+                    "phonetic": "/wɜːrk ˌoʊvərˈtaɪm/",
+                    "meaning": "làm việc ngoài giờ",
+                    "example": ""
+                },
+                {
+                    "word": "workplace",
+                    "phonetic": "/ˈwɜːrkpleɪs/",
+                    "meaning": "nơi làm việc",
+                    "example": ""
+                },
+                {
+                    "word": "acting",
+                    "phonetic": "/ˈæktɪŋ/",
+                    "meaning": "quyền, thay quyền, sự thủ vai",
+                    "example": ""
+                },
+                {
+                    "word": "be full of",
+                    "phonetic": "/bi fʊl əv/",
+                    "meaning": "chứa đầy",
+                    "example": ""
+                },
+                {
+                    "word": "convert A to B",
+                    "phonetic": "/kənˈvɜːrt ... tuː .../",
+                    "meaning": "chuyển đổi A thành B",
+                    "example": ""
+                },
+                {
+                    "word": "count on",
+                    "phonetic": "/kaʊnt ɑːn/",
+                    "meaning": "tin vào, trông cậy vào",
+                    "example": ""
+                },
+                {
+                    "word": "do one's best",
+                    "phonetic": "/duː wʌnz best/",
+                    "meaning": "làm hết sức",
+                    "example": ""
+                },
+                {
+                    "word": "fill with",
+                    "phonetic": "/fɪl wɪð/",
+                    "meaning": "lấp đầy bởi",
+                    "example": ""
+                },
+                {
+                    "word": "get along with",
+                    "phonetic": "/ɡet əˈlɔːŋ wɪð/",
+                    "meaning": "hòa đồng với",
+                    "example": ""
+                },
+                {
+                    "word": "go down the steps",
+                    "phonetic": "/ɡoʊ daʊn ðə steps/",
+                    "meaning": "đi xuống cầu thang",
+                    "example": ""
+                },
+                {
+                    "word": "key to success",
+                    "phonetic": "/kiː tuː səkˈses/",
+                    "meaning": "chìa khóa dẫn tới thành công",
+                    "example": ""
+                },
+                {
+                    "word": "lose one's temper",
+                    "phonetic": "/luːz wʌnz ˈtempər/",
+                    "meaning": "tức giận, mất bình tĩnh",
+                    "example": ""
+                },
+                {
+                    "word": "make a copy",
+                    "phonetic": "/meɪk ə ˈkɑːpi/",
+                    "meaning": "sao chép",
+                    "example": ""
+                },
+                {
+                    "word": "obsess about",
+                    "phonetic": "/əbˈses əˈbaʊt/",
+                    "meaning": "ám ảnh về",
+                    "example": ""
+                },
+                {
+                    "word": "overtime hours",
+                    "phonetic": "/ˌoʊvərˈtaɪm ˈaʊərz/",
+                    "meaning": "giờ làm thêm",
+                    "example": ""
+                },
+                {
+                    "word": "personal effects",
+                    "phonetic": "/ˈpɜːrsənl ɪˈfekts/",
+                    "meaning": "tài sản cá nhân, đồ dùng cá nhân",
+                    "example": ""
+                },
+                {
+                    "word": "reunion",
+                    "phonetic": "/ˌriːˈjuːniən/",
+                    "meaning": "cuộc hội họp, sự họp nhất",
+                    "example": ""
+                },
+                {
+                    "word": "sales representative",
+                    "phonetic": "/seɪlz ˌreprɪˈzentətɪv/",
+                    "meaning": "đại diện bán hàng",
+                    "example": ""
+                },
+                {
+                    "word": "seamless",
+                    "phonetic": "/ˈsiːmləs/",
+                    "meaning": "không có rắc rối, suôn sẻ",
+                    "example": ""
+                },
+                {
+                    "word": "submit A to B",
+                    "phonetic": "/səbˈmɪt ... tuː .../",
+                    "meaning": "gửi A cho B",
+                    "example": ""
+                },
+                {
+                    "word": "succeed in -ing",
+                    "phonetic": "/səkˈsiːd ɪn/",
+                    "meaning": "thành công trong việc...",
+                    "example": ""
+                },
+                {
+                    "word": "time-consuming",
+                    "phonetic": "/ˈtaɪm kənsuːmɪŋ/",
+                    "meaning": "tốn thời gian",
+                    "example": ""
+                }
+            ],
+            "grammars": []
+        },
+        {
+            "sectionId": "day-04-office-work-2-900",
+            "sectionName": "Day 04: Office Work 2 (900 Points)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "bookkeeping",
+                    "phonetic": "/ˈbʊkkiːpɪŋ/",
+                    "meaning": "công việc kế toán",
+                    "example": ""
+                },
+                {
+                    "word": "have one's hands full",
+                    "phonetic": "/hæv wʌnz hændz fʊl/",
+                    "meaning": "rất bận",
+                    "example": ""
+                },
+                {
+                    "word": "make an outside call",
+                    "phonetic": "/meɪk ən ˌaʊtˈsaɪd kɔːl/",
+                    "meaning": "gọi điện thoại ra ngoài",
+                    "example": ""
+                },
+                {
+                    "word": "motivation",
+                    "phonetic": "/ˌmoʊtɪˈveɪʃn/",
+                    "meaning": "động lực",
+                    "example": ""
+                },
+                {
+                    "word": "newly listed",
+                    "phonetic": "/ˈnuːli ˈlɪstɪd/",
+                    "meaning": "mới vào danh sách",
+                    "example": ""
+                },
+                {
+                    "word": "prioritize",
+                    "phonetic": "/praɪˈɔːrətaɪz/",
+                    "meaning": "dành ưu tiên",
+                    "example": ""
+                },
+                {
+                    "word": "sit in alternate seats",
+                    "phonetic": "/sɪt ɪn ˈɔːltərnət siːts/",
+                    "meaning": "ngồi kế tiếp nhau (cách quãng)",
+                    "example": ""
+                },
+                {
+                    "word": "written authorization",
+                    "phonetic": "/ˈrɪtn ˌɔːθərəˈzeɪʃn/",
+                    "meaning": "văn bản chấp thuận",
+                    "example": ""
+                },
+                {
+                    "word": "written consent",
+                    "phonetic": "/ˈrɪtn kənˈsent/",
+                    "meaning": "văn bản thỏa thuận/đồng ý",
+                    "example": ""
+                },
+                {
+                    "word": "acquaintance",
+                    "phonetic": "/əˈkweɪntəns/",
+                    "meaning": "người quen",
+                    "example": ""
+                },
+                {
+                    "word": "dimension",
+                    "phonetic": "/dɪˈmenʃn/",
+                    "meaning": "kích thước, cỡ",
+                    "example": ""
+                },
+                {
+                    "word": "directive",
+                    "phonetic": "/dəˈrektɪv/",
+                    "meaning": "chỉ dẫn, hướng dẫn",
+                    "example": ""
+                },
+                {
+                    "word": "discerning",
+                    "phonetic": "/dɪˈsɜːrnɪŋ/",
+                    "meaning": "sáng suốt, nhận thức rõ",
+                    "example": ""
+                },
+                {
+                    "word": "elegantly",
+                    "phonetic": "/ˈelɪɡəntli/",
+                    "meaning": "thanh lịch, tao nhã",
+                    "example": ""
+                },
+                {
+                    "word": "expectant",
+                    "phonetic": "/ɪkˈspektənt/",
+                    "meaning": "có tính chất mong chờ",
+                    "example": ""
+                },
+                {
+                    "word": "invaluable",
+                    "phonetic": "/ɪnˈvæljuəbl/",
+                    "meaning": "vô giá",
+                    "example": ""
+                },
+                {
+                    "word": "propel",
+                    "phonetic": "/prəˈpel/",
+                    "meaning": "đẩy đi",
+                    "example": ""
+                },
+                {
+                    "word": "realization",
+                    "phonetic": "/ˌriːələˈzeɪʃn/",
+                    "meaning": "sự thực hiện, sự nhận thức rõ",
+                    "example": ""
+                },
+                {
+                    "word": "recline",
+                    "phonetic": "/rɪˈklaɪn/",
+                    "meaning": "dựa vào, ngả vào",
+                    "example": ""
+                },
+                {
+                    "word": "repository",
+                    "phonetic": "/rɪˈpɑːzətɔːri/",
+                    "meaning": "kho, chỗ chứa",
+                    "example": ""
+                },
+                {
+                    "word": "respective",
+                    "phonetic": "/rɪˈspektɪv/",
+                    "meaning": "tương ứng, riêng của từng người",
+                    "example": ""
+                },
+                {
+                    "word": "spontaneously",
+                    "phonetic": "/spɑːnˈteɪniəsli/",
+                    "meaning": "tự ý, tự phát",
+                    "example": ""
+                },
+                {
+                    "word": "trivial",
+                    "phonetic": "/ˈtrɪviəl/",
+                    "meaning": "tầm thường, không quan trọng",
+                    "example": ""
+                },
+                {
+                    "word": "turn in",
+                    "phonetic": "/tɜːrn ɪn/",
+                    "meaning": "trả lại, nộp lại",
+                    "example": ""
+                },
+                {
+                    "word": "ambiance",
+                    "phonetic": "/ˈæmbiəns/",
+                    "meaning": "môi trường, không khí, quang cảnh",
+                    "example": ""
+                },
+                {
+                    "word": "aspiration",
+                    "phonetic": "/ˌæspəˈreɪʃn/",
+                    "meaning": "nguyện vọng, khát vọng",
+                    "example": ""
+                },
+                {
+                    "word": "creditable",
+                    "phonetic": "/ˈkredɪtəbl/",
+                    "meaning": "vẻ vang, đáng khen ngợi",
+                    "example": ""
+                },
+                {
+                    "word": "eminent",
+                    "phonetic": "/ˈemɪnənt/",
+                    "meaning": "xuất sắc, xuất chúng",
+                    "example": ""
+                },
+                {
+                    "word": "endeavor",
+                    "phonetic": "/ɪnˈdevər/",
+                    "meaning": "sự nỗ lực, sự cố gắng",
+                    "example": ""
+                },
+                {
+                    "word": "entrust A with B",
+                    "phonetic": "/ɪnˈtrʌst ... wɪð .../",
+                    "meaning": "giao phó B cho A",
+                    "example": ""
+                },
+                {
+                    "word": "on edge",
+                    "phonetic": "/ɑːn edʒ/",
+                    "meaning": "căng thẳng, buồn chán",
+                    "example": ""
+                },
+                {
+                    "word": "reach one's full potential",
+                    "phonetic": "/riːtʃ wʌnz fʊl pəˈtenʃl/",
+                    "meaning": "phát huy tối đa tiềm năng của ai đó",
+                    "example": ""
+                }
+            ],
+            "grammars": []
+        }
+    ]
+}

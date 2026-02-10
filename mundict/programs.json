@@ -23,7 +23,7 @@
         },
         {
             "groupId": "YLE",
-            "groupName": "YLE Vocab",
+            "groupName": "Young Learners English",
             "imageUrl": "https://oneworldlearning.school/wp-content/uploads/2023/10/thumb-300x300.png",
             "programs": [
                 {
@@ -46,6 +46,20 @@
                     "description": "Từ vựng Cambridge Flyers (A2)",
                     "imageUrl": "https://oneworldlearning.school/wp-content/uploads/2023/10/thumb-300x300.png",
                     "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/a2-flyers.json"
+                }
+            ]
+        },
+        {
+            "groupId": "TOEIC",
+            "groupName": "TOEIC",
+            "imageUrl": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4NzczLCJwdXIiOiJibG9iX2lkIn19--b7d5b053ee4076029b6e71de1bf34d1a10426d24/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ce5706a9b5356bfcb66e4bb8a05142ce3cfc09ea/gia-s-toeic-logo.png",
+            "programs": [
+                {
+                    "id": "hacker-toeic",
+                    "name": "Hackers TOEIC Vocabulary",
+                    "description": "Từ vựng Hackers TOEIC",
+                    "imageUrl": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_44153.jpg",
+                    "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/hackers-toeic-vocabulary.json"
                 }
             ]
         }

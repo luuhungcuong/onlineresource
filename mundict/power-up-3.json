@@ -5,7 +5,7 @@
     {
       "sectionId": "unit-1",
       "sectionName": "Unit 1: Practice time",
-      "imageUrl": "assets/unit1_cover.jpg",
+      "imageUrl": "",
       "vocabularies": [
         { "word": "seven o’clock", "phonetic": "/ˌsevn əˈklɒk/", "meaning": "7 giờ đúng", "example": "School starts at seven o’clock.\nI wake up at seven o’clock.\nDinner is at seven o’clock." },
         { "word": "half past twelve", "phonetic": "/hɑːf pɑːst twelv/", "meaning": "12 giờ rưỡi", "example": "We have lunch at half past twelve.\nIt is now half past twelve.\nThe bus leaves at half past twelve." },
@@ -37,7 +37,7 @@
     {
       "sectionId": "unit-2",
       "sectionName": "Unit 2: What’s for breakfast?",
-      "imageUrl": "assets/unit2_cover.jpg",
+      "imageUrl": "",
       "vocabularies": [
         { "word": "tea", "phonetic": "/tiː/", "meaning": "trà", "example": "Grandma drinks a cup of tea.\nDo you like tea?\nI want some tea." },
         { "word": "coffee", "phonetic": "/ˈkɒf.i/", "meaning": "cà phê", "example": "Dad likes hot coffee.\nThis coffee is strong.\nShe drinks coffee with milk." },
@@ -72,7 +72,7 @@
     {
       "sectionId": "unit-3",
       "sectionName": "Unit 3: A healthy body",
-      "imageUrl": "assets/unit3_cover.jpg",
+      "imageUrl": "",
       "vocabularies": [
         { "word": "shoulder", "phonetic": "/ˈʃəʊl.dər/", "meaning": "vai", "example": "Put your hand on your shoulder.\nMy shoulder hurts.\nShe carried the bag on her shoulder." },
         { "word": "neck", "phonetic": "/nek/", "meaning": "cổ", "example": "Giraffes have long necks.\nMy neck is cold.\nShe wears a scarf around her neck." },
@@ -110,7 +110,7 @@
     {
       "sectionId": "unit-4",
       "sectionName": "Unit 4: Fun in the jungle",
-      "imageUrl": "assets/unit4_cover.jpg",
+      "imageUrl": "",
       "vocabularies": [
         { "word": "moon", "phonetic": "/muːn/", "meaning": "mặt trăng", "example": "The moon is bright tonight.\nThere is a full moon.\nThe moon goes round the earth." },
         { "word": "sky", "phonetic": "/skaɪ/", "meaning": "bầu trời", "example": "There are no clouds in the sky.\nThe sky is blue.\nBirds fly in the sky." },
@@ -138,7 +138,7 @@
     {
       "sectionId": "unit-5",
       "sectionName": "Unit 5: Behind the scenes",
-      "imageUrl": "assets/unit5_cover.jpg",
+      "imageUrl": "",
       "vocabularies": [
         { "word": "gold", "phonetic": "/ɡəʊld/", "meaning": "màu vàng kim/vàng", "example": "The king wears a gold crown.\nShe has a gold ring.\nThe medal is gold." },
         { "word": "silver", "phonetic": "/ˈsɪl.vər/", "meaning": "màu bạc/bạc", "example": "She has silver wings.\nThe car is silver.\nI have a silver coin." },
@@ -171,7 +171,7 @@
     {
       "sectionId": "unit-6",
       "sectionName": "Unit 6: Classroom stars",
-      "imageUrl": "assets/unit6_cover.jpg",
+      "imageUrl": "",
       "vocabularies": [
         { "word": "geography", "phonetic": "/dʒiˈɒɡ.rə.fi/", "meaning": "địa lý", "example": "We learn about maps in geography.\nI like geography class.\nGeography is interesting." },
         { "word": "history", "phonetic": "/ˈhɪs.tər.i/", "meaning": "lịch sử", "example": "History tells us about the past.\nWe study Romans in history.\nDo you like history?" },
@@ -206,7 +206,7 @@
     {
       "sectionId": "unit-7",
       "sectionName": "Unit 7: When I grow up ...",
-      "imageUrl": "assets/unit7_cover.jpg",
+      "imageUrl": "",
       "vocabularies": [
         { "word": "waiter", "phonetic": "/ˈweɪ.tər/", "meaning": "bồi bàn nam", "example": "The waiter brought our food.\nHe works as a waiter.\nThe waiter was polite." },
         { "word": "actor", "phonetic": "/ˈæk.tər/", "meaning": "diễn viên", "example": "He wants to be a famous actor.\nThe actor is in a movie.\nShe is a good actor." },
@@ -240,7 +240,7 @@
     {
       "sectionId": "unit-8",
       "sectionName": "Unit 8: City break",
-      "imageUrl": "assets/unit8_cover.jpg",
+      "imageUrl": "",
       "vocabularies": [
         { "word": "left", "phonetic": "/left/", "meaning": "trái", "example": "Turn left.\nThe shop is on the left.\nLook left and right." },
         { "word": "right", "phonetic": "/raɪt/", "meaning": "phải", "example": "Turn right.\nRaise your right hand.\nIt is on the right side." },
@@ -272,7 +272,7 @@
     {
       "sectionId": "unit-9",
       "sectionName": "Unit 9: Let’s travel!",
-      "imageUrl": "assets/unit9_cover.jpg",
+      "imageUrl": "",
       "vocabularies": [
         { "word": "huge", "phonetic": "/hjuːdʒ/", "meaning": "khổng lồ", "example": "The elephant is huge.\nThere is a huge building.\nThe hole is huge." },
         { "word": "noisy", "phonetic": "/ˈnɔɪ.zi/", "meaning": "ồn ào", "example": "The city is very noisy.\nDon't be noisy.\nThe car is noisy." },

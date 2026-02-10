@@ -3,6 +3,7 @@
     {
       "groupId": "power-up",
       "groupName": "Power Up",
+      "imageUrl": "https://github.com/luuhungcuong/onlineresource/blob/main/mundict/images/power-up.jpg?raw=true"
       "programs": [
         {
           "id": "power-up-4",

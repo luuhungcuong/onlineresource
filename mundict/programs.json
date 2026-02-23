@@ -24,27 +24,27 @@
         {
             "groupId": "YLE",
             "groupName": "Young Learners English",
-            "imageUrl": "https://oneworldlearning.school/wp-content/uploads/2023/10/thumb-300x300.png",
+            "imageUrl": "https://i0.wp.com/exam-seekers.com/wp-content/uploads/2018/06/ee002a.png?fit=1024%2C1024&ssl=1",
             "programs": [
                 {
                     "id": "Starters",
                     "name": "Starters",
                     "description": "Từ vựng Cambridge Starters (Pre-A1)",
-                    "imageUrl": "https://oneworldlearning.school/wp-content/uploads/2023/10/thumb-300x300.png",
+                    "imageUrl": "https://langbridgesol.wordpress.com/wp-content/uploads/2020/07/cambridge-yle-starters.png?w=713",
                     "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/a1-pre-starters.json"
                 },
                 {
                     "id": "Movers",
                     "name": "Movers",
                     "description": "Từ vựng Cambridge Movers (A1)",
-                    "imageUrl": "https://oneworldlearning.school/wp-content/uploads/2023/10/thumb-300x300.png",
+                    "imageUrl": "https://focas.edu.vn/wp-content/uploads/2019/08/cambridge-yle-movers.jpg",
                     "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/a1-movers.json"
                 },
                 {
                     "id": "Flyers",
                     "name": "Flyers",
                     "description": "Từ vựng Cambridge Flyers (A2)",
-                    "imageUrl": "https://oneworldlearning.school/wp-content/uploads/2023/10/thumb-300x300.png",
+                    "imageUrl": "https://focas.edu.vn/wp-content/uploads/2019/08/cambridge-yle-flyers.png",
                     "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/a2-flyers.json"
                 }
             ]

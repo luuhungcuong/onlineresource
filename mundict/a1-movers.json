@@ -11,18 +11,21 @@
                     "word": "library",
                     "phonetic": "/ˈlaɪbrəri/",
                     "meaning": "thư viện",
+                    "definition": "A building where you can read or borrow books.",
                     "example": "We read books in the library.\nYou must be quiet in the library.\nI go to the library every Thursday."
                 },
                 {
                     "word": "dictionary",
                     "phonetic": "/ˈdɪkʃənəri/",
                     "meaning": "từ điển",
+                    "definition": "A book that explains the meanings of words.",
                     "example": "I use a dictionary to learn new words.\nCan I borrow your dictionary?\nThis dictionary is very heavy."
                 },
                 {
                     "word": "map",
                     "phonetic": "/mæp/",
                     "meaning": "bản đồ",
+                    "definition": "A drawing that shows where places like cities, rivers, and mountains are.",
                     "example": "We look at the map in geography class.\nCan you find Vietnam on the map?\nThere is a big map on the wall."
                 }
             ],
@@ -43,18 +46,21 @@
                     "word": "curly hair",
                     "phonetic": "/ˈkɜːli heə(r)/",
                     "meaning": "tóc xoăn",
+                    "definition": "Hair that grows in tight coils or loops.",
                     "example": "My sister has long curly hair.\nIs your hair straight or curly?\nShe looks beautiful with curly hair."
                 },
                 {
                     "word": "beard",
                     "phonetic": "/bɪəd/",
                     "meaning": "râu quai nón/râu cằm",
+                    "definition": "The hair that grows on a man's chin and cheeks.",
                     "example": "My grandfather has a white beard.\nHe is growing a beard.\nDoes your dad have a beard?"
                 },
                 {
                     "word": "strong",
                     "phonetic": "/strɒŋ/",
                     "meaning": "khỏe mạnh",
+                    "definition": "Having a lot of physical power; not weak.",
                     "example": "He is very strong, he can lift the table.\nEat your vegetables to stay strong.\nAn elephant is a very strong animal."
                 }
             ],
@@ -75,18 +81,21 @@
                     "word": "go roller-skating",
                     "phonetic": "/ɡəʊ ˈrəʊlə skeɪtɪŋ/",
                     "meaning": "đi trượt patin",
+                    "definition": "The activity of moving on shoes with small wheels.",
                     "example": "I go roller-skating in the park.\nDo you want to go roller-skating with me?\nIt is fun to go roller-skating."
                 },
                 {
                     "word": "take photos",
                     "phonetic": "/teɪk ˈfəʊtəʊz/",
                     "meaning": "chụp ảnh",
+                    "definition": "The activity of using a camera to make pictures.",
                     "example": "I love taking photos of flowers.\nHe takes photos with his new camera.\nSmile! I want to take a photo."
                 },
                 {
                     "word": "sail",
                     "phonetic": "/seɪl/",
                     "meaning": "chèo thuyền/lướt buồm",
+                    "definition": "To travel on water in a boat with a sail.",
                     "example": "We can sail on the lake.\nHe wants to sail around the world.\nCan you sail a boat?"
                 }
             ],
@@ -107,18 +116,21 @@
                     "word": "cinema",
                     "phonetic": "/ˈsɪnəmə/",
                     "meaning": "rạp chiếu phim",
+                    "definition": "A building where you go to watch movies on a big screen.",
                     "example": "We saw a funny movie at the cinema.\nWhere is the nearest cinema?\nLet's go to the cinema this weekend."
                 },
                 {
                     "word": "supermarket",
                     "phonetic": "/ˈsuːpəmɑːkɪt/",
                     "meaning": "siêu thị",
+                    "definition": "A large shop that sells food and things for the house.",
                     "example": "I help my mom at the supermarket.\nThe supermarket is near my house.\nWe buy food at the supermarket."
                 },
                 {
                     "word": "hospital",
                     "phonetic": "/ˈhɒspɪtl/",
                     "meaning": "bệnh viện",
+                    "definition": "A place where sick or injured people go to be treated by doctors.",
                     "example": "My aunt works as a nurse in a hospital.\nHe is in the hospital because he is ill.\nThe hospital is a big building."
                 }
             ],
@@ -139,18 +151,21 @@
                     "word": "cloudy",
                     "phonetic": "/ˈklaʊdi/",
                     "meaning": "có mây",
+                    "definition": "When the sky is full of clouds and you cannot see the sun clearly.",
                     "example": "It is a cloudy day today.\nI can't see the sun because it's cloudy.\nCloudy weather is cool."
                 },
                 {
                     "word": "sunny",
                     "phonetic": "/ˈsʌni/",
                     "meaning": "có nắng",
+                    "definition": "When there is bright light from the sun and not many clouds.",
                     "example": "It's always sunny in the summer.\nPut on your hat, it's very sunny.\nI like sunny weather."
                 },
                 {
                     "word": "windy",
                     "phonetic": "/ˈwɪndi/",
                     "meaning": "có gió",
+                    "definition": "When there is a lot of strong wind or air moving.",
                     "example": "The trees are moving because it's windy.\nIt's a perfect day to fly a kite, it's windy.\nMy hair is messy because it's windy."
                 }
             ],
@@ -171,150 +186,175 @@
                     "word": "bat",
                     "phonetic": "/bæt/",
                     "meaning": "con dơi",
+                    "definition": "A small animal like a mouse with wings that flies at night.",
                     "example": "Bats fly at night.\nBats live in caves.\nA bat is a small animal."
                 },
                 {
                     "word": "bear",
                     "phonetic": "/beə(r)/",
                     "meaning": "con gấu",
+                    "definition": "A large, strong wild animal with thick fur and sharp claws.",
                     "example": "The bear is brown and big.\nBears like eating honey.\nI saw a bear in the forest."
                 },
                 {
                     "word": "dolphin",
                     "phonetic": "/ˈdɒlfɪn/",
                     "meaning": "cá heo",
+                    "definition": "A very intelligent sea animal that looks like a large fish.",
                     "example": "Dolphins are very clever.\nWe saw dolphins in the sea.\nDolphins like to jump."
                 },
                 {
                     "word": "kangaroo",
                     "phonetic": "/ˌkæŋɡəˈruː/",
                     "meaning": "chuột túi",
+                    "definition": "An Australian animal that jumps on its strong back legs.",
                     "example": "A kangaroo can jump high.\nKangaroos live in Australia.\nThe baby kangaroo is in its mother's pocket."
                 },
                 {
                     "word": "lion",
                     "phonetic": "/ˈlaɪən/",
                     "meaning": "sư tử",
+                    "definition": "A large wild cat with a mane, known as the king of the jungle.",
                     "example": "The lion is the king of the jungle.\nLions are very strong.\nI saw a lion at the zoo."
                 },
                 {
                     "word": "panda",
                     "phonetic": "/ˈpændə/",
                     "meaning": "gấu trúc",
+                    "definition": "A large black and white animal like a bear that lives in China.",
                     "example": "Pandas are black and white.\nPandas like eating bamboo.\nThey are very cute pandas."
                 },
                 {
                     "word": "penguin",
                     "phonetic": "/ˈpeŋɡwɪn/",
                     "meaning": "chim cánh cụt",
+                    "definition": "A black and white bird that lives in the Antarctic and cannot fly.",
                     "example": "Penguins like cold weather.\nPenguins can swim but can't fly.\nI like watching penguins walk."
                 },
                 {
                     "word": "rabbit",
                     "phonetic": "/ˈræbɪt/",
                     "meaning": "con thỏ",
+                    "definition": "A small animal with long ears and a short tail that lives in holes.",
                     "example": "The rabbit has long ears.\nRabbits like eating carrots.\nMy rabbit is very soft."
                 },
                 {
                     "word": "shark",
                     "phonetic": "/ʃɑːk/",
                     "meaning": "cá mập",
+                    "definition": "A large sea fish with very sharp teeth that sometimes eats other fish.",
                     "example": "Sharks live in the ocean.\nBe careful, there's a shark!\nSharks have sharp teeth."
                 },
                 {
                     "word": "whale",
                     "phonetic": "/weɪl/",
                     "meaning": "cá voi",
+                    "definition": "A very large animal that lives in the sea and looks like a fish.",
                     "example": "A whale is a very big animal.\nWhales live in the sea.\nWe saw a whale from the boat."
                 },
                 {
                     "word": "fly",
                     "phonetic": "/flaɪ/",
                     "meaning": "con ruồi/bay",
+                    "definition": "A small insect with two wings that is often found around food.",
                     "example": "There is a fly in my soup!\nBirds can fly high.\nDon't let the fly touch the food."
                 },
                 {
                     "word": "kitten",
                     "phonetic": "/ˈkɪtn/",
                     "meaning": "con mèo con",
+                    "definition": "A young or baby cat.",
                     "example": "The kitten is very small.\nMy cat has three kittens.\nI love playing with my kitten."
                 },
                 {
                     "word": "puppy",
                     "phonetic": "/ˈpʌpi/",
                     "meaning": "con chó con",
+                    "definition": "A young or baby dog.",
                     "example": "I want a puppy for my birthday.\nThe puppy is barking.\nHe is a very cute puppy."
                 },
                 {
                     "word": "parrot",
                     "phonetic": "/ˈpærət/",
                     "meaning": "con vẹt",
+                    "definition": "A brightly colored bird that can sometimes copy what people say.",
                     "example": "The parrot can talk.\nParrots have colorful feathers.\nHe has a pet parrot."
                 },
                 {
                     "word": "camel",
                     "phonetic": "/ˈkæml/",
                     "meaning": "con lạc đà",
+                    "definition": "A large animal with a long neck and one or two humps on its back.",
                     "example": "Camels live in the desert.\nA camel has a hump.\nWe rode a camel on vacation."
                 },
                 {
                     "word": "donkey",
                     "phonetic": "/ˈdɒŋki/",
                     "meaning": "con lừa",
+                    "definition": "An animal like a small horse with long ears.",
                     "example": "The donkey is carrying a heavy bag.\nDonkeys look like small horses.\nI saw a donkey on the farm."
                 },
                 {
                     "word": "goat",
                     "phonetic": "/ɡəʊt/",
                     "meaning": "con dê",
+                    "definition": "An animal with horns that lives on farms or mountains.",
                     "example": "The goat is eating grass.\nGoats give us milk.\nMy uncle has many goats."
                 },
                 {
                     "word": "lizard",
                     "phonetic": "/ˈlɪzəd/",
                     "meaning": "con thằn lằn",
+                    "definition": "A small reptile with a long body, four legs, and a long tail.",
                     "example": "The lizard is on the wall.\nSome lizards can change color.\nI'm not afraid of lizards."
                 },
                 {
                     "word": "swan",
                     "phonetic": "/swɒn/",
                     "meaning": "chim thiên nga",
+                    "definition": "A large white bird with a long neck that lives on water.",
                     "example": "The swan is white and beautiful.\nSwans are swimming on the lake.\nAn ugly duckling became a swan."
                 },
                 {
                     "word": "tiger",
                     "phonetic": "/ˈtaɪɡə(r)/",
                     "meaning": "con hổ",
+                    "definition": "A large wild cat with orange and black stripes.",
                     "example": "Tigers have orange and black stripes.\nA tiger is a wild cat.\nThe tiger is sleeping."
                 },
                 {
                     "word": "zebra",
                     "phonetic": "/ˈzebrə/",
                     "meaning": "ngựa vằn",
+                    "definition": "A wild animal from Africa that looks like a horse with black and white stripes.",
                     "example": "Zebras have black and white stripes.\nI saw zebras in the safari park.\nA zebra looks like a horse."
                 },
                 {
                     "word": "hippo",
                     "phonetic": "/ˈhɪpəʊ/",
                     "meaning": "con hà mã",
+                    "definition": "A large, heavy animal that lives in rivers in Africa.",
                     "example": "The hippo is in the water.\nHippos are very big and heavy.\nA hippo can stay underwater for a long time."
                 },
                 {
                     "word": "giraffe",
                     "phonetic": "/dʒəˈrɑːf/",
                     "meaning": "hươu cao cổ",
+                    "definition": "A very tall African animal with a long neck and spots.",
                     "example": "A giraffe has a very long neck.\nGiraffes eat leaves from tall trees.\nI saw a giraffe at the zoo."
                 },
                 {
                     "word": "elephant",
                     "phonetic": "/ˈelɪfənt/",
                     "meaning": "con voi",
+                    "definition": "A very large grey animal with a long trunk and big ears.",
                     "example": "An elephant has a long trunk.\nElephants are the biggest land animals.\nThe elephant is very strong."
                 },
                 {
                     "word": "monkey",
                     "phonetic": "/ˈmʌŋki/",
                     "meaning": "con khỉ",
+                    "definition": "An animal with a long tail that lives in trees and looks like a human.",
                     "example": "The monkey is climbing the tree.\nMonkeys like eating bananas.\nThat's a funny monkey!"
                 }
             ],
@@ -335,150 +375,175 @@
                     "word": "back",
                     "phonetic": "/bæk/",
                     "meaning": "cái lưng",
+                    "definition": "The part of your body from your shoulders down to your waist.",
                     "example": "My back hurts.\nCarry your bag on your back.\nLie on your back."
                 },
                 {
                     "word": "neck",
                     "phonetic": "/nek/",
                     "meaning": "cái cổ",
+                    "definition": "The part of the body that joins the head to the shoulders.",
                     "example": "I'm wearing a scarf around my neck.\nA giraffe has a long neck.\nWash your neck."
                 },
                 {
                     "word": "shoulder",
                     "phonetic": "/ˈʃəʊldə(r)/",
                     "meaning": "cái vai",
+                    "definition": "The part of your body where your arm joins your neck.",
                     "example": "He has broad shoulders.\nI have a bag on my shoulder.\nTouch your shoulders."
                 },
                 {
                     "word": "stomach",
                     "phonetic": "/ˈstʌmək/",
                     "meaning": "cái dạ dày/bụng",
+                    "definition": "The part of your body where food goes after you eat it.",
                     "example": "I have a stomach ache.\nMy stomach is full.\nDon't eat too much, your stomach will hurt."
                 },
                 {
                     "word": "tooth",
                     "phonetic": "/tuːθ/",
                     "meaning": "răng (số ít)",
+                    "definition": "One of the hard white objects in your mouth used for biting.",
                     "example": "I have a loose tooth.\nBrush every tooth.\nI need to see the dentist for my tooth."
                 },
                 {
                     "word": "teeth",
                     "phonetic": "/tiːθ/",
                     "meaning": "răng (số nhiều)",
+                    "definition": "More than one tooth.",
                     "example": "Clean your teeth twice a day.\nShe has white teeth.\nHow many teeth do you have?"
                 },
                 {
                     "word": "ache",
                     "phonetic": "/eɪk/",
                     "meaning": "đau",
+                    "definition": "A continuous pain that is not very strong.",
                     "example": "I have a headache.\nI have a toothache.\nMy legs ache after the run."
                 },
                 {
                     "word": "cough",
                     "phonetic": "/kɒf/",
                     "meaning": "ho",
+                    "definition": "To push air out of your throat suddenly with a short, loud noise.",
                     "example": "He has a bad cough.\nCover your mouth when you cough.\nI've had a cough for two days."
                 },
                 {
                     "word": "headache",
                     "phonetic": "/ˈhedeɪk/",
                     "meaning": "đau đầu",
+                    "definition": "A continuous pain in your head.",
                     "example": "I have a terrible headache.\nDo you have a headache?\nTake some medicine for your headache."
                 },
                 {
                     "word": "temperature",
                     "phonetic": "/ˈtemprətʃə(r)/",
                     "meaning": "nhiệt độ/số nhẹ",
+                    "definition": "A measurement of how hot your body is.",
                     "example": "He has a high temperature.\nThe doctor checked my temperature.\nThe temperature is 38 degrees."
                 },
                 {
                     "word": "medicine",
                     "phonetic": "/ˈmedsn/",
                     "meaning": "thuốc",
+                    "definition": "Something that you drink or swallow to help you feel better when you are sick.",
                     "example": "I have to take my medicine.\nThis medicine tastes sweet.\nWhere is your medicine?"
                 },
                 {
                     "word": "hospital",
                     "phonetic": "/ˈhɒspɪtl/",
                     "meaning": "bệnh viện",
+                    "definition": "A place where sick or injured people go to be treated by doctors.",
                     "example": "He is in the hospital.\nThe hospital is very big.\nGo to the hospital if you feel very sick."
                 },
                 {
                     "word": "nurse",
                     "phonetic": "/nɜːs/",
                     "meaning": "y tá",
+                    "definition": "A person who cares for sick or injured people in a hospital.",
                     "example": "The nurse is very kind.\nMy mother is a nurse.\nA nurse works in a hospital."
                 },
                 {
                     "word": "earache",
                     "phonetic": "/ˈɪəreɪk/",
                     "meaning": "đau tai",
+                    "definition": "A pain in the inside of your ear.",
                     "example": "I have an earache.\nIt hurts to have an earache.\nDoes your earache feel better?"
                 },
                 {
                     "word": "cry",
                     "phonetic": "/kraɪ/",
                     "meaning": "khóc",
+                    "definition": "To produce tears from your eyes because you are sad or hurt.",
                     "example": "Don't cry, everything is okay.\nThe baby is crying.\nWhy are you crying?"
                 },
                 {
                     "word": "shout",
                     "phonetic": "/ʃaʊt/",
                     "meaning": "hét lớn",
+                    "definition": "To speak very loudly because you are angry or want to be heard.",
                     "example": "Don't shout in the library!\nHe shouted my name.\nShe shouted for help."
                 },
                 {
                     "word": "smile",
                     "phonetic": "/smaɪl/",
                     "meaning": "mỉm cười",
+                    "definition": "To make your mouth wider to show that you are happy.",
                     "example": "Smile for the camera!\nShe has a beautiful smile.\nHe smiled at me."
                 },
                 {
                     "word": "thin",
                     "phonetic": "/θɪn/",
                     "meaning": "gầy/mỏng",
+                    "definition": "Having little body fat; not fat.",
                     "example": "He is very thin.\nThis book is very thin.\nHe has thin arms."
                 },
                 {
                     "word": "fat",
                     "phonetic": "/fæt/",
                     "meaning": "béo/mập",
+                    "definition": "Having a lot of body fat; not thin.",
                     "example": "The cat is very fat.\nDon't eat too much fat.\nHe is a fat panda."
                 },
                 {
                     "word": "call",
                     "phonetic": "/kɔːl/",
                     "meaning": "gọi điện/gọi",
+                    "definition": "To use a telephone to speak to someone.",
                     "example": "Call the doctor.\nI'll call you later.\nCall my name."
                 },
                 {
                     "word": "better",
                     "phonetic": "/ˈbetə(r)/",
                     "meaning": "tốt hơn",
+                    "definition": "Feeling healthy again after being sick.",
                     "example": "I feel better today.\nThis is better than that.\nI hope you get better soon."
                 },
                 {
                     "word": "well",
                     "phonetic": "/wel/",
                     "meaning": "khỏe",
+                    "definition": "Healthy and not sick.",
                     "example": "I'm very well, thank you.\nHe isn't well today.\nGet well soon."
                 },
                 {
                     "word": "ill",
                     "phonetic": "/ɪl/",
                     "meaning": "ốm",
+                    "definition": "Feeling sick or not healthy; unwell.",
                     "example": "He is ill and stays at home.\nI feel ill.\nAre you ill?"
                 },
                 {
                     "word": "doctor",
                     "phonetic": "/ˈdɒktə(r)/",
                     "meaning": "bác sĩ",
+                    "definition": "A person who is trained to treat people who are sick or injured.",
                     "example": "The doctor is very busy.\nI want to be a doctor.\nSee the doctor today."
                 },
                 {
                     "word": "wash",
                     "phonetic": "/wɒʃ/",
                     "meaning": "rửa",
+                    "definition": "To make something clean using water and soap.",
                     "example": "Wash your hands before dinner.\nWash your face.\nI need to wash my car."
                 }
             ],
@@ -499,150 +564,175 @@
                     "word": "coat",
                     "phonetic": "/kəʊt/",
                     "meaning": "áo khoác",
+                    "definition": "A piece of clothing with sleeves, worn over other clothes for warmth.",
                     "example": "Put on your coat, it's cold.\nI have a blue coat.\nWhere is my coat?"
                 },
                 {
                     "word": "gloves",
                     "phonetic": "/ɡlʌvz/",
                     "meaning": "găng tay",
+                    "definition": "Pieces of clothing that you wear on your hands to keep them warm.",
                     "example": "Wear gloves in winter.\nMy gloves are red.\nI lost one of my gloves."
                 },
                 {
                     "word": "scarf",
                     "phonetic": "/skɑːf/",
                     "meaning": "khăn quàng cổ",
+                    "definition": "A piece of cloth that you wear around your neck to keep warm.",
                     "example": "A long wool scarf.\nShe's wearing a yellow scarf.\nI need a scarf today."
                 },
                 {
                     "word": "sweater",
                     "phonetic": "/ˈswetə(r)/",
                     "meaning": "áo len",
+                    "definition": "A warm piece of clothing with sleeves, made of wool or cotton.",
                     "example": "My grandma knitted this sweater.\nIt's a warm sweater.\nI like your green sweater."
                 },
                 {
                     "word": "glasses",
                     "phonetic": "/ˈɡlɑːsɪz/",
                     "meaning": "kính",
+                    "definition": "Something you wear in front of your eyes to help you see better.",
                     "example": "I wear glasses for reading.\nWhere are my glasses?\nShe has new glasses."
                 },
                 {
                     "word": "handbag",
                     "phonetic": "/ˈhændbæɡ/",
                     "meaning": "túi xách",
+                    "definition": "A small bag used by women for carrying personal things like keys.",
                     "example": "My mom has a leather handbag.\nWhat's in your handbag?\nShe carries a small handbag."
                 },
                 {
                     "word": "hat",
                     "phonetic": "/hæt/",
                     "meaning": "mũ",
+                    "definition": "A piece of clothing that you wear on your head.",
                     "example": "Take off your hat inside.\nI have a sun hat.\nThat's a funny hat!"
                 },
                 {
                     "word": "socks",
                     "phonetic": "/sɒks/",
                     "meaning": "tất",
+                    "definition": "Pieces of clothing that you wear on your feet inside your shoes.",
                     "example": "My socks are white.\nI need a pair of socks.\nWhere is the other sock?"
                 },
                 {
                     "word": "t-shirt",
                     "phonetic": "/ˈtiː ʃɜːt/",
                     "meaning": "áo phông",
+                    "definition": "A soft cotton shirt with short sleeves and no collar.",
                     "example": "I'm wearing a white T-shirt.\nHe has a T-shirt with a lion on it.\nI like this T-shirt."
                 },
                 {
                     "word": "trousers",
                     "phonetic": "/ˈtraʊzəz/",
                     "meaning": "quần dài",
+                    "definition": "A piece of clothing with two legs that covers you from the waist.",
                     "example": "My trousers are too long.\nI have blue trousers.\nWear your black trousers."
                 },
                 {
                     "word": "shoes",
                     "phonetic": "/ʃuːz/",
                     "meaning": "giày",
+                    "definition": "Objects that you wear on your feet to protect them.",
                     "example": "My shoes are dirty.\nPut on your shoes.\nI have new school shoes."
                 },
                 {
                     "word": "boots",
                     "phonetic": "/buːts/",
                     "meaning": "ủng/giày cao cổ",
+                    "definition": "Strong shoes that cover your feet and part of your legs.",
                     "example": "Wear boots in the rain.\nThese are heavy boots.\nI like my red boots."
                 },
                 {
                     "word": "skirt",
                     "phonetic": "/skɜːt/",
                     "meaning": "chân váy",
+                    "definition": "A piece of clothing for women that hangs from the waist.",
                     "example": "She's wearing a pink skirt.\nMy school skirt is blue.\nI like that skirt."
                 },
                 {
                     "word": "dress",
                     "phonetic": "/dres/",
                     "meaning": "váy liền",
+                    "definition": "A piece of clothing for women that covers the top and hangs over the legs.",
                     "example": "She has a beautiful dress.\nI'm wearing a dress to the party.\nIs that a new dress?"
                 },
                 {
                     "word": "watch",
                     "phonetic": "/wɒtʃ/",
                     "meaning": "đồng hồ đeo tay",
+                    "definition": "To look at something for a period of time.",
                     "example": "What time is it on your watch?\nI have a new watch.\nMy watch is broken."
                 },
                 {
                     "word": "jeans",
                     "phonetic": "/dʒiːnz/",
                     "meaning": "quần bò",
+                    "definition": "Strong trousers made of blue denim cloth.",
                     "example": "I like wearing jeans.\nThese jeans are blue.\nMy jeans are old."
                 },
                 {
                     "word": "shirt",
                     "phonetic": "/ʃɜːt/",
                     "meaning": "áo sơ mi",
+                    "definition": "A piece of clothing for the upper body with a collar and buttons.",
                     "example": "He's wearing a white shirt.\nMy dad has many shirts.\nI need to wash my shirt."
                 },
                 {
                     "word": "jacket",
                     "phonetic": "/ˈdʒækɪt/",
                     "meaning": "áo khoác nhẹ",
+                    "definition": "A short light coat with sleeves.",
                     "example": "I'm wearing a light jacket.\nWhere is my jacket?\nPut your jacket on."
                 },
                 {
                     "word": "pocket",
                     "phonetic": "/ˈpɒkɪt/",
                     "meaning": "túi áo/quần",
+                    "definition": "A small bag-like part of a piece of clothing for keeping things in.",
                     "example": "I have a coin in my pocket.\nMy pocket is empty.\nPut it in your pocket."
                 },
                 {
                     "word": "belt",
                     "phonetic": "/belt/",
                     "meaning": "thắt lưng",
+                    "definition": "A strap worn around the waist to hold up clothes.",
                     "example": "I need a belt for my trousers.\nMy belt is black.\nWear a belt."
                 },
                 {
                     "word": "uniform",
                     "phonetic": "/ˈjuːnɪfɔːm/",
                     "meaning": "đồng phục",
+                    "definition": "A special set of clothes worn by people in the same organization.",
                     "example": "I wear a uniform to school.\nMy school uniform is blue.\nDo you like your uniform?"
                 },
                 {
                     "word": "wear",
                     "phonetic": "/weə(r)/",
                     "meaning": "mặc/đeo",
+                    "definition": "To have a piece of clothing or jewelry on your body.",
                     "example": "What are you wearing?\nI wear glasses.\nWear a warm coat."
                 },
                 {
                     "word": "put on",
                     "phonetic": "/pʊt ɒn/",
                     "meaning": "mặc vào/đeo vào",
+                    "definition": "To place a piece of clothing on your body.",
                     "example": "Put on your shoes.\nPut on your hat.\nI am putting on my coat."
                 },
                 {
                     "word": "take off",
                     "phonetic": "/teɪk ɒf/",
                     "meaning": "cởi ra",
+                    "definition": "To remove a piece of clothing from your body.",
                     "example": "Take off your shoes.\nTake off your hat.\nI am taking off my jacket."
                 },
                 {
                     "word": "size",
                     "phonetic": "/saɪz/",
                     "meaning": "kích cỡ",
+                    "definition": "How large or small something is.",
                     "example": "What size do you need?\nThis is the wrong size.\nI need a bigger size."
                 }
             ],
@@ -663,150 +753,175 @@
                     "word": "bowl",
                     "phonetic": "/bəʊl/",
                     "meaning": "cái bát",
+                    "definition": "A round container that is open at the top and used for food.",
                     "example": "A bowl of soup.\nPut the fruit in the bowl.\nI have a cereal bowl."
                 },
                 {
                     "word": "cup",
                     "phonetic": "/kʌp/",
                     "meaning": "cái chén/tách",
+                    "definition": "A small container with a handle used for drinking tea or coffee.",
                     "example": "A cup of tea.\nCan I have a cup of water?\nMy favorite cup is blue."
                 },
                 {
                     "word": "glass",
                     "phonetic": "/ɡlɑːs/",
                     "meaning": "cái ly",
+                    "definition": "A container made of glass used for drinking cold liquids.",
                     "example": "A glass of milk.\nDrink a glass of water.\nBe careful with the glass."
                 },
                 {
                     "word": "plate",
                     "phonetic": "/pleɪt/",
                     "meaning": "cái đĩa",
+                    "definition": "A flat round dish that you put food on to eat.",
                     "example": "Put your sandwich on the plate.\nThe plate is clean.\nI have a big plate."
                 },
                 {
                     "word": "bottle",
                     "phonetic": "/ˈbɒtl/",
                     "meaning": "cái chai",
+                    "definition": "A container for liquids, usually made of glass or plastic.",
                     "example": "A bottle of juice.\nDrink from the bottle.\nWhere is your water bottle?"
                 },
                 {
                     "word": "cheese",
                     "phonetic": "/tʃiːz/",
                     "meaning": "phô mai",
+                    "definition": "A solid food made from milk, often yellow or white.",
                     "example": "I like cheese on my pizza.\nDo you want some cheese?\nCheese is made from milk."
                 },
                 {
                     "word": "pasta",
                     "phonetic": "/ˈpæstə/",
                     "meaning": "mì ống",
+                    "definition": "An Italian food made from flour and water, such as noodles.",
                     "example": "I love eating pasta.\nMom is cooking pasta for dinner.\nPasta is an Italian food."
                 },
                 {
                     "word": "salad",
                     "phonetic": "/ˈsæləd/",
                     "meaning": "sa lát",
+                    "definition": "A mixture of raw vegetables, often served with a dressing.",
                     "example": "I have a green salad.\nEat some salad with your chicken.\nSalad is very healthy."
                 },
                 {
                     "word": "soup",
                     "phonetic": "/suːp/",
                     "meaning": "súp/canh",
+                    "definition": "A liquid food made by boiling meat or vegetables in water.",
                     "example": "Hot soup is good for a cold.\nI'm eating tomato soup.\nDo you want some soup?"
                 },
                 {
                     "word": "vegetables",
                     "phonetic": "/ˈvedʒtəblz/",
                     "meaning": "rau củ",
+                    "definition": "Plants used as food, such as carrots or potatoes.",
                     "example": "Eat your vegetables.\nI like many kinds of vegetables.\nCarrots are vegetables."
                 },
                 {
                     "word": "fruit",
                     "phonetic": "/fruːt/",
                     "meaning": "trái cây",
+                    "definition": "The sweet part of a plant that has seeds and can be eaten.",
                     "example": "Fruit is sweet.\nApples and oranges are fruit.\nI like fruit salad."
                 },
                 {
                     "word": "meat",
                     "phonetic": "/miːt/",
                     "meaning": "thịt",
+                    "definition": "The part of an animal used as food.",
                     "example": "I don't eat meat.\nThis meat is delicious.\nDo you like meat?"
                 },
                 {
                     "word": "bread",
                     "phonetic": "/bred/",
                     "meaning": "bánh mì",
+                    "definition": "A common food made from flour and water, then baked.",
                     "example": "I have bread for breakfast.\nFresh bread smells good.\nButter on bread is nice."
                 },
                 {
                     "word": "coffee",
                     "phonetic": "/ˈkɒfi/",
                     "meaning": "cà phê",
+                    "definition": "A dark brown drink made from ground beans.",
                     "example": "My dad drinks coffee.\nCoffee is brown.\nI don't like coffee."
                 },
                 {
                     "word": "tea",
                     "phonetic": "/tiː/",
                     "meaning": "trà",
+                    "definition": "A hot drink made by pouring water over dried leaves.",
                     "example": "Would you like a cup of tea?\nTea is a hot drink.\nI like iced tea."
                 },
                 {
                     "word": "juice",
                     "phonetic": "/dʒuːs/",
                     "meaning": "nước hoa quả",
+                    "definition": "The liquid that comes from fruit or vegetables.",
                     "example": "Orange juice is good.\nI want some apple juice.\nFresh fruit juice."
                 },
                 {
                     "word": "milk",
                     "phonetic": "/mɪlk/",
                     "meaning": "sữa",
+                    "definition": "A white liquid produced by cows or goats.",
                     "example": "Drink your milk.\nMilk is white.\nI have milk with my cereal."
                 },
                 {
                     "word": "water",
                     "phonetic": "/ˈwɔːtə(r)/",
                     "meaning": "nước",
+                    "definition": "The clear liquid that fell as rain and is found in seas and lakes.",
                     "example": "Can I have some water, please?\nWater is very important.\nDrink enough water every day."
                 },
                 {
                     "word": "sandwich",
                     "phonetic": "/ˈsænwɪtʃ/",
                     "meaning": "bánh mì kẹp",
+                    "definition": "Two pieces of bread with food like meat or cheese between them.",
                     "example": "I have a ham sandwich.\nMake a sandwich for lunch.\nThis sandwich is big."
                 },
                 {
                     "word": "burger",
                     "phonetic": "/ˈbɜːɡə(r)/",
                     "meaning": "bánh mì kẹp thịt",
+                    "definition": "A flat round piece of meat served inside a round bread roll.",
                     "example": "I like burgers with cheese.\nWe go to the burger restaurant.\nA burger and fries."
                 },
                 {
                     "word": "chips",
                     "phonetic": "/tʃɪps/",
                     "meaning": "khoai tây chiên",
+                    "definition": "Long thin pieces of potato that have been fried.",
                     "example": "I like fish and chips.\nDon't eat too many chips.\nPotato chips are salty."
                 },
                 {
                     "word": "ice cream",
                     "phonetic": "/ˌaɪs ˈkriːm/",
                     "meaning": "kem",
+                    "definition": "A very cold sweet food made from milk.",
                     "example": "I love chocolate ice cream.\nCan I have an ice cream?\nIt's very cold, don't eat ice cream."
                 },
                 {
                     "word": "cake",
                     "phonetic": "/keɪk/",
                     "meaning": "bánh ngọt",
+                    "definition": "A sweet food made from flour, sugar, and eggs, then baked.",
                     "example": "A birthday cake.\nI'm baking a cake.\nWould you like some cake?"
                 },
                 {
                     "word": "sweets",
                     "phonetic": "/swiːts/",
                     "meaning": "kẹo/đồ ngọt",
+                    "definition": "Small pieces of sweet food, usually made of sugar.",
                     "example": "Don't eat too many sweets.\nI love sweets.\nMy dentist says no sweets."
                 },
                 {
                     "word": "hunger",
                     "phonetic": "/ˈhʌŋɡə(r)/",
                     "meaning": "sự đói",
+                    "definition": "The feeling that you need to eat something.",
                     "example": "I'm feeling hunger.\nAre you hungry?\nHe has a big appetite."
                 }
             ],
@@ -827,150 +942,175 @@
                     "word": "blanket",
                     "phonetic": "/ˈblæŋkɪt/",
                     "meaning": "cái chăn",
+                    "definition": "A warm thick cover for a bed.",
                     "example": "I have a warm blanket.\nPut the blanket on the bed.\nA soft blue blanket."
                 },
                 {
                     "word": "shelf",
                     "phonetic": "/ʃelf/",
                     "meaning": "cái giá/kệ",
+                    "definition": "A flat board used for keeping things on.",
                     "example": "Put the books on the shelf.\nThe shelf is full of toys.\nA wooden shelf."
                 },
                 {
                     "word": "stairs",
                     "phonetic": "/steəz/",
                     "meaning": "cầu thang",
+                    "definition": "A set of steps for going from one level of a building to another.",
                     "example": "Go up the stairs.\nGo down the stairs.\nBe careful on the stairs."
                 },
                 {
                     "word": "table",
                     "phonetic": "/ˈteɪbl/",
                     "meaning": "cái bàn",
+                    "definition": "A piece of furniture with a flat top and legs.",
                     "example": "Put it on the table.\nSit at the table.\nA big dinner table."
                 },
                 {
                     "word": "chair",
                     "phonetic": "/tʃeə(r)/",
                     "meaning": "cái ghế",
+                    "definition": "A piece of furniture for one person to sit on.",
                     "example": "Sit on the chair.\nMove your chair.\nA comfy chair."
                 },
                 {
                     "word": "door",
                     "phonetic": "/dɔː(r)/",
                     "meaning": "cửa",
+                    "definition": "The part of a room or building that opens and closes.",
                     "example": "Open the door.\nClose the door.\nLock the door."
                 },
                 {
                     "word": "window",
                     "phonetic": "/ˈwɪndəʊ/",
                     "meaning": "cửa sổ",
+                    "definition": "A space in a wall that is filled with glass to let in light.",
                     "example": "Look out the window.\nClose the window.\nClean the window."
                 },
                 {
                     "word": "floor",
                     "phonetic": "/flɔː(r)/",
                     "meaning": "sàn nhà",
+                    "definition": "The surface that you walk on in a room.",
                     "example": "Sit on the floor.\nClean the floor.\nThe floor is wet."
                 },
                 {
                     "word": "wall",
                     "phonetic": "/wɔːl/",
                     "meaning": "bức tường",
+                    "definition": "One of the sides of a room or building.",
                     "example": "A picture on the wall.\nPaint the wall.\nA white wall."
                 },
                 {
                     "word": "towel",
                     "phonetic": "/ˈtaʊəl/",
                     "meaning": "khăn tắm",
+                    "definition": "A piece of cloth used for drying yourself after washing.",
                     "example": "Dry your hands with a towel.\nI need a clean towel.\nA beach towel."
                 },
                 {
                     "word": "soap",
                     "phonetic": "/səʊp/",
                     "meaning": "xà phòng",
+                    "definition": "A substance that you use with water to wash yourself.",
                     "example": "Wash with soap.\nI need some soap.\nSmell the soap."
                 },
                 {
                     "word": "toothbrush",
                     "phonetic": "/ˈtuːθbrʌʃ/",
                     "meaning": "bàn chải đánh răng",
+                    "definition": "A small brush that you use to clean your teeth.",
                     "example": "Where is my toothbrush?\nA new toothbrush.\nUse your toothbrush."
                 },
                 {
                     "word": "paste",
                     "phonetic": "/peɪst/",
                     "meaning": "kem (đánh răng)",
+                    "definition": "A thick soft substance, like the one used for cleaning teeth.",
                     "example": "Put toothpaste on your brush.\nMinty toothpaste.\nI need more toothpaste."
                 },
                 {
                     "word": "bath",
                     "phonetic": "/bɑːθ/",
                     "meaning": "tắm bồn",
+                    "definition": "A large container that you fill with water and sit in to wash.",
                     "example": "Have a hot bath.\nThe bath is ready.\nSit in the bath."
                 },
                 {
                     "word": "shower",
                     "phonetic": "/ˈʃaʊə(r)/",
                     "meaning": "tắm vòi hoa sen",
+                    "definition": "An object that you stand under to wash yourself with water.",
                     "example": "Have a quick shower.\nTurn on the shower.\nI like showers."
                 },
                 {
                     "word": "bed",
                     "phonetic": "/bed/",
                     "meaning": "cái giường",
+                    "definition": "A piece of furniture that you sleep on.",
                     "example": "Go to bed.\nMake your bed.\nA big bed."
                 },
                 {
                     "word": "garden",
                     "phonetic": "/ˈɡɑːdn/",
                     "meaning": "vườn",
+                    "definition": "An area of land next to a house where plants are grown.",
                     "example": "Play in the garden.\nA beautiful garden.\nFlowers in the garden."
                 },
                 {
                     "word": "kitchen",
                     "phonetic": "/ˈkɪtʃɪn/",
                     "meaning": "nhà bếp",
+                    "definition": "The room where food is prepared and cooked.",
                     "example": "Cook in the kitchen.\nA clean kitchen.\nMom is in the kitchen."
                 },
                 {
                     "word": "living room",
                     "phonetic": "/ˈlɪvɪŋ ruːm/",
                     "meaning": "phòng khách",
+                    "definition": "The main room in a house where people sit and relax.",
                     "example": "Watch TV in the living room.\nA big living room.\nSit in the living room."
                 },
                 {
                     "word": "bedroom",
                     "phonetic": "/ˈbedruːm/",
                     "meaning": "phòng ngủ",
+                    "definition": "A room where people sleep.",
                     "example": "Sleep in your bedroom.\nMy bedroom is blue.\nGo to your bedroom."
                 },
                 {
                     "word": "bathroom",
                     "phonetic": "/ˈbɑːθruːm/",
                     "meaning": "phòng tắm",
+                    "definition": "A room with a bath or shower and a toilet.",
                     "example": "Go to the bathroom.\nClean the bathroom.\nIs anyone in the bathroom?"
                 },
                 {
                     "word": "home",
                     "phonetic": "/həʊm/",
                     "meaning": "nhà",
+                    "definition": "The house or flat where you live.",
                     "example": "Stay at home.\nGo home.\nHome sweet home."
                 },
                 {
                     "word": "house",
                     "phonetic": "/haʊs/",
                     "meaning": "ngôi nhà",
+                    "definition": "A building that people live in.",
                     "example": "A big house.\nMy house is pink.\nBuild a house."
                 },
                 {
                     "word": "flat",
                     "phonetic": "/flæt/",
                     "meaning": "căn hộ",
+                    "definition": "A set of rooms for living in, usually on one floor of a building.",
                     "example": "I live in a flat.\nA small flat.\nHis flat is on the third floor."
                 },
                 {
                     "word": "upstairs",
                     "phonetic": "/ˌʌpˈsteəz/",
                     "meaning": "trên tầng",
+                    "definition": "On a higher floor of a building.",
                     "example": "Go upstairs.\nMy room is upstairs.\nIs he upstairs?"
                 }
             ],
@@ -991,18 +1131,21 @@
                     "word": "bank",
                     "phonetic": "/bæŋk/",
                     "meaning": "ngân hàng",
+                    "definition": "A place where people keep their money safely.",
                     "example": "I need to go to the bank.\nThe bank is next to the shop.\nWhere is the nearest bank?"
                 },
                 {
                     "word": "café",
                     "phonetic": "/ˈkæfeɪ/",
                     "meaning": "quán cà phê",
+                    "definition": "A small restaurant where you can buy drinks and light meals.",
                     "example": "Let's meet at the café.\nI like the cake in this café.\nA small quiet café."
                 },
                 {
                     "word": "cinema",
                     "phonetic": "/ˈsɪnəmə/",
                     "meaning": "rạp chiếu phim",
+                    "definition": "A building where you go to watch movies.",
                     "example": "We saw a movie at the cinema.\nThe cinema is in the city center.\nLet's go to the cinema."
                 }
             ],
@@ -1023,150 +1166,175 @@
                     "word": "badminton",
                     "phonetic": "/ˈbædmɪntən/",
                     "meaning": "cầu lông",
+                    "definition": "A sport played with rackets and a shuttlecock over a net.",
                     "example": "I play badminton with my sister.\nBadminton is fun.\nHe has a badminton racket."
                 },
                 {
                     "word": "baseball",
                     "phonetic": "/ˈbeɪsbɔːl/",
                     "meaning": "bóng chày",
+                    "definition": "A game played with a bat and a ball by two teams of nine players.",
                     "example": "He plays baseball at school.\nA baseball bat.\nDo you like baseball?"
                 },
                 {
                     "word": "basketball",
                     "phonetic": "/ˈbɑːskɪtbɔːl/",
                     "meaning": "bóng rổ",
+                    "definition": "A game where two teams try to throw a ball through a net.",
                     "example": "He's very good at basketball.\nA basketball hoop.\nPlay basketball in the park."
                 },
                 {
                     "word": "football",
                     "phonetic": "/ˈfʊtbɔːl/",
                     "meaning": "bóng đá",
+                    "definition": "A game where two teams try to kick a ball into a goal.",
                     "example": "I love playing football.\nA football match.\nKick the football."
                 },
                 {
                     "word": "hockey",
                     "phonetic": "/ˈhɒki/",
                     "meaning": "khúc côn cầu",
+                    "definition": "A game played on ice or grass with sticks and a puck or ball.",
                     "example": "They play hockey on grass.\nA hockey stick.\nIs hockey difficult?"
                 },
                 {
                     "word": "table tennis",
                     "phonetic": "/ˈteɪbl tenɪs/",
                     "meaning": "bóng bàn",
+                    "definition": "A game played on a table with small rackets and a ball.",
                     "example": "We play table tennis in the garage.\nA small table tennis ball.\nI'm good at table tennis."
                 },
                 {
                     "word": "tennis",
                     "phonetic": "/ˈtenɪs/",
                     "meaning": "quần vợt",
+                    "definition": "A game played on a court with rackets and a ball.",
                     "example": "Play tennis on the court.\nA tennis racket.\nDo you want to play tennis?"
                 },
                 {
                     "word": "skate",
                     "phonetic": "/skeɪt/",
                     "meaning": "trượt (băng/patin)",
+                    "definition": "To move on smooth ice or a flat surface using shoes with wheels.",
                     "example": "I like to skate in winter.\nCan you skate?\nGo to the skating rink."
                 },
                 {
                     "word": "swim",
                     "phonetic": "/swɪm/",
                     "meaning": "bơi",
+                    "definition": "To move through water using your arms and legs.",
                     "example": "I swim every Friday.\nCan you swim under water?\nSwim in the pool."
                 },
                 {
                     "word": "climb",
                     "phonetic": "/klaɪm/",
                     "meaning": "leo/trèo",
+                    "definition": "To go up something using your hands and feet.",
                     "example": "Don't climb the tree!\nClimb a mountain.\nHe likes climbing."
                 },
                 {
                     "word": "dance",
                     "phonetic": "/dɑːns/",
                     "meaning": "nhảy múa",
+                    "definition": "To move your body to music.",
                     "example": "She likes to dance.\nA beautiful dance.\nLet's dance!"
                 },
                 {
                     "word": "fish",
                     "phonetic": "/fɪʃ/",
                     "meaning": "câu cá/con cá",
+                    "definition": "To try to catch fish for sport or food.",
                     "example": "Go fishing at the lake.\nI caught a big fish.\nFishing is relaxing."
                 },
                 {
                     "word": "ride",
                     "phonetic": "/raɪd/",
                     "meaning": "cưỡi/lái",
+                    "definition": "To sit on and control an animal or a bicycle.",
                     "example": "Ride a bike.\nRide a horse.\nCan you ride a motorbike?"
                 },
                 {
                     "word": "run",
                     "phonetic": "/rʌn/",
                     "meaning": "chạy",
+                    "definition": "To move quickly on your legs.",
                     "example": "Run fast!\nI run in the park.\nA long run."
                 },
                 {
                     "word": "sing",
                     "phonetic": "/sɪŋ/",
                     "meaning": "hát",
+                    "definition": "To make musical sounds with your voice.",
                     "example": "She sings very well.\nSing a song.\nI like singing."
                 },
                 {
                     "word": "walk",
                     "phonetic": "/wɔːk/",
                     "meaning": "đi bộ",
+                    "definition": "To move on your legs at a regular speed.",
                     "example": "Walk to school.\nA long walk.\nWalk in the rain."
                 },
                 {
                     "word": "paint",
                     "phonetic": "/peɪnt/",
                     "meaning": "sơn/vẽ",
+                    "definition": "To use paint to make a picture.",
                     "example": "Paint a picture.\nPaint the wall.\nI like painting."
                 },
                 {
                     "word": "draw",
                     "phonetic": "/drɔː/",
                     "meaning": "vẽ",
+                    "definition": "To use a pencil or pen to make a picture.",
                     "example": "Draw a dog.\nDraw with a pencil.\nThat's a nice drawing."
                 },
                 {
                     "word": "cook",
                     "phonetic": "/kʊk/",
                     "meaning": "nấu ăn",
+                    "definition": "To prepare food by heating it.",
                     "example": "I help my mom cook.\nA great cook.\nCook dinner."
                 },
                 {
                     "word": "read",
                     "phonetic": "/riːd/",
                     "meaning": "đọc",
+                    "definition": "To look at and understand words in a book or magazine.",
                     "example": "Read a book.\nRead a story.\nI like reading comics."
                 },
                 {
                     "word": "write",
                     "phonetic": "/raɪt/",
                     "meaning": "viết",
+                    "definition": "To make letters or words on paper with a pen or pencil.",
                     "example": "Write your name.\nWrite a letter.\nWrite in your notebook."
                 },
                 {
                     "word": "listen",
                     "phonetic": "/ˈlɪsn/",
                     "meaning": "nghe",
+                    "definition": "To give attention to a sound.",
                     "example": "Listen to music.\nListen to the teacher.\nAre you listening?"
                 },
                 {
                     "word": "watch",
                     "phonetic": "/wɒtʃ/",
                     "meaning": "xem",
+                    "definition": "To look at something for a period of time.",
                     "example": "Watch TV.\nWatch a movie.\nWatch the birds."
                 },
                 {
                     "word": "play",
                     "phonetic": "/pleɪ/",
                     "meaning": "chơi",
+                    "definition": "To do an activity for fun or as a game.",
                     "example": "Play games.\nPlay with toys.\nPlay a musical instrument."
                 },
                 {
                     "word": "jump",
                     "phonetic": "/dʒʌmp/",
                     "meaning": "nhảy",
+                    "definition": "To push yourself into the air with your legs.",
                     "example": "Jump high!\nJump over the puddle.\nDon't jump on the bed."
                 }
             ],
@@ -1187,150 +1355,175 @@
                     "word": "morning",
                     "phonetic": "/ˈmɔːnɪŋ/",
                     "meaning": "buổi sáng",
+                    "definition": "The first part of the day, before lunch.",
                     "example": "Good morning!\nIn the morning I have breakfast.\nA sunny morning."
                 },
                 {
                     "word": "afternoon",
                     "phonetic": "/ˌɑːftəˈnuːn/",
                     "meaning": "buổi chiều",
+                    "definition": "The part of the day between lunch and the evening.",
                     "example": "In the afternoon I do my homework.\nGood afternoon!\nSee you this afternoon."
                 },
                 {
                     "word": "evening",
                     "phonetic": "/ˈiːvnɪŋ/",
                     "meaning": "buổi tối",
+                    "definition": "The last part of the day, before you go to bed.",
                     "example": "In the evening I watch TV.\nGood evening!\nA quiet evening."
                 },
                 {
                     "word": "night",
                     "phonetic": "/naɪt/",
                     "meaning": "ban đêm",
+                    "definition": "The time when it is dark and most people sleep.",
                     "example": "Good night!\nSleep at night.\nStars shine at night."
                 },
                 {
                     "word": "today",
                     "phonetic": "/təˈdeɪ/",
                     "meaning": "hôm nay",
+                    "definition": "On or during this day.",
                     "example": "Today is Monday.\nI am happy today.\nWhat's the weather today?"
                 },
                 {
                     "word": "yesterday",
                     "phonetic": "/ˈjestədeɪ/",
                     "meaning": "hôm qua",
+                    "definition": "On or during the day before today.",
                     "example": "I went to the zoo yesterday.\nIt was sunny yesterday.\nWhere were you yesterday?"
                 },
                 {
                     "word": "tomorrow",
                     "phonetic": "/təˈmɒrəʊ/",
                     "meaning": "ngày mai",
+                    "definition": "On or during the day after today.",
                     "example": "See you tomorrow!\nI will go swimming tomorrow.\nTomorrow is my birthday."
                 },
                 {
                     "word": "weekend",
                     "phonetic": "/ˌwiːkˈend/",
                     "meaning": "cuối tuần",
+                    "definition": "Saturday and Sunday.",
                     "example": "Have a nice weekend!\nI play games at the weekend.\nWhat are you doing this weekend?"
                 },
                 {
                     "word": "Monday",
                     "phonetic": "/ˈmʌndeɪ/",
                     "meaning": "Thứ hai",
+                    "definition": "The first part of the school or work week.",
                     "example": "I go to school on Monday.\nMonday is the first day of the week.\nSee you next Monday."
                 },
                 {
                     "word": "Tuesday",
                     "phonetic": "/ˈtjuːzdeɪ/",
                     "meaning": "Thứ ba",
+                    "definition": "The day of the week after Monday.",
                     "example": "We have English on Tuesday.\nTuesday morning.\nIs it Tuesday today?"
                 },
                 {
                     "word": "Wednesday",
                     "phonetic": "/ˈwenzdeɪ/",
                     "meaning": "Thứ tư",
+                    "definition": "The day of the week after Tuesday.",
                     "example": "Happy Wednesday!\nI swim on Wednesday.\nWednesday afternoon."
                 },
                 {
                     "word": "Thursday",
                     "phonetic": "/ˈθɜːzdeɪ/",
                     "meaning": "Thứ năm",
+                    "definition": "The day of the week after Wednesday.",
                     "example": "I play football on Thursday.\nThursday evening.\nSee you on Thursday."
                 },
                 {
                     "word": "Friday",
                     "phonetic": "/ˈfraɪdeɪ/",
                     "meaning": "Thứ sáu",
+                    "definition": "The day of the week after Thursday.",
                     "example": "I love Friday.\nSchool finishes on Friday.\nFriday night."
                 },
                 {
                     "word": "Saturday",
                     "phonetic": "/ˈsætədeɪ/",
                     "meaning": "Thứ bảy",
+                    "definition": "The day of the week after Friday.",
                     "example": "I go to the park on Saturday.\nSaturday is fun.\nA busy Saturday."
                 },
                 {
                     "word": "Sunday",
                     "phonetic": "/ˈsʌndeɪ/",
                     "meaning": "Chủ nhật",
+                    "definition": "The day of the week after Saturday.",
                     "example": "I stay at home on Sunday.\nSunday is a day of rest.\nSunday morning."
                 },
                 {
                     "word": "o'clock",
                     "phonetic": "/əˈklɒk/",
                     "meaning": "giờ (đúng)",
+                    "definition": "Used for telling the time of day.",
                     "example": "It's seven o'clock.\nI wake up at six o'clock.\nSee you at four o'clock."
                 },
                 {
                     "word": "half past",
                     "phonetic": "/hɑːf pɑːst/",
                     "meaning": "giờ rưỡi",
+                    "definition": "Thirty minutes after a particular hour.",
                     "example": "It's half past eight.\nI have lunch at half past twelve.\nHalf past four."
                 },
                 {
                     "word": "quarter past",
                     "phonetic": "/ˈkwɔːtə(r) pɑːst/",
                     "meaning": "giờ hơn 15 phút",
+                    "definition": "Fifteen minutes after a particular hour.",
                     "example": "It's quarter past nine.\nSchool starts at quarter past eight.\nQuarter past one."
                 },
                 {
                     "word": "quarter to",
                     "phonetic": "/ˈkwɔːtə(r) tuː/",
                     "meaning": "giờ kém 15 phút",
+                    "definition": "Fifteen minutes before a particular hour.",
                     "example": "It's quarter to ten.\nI go home at quarter to four.\nQuarter to seven."
                 },
                 {
                     "word": "number",
                     "phonetic": "/ˈnʌmbə(r)/",
                     "meaning": "con số",
+                    "definition": "A word or symbol that stands for a quantity.",
                     "example": "What's your phone number?\nA lucky number.\nPick a number."
                 },
                 {
                     "word": "twenty",
                     "phonetic": "/ˈtwenti/",
                     "meaning": "số 20",
+                    "definition": "The number 20.",
                     "example": "Twenty students in the class.\nI am twenty years old.\nNumber twenty."
                 },
                 {
                     "word": "thirty",
                     "phonetic": "/ˈθɜːti/",
                     "meaning": "số 30",
+                    "definition": "The number 30.",
                     "example": "Thirty minutes.\nIt costs thirty dollars.\nNumber thirty."
                 },
                 {
                     "word": "forty",
                     "phonetic": "/ˈfɔːti/",
                     "meaning": "số 40",
+                    "definition": "The number 40.",
                     "example": "Forty children.\nForty years ago.\nNumber forty."
                 },
                 {
                     "word": "fifty",
                     "phonetic": "/ˈfɪfti/",
                     "meaning": "số 50",
+                    "definition": "The number 50.",
                     "example": "Fifty percent.\nFifty cents.\nNumber fifty."
                 },
                 {
                     "word": "hundred",
                     "phonetic": "/ˈhʌndrəd/",
                     "meaning": "trăm",
+                    "definition": "The number 100.",
                     "example": "One hundred dollars.\nA hundred people.\nOne hundred percent."
                 }
             ],
@@ -1351,114 +1544,133 @@
                     "word": "plane",
                     "phonetic": "/pleɪn/",
                     "meaning": "máy bay",
+                    "definition": "A vehicle with wings that flies in the sky.",
                     "example": "The plane is in the sky.\nI travel by plane.\nA big white plane."
                 },
                 {
                     "word": "helicopter",
                     "phonetic": "/ˈhelɪkɒptə(r)/",
                     "meaning": "trực thăng",
+                    "definition": "A vehicle that flies and has large blades that turn on top.",
                     "example": "A noisy helicopter.\nThe helicopter landed safely.\nI saw a helicopter."
                 },
                 {
                     "word": "bus",
                     "phonetic": "/bʌs/",
                     "meaning": "xe buýt",
+                    "definition": "A large vehicle that carries many people along a road.",
                     "example": "Go to school by bus.\nWait for the bus.\nA red bus."
                 },
                 {
                     "word": "coach",
                     "phonetic": "/kəʊtʃ/",
                     "meaning": "xe khách",
+                    "definition": "An extra-large bus used for long journeys.",
                     "example": "Travel by coach.\nThe coach is comfortable.\nA long coach trip."
                 },
                 {
                     "word": "truck",
                     "phonetic": "/trʌk/",
                     "meaning": "xe tải",
+                    "definition": "A large, strong vehicle used for carrying heavy things.",
                     "example": "A big truck.\nThe truck carries heavy boxes.\nA blue truck."
                 },
                 {
                     "word": "lorry",
                     "phonetic": "/ˈlɒri/",
                     "meaning": "xe tải",
+                    "definition": "A large truck used for carrying goods.",
                     "example": "The lorry is driving fast.\nA delivery lorry.\nLook at that big lorry!"
                 },
                 {
                     "word": "tractor",
                     "phonetic": "/ˈtræktə(r)/",
                     "meaning": "máy kéo",
+                    "definition": "A strong vehicle used on farms for pulling heavy things.",
                     "example": "The farmer drives a tractor.\nA red tractor on the farm.\nI like tractors."
                 },
                 {
                     "word": "boat",
                     "phonetic": "/bəʊt/",
                     "meaning": "thuyền",
+                    "definition": "A vehicle used for traveling on water.",
                     "example": "The boat is on the river.\nA small fishing boat.\nSail a boat."
                 },
                 {
                     "word": "ship",
                     "phonetic": "/ʃɪp/",
                     "meaning": "tàu thủy",
+                    "definition": "A very large boat used for traveling across the sea.",
                     "example": "A big ship in the ocean.\nThe ship is sailing away.\nA cruise ship."
                 },
                 {
                     "word": "train",
                     "phonetic": "/treɪn/",
                     "meaning": "tàu hỏa",
+                    "definition": "A long vehicle that travels on metal tracks.",
                     "example": "Travel by train.\nThe train is fast.\nWait for the train."
                 },
                 {
                     "word": "bike",
                     "phonetic": "/baɪk/",
                     "meaning": "xe đạp",
+                    "definition": "A vehicle with two wheels that you ride by pushing with your legs.",
                     "example": "I ride my bike to school.\nA new bike.\nI love my bike."
                 },
                 {
                     "word": "motorbike",
                     "phonetic": "/ˈməʊtəbaɪk/",
                     "meaning": "xe máy",
+                    "definition": "A vehicle with two wheels and an engine.",
                     "example": "My dad has a motorbike.\nMotorbikes are noisy.\nWear a helmet on a motorbike."
                 },
                 {
                     "word": "driver",
                     "phonetic": "/ˈdraɪvə(r)/",
                     "meaning": "người lái xe",
+                    "definition": "A person who drives a vehicle.",
                     "example": "The bus driver is kind.\nA racing driver.\nMy dad is a good driver."
                 },
                 {
                     "word": "passenger",
                     "phonetic": "/ˈpæsɪndʒə(r)/",
                     "meaning": "hành khách",
+                    "definition": "Someone who travels in a vehicle but is not the driver.",
                     "example": "The passengers are on the bus.\nA busy passenger.\nWait for the passengers."
                 },
                 {
                     "word": "travel",
                     "phonetic": "/ˈtrævl/",
                     "meaning": "du lịch/đi lại",
+                    "definition": "To go from one place to another.",
                     "example": "I love to travel.\nTravel by train.\nWhere do you want to travel?"
                 },
                 {
                     "word": "ticket",
                     "phonetic": "/ˈtɪkɪt/",
                     "meaning": "vé",
+                    "definition": "A piece of paper that shows you have paid for a journey.",
                     "example": "Buy a ticket.\nA train ticket.\nShow your ticket."
                 },
                 {
                     "word": "trip",
                     "phonetic": "/trɪp/",
                     "meaning": "chuyến đi",
+                    "definition": "A journey to a place and back again.",
                     "example": "A school trip.\nA long trip.\nEnjoy your trip!"
                 },
                 {
                     "word": "vacation",
                     "phonetic": "/veɪˈkeɪʃn/",
                     "meaning": "kỳ nghỉ",
+                    "definition": "A period of time when you do not work or go to school.",
                     "example": "Go on vacation.\nSummer vacation.\nA fun vacation."
                 },
                 {
                     "word": "bag",
                     "phonetic": "/bæɡ/",
                     "meaning": "túi/xách",
+                    "definition": "A container made of paper or cloth for carrying things.",
                     "example": "My school bag.\nA heavy bag.\nWhat's in your bag?"
                 }
             ],
@@ -1479,180 +1691,210 @@
                     "word": "mountain",
                     "phonetic": "/ˈmaʊntən/",
                     "meaning": "ngọn núi",
+                    "definition": "A very high hill, often with rocks or snow on top.",
                     "example": "A high mountain.\nClimb a mountain.\nSnow on the mountain."
                 },
                 {
                     "word": "hill",
                     "phonetic": "/hɪl/",
                     "meaning": "đồi",
+                    "definition": "A high area of land that is smaller than a mountain.",
                     "example": "Walk up the hill.\nThe house is on the hill.\nA green hill."
                 },
                 {
                     "word": "river",
                     "phonetic": "/ˈrɪvə(r)/",
                     "meaning": "con sông",
+                    "definition": "A natural flow of water that goes across land into the sea.",
                     "example": "The river is long.\nSwim in the river.\nA boat on the river."
                 },
                 {
                     "word": "lake",
                     "phonetic": "/leɪk/",
                     "meaning": "hồ",
+                    "definition": "A large area of water that is surrounded by land.",
                     "example": "The lake is quiet.\nA beautiful lake.\nFishing in the lake."
                 },
                 {
                     "word": "forest",
                     "phonetic": "/ˈfɒrɪst/",
                     "meaning": "rừng",
+                    "definition": "A large area of land covered with many trees.",
                     "example": "Trees in the forest.\nWild animals live in the forest.\nA dark forest."
                 },
                 {
                     "word": "jungle",
                     "phonetic": "/ˈdʒʌŋɡl/",
                     "meaning": "rừng nhiệt đới",
+                    "definition": "A thick forest in a hot, tropical part of the world.",
                     "example": "A thick jungle.\nMonkeys live in the jungle.\nExplore the jungle."
                 },
                 {
                     "word": "island",
                     "phonetic": "/ˈaɪlənd/",
                     "meaning": "hòn đảo",
+                    "definition": "A piece of land that is completely surrounded by water.",
                     "example": "Live on an island.\nA small island.\nGo to the island by boat."
                 },
                 {
                     "word": "field",
                     "phonetic": "/fiːld/",
                     "meaning": "cánh đồng",
+                    "definition": "An area of land on a farm used for growing crops or keeping animals.",
                     "example": "Cows in the field.\nA green field.\nPlay in the field."
                 },
                 {
                     "word": "farm",
                     "phonetic": "/fɑːm/",
                     "meaning": "nông trại",
+                    "definition": "An area of land and buildings used for growing food or keeping animals.",
                     "example": "Work on a farm.\nA noisy farm.\nLive on a farm."
                 },
                 {
                     "word": "flower",
                     "phonetic": "/ˈflaʊə(r)/",
                     "meaning": "hoa",
+                    "definition": "The colorful part of a plant that produces seeds.",
                     "example": "A beautiful flower.\nSmell the flower.\nA red flower."
                 },
                 {
                     "word": "grass",
                     "phonetic": "/ɡrɑːs/",
                     "meaning": "cỏ",
+                    "definition": "A common green plant that grows on the ground in gardens and fields.",
                     "example": "Sit on the grass.\nGreen grass.\nCut the grass."
                 },
                 {
                     "word": "tree",
                     "phonetic": "/triː/",
                     "meaning": "cây",
+                    "definition": "A tall plant with a trunk and branches made of wood.",
                     "example": "Climb a tree.\nA tall tree.\nApples on the tree."
                 },
                 {
                     "word": "leaf",
                     "phonetic": "/liːf/",
                     "meaning": "lá cây (số ít)",
+                    "definition": "One of the flat green parts of a plant that grow from the stem or branch.",
                     "example": "A green leaf.\nThe leaf fell off the tree.\nA small leaf."
                 },
                 {
                     "word": "leaves",
                     "phonetic": "/liːvz/",
                     "meaning": "lá cây (số nhiều)",
+                    "definition": "More than one leaf.",
                     "example": "Autumn leaves.\nThe leaves are yellow.\nMany leaves on the ground."
                 },
                 {
                     "word": "plant",
                     "phonetic": "/plɑːnt/",
                     "meaning": "cây trồng/thực vật",
+                    "definition": "A living thing that grows in the earth and has a stem, leaves, and roots.",
                     "example": "Water the plants.\nA small plant.\nGreen plants."
                 },
                 {
                     "word": "ground",
                     "phonetic": "/ɡraʊnd/",
                     "meaning": "mặt đất",
+                    "definition": "The surface of the earth that we stand on.",
                     "example": "Sit on the ground.\nThe ground is wet.\nHard ground."
                 },
                 {
                     "word": "rock",
                     "phonetic": "/rɒk/",
                     "meaning": "đá",
+                    "definition": "A large piece of stone.",
                     "example": "A big rock.\nSit on a rock.\nHard rock."
                 },
                 {
                     "word": "stone",
                     "phonetic": "/stəʊn/",
                     "meaning": "viên đá",
+                    "definition": "A small piece of rock.",
                     "example": "Throw a stone.\nA small stone.\nWalking on stones."
                 },
                 {
                     "word": "sky",
                     "phonetic": "/skaɪ/",
                     "meaning": "bầu trời",
+                    "definition": "The space above the earth where the sun and stars are.",
                     "example": "The sky is blue.\nStars in the sky.\nLook at the sky."
                 },
                 {
                     "word": "star",
                     "phonetic": "/stɑː(r)/",
                     "meaning": "ngôi sao",
+                    "definition": "A bright point of light in the sky at night.",
                     "example": "Shining star.\nA bright star.\nLook at the stars."
                 },
                 {
                     "word": "moon",
                     "phonetic": "/muːn/",
                     "meaning": "mặt trăng",
+                    "definition": "The large round object that moves around the earth and shines at night.",
                     "example": "The moon is round.\nFull moon.\nLook at the moon."
                 },
                 {
                     "word": "world",
                     "phonetic": "/wɜːld/",
                     "meaning": "thế giới",
+                    "definition": "The earth and all the people, animals, and plants on it.",
                     "example": "All around the world.\nA big world.\nSave the world."
                 },
                 {
                     "word": "nature",
                     "phonetic": "/ˈneɪtʃə(r)/",
                     "meaning": "tự nhiên",
+                    "definition": "All the things in the world that are not made by people, such as animals and plants.",
                     "example": "Love nature.\nBeautiful nature.\nProtect nature."
                 },
                 {
                     "word": "environment",
                     "phonetic": "/ɪnˈvaɪrənmənt/",
                     "meaning": "môi trường",
+                    "definition": "The air, water, and land in which people, animals, and plants live.",
                     "example": "Clean the environment.\nProtect our environment.\nGreen environment."
                 },
                 {
                     "word": "beach",
                     "phonetic": "/biːtʃ/",
                     "meaning": "bãi biển",
+                    "definition": "An area of sand or small stones next to the sea.",
                     "example": "I go to the beach in summer.\nA beautiful beach.\nPlay on the beach."
                 },
                 {
                     "word": "sea",
                     "phonetic": "/siː/",
                     "meaning": "biển",
+                    "definition": "The large area of salty water that covers much of the earth's surface.",
                     "example": "Swim in the sea.\nThe sea is blue.\nSail on the sea."
                 },
                 {
                     "word": "sand",
                     "phonetic": "/sænd/",
                     "meaning": "cát",
+                    "definition": "A substance that consists of very small grains of rock, found on beaches.",
                     "example": "Play in the sand.\nYellow sand.\nSand castles."
                 },
                 {
                     "word": "sun",
                     "phonetic": "/sʌn/",
                     "meaning": "mặt trời",
+                    "definition": "The star that gives light and heat to the earth.",
                     "example": "The sun is hot.\nShine like the sun.\nThe sun is yellow."
                 },
                 {
                     "word": "ocean",
                     "phonetic": "/ˈəʊʃn/",
                     "meaning": "đại dương",
+                    "definition": "One of the very large areas of salty water that covers the earth.",
                     "example": "The big ocean.\nDeep blue ocean.\nSwim in the ocean."
                 },
                 {
                     "word": "village",
                     "phonetic": "/ˈvɪlɪdʒ/",
                     "meaning": "ngôi làng",
+                    "definition": "A very small town in the countryside.",
                     "example": "Live in a village.\nA small quiet village.\nMy village is beautiful."
                 }
             ],
@@ -1673,138 +1915,161 @@
                     "word": "busy",
                     "phonetic": "/ˈbɪzi/",
                     "meaning": "bận rộn",
+                    "definition": "Doing a lot of things or having a lot of work to do.",
                     "example": "The street is very busy.\nI am busy with my homework.\nA busy day."
                 },
                 {
                     "word": "careful",
                     "phonetic": "/ˈkeəfl/",
                     "meaning": "cẩn thận",
+                    "definition": "Giving a lot of attention to what you are doing so that you do not have an accident.",
                     "example": "Be careful with the glass!\nA careful driver.\nShe is a careful worker."
                 },
                 {
                     "word": "clever",
                     "phonetic": "/ˈklevə(r)/",
                     "meaning": "thông minh",
+                    "definition": "Able to learn and understand things quickly and easily.",
                     "example": "A clever student.\nThat's a clever idea.\nHe is very clever with computers."
                 },
                 {
                     "word": "difficult",
                     "phonetic": "/ˈdɪfɪkəlt/",
                     "meaning": "khó khăn",
+                    "definition": "Not easy and needing a lot of effort to do.",
                     "example": "This is a difficult question.\nThe test was very difficult.\nEnglish is not difficult."
                 },
                 {
                     "word": "easy",
                     "phonetic": "/ˈiːzi/",
                     "meaning": "dễ dàng",
+                    "definition": "Not difficult and not needing much effort to do.",
                     "example": "This is an easy game.\nThe homework was easy.\nA very easy task."
                 },
                 {
                     "word": "exciting",
                     "phonetic": "/ɪkˈsaɪtɪŋ/",
                     "meaning": "thú vị/hào hứng",
+                    "definition": "Making you feel very happy and enthusiastic.",
                     "example": "An exciting movie.\nThe game was exciting.\nThat's exciting news!"
                 },
                 {
                     "word": "famous",
                     "phonetic": "/ˈfeɪməs/",
                     "meaning": "nổi tiếng",
+                    "definition": "Known by many people.",
                     "example": "A famous singer.\nThis city is famous for its bridge.\nHe wants to be famous."
                 },
                 {
                     "word": "frightened",
                     "phonetic": "/ˈfraɪtnd/",
                     "meaning": "lo sợ",
+                    "definition": "Feeling fear or worry.",
                     "example": "I'm frightened of spiders.\nThe child looks frightened.\nDon't be frightened."
                 },
                 {
                     "word": "kind",
                     "phonetic": "/kaɪnd/",
                     "meaning": "tốt bụng/loại",
+                    "definition": "Helpful and caring about other people.",
                     "example": "She is a kind person.\nThank you for your kind words.\nWhat kind of fruit do you like?"
                 },
                 {
                     "word": "loud",
                     "phonetic": "/laʊd/",
                     "meaning": "ồn ào/to",
+                    "definition": "Making a lot of noise.",
                     "example": "Loud music.\nA loud noise.\nDon't speak so loud."
                 },
                 {
                     "word": "naughty",
                     "phonetic": "/ˈnɔːti/",
                     "meaning": "nghịch ngợm",
+                    "definition": "Behaving badly or not doing what you are told (usually of children).",
                     "example": "A naughty boy.\nDon't be naughty!\nThe dog was very naughty."
                 },
                 {
                     "word": "quiet",
                     "phonetic": "/ˈkwaɪət/",
                     "meaning": "yên tĩnh",
+                    "definition": "Making very little noise.",
                     "example": "Be quiet!\nA quiet village.\nIt's very quiet here."
                 },
                 {
                     "word": "rich",
                     "phonetic": "/rɪtʃ/",
                     "meaning": "giàu có",
+                    "definition": "Having a lot of money or expensive things.",
                     "example": "A rich man.\nHe wants to get rich.\nRich food is heavy."
                 },
                 {
                     "word": "soft",
                     "phonetic": "/sɒft/",
                     "meaning": "mềm mại",
+                    "definition": "Not hard or firm and feeling pleasant when touched.",
                     "example": "A soft pillow.\nSoft fur.\nThis bread is very soft."
                 },
                 {
                     "word": "terrible",
                     "phonetic": "/ˈterəbl/",
                     "meaning": "khủng khiếp",
+                    "definition": "Very bad or unpleasant.",
                     "example": "A terrible noise.\nThe weather was terrible.\nI feel terrible."
                 },
                 {
                     "word": "tired",
                     "phonetic": "/ˈtaɪəd/",
                     "meaning": "mệt mỏi",
+                    "definition": "Needing to rest or sleep.",
                     "example": "I'm very tired.\nA tired child.\nYou look tired."
                 },
                 {
                     "word": "weak",
                     "phonetic": "/wiːk/",
                     "meaning": "yếu",
+                    "definition": "Not strong; having little physical power.",
                     "example": "A weak person.\nI feel weak.\nA weak tea."
                 },
                 {
                     "word": "worst",
                     "phonetic": "/wɜːst/",
                     "meaning": "tệ nhất",
+                    "definition": "More bad than anything else.",
                     "example": "This is the worst day of my life.\nThe worst movie.\nThat was his worst mistake."
                 },
                 {
                     "word": "best",
                     "phonetic": "/best/",
                     "meaning": "tốt nhất",
+                    "definition": "Better than anything else.",
                     "example": "My best friend.\nThe best player.\nYou are the best!"
                 },
                 {
                     "word": "boring",
                     "phonetic": "/ˈbɔːrɪŋ/",
                     "meaning": "nhàm chán",
+                    "definition": "Not interesting and making you feel tired.",
                     "example": "A boring book.\nThe lesson was boring.\nI'm bored."
                 },
                 {
                     "word": "brave",
                     "phonetic": "/breɪv/",
                     "meaning": "dũng cảm",
+                    "definition": "Brave people do things that are dangerous without showing fear.",
                     "example": "A brave soldier.\nBe brave!\nA brave thing to do."
                 },
                 {
                     "word": "empty",
                     "phonetic": "/ˈempti/",
                     "meaning": "trống rỗng",
+                    "definition": "Having nothing inside.",
                     "example": "The box is empty.\nAn empty street.\nAn empty glass."
                 },
                 {
                     "word": "full",
                     "phonetic": "/fʊl/",
                     "meaning": "đầy",
+                    "definition": "Containing as much or as many as possible.",
                     "example": "A full glass.\nThe bus is full.\nI'm full."
                 }
             ],
@@ -1825,150 +2090,175 @@
                     "word": "ask",
                     "phonetic": "/ɑːsk/",
                     "meaning": "hỏi",
+                    "definition": "To say something to someone as a question.",
                     "example": "Ask a question.\nAsk for help.\nAsk the teacher."
                 },
                 {
                     "word": "answer",
                     "phonetic": "/ˈɑːnsə(r)/",
                     "meaning": "trả lời",
+                    "definition": "To say or write something back to someone who has asked you a question.",
                     "example": "Answer the question.\nAnswer the phone.\nKnow the answer."
                 },
                 {
                     "word": "bring",
                     "phonetic": "/brɪŋ/",
                     "meaning": "mang theo",
+                    "definition": "To take someone or something with you to a place.",
                     "example": "Bring your books.\nI'll bring some food.\nBring me a glass of water."
                 },
                 {
                     "word": "buy",
                     "phonetic": "/baɪ/",
                     "meaning": "mua",
+                    "definition": "To get something by paying money for it.",
                     "example": "Buy a new car.\nBuy some bread.\nWhere did you buy that?"
                 },
                 {
                     "word": "carry",
                     "phonetic": "/ˈkæri/",
                     "meaning": "mang/vác",
+                    "definition": "To hold something and move it from one place to another.",
                     "example": "Carry a bag.\nCan you carry this?\nCarry the baby."
                 },
                 {
                     "word": "choose",
                     "phonetic": "/tʃuːz/",
                     "meaning": "chọn",
+                    "definition": "To decide which thing you want from a group.",
                     "example": "Choose a color.\nWhich one do you choose?\nChoose your favorite toy."
                 },
                 {
                     "word": "drop",
                     "phonetic": "/drɒp/",
                     "meaning": "làm rơi",
+                    "definition": "To let something fall to the ground.",
                     "example": "Don't drop the glass!\nI dropped my pen.\nDrop it in the box."
                 },
                 {
                     "word": "find",
                     "phonetic": "/faɪnd/",
                     "meaning": "tìm thấy",
+                    "definition": "To see or get something after looking for it.",
                     "example": "I can't find my keys.\nLook and find.\nFind the cat."
                 },
                 {
                     "word": "get",
                     "phonetic": "/ɡet/",
                     "meaning": "nhận được/đạt được",
+                    "definition": "To receive or buy something.",
                     "example": "Get a present.\nGet home.\nI got a good grade."
                 },
                 {
                     "word": "give",
                     "phonetic": "/ɡɪv/",
                     "meaning": "đưa/tặng",
+                    "definition": "To let someone have something as a gift or to provide it.",
                     "example": "Give me the book.\nGive a present.\nGive it to him."
                 },
                 {
                     "word": "help",
                     "phonetic": "/help/",
                     "meaning": "giúp đỡ",
+                    "definition": "To do something for someone to make it easier for them.",
                     "example": "Help your mom.\nCan you help me?\nHelp me with my homework."
                 },
                 {
                     "word": "hide",
                     "phonetic": "/haɪd/",
                     "meaning": "trốn/giấu",
+                    "definition": "To go to a place where no one can find you or to put something where no one can see it.",
                     "example": "Hide behind the tree.\nHide the ball.\nPlay hide and seek."
                 },
                 {
                     "word": "hold",
                     "phonetic": "/həʊld/",
                     "meaning": "cầm/nắm",
+                    "definition": "To have something in your hand or arms.",
                     "example": "Hold my hand.\nHold the baby.\nHold on tight."
                 },
                 {
                     "word": "hope",
                     "phonetic": "/həʊp/",
                     "meaning": "hy vọng",
+                    "definition": "To want something to happen or be true.",
                     "example": "I hope it's sunny tomorrow.\nI hope you feel better.\nHope for the best."
                 },
                 {
                     "word": "know",
                     "phonetic": "/nəʊ/",
                     "meaning": "biết",
+                    "definition": "To have information about something in your mind.",
                     "example": "I know the answer.\nDo you know him?\nI don't know."
                 },
                 {
                     "word": "laugh",
                     "phonetic": "/lɑːf/",
                     "meaning": "cười to",
+                    "definition": "To make sounds to show that you are happy or think something is funny.",
                     "example": "Laugh at a joke.\nDon't laugh at me!\nA loud laugh."
                 },
                 {
                     "word": "learn",
                     "phonetic": "/lɜːn/",
                     "meaning": "học",
+                    "definition": "To get knowledge or a skill by studying.",
                     "example": "Learn English.\nLearn to swim.\nLearn a new song."
                 },
                 {
                     "word": "look for",
                     "phonetic": "/lʊk fɔː(r)/",
                     "meaning": "tìm kiếm",
+                    "definition": "To try to find someone or something.",
                     "example": "I'm looking for my dog.\nLook for your keys.\nLook for a present."
                 },
                 {
                     "word": "look like",
                     "phonetic": "/lʊk laɪk/",
                     "meaning": "trông giống",
+                    "definition": "To be similar in appearance to someone or something else.",
                     "example": "She looks like her mom.\nIt looks like rain.\nWhat does it look like?"
                 },
                 {
                     "word": "lose",
                     "phonetic": "/luːz/",
                     "meaning": "mất/thua",
+                    "definition": "To not be able to find something that you had.",
                     "example": "Lose your keys.\nLose the game.\nI don't want to lose."
                 },
                 {
                     "word": "mean",
                     "phonetic": "/miːn/",
                     "meaning": "có nghĩa là",
+                    "definition": "To have a particular meaning.",
                     "example": "What does this word mean?\nI mean it.\nWhat do you mean?"
                 },
                 {
                     "word": "must",
                     "phonetic": "/mʌst/",
                     "meaning": "phải",
+                    "definition": "Used to say that something is necessary or very important.",
                     "example": "You must listen.\nMust I go now?\nI must finish my work."
                 },
                 {
                     "word": "need",
                     "phonetic": "/niːd/",
                     "meaning": "cần",
+                    "definition": "To must have something because it is necessary.",
                     "example": "I need some water.\nDo you need help?\nI need a new pen."
                 },
                 {
                     "word": "pick up",
                     "phonetic": "/pɪk ʌp/",
                     "meaning": "nhặt lên/hái",
+                    "definition": "To lift someone or something using your hands.",
                     "example": "Pick up your toys.\nPick up the phone.\nPick up a leaf."
                 },
                 {
                     "word": "understand",
                     "phonetic": "/ˌʌndəˈstænd/",
                     "meaning": "hiểu",
+                    "definition": "To know the meaning of something.",
                     "example": "I don't understand.\nDo you understand the question?\nI understand now."
                 }
             ],
@@ -1989,150 +2279,175 @@
                     "word": "all",
                     "phonetic": "/ɔːl/",
                     "meaning": "tất cả",
+                    "definition": "Every one of a group or the whole of something.",
                     "example": "All children.\nAll the time.\nThat's all."
                 },
                 {
                     "word": "any",
                     "phonetic": "/ˈeni/",
                     "meaning": "bất kỳ",
+                    "definition": "Some, or every one of a group (used in questions and negative sentences).",
                     "example": "Any questions?\nDo you have any brothers?\nPick any color."
                 },
                 {
                     "word": "another",
                     "phonetic": "/əˈnʌðə(r)/",
                     "meaning": "một cái khác",
+                    "definition": "One more person or thing of the same type.",
                     "example": "Another cup of tea?\nAnother day.\nChoose another one."
                 },
                 {
                     "word": "both",
                     "phonetic": "/bəʊθ/",
                     "meaning": "cả hai",
+                    "definition": "Used to talk about two people or things together.",
                     "example": "Both friends.\nI like both.\nBoth hands."
                 },
                 {
                     "word": "each",
                     "phonetic": "/iːtʃ/",
                     "meaning": "mỗi",
+                    "definition": "Every one of a group of people or things.",
                     "example": "Each student.\nEach day.\nFive dollars each."
                 },
                 {
                     "word": "every",
                     "phonetic": "/ˈevri/",
                     "meaning": "mọi",
+                    "definition": "Used to talk about all the people or things in a group.",
                     "example": "Every day.\nEvery child.\nEvery time."
                 },
                 {
                     "word": "everyone",
                     "phonetic": "/ˈevriwʌn/",
                     "meaning": "mọi người",
+                    "definition": "All the people in a group.",
                     "example": "Everyone is here.\nHello everyone!\nEveryone knows that."
                 },
                 {
                     "word": "everything",
                     "phonetic": "/ˈevriθɪŋ/",
                     "meaning": "mọi thứ",
+                    "definition": "All the things in a particular situation.",
                     "example": "Everything is okay.\nTell me everything.\nPut everything in the box."
                 },
                 {
                     "word": "someone",
                     "phonetic": "/ˈsʌmwʌn/",
                     "meaning": "ai đó",
+                    "definition": "A person who is not known or named.",
                     "example": "Someone is knocking.\nI saw someone.\nSomeone left this."
                 },
                 {
                     "word": "something",
                     "phonetic": "/ˈsʌmθɪŋ/",
                     "meaning": "cái gì đó",
+                    "definition": "A thing that is not known or named.",
                     "example": "I have something for you.\nThere's something in my eye.\nEat something."
                 },
                 {
                     "word": "nothing",
                     "phonetic": "/ˈnʌθɪŋ/",
                     "meaning": "không có gì",
+                    "definition": "Not anything; no single thing.",
                     "example": "Nothing is left.\nThere's nothing in the box.\nI have nothing to say."
                 },
                 {
                     "word": "how often",
                     "phonetic": "/haʊ ˈɒfn/",
                     "meaning": "bao lâu một lần",
+                    "definition": "Used to ask about the number of times something happens.",
                     "example": "How often do you swim?\nHow often do you eat fruit?\nHow often is the bus?"
                 },
                 {
                     "word": "how much",
                     "phonetic": "/haʊ mʌtʃ/",
                     "meaning": "bao nhiêu/giá bao nhiêu",
+                    "definition": "Used to ask about the amount or price of something.",
                     "example": "How much is this?\nHow much milk do you want?\nHow much does it cost?"
                 },
                 {
                     "word": "how many",
                     "phonetic": "/haʊ ˈmeni/",
                     "meaning": "bao nhiêu (đếm được)",
+                    "definition": "Used to ask about the number of people or things.",
                     "example": "How many books?\nHow many brothers do you have?\nHow many apples?"
                 },
                 {
                     "word": "what",
                     "phonetic": "/wɒt/",
                     "meaning": "cái gì",
+                    "definition": "Used to ask for information about something.",
                     "example": "What is your name?\nWhat are you doing?\nWhat's the matter?"
                 },
                 {
                     "word": "where",
                     "phonetic": "/weə(r)/",
                     "meaning": "ở đâu",
+                    "definition": "In or to what place or position.",
                     "example": "Where are you?\nWhere is the bank?\nWhere do you live?"
                 },
                 {
                     "word": "when",
                     "phonetic": "/wen/",
                     "meaning": "khi nào",
+                    "definition": "At what time.",
                     "example": "When is your birthday?\nWhen do you go to sleep?\nWhen is the match?"
                 },
                 {
                     "word": "who",
                     "phonetic": "/huː/",
                     "meaning": "ai",
+                    "definition": "Used to ask about which person or people.",
                     "example": "Who is that?\nWho are your friends?\nWho did you see?"
                 },
                 {
                     "word": "whose",
                     "phonetic": "/huːz/",
                     "meaning": "của ai",
+                    "definition": "Used to ask which person something belongs to.",
                     "example": "Whose bag is this?\nWhose dog is that?\nWhose book is on the table?"
                 },
                 {
                     "word": "why",
                     "phonetic": "/waɪ/",
                     "meaning": "tại sao",
+                    "definition": "For what reason.",
                     "example": "Why are you late?\nWhy are you crying?\nWhy is it cold?"
                 },
                 {
                     "word": "which",
                     "phonetic": "/wɪtʃ/",
                     "meaning": "cái nào",
+                    "definition": "Used to ask about a choice between two or more things.",
                     "example": "Which one do you like?\nWhich way is the park?\nWhich color is best?"
                 },
                 {
                     "word": "than",
                     "phonetic": "/ðæn/",
                     "meaning": "hơn (so sánh)",
+                    "definition": "Used when comparing two things or people.",
                     "example": "Better than that.\nBigger than me.\nHe is older than his sister."
                 },
                 {
                     "word": "then",
                     "phonetic": "/ðen/",
                     "meaning": "sau đó",
+                    "definition": "At that time (usually in the past).",
                     "example": "And then what?\nEat and then play.\nThen he went home."
                 },
                 {
                     "word": "first",
                     "phonetic": "/fɜːst/",
                     "meaning": "thứ nhất/đầu tiên",
+                    "definition": "Coming before all others in time or order.",
                     "example": "The first time.\nCome first.\nMy first book."
                 },
                 {
                     "word": "last",
                     "phonetic": "/lɑːst/",
                     "meaning": "cuối cùng",
+                    "definition": "Coming after all others in time or order.",
                     "example": "The last day.\nLast week.\nCome last."
                 }
             ],
@@ -2153,138 +2468,161 @@
                     "word": "zero",
                     "phonetic": "/ˈzɪərəʊ/",
                     "meaning": "số 0",
+                    "definition": "The number 0.",
                     "example": "Ten, nine, eight... zero!\nZero degrees.\nBelow zero."
                 },
                 {
                     "word": "second",
                     "phonetic": "/ˈsekənd/",
                     "meaning": "thứ hai/giây",
+                    "definition": "Coming after the first thing.",
                     "example": "The second child.\nWait a second.\nMy second book."
                 },
                 {
                     "word": "third",
                     "phonetic": "/θɜːd/",
                     "meaning": "thứ ba",
+                    "definition": "Coming after the second thing.",
                     "example": "The third floor.\nThe third time.\nA third of the cake."
                 },
                 {
                     "word": "fourth",
                     "phonetic": "/fɔːθ/",
                     "meaning": "thứ tư",
+                    "definition": "Coming after the third thing.",
                     "example": "The fourth of July.\nThe fourth person.\nFourth place."
                 },
                 {
                     "word": "fifth",
                     "phonetic": "/fɪfθ/",
                     "meaning": "thứ năm",
+                    "definition": "Coming after the fourth thing.",
                     "example": "The fifth day.\nMy fifth birthday.\nA fifth of the class."
                 },
                 {
                     "word": "sixty",
                     "phonetic": "/ˈsɪksti/",
                     "meaning": "số 60",
+                    "definition": "The number 60.",
                     "example": "Sixty minutes in an hour.\nNumber sixty.\nHe is sixty years old."
                 },
                 {
                     "word": "seventy",
                     "phonetic": "/ˈsevnti/",
                     "meaning": "số 70",
+                    "definition": "The number 70.",
                     "example": "Seventy people.\nNumber seventy.\nCosts seventy dollars."
                 },
                 {
                     "word": "eighty",
                     "phonetic": "/ˈeɪti/",
                     "meaning": "số 80",
+                    "definition": "The number 80.",
                     "example": "Eighty children.\nNumber eighty.\nEighty percent."
                 },
                 {
                     "word": "ninety",
                     "phonetic": "/ˈnaɪnti/",
                     "meaning": "số 90",
+                    "definition": "The number 90.",
                     "example": "Ninety miles.\nNumber ninety.\nHe is ninety."
                 },
                 {
                     "word": "thousands",
                     "phonetic": "/ˈθaʊzndz/",
                     "meaning": "hàng ngàn",
+                    "definition": "The number 1,000 or many thousands.",
                     "example": "Thousands of people.\nThree thousand birds.\nMany thousands."
                 },
                 {
                     "word": "lot",
                     "phonetic": "/lɒt/",
                     "meaning": "nhiều",
+                    "definition": "A large amount or number of people or things.",
                     "example": "A lot of toys.\nA lot of time.\nThanks a lot!"
                 },
                 {
                     "word": "many",
                     "phonetic": "/ˈmeni/",
                     "meaning": "nhiều (đếm được)",
+                    "definition": "A large number of people or things.",
                     "example": "How many?\nMany children.\nSo many books."
                 },
                 {
                     "word": "much",
                     "phonetic": "/mʌtʃ/",
                     "meaning": "nhiều (không đếm được)",
+                    "definition": "A large amount of something.",
                     "example": "Too much milk.\nHow much?\nNot much."
                 },
                 {
                     "word": "some",
                     "phonetic": "/sʌm/",
                     "meaning": "một vài",
+                    "definition": "An amount or number of something that is not known.",
                     "example": "Have some water.\nSome friends.\nSome more."
                 },
                 {
                     "word": "none",
                     "phonetic": "/nʌn/",
                     "meaning": "không có cái nào",
+                    "definition": "Not any of a group of people or things.",
                     "example": "None of them.\nThere is none left.\nNone at all."
                 },
                 {
                     "word": "only",
                     "phonetic": "/ˈəʊnli/",
                     "meaning": "chỉ",
+                    "definition": "Used to say that something is the single one or a small number.",
                     "example": "Only one.\nOnly me.\nIt's only five dollars."
                 },
                 {
                     "word": "more",
                     "phonetic": "/mɔː(r)/",
                     "meaning": "nhiều hơn",
+                    "definition": "A larger amount or number of something.",
                     "example": "I want more!\nMore chocolate please.\nOnce more."
                 },
                 {
                     "word": "most",
                     "phonetic": "/məʊst/",
                     "meaning": "nhất/phần lớn",
+                    "definition": "The largest amount or number of something.",
                     "example": "Most children like ice cream.\nThe most important.\nMost of the time."
                 },
                 {
                     "word": "less",
                     "phonetic": "/les/",
                     "meaning": "ít hơn",
+                    "definition": "A smaller amount or number of something.",
                     "example": "Less milk.\nSpend less money.\nEat less candy."
                 },
                 {
                     "word": "bit",
                     "phonetic": "/bɪt/",
                     "meaning": "một chút",
+                    "definition": "A small amount or piece of something.",
                     "example": "A little bit.\nA bit tired.\nWait a bit."
                 },
                 {
                     "word": "half",
                     "phonetic": "/hɑːf/",
                     "meaning": "một nửa",
+                    "definition": "One of two equal parts of something.",
                     "example": "Half of the apple.\nHalf an hour.\nCut it in half."
                 },
                 {
                     "word": "plus",
                     "phonetic": "/plʌs/",
                     "meaning": "cộng",
+                    "definition": "Used when adding two numbers together.",
                     "example": "Five plus five is ten.\nTwo plus two.\nPlus more."
                 },
                 {
                     "word": "equal",
                     "phonetic": "/ˈiːkwəl/",
                     "meaning": "bằng",
+                    "definition": "The same in amount, size, or value.",
                     "example": "Ten equals ten.\nThat equals fifty.\nNot equal."
                 }
             ],
@@ -2305,150 +2643,175 @@
                     "word": "downstairs",
                     "phonetic": "/ˌdaʊnˈsteəz/",
                     "meaning": "dưới tầng",
+                    "definition": "On a lower floor of a building.",
                     "example": "Go downstairs.\nThe kitchen is downstairs.\nIs she downstairs?"
                 },
                 {
                     "word": "outside",
                     "phonetic": "/ˌaʊtˈsaɪd/",
                     "meaning": "bên ngoài",
+                    "definition": "Not inside a building.",
                     "example": "Play outside.\nIt's cold outside.\nWait outside the door."
                 },
                 {
                     "word": "inside",
                     "phonetic": "/ˌɪnˈsaɪd/",
                     "meaning": "bên trong",
+                    "definition": "In a building or container.",
                     "example": "Come inside.\nStay inside the house.\nLook inside the box."
                 },
                 {
                     "word": "top",
                     "phonetic": "/tɒp/",
                     "meaning": "đỉnh/phía trên",
+                    "definition": "The highest part of something.",
                     "example": "At the top of the mountain.\nThe top shelf.\nSpin the top."
                 },
                 {
                     "word": "bottom",
                     "phonetic": "/ˈbɒtəm/",
                     "meaning": "đáy/phía dưới",
+                    "definition": "The lowest part of something.",
                     "example": "At the bottom of the lake.\nThe bottom of the page.\nSit at the bottom."
                 },
                 {
                     "word": "center",
                     "phonetic": "/ˈsentə(r)/",
                     "meaning": "trung tâm",
+                    "definition": "The middle point or part of something.",
                     "example": "In the center of the room.\nCity center.\nSports center."
                 },
                 {
                     "word": "edge",
                     "phonetic": "/edʒ/",
                     "meaning": "mép/rìa",
+                    "definition": "The outer point of something.",
                     "example": "On the edge of the table.\nThe water's edge.\nDon't stand on the edge."
                 },
                 {
                     "word": "corner",
                     "phonetic": "/ˈkɔːnə(r)/",
                     "meaning": "góc",
+                    "definition": "The point where two lines or walls meet.",
                     "example": "In the corner of the room.\nAround the corner.\nStreet corner."
                 },
                 {
                     "word": "middle",
                     "phonetic": "/ˈmɪdl/",
                     "meaning": "ở giữa",
+                    "definition": "The central part or position.",
                     "example": "In the middle of the street.\nThe middle child.\nIn the middle."
                 },
                 {
                     "word": "side",
                     "phonetic": "/saɪd/",
                     "meaning": "phía/mặt",
+                    "definition": "The part of something that is not the top, bottom, front, or back.",
                     "example": "On the other side.\nLeft side.\nWhich side?"
                 },
                 {
                     "word": "place",
                     "phonetic": "/pleɪs/",
                     "meaning": "địa điểm",
+                    "definition": "An area, town, or building.",
                     "example": "A nice place.\nIn first place.\nYour place or mine?"
                 },
                 {
                     "word": "everywhere",
                     "phonetic": "/ˈevriweə(r)/",
                     "meaning": "khắp nơi",
+                    "definition": "In every place.",
                     "example": "I looked everywhere.\nSnow is everywhere.\nHe goes everywhere."
                 },
                 {
                     "word": "somewhere",
                     "phonetic": "/ˈsʌmweə(r)/",
                     "meaning": "nơi nào đó",
+                    "definition": "In or to a place that is not known or named.",
                     "example": "He's somewhere in the house.\nLet's go somewhere.\nI lost it somewhere."
                 },
                 {
                     "word": "nowhere",
                     "phonetic": "/ˈnəʊweə(r)/",
                     "meaning": "không nơi nào",
+                    "definition": "Not in any place.",
                     "example": "Nowhere to go.\nHe's nowhere to be found.\nNowhere else."
                 },
                 {
                     "word": "up",
                     "phonetic": "/ʌp/",
                     "meaning": "lên",
+                    "definition": "Towards a higher place or position.",
                     "example": "Look up.\nGo up the stairs.\nStand up."
                 },
                 {
                     "word": "down",
                     "phonetic": "/daʊn/",
                     "meaning": "xuống",
+                    "definition": "Towards a lower place or position.",
                     "example": "Sit down.\nGo down the slide.\nLook down."
                 },
                 {
                     "word": "in",
                     "phonetic": "/ɪn/",
                     "meaning": "trong",
+                    "definition": "Inside a container or place.",
                     "example": "In the box.\nIn the car.\nIn London."
                 },
                 {
                     "word": "on",
                     "phonetic": "/ɒn/",
                     "meaning": "trên",
+                    "definition": "On the surface of something.",
                     "example": "On the table.\nOn the floor.\nOn my head."
                 },
                 {
                     "word": "at",
                     "phonetic": "/æt/",
                     "meaning": "tại",
+                    "definition": "Used to show a place or position.",
                     "example": "At home.\nAt school.\nAt the bank."
                 },
                 {
                     "word": "under",
                     "phonetic": "/ˈʌndə(r)/",
                     "meaning": "dưới",
+                    "definition": "Below something else.",
                     "example": "Under the table.\nUnder the umbrella.\nUnder water."
                 },
                 {
                     "word": "next to",
                     "phonetic": "/nekst tuː/",
                     "meaning": "cạnh bên",
+                    "definition": "Very close to something; beside.",
                     "example": "Next to the shop.\nSit next to me.\nThe house next to mine."
                 },
                 {
                     "word": "over",
                     "phonetic": "/ˈəʊvə(r)/",
                     "meaning": "vượt qua/phía trên",
+                    "definition": "Above or across something.",
                     "example": "Jump over the wall.\nFly over the city.\nOver there."
                 },
                 {
                     "word": "around",
                     "phonetic": "/əˈraʊnd/",
                     "meaning": "xung quanh",
+                    "definition": "In a circle or on all sides of something.",
                     "example": "Run around the park.\nWalk around the house.\nAll around."
                 },
                 {
                     "word": "past",
                     "phonetic": "/pɑːst/",
                     "meaning": "qua",
+                    "definition": "In or to a position further than something.",
                     "example": "Walk past the shop.\nIn the past.\nIt is past four o'clock."
                 },
                 {
                     "word": "through",
                     "phonetic": "/θruː/",
                     "meaning": "xuyên qua",
+                    "definition": "From one side or end to the other.",
                     "example": "Walk through the park.\nGo through the door.\nLook through the window."
                 }
             ],
@@ -2469,180 +2832,210 @@
                     "word": "ball",
                     "phonetic": "/bɔːl/",
                     "meaning": "quả bóng",
+                    "definition": "A round object that you throw, kick, or hit in a game.",
                     "example": "Kick the ball.\nA round ball.\nPlay with a ball."
                 },
                 {
                     "word": "balloon",
                     "phonetic": "/bəˈluːn/",
                     "meaning": "quả bóng bay",
+                    "definition": "A small colored bag made of thin rubber that you fill with air.",
                     "example": "A red balloon.\nThe balloon popped.\nBlow up a balloon."
                 },
                 {
                     "word": "doll",
                     "phonetic": "/dɒl/",
                     "meaning": "búp bê",
+                    "definition": "A toy that looks like a small person or baby.",
                     "example": "She plays with her doll.\nA beautiful doll.\nMy favorite doll."
                 },
                 {
                     "word": "game",
                     "phonetic": "/ɡeɪm/",
                     "meaning": "trò chơi",
+                    "definition": "An activity that you do for fun that has rules.",
                     "example": "Play a game.\nA fun game.\nWho won the game?"
                 },
                 {
                     "word": "kite",
                     "phonetic": "/kaɪt/",
                     "meaning": "con diều",
+                    "definition": "A toy made of paper or cloth on a frame that flies in the air on a string.",
                     "example": "Fly a kite.\nA colorful kite.\nThe kite is in the sky."
                 },
                 {
                     "word": "monster",
                     "phonetic": "/ˈmɒnstə(r)/",
                     "meaning": "quái vật",
+                    "definition": "An imaginary creature that is usually large and scary.",
                     "example": "A scary monster.\nDraw a monster.\nThere are no monsters."
                 },
                 {
                     "word": "robot",
                     "phonetic": "/ˈrəʊbɒt/",
                     "meaning": "người máy",
+                    "definition": "A machine that can move and do some of the work of a person.",
                     "example": "A toy robot.\nThe robot can move.\nI like robots."
                 },
                 {
                     "word": "teddy bear",
                     "phonetic": "/ˈtedi beə(r)/",
                     "meaning": "gấu bông",
+                    "definition": "A soft toy that looks like a bear.",
                     "example": "Sleep with a teddy bear.\nA soft teddy bear.\nMy old teddy bear."
                 },
                 {
                     "word": "toy",
                     "phonetic": "/tɔɪ/",
                     "meaning": "đồ chơi",
+                    "definition": "An object that children play with.",
                     "example": "Pick up your toys.\nA new toy.\nMy favorite toy."
                 },
                 {
                     "word": "computer game",
                     "phonetic": "/kəmˈpjuːtə ɡeɪm/",
                     "meaning": "trò chơi máy tính",
+                    "definition": "A game that you play on a computer.",
                     "example": "I love computer games.\nPlay a computer game.\nA new computer game."
                 },
                 {
                     "word": "puzzle",
                     "phonetic": "/ˈpʌzl/",
                     "meaning": "trò chơi ghép hình",
+                    "definition": "A game or toy that you have to think about carefully to solve.",
                     "example": "Do a puzzle.\nA difficult puzzle.\nA 100-piece puzzle."
                 },
                 {
                     "word": "board game",
                     "phonetic": "/ˈbɔːd ɡeɪm/",
                     "meaning": "trò chơi bàn cờ",
+                    "definition": "A game played by moving pieces on a special board.",
                     "example": "Play a board game.\nMy favorite board game.\nLet's play a board game."
                 },
                 {
                     "word": "camera",
                     "phonetic": "/ˈkæmərə/",
                     "meaning": "máy ảnh",
+                    "definition": "A piece of equipment used for taking photographs or videos.",
                     "example": "Take photos with a camera.\nA digital camera.\nSmile for the camera."
                 },
                 {
                     "word": "radio",
                     "phonetic": "/ˈreɪdiəʊ/",
                     "meaning": "đài phát thanh",
+                    "definition": "A piece of equipment used for listening to programs that are sent through the air.",
                     "example": "Listen to the radio.\nTurn on the radio.\nAn old radio."
                 },
                 {
                     "word": "television",
                     "phonetic": "/ˈtelɪvɪʒn/",
                     "meaning": "vô tuyến",
+                    "definition": "A piece of equipment with a screen used for watching programs.",
                     "example": "Watch television.\nTurn off the television.\nA big television."
                 },
                 {
                     "word": "watch",
                     "phonetic": "/wɒtʃ/",
                     "meaning": "xem/đồng hồ",
+                    "definition": "A small clock that you wear on your wrist.",
                     "example": "Watch a movie.\nMy new watch.\nWatch the time."
                 },
                 {
                     "word": "hide and seek",
                     "phonetic": "/ˌhaɪd n ˈsiːk/",
                     "meaning": "trốn tìm",
+                    "definition": "A children's game in which one person covers their eyes while the others hide.",
                     "example": "Play hide and seek.\nI am good at hide and seek.\nLet's play hide and seek."
                 },
                 {
                     "word": "hobby",
                     "phonetic": "/ˈhɒbi/",
                     "meaning": "sở thích",
+                    "definition": "An activity that you enjoy doing in your free time.",
                     "example": "My hobby is drawing.\nWhat's your hobby?\nA fun hobby."
                 },
                 {
                     "word": "story",
                     "phonetic": "/ˈstɔːri/",
                     "meaning": "câu chuyện",
+                    "definition": "A description of a series of real or imaginary events.",
                     "example": "Read a story.\nA long story.\nTell me a story."
                 },
                 {
                     "word": "comic",
                     "phonetic": "/ˈkɒmɪk/",
                     "meaning": "truyện tranh",
+                    "definition": "A magazine that contains stories told in pictures.",
                     "example": "Read a comic.\nA funny comic.\nI like comics."
                 },
                 {
                     "word": "music",
                     "phonetic": "/ˈmjuːzɪk/",
                     "meaning": "âm nhạc",
+                    "definition": "A pattern of sounds made by instruments or voices.",
                     "example": "Listen to music.\nLoud music.\nI like pop music."
                 },
                 {
                     "word": "guitar",
                     "phonetic": "/ɡɪˈtɑː(r)/",
                     "meaning": "đàn ghi ta",
+                    "definition": "A musical instrument with six strings that you play with your fingers.",
                     "example": "Play the guitar.\nA new guitar.\nI want a guitar."
                 },
                 {
                     "word": "piano",
                     "phonetic": "/piˈænəʊ/",
                     "meaning": "đàn dương cầm",
+                    "definition": "A large musical instrument with black and white keys that you press.",
                     "example": "Play the piano.\nPiano lessons.\nBeautiful piano music."
                 },
                 {
                     "word": "keyboard",
                     "phonetic": "/ˈkiːbɔːd/",
                     "meaning": "bàn phím",
+                    "definition": "A set of keys on a computer or a musical instrument.",
                     "example": "Computer keyboard.\nPlay a keyboard.\nUse the keyboard."
                 },
                 {
                     "word": "tablet",
                     "phonetic": "/ˈtæblət/",
                     "meaning": "máy tính bảng",
+                    "definition": "A small computer that you control by touching the screen.",
                     "example": "Play games on a tablet.\nA new tablet.\nWatch videos on a tablet."
                 },
                 {
                     "word": "phone",
                     "phonetic": "/fəʊn/",
                     "meaning": "điện thoại",
+                    "definition": "A piece of equipment used for talking to someone who is in another place.",
                     "example": "Call on the phone.\nMobile phone.\nWhere is my phone?"
                 },
                 {
                     "word": "smart phone",
                     "phonetic": "/ˈsmɑːt fəʊn/",
                     "meaning": "điện thoại thông minh",
+                    "definition": "A mobile phone that can do many things like a computer.",
                     "example": "A new smart phone.\nUse a smart phone.\nSmart phone games."
                 },
                 {
                     "word": "internet",
                     "phonetic": "/ˈɪntənet/",
                     "meaning": "mạng in-tơ-nét",
+                    "definition": "A global system of computer networks that allows people to share information.",
                     "example": "Use the internet.\nInternet games.\nSurfing the internet."
                 },
                 {
                     "word": "website",
                     "phonetic": "/ˈwebsaɪt/",
                     "meaning": "trang web",
+                    "definition": "A set of pages on the internet with information about a particular subject.",
                     "example": "Go to a website.\nA fun website.\nLook at this website."
                 },
                 {
                     "word": "video",
                     "phonetic": "/ˈvɪdiəʊ/",
                     "meaning": "vi-đê-ô",
+                    "definition": "A recording of moving pictures and sound.",
                     "example": "Watch a video.\nA funny video.\nMake a video."
                 }
             ],
@@ -2663,180 +3056,210 @@
                     "word": "cook",
                     "phonetic": "/kʊk/",
                     "meaning": "đầu bếp",
+                    "definition": "A person who prepares food for people to eat.",
                     "example": "The cook is in the kitchen.\nA good cook.\nI want to be a cook."
                 },
                 {
                     "word": "dentist",
                     "phonetic": "/ˈdentɪst/",
                     "meaning": "nha sĩ",
+                    "definition": "A person who is trained to care for people's teeth.",
                     "example": "Go to the dentist.\nThe dentist checked my teeth.\nA kind dentist."
                 },
                 {
                     "word": "doctor",
                     "phonetic": "/ˈdɒktə(r)/",
                     "meaning": "bác sĩ",
+                    "definition": "A person who is trained to treat people who are sick or injured.",
                     "example": "See the doctor.\nA busy doctor.\nDoctor's office."
                 },
                 {
                     "word": "driver",
                     "phonetic": "/ˈdraɪvə(r)/",
                     "meaning": "người lái xe",
+                    "definition": "A person who drives a vehicle.",
                     "example": "Bus driver.\nTaxi driver.\nA careful driver."
                 },
                 {
                     "word": "farmer",
                     "phonetic": "/ˈfɑːmə(r)/",
                     "meaning": "nông dân",
+                    "definition": "A person who owns or manages a farm.",
                     "example": "The farmer has a tractor.\nA hard-working farmer.\nFarmer's market."
                 },
                 {
                     "word": "nurse",
                     "phonetic": "/nɜːs/",
                     "meaning": "y tá",
+                    "definition": "A person who cares for sick or injured people in a hospital.",
                     "example": "The nurse helped me.\nA kind nurse.\nSchool nurse."
                 },
                 {
                     "word": "teacher",
                     "phonetic": "/ˈtiːtʃə(r)/",
                     "meaning": "giáo viên",
+                    "definition": "A person whose job is to teach students in a school.",
                     "example": "Our English teacher.\nA good teacher.\nMeet the teacher."
                 },
                 {
                     "word": "worker",
                     "phonetic": "/ˈwɜːkə(r)/",
                     "meaning": "công nhân",
+                    "definition": "A person who does a particular job to earn money.",
                     "example": "A factory worker.\nA busy worker.\nMany workers are here."
                 },
                 {
                     "word": "pilot",
                     "phonetic": "/ˈpaɪlət/",
                     "meaning": "phi công",
+                    "definition": "A person who flies an aircraft.",
                     "example": "The pilot flies the plane.\nA brave pilot.\nI want to be a pilot."
                 },
                 {
                     "word": "singer",
                     "phonetic": "/ˈsɪŋə(r)/",
                     "meaning": "ca sĩ",
+                    "definition": "A person who sings, especially as a job.",
                     "example": "A famous singer.\nShe's a great singer.\nI love that singer."
                 },
                 {
                     "word": "actor",
                     "phonetic": "/ˈæktə(r)/",
                     "meaning": "diễn viên",
+                    "definition": "A person who performs in a movie or play.",
                     "example": "A famous actor.\nA movie actor.\nHe is a good actor."
                 },
                 {
                     "word": "clown",
                     "phonetic": "/klaʊn/",
                     "meaning": "chú hề",
+                    "definition": "A performer who wears funny clothes and makes people laugh.",
                     "example": "The clown is funny.\nA colorful clown.\nFunny clown face."
                 },
                 {
                     "word": "pirate",
                     "phonetic": "/ˈpaɪrət/",
                     "meaning": "hải tặc",
+                    "definition": "A person on a ship who attacks other ships to steal things.",
                     "example": "A scary pirate.\nA pirate ship.\nLook at the pirate."
                 },
                 {
                     "word": "detective",
                     "phonetic": "/dɪˈtektɪv/",
                     "meaning": "thám tử",
+                    "definition": "A person whose job is to find information about a crime.",
                     "example": "A clever detective.\nA police detective.\nHe solves crimes."
                 },
                 {
                     "word": "assistant",
                     "phonetic": "/əˈsɪstənt/",
                     "meaning": "trợ lý/người bán hàng",
+                    "definition": "A person who helps someone else in their job.",
                     "example": "Shop assistant.\nA helpful assistant.\nAsk the assistant."
                 },
                 {
                     "word": "business",
                     "phonetic": "/ˈbɪznəs/",
                     "meaning": "kinh doanh",
+                    "definition": "The activity of buying and selling goods and services.",
                     "example": "A big business.\nBusiness meeting.\nHe's in business."
                 },
                 {
                     "word": "office",
                     "phonetic": "/ˈɒfɪs/",
                     "meaning": "văn phòng",
+                    "definition": "A room or building where people work at desks.",
                     "example": "Working in an office.\nA quiet office.\nWhere is your office?"
                 },
                 {
                     "word": "shop",
                     "phonetic": "/ʃɒp/",
                     "meaning": "cửa hàng",
+                    "definition": "A building where you can buy things.",
                     "example": "Work in a shop.\nGo to the shop.\nA busy shop."
                 },
                 {
                     "word": "market",
                     "phonetic": "/ˈmɑːkɪt/",
                     "meaning": "chợ",
+                    "definition": "A place where people meet to buy and sell things.",
                     "example": "Go to the market.\nFresh food market.\nA busy market."
                 },
                 {
                     "word": "station",
                     "phonetic": "/ˈsteɪʃn/",
                     "meaning": "nhà ga/trạm",
+                    "definition": "A building where trains or buses stop.",
                     "example": "Police station.\nFire station.\nMeet at the station."
                 },
                 {
                     "word": "job",
                     "phonetic": "/dʒɒb/",
                     "meaning": "công việc",
+                    "definition": "The regular work that a person does to earn money.",
                     "example": "What is your job?\nA hard job.\nFind a job."
                 },
                 {
                     "word": "work",
                     "phonetic": "/wɜːk/",
                     "meaning": "làm việc",
+                    "definition": "The activity that you do to earn money.",
                     "example": "I work in an office.\nA lot of work.\nGo to work."
                 },
                 {
                     "word": "help",
                     "phonetic": "/help/",
                     "meaning": "giúp đỡ",
+                    "definition": "To do something for someone to make it easier for them.",
                     "example": "Can I help you?\nNeed some help.\nHelp the teacher."
                 },
                 {
                     "word": "earn",
                     "phonetic": "/ɜːn/",
                     "meaning": "kiếm (tiền)",
+                    "definition": "To get money for doing work.",
                     "example": "Earn money.\nEarn a living.\nHe earns a lot."
                 },
                 {
                     "word": "spend",
                     "phonetic": "/spend/",
                     "meaning": "tiêu (tiền)/dành (thời gian)",
+                    "definition": "To use money to buy things.",
                     "example": "Spend money.\nSpend time with friends.\nHow much did you spend?"
                 },
                 {
                     "word": "save",
                     "phonetic": "/seɪv/",
                     "meaning": "tiết kiệm/cứu",
+                    "definition": "To keep money instead of spending it.",
                     "example": "Save money.\nSave the earth.\nSave your work."
                 },
                 {
                     "word": "buy",
                     "phonetic": "/baɪ/",
                     "meaning": "mua",
+                    "definition": "To get something by paying money for it.",
                     "example": "Buy things.\nWanna buy this?\nWhere can I buy it?"
                 },
                 {
                     "word": "sell",
                     "phonetic": "/sel/",
                     "meaning": "bán",
+                    "definition": "To give something to someone in exchange for money.",
                     "example": "Sell cars.\nSell books.\nThey sell fruit."
                 },
                 {
                     "word": "price",
                     "phonetic": "/praɪs/",
                     "meaning": "giá cả",
+                    "definition": "The amount of money that you must pay to buy something.",
                     "example": "A high price.\nWhat's the price?\nA good price."
                 },
                 {
                     "word": "cost",
                     "phonetic": "/kɒst/",
                     "meaning": "chi phí/giá",
+                    "definition": "The amount of money needed to buy or do something.",
                     "example": "How much does it cost?\nA high cost.\nIt costs ten dollars."
                 }
             ],
@@ -2857,180 +3280,210 @@
                     "word": "black",
                     "phonetic": "/blæk/",
                     "meaning": "màu đen",
+                    "definition": "The color of coal or the night sky.",
                     "example": "A black cat.\nBlack hair.\nBlack board."
                 },
                 {
                     "word": "blue",
                     "phonetic": "/bluː/",
                     "meaning": "màu xanh dương",
+                    "definition": "The color of the sky on a clear day.",
                     "example": "Blue sky.\nBlue eyes.\nI like blue."
                 },
                 {
                     "word": "brown",
                     "phonetic": "/braʊn/",
                     "meaning": "màu nâu",
+                    "definition": "The color of earth or wood.",
                     "example": "Brown bear.\nBrown bread.\nBrown eyes."
                 },
                 {
                     "word": "green",
                     "phonetic": "/ɡriːn/",
                     "meaning": "màu xanh lá",
+                    "definition": "The color of grass or leaves.",
                     "example": "Green grass.\nGreen leaves.\nGreen apple."
                 },
                 {
                     "word": "grey",
                     "phonetic": "/ɡreɪ/",
                     "meaning": "màu xám",
+                    "definition": "The color between black and white.",
                     "example": "Grey clouds.\nGrey hair.\nA grey elephant."
                 },
                 {
                     "word": "orange",
                     "phonetic": "/ˈɒrɪndʒ/",
                     "meaning": "màu cam",
+                    "definition": "A color between red and yellow.",
                     "example": "Orange fruit.\nAn orange T-shirt.\nOrange juice."
                 },
                 {
                     "word": "pink",
                     "phonetic": "/pɪŋk/",
                     "meaning": "màu hồng",
+                    "definition": "A pale red color.",
                     "example": "Pink flower.\nA pink dress.\nPink cheeks."
                 },
                 {
                     "word": "purple",
                     "phonetic": "/ˈpɜːpl/",
                     "meaning": "màu tím",
+                    "definition": "A color between red and blue.",
                     "example": "Purple grapes.\nA purple hat.\nI like purple."
                 },
                 {
                     "word": "red",
                     "phonetic": "/red/",
                     "meaning": "màu đỏ",
+                    "definition": "The color of blood or a tomato.",
                     "example": "Red apple.\nRed car.\nA red balloon."
                 },
                 {
                     "word": "white",
                     "phonetic": "/waɪt/",
                     "meaning": "màu trắng",
+                    "definition": "The color of snow or milk.",
                     "example": "White snow.\nWhite paper.\nWhite clouds."
                 },
                 {
                     "word": "yellow",
                     "phonetic": "/ˈjeləʊ/",
                     "meaning": "màu vàng",
+                    "definition": "The color of a lemon or the sun.",
                     "example": "Yellow sun.\nYellow banana.\nYellow stars."
                 },
                 {
                     "word": "gold",
                     "phonetic": "/ɡəʊld/",
                     "meaning": "màu vàng kim",
+                    "definition": "A bright yellow metal that is very valuable.",
                     "example": "A gold ring.\nGold star.\nIt's made of gold."
                 },
                 {
                     "word": "silver",
                     "phonetic": "/ˈsɪlvə(r)/",
                     "meaning": "màu bạc",
+                    "definition": "A shiny grey metal that is valuable.",
                     "example": "A silver coin.\nSilver hair.\nSilver spoon."
                 },
                 {
                     "word": "colorful",
                     "phonetic": "/ˈkʌləfl/",
                     "meaning": "nhiều màu sắc",
+                    "definition": "Having many bright colors.",
                     "example": "A colorful bird.\nColorful flowers.\nIt's very colorful."
                 },
                 {
                     "word": "round",
                     "phonetic": "/raʊnd/",
                     "meaning": "hình tròn",
+                    "definition": "Shaped like a circle or a ball.",
                     "example": "A round ball.\nA round table.\nRound glasses."
                 },
                 {
                     "word": "square",
                     "phonetic": "/skweə(r)/",
                     "meaning": "hình vuông",
+                    "definition": "Having four equal sides and four corners.",
                     "example": "A square box.\nA square room.\nSquare shape."
                 },
                 {
                     "word": "long",
                     "phonetic": "/lɒŋ/",
                     "meaning": "dài",
+                    "definition": "Measuring a large distance from one end to the other.",
                     "example": "A long road.\nLong hair.\nA long time."
                 },
                 {
                     "word": "short",
                     "phonetic": "/ʃɔːt/",
                     "meaning": "ngắn/thấp",
+                    "definition": "Not long; measuring a small distance from one end to the other.",
                     "example": "Short hair.\nA short man.\nA short story."
                 },
                 {
                     "word": "tall",
                     "phonetic": "/tɔːl/",
                     "meaning": "cao",
+                    "definition": "Measuring a large distance from the bottom to the top.",
                     "example": "A tall building.\nA tall tree.\nHe is very tall."
                 },
                 {
                     "word": "big",
                     "phonetic": "/bɪɡ/",
                     "meaning": "lớn",
+                    "definition": "Large in size or amount.",
                     "example": "A big city.\nA big elephant.\nA big house."
                 },
                 {
                     "word": "small",
                     "phonetic": "/smɔːl/",
                     "meaning": "nhỏ",
+                    "definition": "Little in size or amount.",
                     "example": "A small dog.\nA small mouse.\nA small room."
                 },
                 {
                     "word": "large",
                     "phonetic": "/lɑːdʒ/",
                     "meaning": "rộng lớn",
+                    "definition": "Big in size or amount.",
                     "example": "A large box.\nA large family.\nA large garden."
                 },
                 {
                     "word": "huge",
                     "phonetic": "/hjuːdʒ/",
                     "meaning": "khổng lồ",
+                    "definition": "Extremely large.",
                     "example": "A huge mountain.\nA huge elephant.\nIt's huge!"
                 },
                 {
                     "word": "fat",
                     "phonetic": "/fæt/",
                     "meaning": "mập/béo",
+                    "definition": "Having a lot of body fat.",
                     "example": "A fat cat.\nDon't get fat.\nA fat book."
                 },
                 {
                     "word": "thin",
                     "phonetic": "/θɪn/",
                     "meaning": "gầy/mỏng",
+                    "definition": "Having little body fat.",
                     "example": "A thin person.\nA thin book.\nThin paper."
                 },
                 {
                     "word": "heavy",
                     "phonetic": "/ˈhevi/",
                     "meaning": "nặng",
+                    "definition": "Weighing a lot.",
                     "example": "A heavy bag.\nHeavy rain.\nIt's very heavy."
                 },
                 {
                     "word": "light",
                     "phonetic": "/laɪt/",
                     "meaning": "nhẹ/ánh sáng",
+                    "definition": "Not weighing much.",
                     "example": "A light box.\nBright light.\nTurn on the light."
                 },
                 {
                     "word": "dark",
                     "phonetic": "/dɑːk/",
                     "meaning": "tối",
+                    "definition": "Having little or no light.",
                     "example": "A dark room.\nDark blue.\nIt's getting dark."
                 },
                 {
                     "word": "bright",
                     "phonetic": "/braɪt/",
                     "meaning": "sáng",
+                    "definition": "Full of light or shining strongly.",
                     "example": "A bright sun.\nBright colors.\nA bright idea."
                 },
                 {
                     "word": "clear",
                     "phonetic": "/klɪə(r)/",
                     "meaning": "trong suốt/rõ ràng",
+                    "definition": "Easy to see through; transparent.",
                     "example": "Clear water.\nA clear sky.\nIs it clear?"
                 }
             ],
@@ -3051,174 +3504,203 @@
                     "word": "went",
                     "phonetic": "/went/",
                     "meaning": "đã đi",
+                    "definition": "The past tense of 'go'.",
                     "example": "I went to school.\nWe went home.\nHe went to the park."
                 },
                 {
                     "word": "came",
                     "phonetic": "/keɪm/",
                     "meaning": "đã đến",
+                    "definition": "The past tense of 'come'.",
                     "example": "He came to my house.\nShe came late.\nThey came by bus."
                 },
                 {
                     "word": "saw",
                     "phonetic": "/sɔː/",
                     "meaning": "đã thấy",
+                    "definition": "The past tense of 'see'.",
                     "example": "I saw a bird.\nWe saw a movie.\nHe saw his friend."
                 },
                 {
                     "word": "had",
                     "phonetic": "/hæd/",
                     "meaning": "đã có/ăn",
+                    "definition": "The past tense of 'have'.",
                     "example": "I had breakfast.\nWe had fun.\nHe had a cold."
                 },
                 {
                     "word": "did",
                     "phonetic": "/dɪd/",
                     "meaning": "đã làm",
+                    "definition": "The past tense of 'do'.",
                     "example": "I did my homework.\nWhat did you do?\nHe did a good job."
                 },
                 {
                     "word": "said",
                     "phonetic": "/sed/",
                     "meaning": "đã nói",
+                    "definition": "The past tense of 'say'.",
                     "example": "He said hello.\nShe said nothing.\nWhat did he say?"
                 },
                 {
                     "word": "ate",
                     "phonetic": "/et/",
                     "meaning": "đã ăn",
+                    "definition": "The past tense of 'eat'.",
                     "example": "I ate an apple.\nWe ate pizza.\nHe ate all the cake."
                 },
                 {
                     "word": "drank",
                     "phonetic": "/dræŋk/",
                     "meaning": "đã uống",
+                    "definition": "The past tense of 'drink'.",
                     "example": "I drank some water.\nHe drank juice.\nWe drank milk."
                 },
                 {
                     "word": "gave",
                     "phonetic": "/ɡeɪv/",
                     "meaning": "đã cho/tặng",
+                    "definition": "The past tense of 'give'.",
                     "example": "He gave me a book.\nI gave him a present.\nShe gave a smile."
                 },
                 {
                     "word": "took",
                     "phonetic": "/tʊk/",
                     "meaning": "đã lấy/chụp",
+                    "definition": "The past tense of 'take'.",
                     "example": "He took a photo.\nI took my bag.\nIt took ten minutes."
                 },
                 {
                     "word": "made",
                     "phonetic": "/meɪd/",
                     "meaning": "đã làm/chế tạo",
+                    "definition": "The past tense of 'make'.",
                     "example": "I made a cake.\nHe made a mistake.\nMade in Vietnam."
                 },
                 {
                     "word": "slept",
                     "phonetic": "/slept/",
                     "meaning": "đã ngủ",
+                    "definition": "The past tense of 'sleep'.",
                     "example": "I slept well.\nHe slept for ten hours.\nWe slept at home."
                 },
                 {
                     "word": "bought",
                     "phonetic": "/bɔːt/",
                     "meaning": "đã mua",
+                    "definition": "The past tense of 'buy'.",
                     "example": "I bought a new toy.\nHe bought some bread.\nWhat did you buy?"
                 },
                 {
                     "word": "brought",
                     "phonetic": "/brɔːt/",
                     "meaning": "đã mang theo",
+                    "definition": "The past tense of 'bring'.",
                     "example": "He brought his books.\nI brought some food.\nShe brought her dog."
                 },
                 {
                     "word": "found",
                     "phonetic": "/faʊnd/",
                     "meaning": "đã tìm thấy",
+                    "definition": "The past tense of 'find'.",
                     "example": "I found my keys.\nHe found the money.\nWe found the cat."
                 },
                 {
                     "word": "knew",
                     "phonetic": "/njuː/",
                     "meaning": "đã biết",
+                    "definition": "The past tense of 'know'.",
                     "example": "I knew the answer.\nHe knew him.\nWe knew the way."
                 },
                 {
                     "word": "read",
                     "phonetic": "/red/",
                     "meaning": "đã đọc",
+                    "definition": "The past tense of 'read'.",
                     "example": "I read a book.\nHe read the news.\nWe read a story."
                 },
                 {
                     "word": "wrote",
                     "phonetic": "/rəʊt/",
                     "meaning": "đã viết",
+                    "definition": "The past tense of 'write'.",
                     "example": "I wrote a letter.\nHe wrote his name.\nShe wrote a book."
                 },
                 {
                     "word": "sat",
                     "phonetic": "/sæt/",
                     "meaning": "đã ngồi",
+                    "definition": "The past tense of 'sit'.",
                     "example": "I sat on the chair.\nHe sat near the window.\nWe sat down."
                 },
                 {
                     "word": "ran",
                     "phonetic": "/ræn/",
                     "meaning": "đã chạy",
+                    "definition": "The past tense of 'run'.",
                     "example": "I ran fast.\nHe ran home.\nWe ran in the park."
                 },
                 {
                     "word": "sang",
                     "phonetic": "/sæŋ/",
                     "meaning": "đã hát",
+                    "definition": "The past tense of 'sing'.",
                     "example": "He sang a song.\nShe sang very well.\nWe sang together."
                 },
                 {
                     "word": "swam",
                     "phonetic": "/swæm/",
                     "meaning": "đã bơi",
+                    "definition": "The past tense of 'swim'.",
                     "example": "I swam in the pool.\nHe swam in the sea.\nWe swam yesterday."
                 },
                 {
                     "word": "lost",
                     "phonetic": "/lɒst/",
                     "meaning": "đã mất/thua",
+                    "definition": "The past tense of 'lose'.",
                     "example": "I lost my pen.\nHe lost the game.\nWe lost the way."
                 },
                 {
                     "word": "won",
                     "phonetic": "/wʌn/",
                     "meaning": "đã thắng",
+                    "definition": "The past tense of 'win'.",
                     "example": "I won the race!\nHe won a medal.\nWe won the game."
                 },
                 {
                     "word": "spoke",
                     "phonetic": "/spəʊk/",
                     "meaning": "đã nói",
+                    "definition": "The past tense of 'speak'.",
                     "example": "He spoke English.\nShe spoke quietly.\nI spoke to him."
                 },
                 {
                     "word": "thought",
                     "phonetic": "/θɔːt/",
                     "meaning": "đã nghĩ",
+                    "definition": "The past tense of 'think'.",
                     "example": "I thought so.\nHe thought about it.\nI thought you were at home."
                 },
                 {
                     "word": "understood",
                     "phonetic": "/ˌʌndəˈstʊd/",
                     "meaning": "đã hiểu",
+                    "definition": "The past tense of 'understand'.",
                     "example": "I understood the lesson.\nHe understood me.\nI understood everything."
                 },
                 {
                     "word": "held",
                     "phonetic": "/held/",
                     "meaning": "đã cầm/nắm",
+                    "definition": "The past tense of 'hold'.",
                     "example": "I held the baby.\nHe held my hand.\nShe held the door."
                 },
                 {
                     "word": "told",
                     "phonetic": "/təʊld/",
                     "meaning": "đã kể/nói",
+                    "definition": "The past tense of 'tell'.",
                     "example": "He told a story.\nI told the truth.\nShe told me a secret."
                 }
             ],
@@ -3239,180 +3721,210 @@
                     "word": "excuse me",
                     "phonetic": "/ɪkˈskjuːs miː/",
                     "meaning": "xin lỗi (để làm phiền)",
+                    "definition": "Used for getting someone's attention politely.",
                     "example": "Excuse me, where is the bank?\nExcuse me, can you help me?\nExcuse me, is this your bag?"
                 },
                 {
                     "word": "pardon",
                     "phonetic": "/ˈpɑːdn/",
                     "meaning": "xin lỗi (nghe không rõ)",
+                    "definition": "Used for asking someone once more because you did not hear them.",
                     "example": "Pardon? Can you say that again?\nI beg your pardon.\nPardon me."
                 },
                 {
                     "word": "no problem",
                     "phonetic": "/nəʊ ˈprɒbləm/",
                     "meaning": "không có vấn đề gì",
+                    "definition": "Used to say that something is not difficult or annoying.",
                     "example": "Thanks for help. - No problem!\nNo problem, I can do it.\nIt's no problem at all."
                 },
                 {
                     "word": "of course",
                     "phonetic": "/əv kɔːs/",
                     "meaning": "tất nhiên",
+                    "definition": "Used to say 'yes' in a very sure way.",
                     "example": "Can I help? - Of course!\nOf course you can.\nYes, of course."
                 },
                 {
                     "word": "never mind",
                     "phonetic": "/ˈnevə(r) maɪnd/",
                     "meaning": "đừng bận tâm",
+                    "definition": "Used for telling someone not to worry about something.",
                     "example": "I'm sorry. - Never mind!\nNever mind, it's okay.\nNever mind about that."
                 },
                 {
                     "word": "you're welcome",
                     "phonetic": "/jɔː(r) ˈwelkəm/",
                     "meaning": "không có chi",
+                    "definition": "Used as a polite answer when someone thanks you.",
                     "example": "Thank you! - You're welcome!\nYou're very welcome.\nYou are welcome."
                 },
                 {
                     "word": "take care",
                     "phonetic": "/teɪk keə(r)/",
                     "meaning": "bảo trọng",
+                    "definition": "Used for saying goodbye in a friendly way.",
                     "example": "Goodbye, take care!\nTake care of yourself.\nSee you, take care."
                 },
                 {
                     "word": "see you later",
                     "phonetic": "/siː ju ˈleɪtə(r)/",
                     "meaning": "hẹn gặp lại sau",
+                    "definition": "Used for saying goodbye when you expect to see them again.",
                     "example": "Goodbye, see you later!\nSee you later alligator.\nOkay, see you later."
                 },
                 {
                     "word": "good luck",
                     "phonetic": "/ɡʊd lʌk/",
                     "meaning": "chúc may mắn",
+                    "definition": "Used for wishing someone success.",
                     "example": "Good luck with your test!\nI wish you good luck.\nGood luck to you."
                 },
                 {
                     "word": "well done",
                     "phonetic": "/wel dʌn/",
                     "meaning": "làm tốt lắm",
+                    "definition": "Used for praising someone who has done something well.",
                     "example": "Well done, you won!\nA very well done task.\nWell done everyone!"
                 },
                 {
                     "word": "come on",
                     "phonetic": "/kʌm ɒn/",
                     "meaning": "thôi nào/nhanh lên",
+                    "definition": "Used for telling someone to hurry.",
                     "example": "Come on, we're late!\nCome on, you can do it.\nOh, come on!"
                 },
                 {
                     "word": "look out",
                     "phonetic": "/lʊk aʊt/",
                     "meaning": "coi chừng",
+                    "definition": "Used for warning someone that they are in danger.",
                     "example": "Look out! There's a car.\nLook out for the dog.\nLook out!"
                 },
                 {
                     "word": "watch out",
                     "phonetic": "/wɒtʃ aʊt/",
                     "meaning": "cẩn thận",
+                    "definition": "Used for warning someone of a danger.",
                     "example": "Watch out! It's hot.\nWatch out for the cat.\nWatch out!"
                 },
                 {
                     "word": "be careful",
                     "phonetic": "/bi ˈkeəfl/",
                     "meaning": "hãy cẩn thận",
+                    "definition": "Used for telling someone to avoid danger.",
                     "example": "Be careful with that.\nPlease be careful.\nBe careful!"
                 },
                 {
                     "word": "don't worry",
                     "phonetic": "/dəʊnt ˈwʌri/",
                     "meaning": "đừng lo lắng",
+                    "definition": "Used for telling someone not to be upset.",
                     "example": "Don't worry, be happy.\nDon't worry about me.\nEverything is okay, don't worry."
                 },
                 {
                     "word": "hurry up",
                     "phonetic": "/ˈhʌri ʌp/",
                     "meaning": "nhanh lên",
+                    "definition": "Used for telling someone to act more quickly.",
                     "example": "Hurry up, the bus is here!\nWe must hurry up.\nPlease hurry up."
                 },
                 {
                     "word": "slow down",
                     "phonetic": "/sləʊ daʊn/",
                     "meaning": "chậm lại",
+                    "definition": "Used for telling someone to go more slowly.",
                     "example": "Slow down, you're driving too fast.\nPlease slow down.\nSlow down a bit."
                 },
                 {
                     "word": "get well soon",
                     "phonetic": "/ɡet wel suːn/",
                     "meaning": "chúc mau khỏe",
+                    "definition": "Used for wishing someone a quick recovery from being sick.",
                     "example": "I hope you get well soon.\nHere is a card, get well soon!\nGet well soon, my friend."
                 },
                 {
                     "word": "happy birthday",
                     "phonetic": "/ˈhæpi ˈbɜːθdeɪ/",
                     "meaning": "chúc mừng sinh nhật",
+                    "definition": "Used for wishing someone a happy day on their birthday.",
                     "example": "Happy birthday to you!\nHave a great happy birthday.\nHappy birthday!"
                 },
                 {
                     "word": "how about",
                     "phonetic": "/haʊ əˈbaʊt/",
                     "meaning": "thế còn... thì sao",
+                    "definition": "Used for making a suggestion.",
                     "example": "How about a pizza?\nHow about going to the park?\nHow about you?"
                 },
                 {
                     "word": "what's the matter",
                     "phonetic": "/wɒts ðə ˈmætə(r)/",
                     "meaning": "có chuyện gì vậy",
+                    "definition": "Used for asking someone what is wrong.",
                     "example": "What's the matter? Are you okay?\nTell me what's the matter.\nWhat is the matter?"
                 },
                 {
                     "word": "would you like",
                     "phonetic": "/wʊd ju laɪk/",
                     "meaning": "bạn có muốn... không",
+                    "definition": "Used for offering something to someone politely.",
                     "example": "Would you like some tea?\nWould you like to play?\nWhat would you like?"
                 },
                 {
                     "word": "i think so",
                     "phonetic": "/aɪ θɪŋk səʊ/",
                     "meaning": "tôi nghĩ vậy",
+                    "definition": "Used for saying that you believe something is true.",
                     "example": "Is it sunny? - I think so.\nI think so too.\nYes, I think so."
                 },
                 {
                     "word": "i hope so",
                     "phonetic": "/aɪ həʊp səʊ/",
                     "meaning": "tôi hy vọng vậy",
+                    "definition": "Used for saying that you want something to be true.",
                     "example": "Will you win? - I hope so!\nI hope so too.\nI really hope so."
                 },
                 {
                     "word": "i don't know",
                     "phonetic": "/aɪ dəʊnt nəʊ/",
                     "meaning": "tôi không biết",
+                    "definition": "Used for saying that you do not have information about something.",
                     "example": "Where is he? - I don't know.\nI'm sorry, I don't know.\nI don't know the answer."
                 },
                 {
                     "word": "maybe",
                     "phonetic": "/ˈmeɪbi/",
                     "meaning": "có lẽ",
+                    "definition": "Used to say that something is possible.",
                     "example": "Maybe it will rain.\nMaybe next time.\nMaybe yes, maybe no."
                 },
                 {
                     "word": "perhaps",
                     "phonetic": "/pəˈhæps/",
                     "meaning": "có lẽ",
+                    "definition": "Used to say that something is possible.",
                     "example": "Perhaps he is late.\nPerhaps we can go.\nPerhaps."
                 },
                 {
                     "word": "too",
                     "phonetic": "/tuː/",
                     "meaning": "cũng/quá",
+                    "definition": "In addition; also.",
                     "example": "Me too.\nIt's too hot.\nI like it too."
                 },
                 {
                     "word": "either",
                     "phonetic": "/ˈaɪðə(r)/",
                     "meaning": "cũng không (phủ định)",
+                    "definition": "Used at the end of a negative sentence to mean 'also'.",
                     "example": "I don't like it either.\nMe either.\nEither one is fine."
                 },
                 {
                     "word": "so do i",
                     "phonetic": "/səʊ du aɪ/",
                     "meaning": "tôi cũng vậy",
+                    "definition": "Used to agree with a positive statement.",
                     "example": "I like pizza. - So do I!\nI'm hungry. - So am I!\nSo do I."
                 }
             ],
@@ -3433,162 +3945,189 @@
                     "word": "building",
                     "phonetic": "/ˈbɪldɪŋ/",
                     "meaning": "tòa nhà",
+                    "definition": "A structure with walls and a roof, such as a house or school.",
                     "example": "A tall building.\nAn old building.\nA modern building."
                 },
                 {
                     "word": "balcony",
                     "phonetic": "/ˈbælkəni/",
                     "meaning": "ban công",
+                    "definition": "An area with a wall or bars around it that is joined to the outside wall of a building.",
                     "example": "Stand on the balcony.\nA flower on the balcony.\nA small balcony."
                 },
                 {
                     "word": "elevator",
                     "phonetic": "/ˈelɪveɪtə(r)/",
                     "meaning": "thang máy",
+                    "definition": "A machine that carries people up and down in a tall building.",
                     "example": "Take the elevator.\nThe elevator is broken.\nA fast elevator."
                 },
                 {
                     "word": "entrance",
                     "phonetic": "/ˈentrəns/",
                     "meaning": "lối vào",
+                    "definition": "A door or gate that you go through to enter a place.",
                     "example": "Main entrance.\nWait at the entrance.\nWhere is the entrance?"
                 },
                 {
                     "word": "exit",
                     "phonetic": "/ˈeksɪt/",
                     "meaning": "lối thoát",
+                    "definition": "A door or gate that you go through to leave a place.",
                     "example": "Fire exit.\nEmergency exit.\nFind the exit."
                 },
                 {
                     "word": "floor",
                     "phonetic": "/flɔː(r)/",
                     "meaning": "tầng/sàn",
+                    "definition": "The surface that you walk on in a room.",
                     "example": "Ground floor.\nFirst floor.\nOn the third floor."
                 },
                 {
                     "word": "gate",
                     "phonetic": "/ɡeɪt/",
                     "meaning": "cổng",
+                    "definition": "A part of a wall or fence that opens and closes like a door.",
                     "example": "Open the gate.\nA wooden gate.\nWait at the gate."
                 },
                 {
                     "word": "hall",
                     "phonetic": "/hɔːl/",
                     "meaning": "hành lang/sảnh",
+                    "definition": "A room or passage just inside the main door of a building.",
                     "example": "Walking down the hall.\nDining hall.\nA big hall."
                 },
                 {
                     "word": "roof",
                     "phonetic": "/ruːf/",
                     "meaning": "mái nhà",
+                    "definition": "The surface that covers the top of a building.",
                     "example": "On the roof.\nA red roof.\nA leaky roof."
                 },
                 {
                     "word": "wall",
                     "phonetic": "/wɔːl/",
                     "meaning": "bức tường",
+                    "definition": "One of the sides of a room or building.",
                     "example": "Paint the wall.\nA brick wall.\nA high wall."
                 },
                 {
                     "word": "bridge",
                     "phonetic": "/brɪdʒ/",
                     "meaning": "cây cầu",
+                    "definition": "A structure built over a river or road so that people can cross it.",
                     "example": "Cross the bridge.\nA stone bridge.\nUnder the bridge."
                 },
                 {
                     "word": "castle",
                     "phonetic": "/ˈkɑːsl/",
                     "meaning": "lâu đài",
+                    "definition": "A large strong building built in the past to protect people from attack.",
                     "example": "A big castle.\nA king lives in a castle.\nAn old castle."
                 },
                 {
                     "word": "factory",
                     "phonetic": "/ˈfæktri/",
                     "meaning": "nhà máy",
+                    "definition": "A building where large amounts of goods are made by machines.",
                     "example": "Work in a factory.\nA noisy factory.\nA big factory."
                 },
                 {
                     "word": "hotel",
                     "phonetic": "/həʊˈtel/",
                     "meaning": "khách sạn",
+                    "definition": "A building where you pay to stay and eat when you are traveling.",
                     "example": "Stay in a hotel.\nA luxury hotel.\nA cheap hotel."
                 },
                 {
                     "word": "palace",
                     "phonetic": "/ˈpæləs/",
                     "meaning": "cung điện",
+                    "definition": "A large, beautiful house where a king or queen lives.",
                     "example": "A beautiful palace.\nRoyal palace.\nVisit the palace."
                 },
                 {
                     "word": "stadium",
                     "phonetic": "/ˈsteɪdiəm/",
                     "meaning": "sân vận động",
+                    "definition": "A large building with rows of seats around a field where people watch sports.",
                     "example": "Watch a match in the stadium.\nA big stadium.\nFootball stadium."
                 },
                 {
                     "word": "tower",
                     "phonetic": "/ˈtaʊə(r)/",
                     "meaning": "tháp",
+                    "definition": "A tall narrow building or part of a building.",
                     "example": "A high tower.\nThe clock tower.\nClimb the tower."
                 },
                 {
                     "word": "center",
                     "phonetic": "/ˈsentə(r)/",
                     "meaning": "trung tâm",
+                    "definition": "The middle point or part of something.",
                     "example": "In the center.\nCity center.\nSports center."
                 },
                 {
                     "word": "corner",
                     "phonetic": "/ˈkɔːnə(r)/",
                     "meaning": "góc",
+                    "definition": "The point where two lines or surfaces meet.",
                     "example": "In the corner.\nAround the corner.\nStreet corner."
                 },
                 {
                     "word": "cross",
                     "phonetic": "/krɒs/",
                     "meaning": "băng qua",
+                    "definition": "To go from one side of something to the other.",
                     "example": "Cross the road.\nCross the street.\nDon't cross yet."
                 },
                 {
                     "word": "turn",
                     "phonetic": "/tɜːn/",
                     "meaning": "rẽ",
+                    "definition": "To move your body or a vehicle to the left or right.",
                     "example": "Turn left.\nTurn right.\nMy turn."
                 },
                 {
                     "word": "way",
                     "phonetic": "/weɪ/",
                     "meaning": "đường/cách",
+                    "definition": "A road or path that you use to go from one place to another.",
                     "example": "The right way.\nWhich way?\nOn the way home."
                 },
                 {
                     "word": "city",
                     "phonetic": "/ˈsɪti/",
                     "meaning": "thành phố",
+                    "definition": "A large and important town.",
                     "example": "Live in a city.\nA big city.\nA noisy city."
                 },
                 {
                     "word": "town",
                     "phonetic": "/taʊn/",
                     "meaning": "thị trấn",
+                    "definition": "A place where people live and work, larger than a village.",
                     "example": "A small town.\nMy hometown.\nGo to town."
                 },
                 {
                     "word": "village",
                     "phonetic": "/ˈvɪlɪdʒ/",
                     "meaning": "ngôi làng",
+                    "definition": "A small town in the countryside.",
                     "example": "Live in a village.\nA quiet village.\nMy village."
                 },
                 {
                     "word": "road",
                     "phonetic": "/rəʊd/",
                     "meaning": "con đường",
+                    "definition": "A route for vehicles to travel on.",
                     "example": "Cross the road.\nA long road.\nMain road."
                 },
                 {
                     "word": "street",
                     "phonetic": "/striːt/",
                     "meaning": "phố",
+                    "definition": "A road in a city or town with buildings along one or both sides.",
                     "example": "Walk down the street.\nA busy street.\nHigh street."
                 }
             ],

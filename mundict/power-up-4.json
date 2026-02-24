@@ -1,233 +1,569 @@
 {
-  "programId": "power-up-4",
-  "programName": "Power Up Level 4",
-  "sections": [
-    {
-      "sectionId": "unit-1",
-      "sectionName": "Unit 1: This year's trip",
-      "imageUrl": "",
-      "vocabularies": [
-        { "word": "January", "phonetic": "/ˈdʒænjuəri/", "meaning": "Tháng Một", "example": "Which month does your school year start in? It starts in January." },
-        { "word": "August", "phonetic": "/ˈɔːɡəst/", "meaning": "Tháng Tám", "example": "What's the eighth month? It is August." },
-        { "word": "motorway", "phonetic": "/ˈməʊtəweɪ/", "meaning": "đường cao tốc", "example": "Travelling by car on a motorway for a long time makes us tired.," },
-        { "word": "ambulance", "phonetic": "/ˈæmbjələns/", "meaning": "xe cứu thương", "example": "An ambulance takes people to the hospital." },
-        { "word": "platform", "phonetic": "/ˈplætfɔːm/", "meaning": "nhà ga (sân ga)", "example": "We waited on the platform for the train." },
-        { "word": "journey", "phonetic": "/ˈdʒɜːni/", "meaning": "chuyến đi", "example": "The journey was very long and difficult.," },
-        { "word": "passenger", "phonetic": "/ˈpæsɪndʒə(r)/", "meaning": "hành khách", "example": "The passenger sat on the bus." },
-        { "word": "luggage", "phonetic": "/ˈlʌɡɪdʒ/", "meaning": "hành lý", "example": "He has a lot of luggage." }
-      ],
-      "grammars": [
+    "programId": "power-up-4",
+    "programName": "Power Up Level 4",
+    "sections": [
         {
-          "structure": "might / may",
-          "description": "Diễn tả khả năng một việc gì đó có thể xảy ra trong tương lai (không chắc chắn).",
-          "example": "I think it may be snowing.\nMy mum said it might be cold tomorrow."
+            "sectionId": "unit-1",
+            "sectionName": "Unit 1: This year's trip",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "January",
+                    "phonetic": "/ˈdʒænjuəri/",
+                    "meaning": "Tháng Một",
+                    "definition": "The first month of the year.",
+                    "example": "Which month does your school year start in? It starts in January."
+                },
+                {
+                    "word": "August",
+                    "phonetic": "/ˈɔːɡəst/",
+                    "meaning": "Tháng Tám",
+                    "definition": "The eighth month of the year.",
+                    "example": "What's the eighth month? It is August."
+                },
+                {
+                    "word": "motorway",
+                    "phonetic": "/ˈməʊtəweɪ/",
+                    "meaning": "đường cao tốc",
+                    "definition": "A big, fast road for cars and trucks to travel long distances.",
+                    "example": "Travelling by car on a motorway for a long time makes us tired.,"
+                },
+                {
+                    "word": "ambulance",
+                    "phonetic": "/ˈæmbjələns/",
+                    "meaning": "xe cứu thương",
+                    "definition": "A special van that takes sick or hurt people to the hospital.",
+                    "example": "An ambulance takes people to the hospital."
+                },
+                {
+                    "word": "platform",
+                    "phonetic": "/ˈplætfɔːm/",
+                    "meaning": "nhà ga (sân ga)",
+                    "definition": "The place in a station where you wait for a train.",
+                    "example": "We waited on the platform for the train."
+                },
+                {
+                    "word": "journey",
+                    "phonetic": "/ˈdʒɜːni/",
+                    "meaning": "chuyến đi",
+                    "definition": "The act of travelling from one place to another.",
+                    "example": "The journey was very long and difficult.,"
+                },
+                {
+                    "word": "passenger",
+                    "phonetic": "/ˈpæsɪndʒə(r)/",
+                    "meaning": "hành khách",
+                    "definition": "A person who is travelling in a car, bus, train or plane.",
+                    "example": "The passenger sat on the bus."
+                },
+                {
+                    "word": "luggage",
+                    "phonetic": "/ˈlʌɡɪdʒ/",
+                    "meaning": "hành lý",
+                    "definition": "The bags and suitcases you take when you travel.",
+                    "example": "He has a lot of luggage."
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "might / may",
+                    "description": "Diễn tả khả năng một việc gì đó có thể xảy ra trong tương lai (không chắc chắn).",
+                    "example": "I think it may be snowing.\nMy mum said it might be cold tomorrow."
+                },
+                {
+                    "structure": "Indefinite pronouns (somewhere, anything, no-one...)",
+                    "description": "Đại từ bất định dùng để chỉ người, vật hoặc nơi chốn không xác định (someone, anyone, no-one, everyone, something, anything, nothing, everything, somewhere, anywhere, nowhere, everywhere).",
+                    "example": "I'm hungry. Have we got anything to eat?\nI can't hear anyone in the house. No, there's no-one at home."
+                }
+            ]
         },
         {
-          "structure": "Indefinite pronouns (somewhere, anything, no-one...)",
-          "description": "Đại từ bất định dùng để chỉ người, vật hoặc nơi chốn không xác định (someone, anyone, no-one, everyone, something, anything, nothing, everything, somewhere, anywhere, nowhere, everywhere).",
-          "example": "I'm hungry. Have we got anything to eat?\nI can't hear anyone in the house. No, there's no-one at home."
-        }
-      ]
-    },
-    {
-      "sectionId": "unit-2",
-      "sectionName": "Unit 2: Our beautiful planet",
-      "imageUrl": "",
-      "vocabularies": [
-        { "word": "ocean", "phonetic": "/ˈəʊʃn/", "meaning": "đại dương", "example": "This animal lives in the ocean. It's got eight 'arms and legs'.," },
-        { "word": "desert", "phonetic": "/ˈdezət/", "meaning": "sa mạc", "example": "All of the deserts in Australia are huge." },
-        { "word": "octopus", "phonetic": "/ˈɒktəpəs/", "meaning": "bạch tuộc", "example": "An octopus lives in the ocean." },
-        { "word": "camel", "phonetic": "/ˈkæml/", "meaning": "lạc đà", "example": "Camels are called 'ships of the desert'." },
-        { "word": "tortoise", "phonetic": "/ˈtɔːtəs/", "meaning": "con rùa cạn", "example": "This green and brown animal is very slow. It's got a shell on its back." },
-        { "word": "beetle", "phonetic": "/ˈbiːtl/", "meaning": "bọ cánh cứng", "example": "A beetle is a small creature with six legs." },
-        { "word": "stream", "phonetic": "/striːm/", "meaning": "dòng suối", "example": "We went to some woods near the stream." },
-        { "word": "extinct", "phonetic": "/ɪkˈstɪŋkt/", "meaning": "tuyệt chủng", "example": "These animals are extinct. They lived long ago." }
-      ],
-      "grammars": [
-        {
-          "structure": "Past simple review",
-          "description": "Ôn tập thì quá khứ đơn với động từ có quy tắc và bất quy tắc.",
-          "example": "Last week we went on a school trip to the beach. We left after school on Friday."
+            "sectionId": "unit-2",
+            "sectionName": "Unit 2: Our beautiful planet",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "ocean",
+                    "phonetic": "/ˈəʊʃn/",
+                    "meaning": "đại dương",
+                    "definition": "A very large area of salt water.",
+                    "example": "This animal lives in the ocean. It's got eight 'arms and legs'.,"
+                },
+                {
+                    "word": "desert",
+                    "phonetic": "/ˈdezət/",
+                    "meaning": "sa mạc",
+                    "definition": "A large, dry area of land with very little water.",
+                    "example": "All of the deserts in Australia are huge."
+                },
+                {
+                    "word": "octopus",
+                    "phonetic": "/ˈɒktəpəs/",
+                    "meaning": "bạch tuộc",
+                    "definition": "A sea animal with a soft body and eight long arms.",
+                    "example": "An octopus lives in the ocean."
+                },
+                {
+                    "word": "camel",
+                    "phonetic": "/ˈkæml/",
+                    "meaning": "lạc đà",
+                    "definition": "A large animal with one or two humps on its back that lives in the desert.",
+                    "example": "Camels are called 'ships of the desert'."
+                },
+                {
+                    "word": "tortoise",
+                    "phonetic": "/ˈtɔːtəs/",
+                    "meaning": "con rùa cạn",
+                    "definition": "An animal with a hard shell that moves very slowly on land.",
+                    "example": "This green and brown animal is very slow. It's got a shell on its back."
+                },
+                {
+                    "word": "beetle",
+                    "phonetic": "/ˈbiːtl/",
+                    "meaning": "bọ cánh cứng",
+                    "definition": "An insect with hard wings that cover its body.",
+                    "example": "A beetle is a small creature with six legs."
+                },
+                {
+                    "word": "stream",
+                    "phonetic": "/striːm/",
+                    "meaning": "dòng suối",
+                    "definition": "A small river of water flowing in a channel.",
+                    "example": "We went to some woods near the stream."
+                },
+                {
+                    "word": "extinct",
+                    "phonetic": "/ɪkˈstɪŋkt/",
+                    "meaning": "tuyệt chủng",
+                    "definition": "When an animal or plant no longer exists anywhere in the world.",
+                    "example": "These animals are extinct. They lived long ago."
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "Past simple review",
+                    "description": "Ôn tập thì quá khứ đơn với động từ có quy tắc và bất quy tắc.",
+                    "example": "Last week we went on a school trip to the beach. We left after school on Friday."
+                },
+                {
+                    "structure": "too / enough",
+                    "description": "Sử dụng 'too' (quá) và 'enough' (đủ) để mô tả tính chất hoặc số lượng.",
+                    "example": "I like ice skating, but if you don't wear the right clothes it's too cold.\nThere isn't enough water."
+                }
+            ]
         },
         {
-          "structure": "too / enough",
-          "description": "Sử dụng 'too' (quá) và 'enough' (đủ) để mô tả tính chất hoặc số lượng.",
-          "example": "I like ice skating, but if you don't wear the right clothes it's too cold.\nThere isn't enough water."
-        }
-      ]
-    },
-    {
-      "sectionId": "unit-3",
-      "sectionName": "Unit 3: Let's celebrate!",
-      "imageUrl": "",
-      "vocabularies": [
-        { "word": "race", "phonetic": "/reɪs/", "meaning": "cuộc đua", "example": "People drive fast in racing cars to win a race." },
-        { "word": "chess", "phonetic": "/tʃes/", "meaning": "cờ vua", "example": "Chess is a board game with a king and queen." },
-        { "word": "puzzle", "phonetic": "/ˈpʌzl/", "meaning": "câu đố / trò chơi ghép hình", "example": "How did she finish the puzzle so quickly?" },
-        { "word": "concert", "phonetic": "/ˈkɒnsət/", "meaning": "buổi hòa nhạc", "example": "Mum loved the concert. She danced all evening." },
-        { "word": "drum", "phonetic": "/drʌm/", "meaning": "cái trống", "example": "The musician who played the drums was brilliant." },
-        { "word": "violin", "phonetic": "/ˌvaɪəˈlɪn/", "meaning": "đàn vĩ cầm", "example": "The robot isn't playing the guitar, is it? No, it's playing the violin.," },
-        { "word": "prize", "phonetic": "/praɪz/", "meaning": "giải thưởng", "example": "Did he win a prize for chess?" }
-      ],
-      "grammars": [
-        {
-          "structure": "Present perfect for experience",
-          "description": "Thì hiện tại hoàn thành để nói về trải nghiệm (Have you ever...?).",
-          "example": "Have you ever eaten black beans?\nI haven't seen the pyramids yet.,"
+            "sectionId": "unit-3",
+            "sectionName": "Unit 3: Let's celebrate!",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "race",
+                    "phonetic": "/reɪs/",
+                    "meaning": "cuộc đua",
+                    "definition": "A competition to see who is the fastest.",
+                    "example": "People drive fast in racing cars to win a race."
+                },
+                {
+                    "word": "chess",
+                    "phonetic": "/tʃes/",
+                    "meaning": "cờ vua",
+                    "definition": "A board game for two people with black and white squares.",
+                    "example": "Chess is a board game with a king and queen."
+                },
+                {
+                    "word": "puzzle",
+                    "phonetic": "/ˈpʌzl/",
+                    "meaning": "câu đố / trò chơi ghép hình",
+                    "definition": "A game or problem that you have to think about hard to solve.",
+                    "example": "How did she finish the puzzle so quickly?"
+                },
+                {
+                    "word": "concert",
+                    "phonetic": "/ˈkɒnsət/",
+                    "meaning": "buổi hòa nhạc",
+                    "definition": "A performance of music by people such as singers or musicians.",
+                    "example": "Mum loved the concert. She danced all evening."
+                },
+                {
+                    "word": "drum",
+                    "phonetic": "/drʌm/",
+                    "meaning": "cái trống",
+                    "definition": "A musical instrument that you play by hitting it with sticks or your hands.",
+                    "example": "The musician who played the drums was brilliant."
+                },
+                {
+                    "word": "violin",
+                    "phonetic": "/ˌvaɪəˈlɪn/",
+                    "meaning": "đàn vĩ cầm",
+                    "definition": "A musical instrument with four strings that you play with a bow.",
+                    "example": "The robot isn't playing the guitar, is it? No, it's playing the violin.,"
+                },
+                {
+                    "word": "prize",
+                    "phonetic": "/praɪz/",
+                    "meaning": "giải thưởng",
+                    "definition": "Something that you win in a competition or a game.",
+                    "example": "Did he win a prize for chess?"
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "Present perfect for experience",
+                    "description": "Thì hiện tại hoàn thành để nói về trải nghiệm (Have you ever...?).",
+                    "example": "Have you ever eaten black beans?\nI haven't seen the pyramids yet.,"
+                },
+                {
+                    "structure": "Present perfect with just, already, yet",
+                    "description": "Thì hiện tại hoàn thành đi kèm với 'just' (vừa mới), 'already' (đã... rồi), 'yet' (chưa).",
+                    "example": "I haven't sent him the email yet.\nWe've just visited Frank's grandma.\nI've already done my homework."
+                }
+            ]
         },
         {
-          "structure": "Present perfect with just, already, yet",
-          "description": "Thì hiện tại hoàn thành đi kèm với 'just' (vừa mới), 'already' (đã... rồi), 'yet' (chưa).",
-          "example": "I haven't sent him the email yet.\nWe've just visited Frank's grandma.\nI've already done my homework."
-        }
-      ]
-    },
-    {
-      "sectionId": "unit-4",
-      "sectionName": "Unit 4: Time of our lives",
-      "imageUrl": "",
-      "vocabularies": [
-        { "word": "fetch", "phonetic": "/fetʃ/", "meaning": "đi lấy / mang về", "example": "Mum's just fetched Grandma from the station." },
-        { "word": "tidy", "phonetic": "/ˈtaɪdi/", "meaning": "dọn dẹp", "example": "I was tidying my room when Grandma phoned." },
-        { "word": "repair", "phonetic": "/rɪˈpeə(r)/", "meaning": "sửa chữa", "example": "My dad's going to repair my bike." },
-        { "word": "quarter to", "phonetic": "/ˈkwɔːtə tuː/", "meaning": "kém 15 phút", "example": "He ate cereal for breakfast at quarter to ten." },
-        { "word": "half past", "phonetic": "/hɑːf pɑːst/", "meaning": "rưỡi (30 phút)", "example": "At half past nine, the managers went to a big office." }
-      ],
-      "grammars": [
-        {
-          "structure": "Past continuous",
-          "description": "Thì quá khứ tiếp diễn diễn tả hành động đang xảy ra tại một thời điểm trong quá khứ.",
-          "example": "While I was cleaning my bike, my sister was watching TV.\nI was looking after my little brother when we saw our maths teacher.,"
+            "sectionId": "unit-4",
+            "sectionName": "Unit 4: Time of our lives",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "fetch",
+                    "phonetic": "/fetʃ/",
+                    "meaning": "đi lấy / mang về",
+                    "definition": "To go to another place to get something and bring it back.",
+                    "example": "Mum's just fetched Grandma from the station."
+                },
+                {
+                    "word": "tidy",
+                    "phonetic": "/ˈtaɪdi/",
+                    "meaning": "dọn dẹp",
+                    "definition": "To make a place look neat by putting things in the correct place.",
+                    "example": "I was tidying my room when Grandma phoned."
+                },
+                {
+                    "word": "repair",
+                    "phonetic": "/rɪˈpeə(r)/",
+                    "meaning": "sửa chữa",
+                    "definition": "To fix something that is broken or not working.",
+                    "example": "My dad's going to repair my bike."
+                },
+                {
+                    "word": "quarter to",
+                    "phonetic": "/ˈkwɔːtə tuː/",
+                    "meaning": "kém 15 phút",
+                    "definition": "Fifteen minutes before an hour.",
+                    "example": "He ate cereal for breakfast at quarter to ten."
+                },
+                {
+                    "word": "half past",
+                    "phonetic": "/hɑːf pɑːst/",
+                    "meaning": "rưỡi (30 phút)",
+                    "definition": "Thirty minutes after an hour.",
+                    "example": "At half past nine, the managers went to a big office."
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "Past continuous",
+                    "description": "Thì quá khứ tiếp diễn diễn tả hành động đang xảy ra tại một thời điểm trong quá khứ.",
+                    "example": "While I was cleaning my bike, my sister was watching TV.\nI was looking after my little brother when we saw our maths teacher.,"
+                },
+                {
+                    "structure": "Present perfect with since / for",
+                    "description": "Thì hiện tại hoàn thành dùng với 'since' (mốc thời gian) và 'for' (khoảng thời gian).",
+                    "example": "She's lived here for six months.\nI haven't been to school since 21st June."
+                }
+            ]
         },
         {
-          "structure": "Present perfect with since / for",
-          "description": "Thì hiện tại hoàn thành dùng với 'since' (mốc thời gian) và 'for' (khoảng thời gian).",
-          "example": "She's lived here for six months.\nI haven't been to school since 21st June."
-        }
-      ]
-    },
-    {
-      "sectionId": "unit-5",
-      "sectionName": "Unit 5: Let it snow!",
-      "imageUrl": "",
-      "vocabularies": [
-        { "word": "winter", "phonetic": "/ˈwɪntə(r)/", "meaning": "mùa đông", "example": "This is the coldest season." },
-        { "word": "foggy", "phonetic": "/ˈfɒɡi/", "meaning": "có sương mù", "example": "There was a lot of fog. It was very foggy." },
-        { "word": "storm", "phonetic": "/stɔːm/", "meaning": "cơn bão", "example": "When there's a storm with a lot of wind and rain, the sea is very dangerous." },
-        { "word": "sledge", "phonetic": "/sledʒ/", "meaning": "xe trượt tuyết", "example": "We sit on this to go down a hill fast when there's snow. It's a sledge." },
-        { "word": "gloves", "phonetic": "/ɡlʌvz/", "meaning": "găng tay", "example": "We wear these on our hands to keep them warm." },
-        { "word": "skiing", "phonetic": "/ˈskiːɪŋ/", "meaning": "trượt tuyết", "example": "This sport may sometimes be dangerous because it's fast. You go down a mountain with snow." }
-      ],
-      "grammars": [
-        {
-          "structure": "will / won't",
-          "description": "Thì tương lai đơn để đưa ra dự đoán hoặc lời hứa.",
-          "example": "I'll water their garden.\nWe won't talk about football.\nDon't worry Mum, I'll tidy my bedroom after lunch.,"
+            "sectionId": "unit-5",
+            "sectionName": "Unit 5: Let it snow!",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "winter",
+                    "phonetic": "/ˈwɪntə(r)/",
+                    "meaning": "mùa đông",
+                    "definition": "The coldest season of the year, between autumn and spring.",
+                    "example": "This is the coldest season."
+                },
+                {
+                    "word": "foggy",
+                    "phonetic": "/ˈfɒɡi/",
+                    "meaning": "có sương mù",
+                    "definition": "When there is a lot of thick, low clouds that make it hard to see.",
+                    "example": "There was a lot of fog. It was very foggy."
+                },
+                {
+                    "word": "storm",
+                    "phonetic": "/stɔːm/",
+                    "meaning": "cơn bão",
+                    "definition": "A period of very bad weather with heavy rain, strong winds, and often lightning and thunder.",
+                    "example": "When there's a storm with a lot of wind and rain, the sea is very dangerous."
+                },
+                {
+                    "word": "sledge",
+                    "phonetic": "/sledʒ/",
+                    "meaning": "xe trượt tuyết",
+                    "definition": "An object used for travelling over snow and ice.",
+                    "example": "We sit on this to go down a hill fast when there's snow. It's a sledge."
+                },
+                {
+                    "word": "gloves",
+                    "phonetic": "/ɡlʌvz/",
+                    "meaning": "găng tay",
+                    "definition": "Clothing worn on the hands to keep them warm or protect them.",
+                    "example": "We wear these on our hands to keep them warm."
+                },
+                {
+                    "word": "skiing",
+                    "phonetic": "/ˈskiːɪŋ/",
+                    "meaning": "trượt tuyết",
+                    "definition": "The sport or activity of moving over snow on skis.",
+                    "example": "This sport may sometimes be dangerous because it's fast. You go down a mountain with snow."
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "will / won't",
+                    "description": "Thì tương lai đơn để đưa ra dự đoán hoặc lời hứa.",
+                    "example": "I'll water their garden.\nWe won't talk about football.\nDon't worry Mum, I'll tidy my bedroom after lunch.,"
+                },
+                {
+                    "structure": "Conjunctions: so and because",
+                    "description": "Liên từ 'so' (vì vậy) và 'because' (bởi vì).",
+                    "example": "It was very hot, so I went for a swim.\nI made a snowman because there was a lot of snow."
+                }
+            ]
         },
         {
-          "structure": "Conjunctions: so and because",
-          "description": "Liên từ 'so' (vì vậy) và 'because' (bởi vì).",
-          "example": "It was very hot, so I went for a swim.\nI made a snowman because there was a lot of snow."
-        }
-      ]
-    },
-    {
-      "sectionId": "unit-6",
-      "sectionName": "Unit 6: Working together",
-      "imageUrl": "",
-      "vocabularies": [
-        { "word": "manager", "phonetic": "/ˈmænɪdʒə(r)/", "meaning": "quản lý", "example": "At half past nine, the managers went to a big office to have a meeting." },
-        { "word": "mechanic", "phonetic": "/məˈkænɪk/", "meaning": "thợ cơ khí", "example": "Helen's Uncle Robert is a mechanic." },
-        { "word": "photographer", "phonetic": "/fəˈtɒɡrəfə(r)/", "meaning": "nhiếp ảnh gia", "example": "Many journalists work with a photographer.," },
-        { "word": "waiter", "phonetic": "/ˈweɪtə(r)/", "meaning": "bồi bàn", "example": "Waiters work in a restaurant." },
-        { "word": "helmet", "phonetic": "/ˈhelmɪt/", "meaning": "mũ bảo hiểm", "example": "Firefighters wear a helmet as part of a uniform." },
-        { "word": "factory", "phonetic": "/ˈfæktri/", "meaning": "nhà máy", "example": "Robots make cars in a factory." }
-      ],
-      "grammars": [
-        {
-          "structure": "Tag questions",
-          "description": "Câu hỏi đuôi để xác nhận thông tin.",
-          "example": "You eat everything, don't you?\nYou can cycle, can't you?\nThey aren't in Australia, are they?,"
+            "sectionId": "unit-6",
+            "sectionName": "Unit 6: Working together",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "manager",
+                    "phonetic": "/ˈmænɪdʒə(r)/",
+                    "meaning": "quản lý",
+                    "definition": "A person who is in charge of a shop, office, or team.",
+                    "example": "At half past nine, the managers went to a big office to have a meeting."
+                },
+                {
+                    "word": "mechanic",
+                    "phonetic": "/məˈkænɪk/",
+                    "meaning": "thợ cơ khí",
+                    "definition": "A person who fixes machines, especially car engines.",
+                    "example": "Helen's Uncle Robert is a mechanic."
+                },
+                {
+                    "word": "photographer",
+                    "phonetic": "/fəˈtɒɡrəfə(r)/",
+                    "meaning": "nhiếp ảnh gia",
+                    "definition": "A person who takes photos with a camera.",
+                    "example": "Many journalists work with a photographer.,"
+                },
+                {
+                    "word": "waiter",
+                    "phonetic": "/ˈweɪtə(r)/",
+                    "meaning": "bồi bàn",
+                    "definition": "A person who works in a restaurant and brings food to the table.",
+                    "example": "Waiters work in a restaurant."
+                },
+                {
+                    "word": "helmet",
+                    "phonetic": "/ˈhelmɪt/",
+                    "meaning": "mũ bảo hiểm",
+                    "definition": "A hard hat that protects your head.",
+                    "example": "Firefighters wear a helmet as part of a uniform."
+                },
+                {
+                    "word": "factory",
+                    "phonetic": "/ˈfæktri/",
+                    "meaning": "nhà máy",
+                    "definition": "A large building where machines are used to make things.",
+                    "example": "Robots make cars in a factory."
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "Tag questions",
+                    "description": "Câu hỏi đuôi để xác nhận thông tin.",
+                    "example": "You eat everything, don't you?\nYou can cycle, can't you?\nThey aren't in Australia, are they?,"
+                },
+                {
+                    "structure": "Short questions",
+                    "description": "Câu hỏi ngắn để thể hiện sự quan tâm hoặc ngạc nhiên.",
+                    "example": "'I didn't go to the bank on Friday morning.' 'Didn't you?'\n'It was my twin brother.' 'Was it?'"
+                }
+            ]
         },
         {
-          "structure": "Short questions",
-          "description": "Câu hỏi ngắn để thể hiện sự quan tâm hoặc ngạc nhiên.",
-          "example": "'I didn't go to the bank on Friday morning.' 'Didn't you?'\n'It was my twin brother.' 'Was it?'"
-        }
-      ]
-    },
-    {
-      "sectionId": "unit-7",
-      "sectionName": "Unit 7: Then and now",
-      "imageUrl": "",
-      "vocabularies": [
-        { "word": "gate", "phonetic": "/ɡeɪt/", "meaning": "cổng", "example": "Frank didn't paint all of the gate because there wasn't any more paint." },
-        { "word": "shelf", "phonetic": "/ʃelf/", "meaning": "cái kệ / giá sách", "example": "Betty ran in and jumped on the shelf because she was frightened." },
-        { "word": "shampoo", "phonetic": "/ʃæmˈpuː/", "meaning": "dầu gội", "example": "What's shampoo used for? It's used for washing your hair." },
-        { "word": "comb", "phonetic": "/kəʊm/", "meaning": "cái lược", "example": "What are combs used for? They're used for combing your hair." },
-        { "word": "expensive", "phonetic": "/ɪkˈspensɪv/", "meaning": "đắt tiền", "example": "She bought her camera for only 20 euros. It was really expensive (incorrect context in exercise, implies checking meaning)." }
-      ],
-      "grammars": [
-        {
-          "structure": "Past participles",
-          "description": "Quá khứ phân từ của các động từ (V3/ed) (break -> broken, eat -> eaten).",
-          "example": "It was used for cooking food.\nMichael's just swum 200 metres.,"
+            "sectionId": "unit-7",
+            "sectionName": "Unit 7: Then and now",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "gate",
+                    "phonetic": "/ɡeɪt/",
+                    "meaning": "cổng",
+                    "definition": "A door-like structure in a fence or wall outside.",
+                    "example": "Frank didn't paint all of the gate because there wasn't any more paint."
+                },
+                {
+                    "word": "shelf",
+                    "phonetic": "/ʃelf/",
+                    "meaning": "cái kệ / giá sách",
+                    "definition": "A flat board fixed to a wall or in a cupboard for putting things on.",
+                    "example": "Betty ran in and jumped on the shelf because she was frightened."
+                },
+                {
+                    "word": "shampoo",
+                    "phonetic": "/ʃæmˈpuː/",
+                    "meaning": "dầu gội",
+                    "definition": "A liquid soap used for washing your hair.",
+                    "example": "What's shampoo used for? It's used for washing your hair."
+                },
+                {
+                    "word": "comb",
+                    "phonetic": "/kəʊm/",
+                    "meaning": "cái lược",
+                    "definition": "A flat piece of plastic or wood with teeth, used for making hair neat.",
+                    "example": "What are combs used for? They're used for combing your hair."
+                },
+                {
+                    "word": "expensive",
+                    "phonetic": "/ɪkˈspensɪv/",
+                    "meaning": "đắt tiền",
+                    "definition": "Costing a lot of money.",
+                    "example": "She bought her camera for only 20 euros. It was really expensive (incorrect context in exercise, implies checking meaning)."
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "Past participles",
+                    "description": "Quá khứ phân từ của các động từ (V3/ed) (break -> broken, eat -> eaten).",
+                    "example": "It was used for cooking food.\nMichael's just swum 200 metres.,"
+                },
+                {
+                    "structure": "be used for / to",
+                    "description": "Cấu trúc chỉ công dụng của vật: be used for + V-ing / be used to + V-inf.",
+                    "example": "It was used for cooking food.\nPeople used soap to wash their clothes.,"
+                }
+            ]
         },
         {
-          "structure": "be used for / to",
-          "description": "Cấu trúc chỉ công dụng của vật: be used for + V-ing / be used to + V-inf.",
-          "example": "It was used for cooking food.\nPeople used soap to wash their clothes.,"
-        }
-      ]
-    },
-    {
-      "sectionId": "unit-8",
-      "sectionName": "Unit 8: Space travel",
-      "imageUrl": "",
-      "vocabularies": [
-        { "word": "astronaut", "phonetic": "/ˈæstrənɔːt/", "meaning": "phi hành gia", "example": "An astronaut travels in space." },
-        { "word": "rocket", "phonetic": "/ˈrɒkɪt/", "meaning": "tên lửa", "example": "Ivan landed his rocket on the new planet.," },
-        { "word": "planet", "phonetic": "/ˈplænɪt/", "meaning": "hành tinh", "example": "Earth, Jupiter and Mars are all planets." },
-        { "word": "enormous", "phonetic": "/ɪˈnɔːməs/", "meaning": "khổng lồ", "example": "Enormous is another word for huge." },
-        { "word": "spaceship", "phonetic": "/ˈspeɪsʃɪp/", "meaning": "tàu vũ trụ", "example": "Spaceships will improve." }
-      ],
-      "grammars": [
-        {
-          "structure": "will and going to",
-          "description": "Phân biệt 'will' (dự đoán, quyết định tức thì) và 'going to' (kế hoạch, dự định có căn cứ).",
-          "example": "Spaceships will improve.\nAre you going to watch space films?"
+            "sectionId": "unit-8",
+            "sectionName": "Unit 8: Space travel",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "astronaut",
+                    "phonetic": "/ˈæstrənɔːt/",
+                    "meaning": "phi hành gia",
+                    "definition": "A person who is trained to travel into space.",
+                    "example": "An astronaut travels in space."
+                },
+                {
+                    "word": "rocket",
+                    "phonetic": "/ˈrɒkɪt/",
+                    "meaning": "tên lửa",
+                    "definition": "A vehicle used for travelling to space.",
+                    "example": "Ivan landed his rocket on the new planet.,"
+                },
+                {
+                    "word": "planet",
+                    "phonetic": "/ˈplænɪt/",
+                    "meaning": "hành tinh",
+                    "definition": "A very large round object that moves around a star, such as Earth.",
+                    "example": "Earth, Jupiter and Mars are all planets."
+                },
+                {
+                    "word": "enormous",
+                    "phonetic": "/ɪˈnɔːməs/",
+                    "meaning": "khổng lồ",
+                    "definition": "Very large in size or amount.",
+                    "example": "Enormous is another word for huge."
+                },
+                {
+                    "word": "spaceship",
+                    "phonetic": "/ˈspeɪsʃɪp/",
+                    "meaning": "tàu vũ trụ",
+                    "definition": "A vehicle for travelling in space.",
+                    "example": "Spaceships will improve."
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "will and going to",
+                    "description": "Phân biệt 'will' (dự đoán, quyết định tức thì) và 'going to' (kế hoạch, dự định có căn cứ).",
+                    "example": "Spaceships will improve.\nAre you going to watch space films?"
+                },
+                {
+                    "structure": "Review of past tenses",
+                    "description": "Ôn tập các thì quá khứ trong ngữ cảnh kể chuyện.",
+                    "example": "Ivan landed his rocket on the new planet. He was turning off his engine when he heard a strange noise."
+                }
+            ]
         },
         {
-          "structure": "Review of past tenses",
-          "description": "Ôn tập các thì quá khứ trong ngữ cảnh kể chuyện.",
-          "example": "Ivan landed his rocket on the new planet. He was turning off his engine when he heard a strange noise."
+            "sectionId": "unit-9",
+            "sectionName": "Unit 9: Great bakers",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "delicious",
+                    "phonetic": "/dɪˈlɪʃəs/",
+                    "meaning": "ngon miệng",
+                    "definition": "Very pleasant to eat or smell.",
+                    "example": "These biscuits taste like oranges and coconuts. They're delicious!"
+                },
+                {
+                    "word": "bowl",
+                    "phonetic": "/bəʊl/",
+                    "meaning": "cái bát",
+                    "definition": "A round container used for holding food or liquid.",
+                    "example": "First, mix the butter and sugar in a large bowl."
+                },
+                {
+                    "word": "spoon",
+                    "phonetic": "/spuːn/",
+                    "meaning": "cái thìa",
+                    "definition": "An object with a small bowl at the end of a handle, used for eating or stirring.",
+                    "example": "Use a wooden spoon."
+                },
+                {
+                    "word": "flour",
+                    "phonetic": "/ˈflaʊə(r)/",
+                    "meaning": "bột mì",
+                    "definition": "A powder made from grain, used for making bread, cakes, etc.",
+                    "example": "Then slowly add the flour and mix it all together."
+                },
+                {
+                    "word": "oven",
+                    "phonetic": "/ˈʌvn/",
+                    "meaning": "lò nướng",
+                    "definition": "A piece of equipment that you use for cooking food.",
+                    "example": "Put them carefully into the oven."
+                },
+                {
+                    "word": "yoghurt",
+                    "phonetic": "/ˈjɒɡət/",
+                    "meaning": "sữa chua",
+                    "definition": "A thick, creamy food made from milk.",
+                    "example": "This fridge is only for one food - kimchi... no milk, no cheese and no yoghurts.,"
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "Verbs of perception + like",
+                    "description": "Động từ chỉ giác quan + like (smells like, tastes like, looks like, feels like, sounds like).",
+                    "example": "It felt like dry grass.\nIt smelt like carrot cake.\nIt looked like a nest."
+                },
+                {
+                    "structure": "make somebody + adjective",
+                    "description": "Cấu trúc 'make' khiến ai đó cảm thấy thế nào.",
+                    "example": "The smell's making me hungry.\nWatching bad news on TV made my dad unhappy.,"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "sectionId": "unit-9",
-      "sectionName": "Unit 9: Great bakers",
-      "imageUrl": "",
-      "vocabularies": [
-        { "word": "delicious", "phonetic": "/dɪˈlɪʃəs/", "meaning": "ngon miệng", "example": "These biscuits taste like oranges and coconuts. They're delicious!" },
-        { "word": "bowl", "phonetic": "/bəʊl/", "meaning": "cái bát", "example": "First, mix the butter and sugar in a large bowl." },
-        { "word": "spoon", "phonetic": "/spuːn/", "meaning": "cái thìa", "example": "Use a wooden spoon." },
-        { "word": "flour", "phonetic": "/ˈflaʊə(r)/", "meaning": "bột mì", "example": "Then slowly add the flour and mix it all together." },
-        { "word": "oven", "phonetic": "/ˈʌvn/", "meaning": "lò nướng", "example": "Put them carefully into the oven." },
-        { "word": "yoghurt", "phonetic": "/ˈjɒɡət/", "meaning": "sữa chua", "example": "This fridge is only for one food - kimchi... no milk, no cheese and no yoghurts.," }
-      ],
-      "grammars": [
-        {
-          "structure": "Verbs of perception + like",
-          "description": "Động từ chỉ giác quan + like (smells like, tastes like, looks like, feels like, sounds like).",
-          "example": "It felt like dry grass.\nIt smelt like carrot cake.\nIt looked like a nest."
-        },
-        {
-          "structure": "make somebody + adjective",
-          "description": "Cấu trúc 'make' khiến ai đó cảm thấy thế nào.",
-          "example": "The smell's making me hungry.\nWatching bad news on TV made my dad unhappy.,"
-        }
-      ]
-    }
-  ]
+    ]
 }

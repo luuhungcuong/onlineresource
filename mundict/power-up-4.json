@@ -12,56 +12,96 @@
                     "phonetic": "/ˈdʒænjuəri/",
                     "meaning": "Tháng Một",
                     "definition": "The first month of the year.",
-                    "example": "Which month does your school year start in? It starts in January."
+                    "example": "Which month does your school year start in? It starts in January.",
+                    "quizzes": [
+                        "The new year begins on the first day of __________.",
+                        "It is usually very cold in Northern countries during __________.",
+                        "My birthday is in __________, which is the first month of the year."
+                    ]
                 },
                 {
                     "word": "August",
                     "phonetic": "/ˈɔːɡəst/",
                     "meaning": "Tháng Tám",
                     "definition": "The eighth month of the year.",
-                    "example": "What's the eighth month? It is August."
+                    "example": "What's the eighth month? It is August.",
+                    "quizzes": [
+                        "Many families go on holiday in __________, the last month of summer.",
+                        "School often starts again in late __________ or September.",
+                        "__________ is the eighth month of the calendar year."
+                    ]
                 },
                 {
                     "word": "motorway",
                     "phonetic": "/ˈməʊtəweɪ/",
                     "meaning": "đường cao tốc",
                     "definition": "A big, fast road for cars and trucks to travel long distances.",
-                    "example": "Travelling by car on a motorway for a long time makes us tired.,"
+                    "example": "Travelling by car on a motorway for a long time makes us tired.,",
+                    "quizzes": [
+                        "You can drive much faster on the __________ than on small city streets.",
+                        "The __________ was very busy with many trucks and cars travelling south.",
+                        "We took the __________ to get to our grandmother's house more quickly."
+                    ]
                 },
                 {
                     "word": "ambulance",
                     "phonetic": "/ˈæmbjələns/",
                     "meaning": "xe cứu thương",
                     "definition": "A special van that takes sick or hurt people to the hospital.",
-                    "example": "An ambulance takes people to the hospital."
+                    "example": "An ambulance takes people to the hospital.",
+                    "quizzes": [
+                        "When there is a serious accident, we must call for an __________ immediately.",
+                        "I heard the loud siren of an __________ racing towards the hospital.",
+                        "The __________ arrived quickly to help the man who had fallen."
+                    ]
                 },
                 {
                     "word": "platform",
                     "phonetic": "/ˈplætfɔːm/",
                     "meaning": "nhà ga (sân ga)",
                     "definition": "The place in a station where you wait for a train.",
-                    "example": "We waited on the platform for the train."
+                    "example": "We waited on the platform for the train.",
+                    "quizzes": [
+                        "Our train leaves from __________ number five in ten minutes.",
+                        "Please stand back from the edge of the __________ while the train is arriving.",
+                        "The __________ was crowded with passengers waiting for the express train."
+                    ]
                 },
                 {
                     "word": "journey",
                     "phonetic": "/ˈdʒɜːni/",
                     "meaning": "chuyến đi",
                     "definition": "The act of travelling from one place to another.",
-                    "example": "The journey was very long and difficult.,"
+                    "example": "The journey was very long and difficult.,",
+                    "quizzes": [
+                        "We brought many books and games to keep us busy during the long __________.",
+                        "How long is the train __________ from London to Edinburgh?",
+                        "The mountain __________ was difficult because of the heavy snow and ice."
+                    ]
                 },
                 {
                     "word": "passenger",
                     "phonetic": "/ˈpæsɪndʒə(r)/",
                     "meaning": "hành khách",
                     "definition": "A person who is travelling in a car, bus, train or plane.",
-                    "example": "The passenger sat on the bus."
+                    "example": "The passenger sat on the bus.",
+                    "quizzes": [
+                        "There was only one __________ remaining on the bus when it reached the final stop.",
+                        "The flight attendant asked every __________ to fasten their seatbelts.",
+                        "A group of __________s waited patiently outside the airport terminal."
+                    ]
                 },
                 {
                     "word": "luggage",
                     "phonetic": "/ˈlʌɡɪdʒ/",
                     "meaning": "hành lý",
                     "definition": "The bags and suitcases you take when you travel.",
-                    "example": "He has a lot of luggage."
+                    "example": "He has a lot of luggage.",
+                    "quizzes": [
+                        "We checked our heavy __________ at the airport counter before our flight.",
+                        "It is much easier to travel when you don't have too much __________. ",
+                        "He carried his small piece of hand __________ onto the airplane."
+                    ]
                 }
             ],
             "grammars": [
@@ -87,56 +127,96 @@
                     "phonetic": "/ˈəʊʃn/",
                     "meaning": "đại dương",
                     "definition": "A very large area of salt water.",
-                    "example": "This animal lives in the ocean. It's got eight 'arms and legs'.,"
+                    "example": "This animal lives in the ocean. It's got eight 'arms and legs'.,",
+                    "quizzes": [
+                        "Blue whales are the largest animals that live in the __________.",
+                        "The Pacific is the largest and deepest __________ on Earth.",
+                        "We spent our holiday near the __________, swimming and surfing every day."
+                    ]
                 },
                 {
                     "word": "desert",
                     "phonetic": "/ˈdezət/",
                     "meaning": "sa mạc",
                     "definition": "A large, dry area of land with very little water.",
-                    "example": "All of the deserts in Australia are huge."
+                    "example": "All of the deserts in Australia are huge.",
+                    "quizzes": [
+                        "It is extremely hot in the __________ during the day but cold at night.",
+                        "Very few plants can grow in the dry sand of the __________.",
+                        "The Sahara is the largest hot __________ in the entire world."
+                    ]
                 },
                 {
                     "word": "octopus",
                     "phonetic": "/ˈɒktəpəs/",
                     "meaning": "bạch tuộc",
                     "definition": "A sea animal with a soft body and eight long arms.",
-                    "example": "An octopus lives in the ocean."
+                    "example": "An octopus lives in the ocean.",
+                    "quizzes": [
+                        "An __________ can change its color to hide from other sea creatures.",
+                        "I saw an __________ with its eight long arms swimming through the coral.",
+                        "The __________ is a very intelligent animal that lives deep in the sea."
+                    ]
                 },
                 {
                     "word": "camel",
                     "phonetic": "/ˈkæml/",
                     "meaning": "lạc đà",
                     "definition": "A large animal with one or two humps on its back that lives in the desert.",
-                    "example": "Camels are called 'ships of the desert'."
+                    "example": "Camels are called 'ships of the desert'.",
+                    "quizzes": [
+                        "A __________ can travel for many days in the desert without drinking water.",
+                        "We went for a ride on a __________ across the beautiful sand dunes.",
+                        "The __________ has thick fur to protect it from the hot desert sun."
+                    ]
                 },
                 {
                     "word": "tortoise",
                     "phonetic": "/ˈtɔːtəs/",
                     "meaning": "con rùa cạn",
                     "definition": "An animal with a hard shell that moves very slowly on land.",
-                    "example": "This green and brown animal is very slow. It's got a shell on its back."
+                    "example": "This green and brown animal is very slow. It's got a shell on its back.",
+                    "quizzes": [
+                        "The old __________ crawled slowly across the grass in the back garden.",
+                        "A __________ can live for over a hundred years if it is well cared for.",
+                        "When it feels scared, the __________ pulls its head inside its hard shell."
+                    ]
                 },
                 {
                     "word": "beetle",
                     "phonetic": "/ˈbiːtl/",
                     "meaning": "bọ cánh cứng",
                     "definition": "An insect with hard wings that cover its body.",
-                    "example": "A beetle is a small creature with six legs."
+                    "example": "A beetle is a small creature with six legs.",
+                    "quizzes": [
+                        "I found a shiny black __________ crawling under a leaf in the woods.",
+                        "The ladybird is a type of __________ that has spots on its bright shell.",
+                        "Be careful not to step on that tiny __________ near the garden path."
+                    ]
                 },
                 {
                     "word": "stream",
                     "phonetic": "/striːm/",
                     "meaning": "dòng suối",
                     "definition": "A small river of water flowing in a channel.",
-                    "example": "We went to some woods near the stream."
+                    "example": "We went to some woods near the stream.",
+                    "quizzes": [
+                        "The water in the shallow __________ was very cold and clear.",
+                        "We sat by the __________ and watched the small fish swimming past.",
+                        "It's fun to jump over the narrow __________ that runs through the field."
+                    ]
                 },
                 {
                     "word": "extinct",
                     "phonetic": "/ɪkˈstɪŋkt/",
                     "meaning": "tuyệt chủng",
                     "definition": "When an animal or plant no longer exists anywhere in the world.",
-                    "example": "These animals are extinct. They lived long ago."
+                    "example": "These animals are extinct. They lived long ago.",
+                    "quizzes": [
+                        "Dinosaurs became __________ millions of years ago, long before humans existed.",
+                        "Scientists are working hard to stop many endangered animals from becoming __________.",
+                        "The dodo is a famous example of a bird that is now completely __________."
+                    ]
                 }
             ],
             "grammars": [
@@ -162,49 +242,84 @@
                     "phonetic": "/reɪs/",
                     "meaning": "cuộc đua",
                     "definition": "A competition to see who is the fastest.",
-                    "example": "People drive fast in racing cars to win a race."
+                    "example": "People drive fast in racing cars to win a race.",
+                    "quizzes": [
+                        "I managed to come in second place in the school's 100-meter __________.",
+                        "The swimmers stood on the blocks, waiting for the start of the __________.",
+                        "It was a very close __________, but Sarah won by just a few seconds."
+                    ]
                 },
                 {
                     "word": "chess",
                     "phonetic": "/tʃes/",
                     "meaning": "cờ vua",
                     "definition": "A board game for two people with black and white squares.",
-                    "example": "Chess is a board game with a king and queen."
+                    "example": "Chess is a board game with a king and queen.",
+                    "quizzes": [
+                        "My grandfather is teaching me how to play __________ on Sunday afternoons.",
+                        "To win at __________, you must try to capture your opponent's king.",
+                        "It takes a lot of thinking and concentration to be a good __________ player."
+                    ]
                 },
                 {
                     "word": "puzzle",
                     "phonetic": "/ˈpʌzl/",
                     "meaning": "câu đố / trò chơi ghép hình",
                     "definition": "A game or problem that you have to think about hard to solve.",
-                    "example": "How did she finish the puzzle so quickly?"
+                    "example": "How did she finish the puzzle so quickly?",
+                    "quizzes": [
+                        "I enjoy spending my free time doing a difficult crossword __________.",
+                        "We spent the whole rainy afternoon completing a large jigsaw __________.",
+                        "That riddle was a real __________; I couldn't figure out the answer at all."
+                    ]
                 },
                 {
                     "word": "concert",
                     "phonetic": "/ˈkɒnsət/",
                     "meaning": "buổi hòa nhạc",
                     "definition": "A performance of music by people such as singers or musicians.",
-                    "example": "Mum loved the concert. She danced all evening."
+                    "example": "Mum loved the concert. She danced all evening.",
+                    "quizzes": [
+                        "We have tickets to see my favorite pop band in __________ next Saturday.",
+                        "The classical music __________ at the town hall was absolutely beautiful.",
+                        "Everyone cheered loudly when the singer walked onto the stage at the __________."
+                    ]
                 },
                 {
                     "word": "drum",
                     "phonetic": "/drʌm/",
                     "meaning": "cái trống",
                     "definition": "A musical instrument that you play by hitting it with sticks or your hands.",
-                    "example": "The musician who played the drums was brilliant."
+                    "example": "The musician who played the drums was brilliant.",
+                    "quizzes": [
+                        "He started to play the __________ so loudly that the floor began to shake.",
+                        "The little boy enjoys hitting the __________ with his wooden sticks.",
+                        "Can you hear the steady beat of the __________ coming from the music room?"
+                    ]
                 },
                 {
                     "word": "violin",
                     "phonetic": "/ˌvaɪəˈlɪn/",
                     "meaning": "đàn vĩ cầm",
                     "definition": "A musical instrument with four strings that you play with a bow.",
-                    "example": "The robot isn't playing the guitar, is it? No, it's playing the violin.,"
+                    "example": "The robot isn't playing the guitar, is it? No, it's playing the violin.,",
+                    "quizzes": [
+                        "She has been practicing the __________ every morning for three years.",
+                        "The sound of a __________ is very high and can be extremely sad or happy.",
+                        "He carefully tucked the __________ under his chin and began to play."
+                    ]
                 },
                 {
                     "word": "prize",
                     "phonetic": "/praɪz/",
                     "meaning": "giải thưởng",
                     "definition": "Something that you win in a competition or a game.",
-                    "example": "Did he win a prize for chess?"
+                    "example": "Did he win a prize for chess?",
+                    "quizzes": [
+                        "The first __________ for the winners of the race was a shiny gold trophy.",
+                        "He worked very hard on his science project and won a special __________.",
+                        "What is the __________ for the person who finds the hidden golden egg?"
+                    ]
                 }
             ],
             "grammars": [
@@ -230,35 +345,60 @@
                     "phonetic": "/fetʃ/",
                     "meaning": "đi lấy / mang về",
                     "definition": "To go to another place to get something and bring it back.",
-                    "example": "Mum's just fetched Grandma from the station."
+                    "example": "Mum's just fetched Grandma from the station.",
+                    "quizzes": [
+                        "The dog loves to run across the field to __________ the wooden stick I throw.",
+                        "Could you please go and __________ my glasses from the living room table?",
+                        "I'll go and __________ some more water for everyone from the kitchen."
+                    ]
                 },
                 {
                     "word": "tidy",
                     "phonetic": "/ˈtaɪdi/",
                     "meaning": "dọn dẹp",
                     "definition": "To make a place look neat by putting things in the correct place.",
-                    "example": "I was tidying my room when Grandma phoned."
+                    "example": "I was tidying my room when Grandma phoned.",
+                    "quizzes": [
+                        "Please __________ your toys and put them back in the box before dinner.",
+                        "It will take me about ten minutes to __________ the living room for our guests.",
+                        "The teacher asked all the students to __________ their desks before they left."
+                    ]
                 },
                 {
                     "word": "repair",
                     "phonetic": "/rɪˈpeə(r)/",
                     "meaning": "sửa chữa",
                     "definition": "To fix something that is broken or not working.",
-                    "example": "My dad's going to repair my bike."
+                    "example": "My dad's going to repair my bike.",
+                    "quizzes": [
+                        "The mechanic said he can __________ my father's car engine by tomorrow afternoon.",
+                        "Is it possible to __________ this broken watch, or do I need to buy a new one?",
+                        "We need to __________ the hole in the fence so the dog doesn't get out."
+                    ]
                 },
                 {
                     "word": "quarter to",
                     "phonetic": "/ˈkwɔːtə tuː/",
                     "meaning": "kém 15 phút",
                     "definition": "Fifteen minutes before an hour.",
-                    "example": "He ate cereal for breakfast at quarter to ten."
+                    "example": "He ate cereal for breakfast at quarter to ten.",
+                    "quizzes": [
+                        "The bus arrives at __________ __________ nine, so we need to leave soon.",
+                        "It is exactly __________ __________ seven, which means it's 6:45.",
+                        "I usually wake up at __________ __________ eight on school mornings."
+                    ]
                 },
                 {
                     "word": "half past",
                     "phonetic": "/hɑːf pɑːst/",
                     "meaning": "rưỡi (30 phút)",
                     "definition": "Thirty minutes after an hour.",
-                    "example": "At half past nine, the managers went to a big office."
+                    "example": "At half past nine, the managers went to a big office.",
+                    "quizzes": [
+                        "We are meeting our friends for lunch at __________ __________ twelve.",
+                        "The movie starts at __________ __________ eight in the evening.",
+                        "I usually have my dinner at __________ __________ six every day."
+                    ]
                 }
             ],
             "grammars": [
@@ -284,42 +424,72 @@
                     "phonetic": "/ˈwɪntə(r)/",
                     "meaning": "mùa đông",
                     "definition": "The coldest season of the year, between autumn and spring.",
-                    "example": "This is the coldest season."
+                    "example": "This is the coldest season.",
+                    "quizzes": [
+                        "I love playing in the thick white snow during the cold __________ months.",
+                        "We need to wear heavy coats and warm scarves when __________ arrives.",
+                        "__________ is the time of year when some animals go into a long sleep."
+                    ]
                 },
                 {
                     "word": "foggy",
                     "phonetic": "/ˈfɒɡi/",
                     "meaning": "có sương mù",
                     "definition": "When there is a lot of thick, low clouds that make it hard to see.",
-                    "example": "There was a lot of fog. It was very foggy."
+                    "example": "There was a lot of fog. It was very foggy.",
+                    "quizzes": [
+                        "It was so __________ outside this morning that I could only see a few meters ahead.",
+                        "Drivers must go very slowly and use their lights when the weather is __________.",
+                        "The golden bridge looked beautiful emerging from the __________ and damp morning air."
+                    ]
                 },
                 {
                     "word": "storm",
                     "phonetic": "/stɔːm/",
                     "meaning": "cơn bão",
                     "definition": "A period of very bad weather with heavy rain, strong winds, and often lightning and thunder.",
-                    "example": "When there's a storm with a lot of wind and rain, the sea is very dangerous."
+                    "example": "When there's a storm with a lot of wind and rain, the sea is very dangerous.",
+                    "quizzes": [
+                        "We stayed safely inside the house while the loud thunder of the __________ rolled past.",
+                        "A powerful __________ with very strong winds blew down several old trees in the park.",
+                        "Is it going to be a big __________ tonight? I can see bright lightning in the distance."
+                    ]
                 },
                 {
                     "word": "sledge",
                     "phonetic": "/sledʒ/",
                     "meaning": "xe trượt tuyết",
                     "definition": "An object used for travelling over snow and ice.",
-                    "example": "We sit on this to go down a hill fast when there's snow. It's a sledge."
+                    "example": "We sit on this to go down a hill fast when there's snow. It's a sledge.",
+                    "quizzes": [
+                        "The children took their wooden __________ to the top of the snowy hill to slide down.",
+                        "It is so much fun to race your friends on a __________ when it snows in winter.",
+                        "We pulled the heavy __________ behind us as we walked through the deep, white snow."
+                    ]
                 },
                 {
                     "word": "gloves",
                     "phonetic": "/ɡlʌvz/",
                     "meaning": "găng tay",
                     "definition": "Clothing worn on the hands to keep them warm or protect them.",
-                    "example": "We wear these on our hands to keep them warm."
+                    "example": "We wear these on our hands to keep them warm.",
+                    "quizzes": [
+                        "I need to find my warm woolly __________ because my fingers are feeling very cold.",
+                        "The gardener always wears thick leather __________ to protect his hands from thorns.",
+                        "Don't forget to put on your __________ before you go outside to build a snowman."
+                    ]
                 },
                 {
                     "word": "skiing",
                     "phonetic": "/ˈskiːɪŋ/",
                     "meaning": "trượt tuyết",
                     "definition": "The sport or activity of moving over snow on skis.",
-                    "example": "This sport may sometimes be dangerous because it's fast. You go down a mountain with snow."
+                    "example": "This sport may sometimes be dangerous because it's fast. You go down a mountain with snow.",
+                    "quizzes": [
+                        "We go __________ in the Alps every February during the school half-term holiday.",
+                        "Is __________ more difficult than snowboarding for a beginner to learn?",
+                        "He broke his leg while he was __________ down a very steep and icy mountain slope."
+                    ]
                 }
             ],
             "grammars": [
@@ -345,42 +515,72 @@
                     "phonetic": "/ˈmænɪdʒə(r)/",
                     "meaning": "quản lý",
                     "definition": "A person who is in charge of a shop, office, or team.",
-                    "example": "At half past nine, the managers went to a big office to have a meeting."
+                    "example": "At half past nine, the managers went to a big office to have a meeting.",
+                    "quizzes": [
+                        "The store __________ helped me find the correct size for the blue shoes I wanted.",
+                        "Our football __________ decided to change the team's strategy for the second half.",
+                        "If you have a problem with your meal, you can ask to speak with the restaurant __________."
+                    ]
                 },
                 {
                     "word": "mechanic",
                     "phonetic": "/məˈkænɪk/",
                     "meaning": "thợ cơ khí",
                     "definition": "A person who fixes machines, especially car engines.",
-                    "example": "Helen's Uncle Robert is a mechanic."
+                    "example": "Helen's Uncle Robert is a mechanic.",
+                    "quizzes": [
+                        "The __________ spent two hours repairing the broken engine of our family car.",
+                        "My brother wants to become a __________ because he loves learning how machines work.",
+                        "We took the car to the local __________ to have the brakes checked before our trip."
+                    ]
                 },
                 {
                     "word": "photographer",
                     "phonetic": "/fəˈtɒɡrəfə(r)/",
                     "meaning": "nhiếp ảnh gia",
                     "definition": "A person who takes photos with a camera.",
-                    "example": "Many journalists work with a photographer.,"
+                    "example": "Many journalists work with a photographer.,",
+                    "quizzes": [
+                        "The professional __________ took some beautiful pictures of the bride and groom.",
+                        "I want to be a nature __________ so I can travel the world taking photos of animals.",
+                        "A famous __________ is coming to our school to take the official class photos today."
+                    ]
                 },
                 {
                     "word": "waiter",
                     "phonetic": "/ˈweɪtə(r)/",
                     "meaning": "bồi bàn",
                     "definition": "A person who works in a restaurant and brings food to the table.",
-                    "example": "Waiters work in a restaurant."
+                    "example": "Waiters work in a restaurant.",
+                    "quizzes": [
+                        "The polite __________ brought us our drinks and then took our order for dinner.",
+                        "We gave the __________ a small tip because the service was very fast and friendly.",
+                        "A __________ in a white apron walked past us carrying three large plates of pasta."
+                    ]
                 },
                 {
                     "word": "helmet",
                     "phonetic": "/ˈhelmɪt/",
                     "meaning": "mũ bảo hiểm",
                     "definition": "A hard hat that protects your head.",
-                    "example": "Firefighters wear a helmet as part of a uniform."
+                    "example": "Firefighters wear a helmet as part of a uniform.",
+                    "quizzes": [
+                        "You must always wear a __________ to protect your head when you ride a motorcycle.",
+                        "The construction worker put on his yellow __________ before entering the building site.",
+                        "Make sure your bicycle __________ is fastened correctly before you start cycling."
+                    ]
                 },
                 {
                     "word": "factory",
                     "phonetic": "/ˈfæktri/",
                     "meaning": "nhà máy",
                     "definition": "A large building where machines are used to make things.",
-                    "example": "Robots make cars in a factory."
+                    "example": "Robots make cars in a factory.",
+                    "quizzes": [
+                        "My uncle works in a large __________ that produces parts for airplanes and helicopters.",
+                        "The old __________ chimney was pouring out thick grey smoke into the sky.",
+                        "Many clothes are now made in a __________ using very fast and modern machines."
+                    ]
                 }
             ],
             "grammars": [
@@ -406,35 +606,60 @@
                     "phonetic": "/ɡeɪt/",
                     "meaning": "cổng",
                     "definition": "A door-like structure in a fence or wall outside.",
-                    "example": "Frank didn't paint all of the gate because there wasn't any more paint."
+                    "example": "Frank didn't paint all of the gate because there wasn't any more paint.",
+                    "quizzes": [
+                        "Please remember to close the garden __________ so the dog doesn't run out.",
+                        "He stood at the school __________ and waited for his mother to pick him up.",
+                        "The old iron __________ was very heavy and made a loud creaking sound when opened."
+                    ]
                 },
                 {
                     "word": "shelf",
                     "phonetic": "/ʃelf/",
                     "meaning": "cái kệ / giá sách",
                     "definition": "A flat board fixed to a wall or in a cupboard for putting things on.",
-                    "example": "Betty ran in and jumped on the shelf because she was frightened."
+                    "example": "Betty ran in and jumped on the shelf because she was frightened.",
+                    "quizzes": [
+                        "I put my favorite books on the top __________ so they are easy to find.",
+                        "Could you please reach up and get the blue bowl from the highest __________?",
+                        "The __________ was full of old dusty trophies and family photographs."
+                    ]
                 },
                 {
                     "word": "shampoo",
                     "phonetic": "/ʃæmˈpuː/",
                     "meaning": "dầu gội",
                     "definition": "A liquid soap used for washing your hair.",
-                    "example": "What's shampoo used for? It's used for washing your hair."
+                    "example": "What's shampoo used for? It's used for washing your hair.",
+                    "quizzes": [
+                        "I need to buy some more __________ because I've used the whole bottle.",
+                        "Be careful not to get any __________ in your eyes while you are washing your hair.",
+                        "This herbal __________ smells like fresh flowers and makes my hair feel very soft."
+                    ]
                 },
                 {
                     "word": "comb",
                     "phonetic": "/kəʊm/",
                     "meaning": "cái lược",
                     "definition": "A flat piece of plastic or wood with teeth, used for making hair neat.",
-                    "example": "What are combs used for? They're used for combing your hair."
+                    "example": "What are combs used for? They're used for combing your hair.",
+                    "quizzes": [
+                        "She used a plastic __________ to make her long hair look neat and tidy before school.",
+                        "I can't find my green __________; I think I left it in the bathroom this morning.",
+                        "A __________ has many small teeth that help get the tangles out of your hair."
+                    ]
                 },
                 {
                     "word": "expensive",
                     "phonetic": "/ɪkˈspensɪv/",
                     "meaning": "đắt tiền",
                     "definition": "Costing a lot of money.",
-                    "example": "She bought her camera for only 20 euros. It was really expensive (incorrect context in exercise, implies checking meaning)."
+                    "example": "She bought her camera for only 20 euros. It was really expensive (incorrect context in exercise, implies checking meaning).",
+                    "quizzes": [
+                        "That new sports car is very __________, and only very rich people can buy it.",
+                        "It is much more __________ to travel by plane than to go by bus or train.",
+                        "I want to buy those shoes, but they are too __________ for me right now."
+                    ]
                 }
             ],
             "grammars": [
@@ -460,35 +685,60 @@
                     "phonetic": "/ˈæstrənɔːt/",
                     "meaning": "phi hành gia",
                     "definition": "A person who is trained to travel into space.",
-                    "example": "An astronaut travels in space."
+                    "example": "An astronaut travels in space.",
+                    "quizzes": [
+                        "The brave __________ stepped out of the rocket and onto the dusty surface of the moon.",
+                        "It takes many years of difficult training to become a professional __________.",
+                        "Every __________ must learn how to live and work in zero gravity."
+                    ]
                 },
                 {
                     "word": "rocket",
                     "phonetic": "/ˈrɒkɪt/",
                     "meaning": "tên lửa",
                     "definition": "A vehicle used for travelling to space.",
-                    "example": "Ivan landed his rocket on the new planet.,"
+                    "example": "Ivan landed his rocket on the new planet.,",
+                    "quizzes": [
+                        "The powerful __________ blasted off from the launchpad with a loud roar of fire.",
+                        "Scientists are designing a new __________ that can carry people all the way to Mars.",
+                        "We watched the __________ disappear into the blue sky until it was just a tiny dot."
+                    ]
                 },
                 {
                     "word": "planet",
                     "phonetic": "/ˈplænɪt/",
                     "meaning": "hành tinh",
                     "definition": "A very large round object that moves around a star, such as Earth.",
-                    "example": "Earth, Jupiter and Mars are all planets."
+                    "example": "Earth, Jupiter and Mars are all planets.",
+                    "quizzes": [
+                        "Earth is the only __________ in our solar system known to have liquid water.",
+                        "Mars is often called the 'Red __________' because of its rusty-colored soil.",
+                        "Which __________ is the closest to the sun? I think it is Mercury."
+                    ]
                 },
                 {
                     "word": "enormous",
                     "phonetic": "/ɪˈnɔːməs/",
                     "meaning": "khổng lồ",
                     "definition": "Very large in size or amount.",
-                    "example": "Enormous is another word for huge."
+                    "example": "Enormous is another word for huge.",
+                    "quizzes": [
+                        "The blue whale is an __________ animal that can grow up to 30 meters long.",
+                        "We found an __________ footprint in the mud that must belong to a very large creature.",
+                        "They lived in an __________ house with twenty bedrooms and a giant swimming pool."
+                    ]
                 },
                 {
                     "word": "spaceship",
                     "phonetic": "/ˈspeɪsʃɪp/",
                     "meaning": "tàu vũ trụ",
                     "definition": "A vehicle for travelling in space.",
-                    "example": "Spaceships will improve."
+                    "example": "Spaceships will improve.",
+                    "quizzes": [
+                        "The shiny silver __________ glided silently through the dark and empty space.",
+                        "In my favorite movie, the __________ can travel faster than the speed of light.",
+                        "The captain sat in the cockpit of the __________ and looked out at the distant stars."
+                    ]
                 }
             ],
             "grammars": [
@@ -514,42 +764,72 @@
                     "phonetic": "/dɪˈlɪʃəs/",
                     "meaning": "ngon miệng",
                     "definition": "Very pleasant to eat or smell.",
-                    "example": "These biscuits taste like oranges and coconuts. They're delicious!"
+                    "example": "These biscuits taste like oranges and coconuts. They're delicious!",
+                    "quizzes": [
+                        "My mother made a __________ chocolate cake for my birthday party last weekend.",
+                        "The smell of the fresh bread coming from the bakery was absolutely __________.",
+                        "This hot soup is very __________; could I please have another bowl?"
+                    ]
                 },
                 {
                     "word": "bowl",
                     "phonetic": "/bəʊl/",
                     "meaning": "cái bát",
                     "definition": "A round container used for holding food or liquid.",
-                    "example": "First, mix the butter and sugar in a large bowl."
+                    "example": "First, mix the butter and sugar in a large bowl.",
+                    "quizzes": [
+                        "He poured some milk into a cereal __________ and then added the cornflakes.",
+                        "Please pass me that large glass __________ so I can mix the salad ingredients.",
+                        "I ate a hot __________ of spicy noodles for my lunch today."
+                    ]
                 },
                 {
                     "word": "spoon",
                     "phonetic": "/spuːn/",
                     "meaning": "cái thìa",
                     "definition": "An object with a small bowl at the end of a handle, used for eating or stirring.",
-                    "example": "Use a wooden spoon."
+                    "example": "Use a wooden spoon.",
+                    "quizzes": [
+                        "I used a small silver __________ to stir the honey into my hot tea.",
+                        "She used a big wooden __________ to stir the thick vegetable soup in the pot.",
+                        "Don't forget to put a __________ on the table so I can eat my soup."
+                    ]
                 },
                 {
                     "word": "flour",
                     "phonetic": "/ˈflaʊə(r)/",
                     "meaning": "bột mì",
                     "definition": "A powder made from grain, used for making bread, cakes, etc.",
-                    "example": "Then slowly add the flour and mix it all together."
+                    "example": "Then slowly add the flour and mix it all together.",
+                    "quizzes": [
+                        "We need several kilograms of white __________ to bake all these loaves of bread.",
+                        "Sift the __________ into the bowl to make sure there are no lumps in the cake mix.",
+                        "The baker's hands were covered in white __________ after he finished kneading the dough."
+                    ]
                 },
                 {
                     "word": "oven",
                     "phonetic": "/ˈʌvn/",
                     "meaning": "lò nướng",
                     "definition": "A piece of equipment that you use for cooking food.",
-                    "example": "Put them carefully into the oven."
+                    "example": "Put them carefully into the oven.",
+                    "quizzes": [
+                        "The delicious smell of roasting chicken filled the kitchen as it cooked in the __________.",
+                        "Remember to wear thick gloves before taking the hot baking tray out of the __________.",
+                        "My grandmother is baking a fresh cherry pie in the __________ right now."
+                    ]
                 },
                 {
                     "word": "yoghurt",
                     "phonetic": "/ˈjɒɡət/",
                     "meaning": "sữa chua",
                     "definition": "A thick, creamy food made from milk.",
-                    "example": "This fridge is only for one food - kimchi... no milk, no cheese and no yoghurts.,"
+                    "example": "This fridge is only for one food - kimchi... no milk, no cheese and no yoghurts.,",
+                    "quizzes": [
+                        "I usually have a small pot of strawberry __________ with my breakfast every morning.",
+                        "Greek __________ is very thick and creamy and tastes great with fresh honey.",
+                        "She mixed some blue berries into her plain white __________ to make it more interesting."
+                    ]
                 }
             ],
             "grammars": [

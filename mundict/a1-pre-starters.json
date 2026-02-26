@@ -11,154 +11,264 @@
                     "phonetic": "/wʌn/",
                     "meaning": "số 1",
                     "definition": "The number 1.",
-                    "example": "I have one apple.\nThere is one book.\nOne and one is two."
+                    "example": "I have one apple.\nThere is one book.\nOne and one is two.",
+                    "quizzes": [
+                        "I have __________ red apple in my small school bag today.",
+                        "Look! There is __________ big brown book on the wooden table.",
+                        "__________ and one is two. Can you count with me?"
+                    ]
                 },
                 {
                     "word": "two",
                     "phonetic": "/tuː/",
                     "meaning": "số 2",
                     "definition": "The number 2.",
-                    "example": "I have two hands.\nTwo eyes and two ears.\nThere are two cats."
+                    "example": "I have two hands.\nTwo eyes and two ears.\nThere are two cats.",
+                    "quizzes": [
+                        "I have __________ hands. I can clap my hands and wave hello!",
+                        "I have __________ eyes and two ears on my happy face today.",
+                        "There are __________ small black cats sleeping on the soft sofa."
+                    ]
                 },
                 {
                     "word": "three",
                     "phonetic": "/θriː/",
                     "meaning": "số 3",
                     "definition": "The number 3.",
-                    "example": "The three little pigs.\nThree birds are flying.\nI have three pencils."
+                    "example": "The three little pigs.\nThree birds are flying.\nI have three pencils.",
+                    "quizzes": [
+                        "I can see __________ little pigs playing in the green garden today.",
+                        "Look at the sky! __________ beautiful birds are flying high.",
+                        "I have __________ pencils in my hand. One is red and two are blue."
+                    ]
                 },
                 {
                     "word": "four",
                     "phonetic": "/fɔː(r)/",
                     "meaning": "số 4",
                     "definition": "The number 4.",
-                    "example": "A car has four wheels.\nFour seasons in a year.\nI have four books."
+                    "example": "A car has four wheels.\nFour seasons in a year.\nI have four books.",
+                    "quizzes": [
+                        "A fast silver car has __________ wheels. Let's count them: 1, 2, 3, 4!",
+                        "There are __________ seasons in a year: spring, summer, autumn, and winter.",
+                        "I have __________ books about animals on my wooden bookcase today."
+                    ]
                 },
                 {
                     "word": "five",
                     "phonetic": "/faɪv/",
                     "meaning": "số 5",
                     "definition": "The number 5.",
-                    "example": "High five!\nI have five fingers.\nFive ducks in a pond."
+                    "example": "High five!\nI have five fingers.\nFive ducks in a pond.",
+                    "quizzes": [
+                        "Give me a high __________! You are doing a very good job today.",
+                        "I have __________ fingers on my right hand. Can you see them?",
+                        "I can see __________ little yellow ducks swimming in the blue pond."
+                    ]
                 },
                 {
                     "word": "six",
                     "phonetic": "/sɪks/",
                     "meaning": "số 6",
                     "definition": "The number 6.",
-                    "example": "A ladybug has six legs.\nI am six years old.\nSix eggs in the box."
+                    "example": "A ladybug has six legs.\nI am six years old.\nSix eggs in the box.",
+                    "quizzes": [
+                        "A small red ladybug has __________ legs. It is very tiny and cute.",
+                        "I am __________ years old today! Happy birthday to me!",
+                        "There are __________ white eggs in the kitchen box. Let's make a cake!"
+                    ]
                 },
                 {
                     "word": "seven",
                     "phonetic": "/ˈsevn/",
                     "meaning": "số 7",
                     "definition": "The number 7.",
-                    "example": "Seven days in a week.\nThe seven dwarfs.\nI have seven apples."
+                    "example": "Seven days in a week.\nThe seven dwarfs.\nI have seven apples.",
+                    "quizzes": [
+                        "There are __________ days in a week. Monday is the first day.",
+                        "Do you know the story of Snow White and the __________ dwarfs?",
+                        "I have __________ sweet red apples in my big basket today."
+                    ]
                 },
                 {
                     "word": "eight",
                     "phonetic": "/eɪt/",
                     "meaning": "số 8",
                     "definition": "The number 8.",
-                    "example": "An octopus has eight legs.\neight o'clock.\nI have eight pencils."
+                    "example": "An octopus has eight legs.\neight o'clock.\nI have eight pencils.",
+                    "quizzes": [
+                        "A big octopus lives in the sea and it has __________ long legs.",
+                        "It is __________ o'clock in the morning. It is time for school!",
+                        "I have __________ colorful pencils. My favorite one is purple."
+                    ]
                 },
                 {
                     "word": "nine",
                     "phonetic": "/naɪn/",
                     "meaning": "số 9",
                     "definition": "The number 9.",
-                    "example": "Nine comes after eight.\nI have nine toy cars.\nNine birds on the tree."
+                    "example": "Nine comes after eight.\nI have nine toy cars.\nNine birds on the tree.",
+                    "quizzes": [
+                        "The number __________ comes after eight. Let's count: 7, 8, 9!",
+                        "I have __________ toy cars. Some are red and some are blue.",
+                        "I can see __________ birds sitting on the branches of the tall tree."
+                    ]
                 },
                 {
                     "word": "ten",
                     "phonetic": "/ten/",
                     "meaning": "số 10",
                     "definition": "The number 10.",
-                    "example": "I have ten fingers.\nTen little Indians.\nTen toes on my feet."
+                    "example": "I have ten fingers.\nTen little Indians.\nTen toes on my feet.",
+                    "quizzes": [
+                        "I have __________ fingers on my hands. I use them to play and draw.",
+                        "Let's sing a song about __________ little monkeys jumping on the bed.",
+                        "I have __________ toes on my feet. I can wiggle them today!"
+                    ]
                 },
                 {
                     "word": "eleven",
                     "phonetic": "/ɪˈlevn/",
                     "meaning": "số 11",
                     "definition": "The number 11.",
-                    "example": "I am eleven years old.\nThere are eleven apples.\nEleven comes after ten."
+                    "example": "I am eleven years old.\nThere are eleven apples.\nEleven comes after ten.",
+                    "quizzes": [
+                        "My big cousin is __________ years old. He goes to a big school.",
+                        "There are __________ red apples in the shop. They look very sweet.",
+                        "The number __________ comes after ten. Can you write it?"
+                    ]
                 },
                 {
                     "word": "twelve",
                     "phonetic": "/twelv/",
                     "meaning": "số 12",
                     "definition": "The number 12.",
-                    "example": "Twelve months in a year.\nTwelve eggs make a dozen.\nIt is twelve o'clock."
+                    "example": "Twelve months in a year.\nTwelve eggs make a dozen.\nIt is twelve o'clock.",
+                    "quizzes": [
+                        "There are __________ months in a year. January is the first month.",
+                        "__________ eggs make a dozen. Let's buy some eggs at the market.",
+                        "It is __________ o'clock. It is time to eat my delicious lunch!"
+                    ]
                 },
                 {
                     "word": "red",
                     "phonetic": "/red/",
                     "meaning": "màu đỏ",
                     "definition": "The color of an apple or a tomato.",
-                    "example": "An apple is red.\nA red bus.\nI like the color red."
+                    "example": "An apple is red.\nA red bus.\nI like the color red.",
+                    "quizzes": [
+                        "I have a big __________ apple. It is very sweet and crunchy.",
+                        "Look at that big __________ bus! It is coming to take us to school.",
+                        "I like the color __________! It is the same color as my favorite toy car."
+                    ]
                 },
                 {
                     "word": "blue",
                     "phonetic": "/bluː/",
                     "meaning": "màu xanh dương",
                     "definition": "The color of the sky or the sea.",
-                    "example": "The sky is blue.\nBlue sea.\nI have a blue pen."
+                    "example": "The sky is blue.\nBlue sea.\nI have a blue pen.",
+                    "quizzes": [
+                        "The sky is __________ today. The sun is shining and it is very beautiful.",
+                        "I can see the big __________ sea from the window of our fast silver car.",
+                        "I have a __________ pen in my school bag. I use it to write my name."
+                    ]
                 },
                 {
                     "word": "green",
                     "phonetic": "/ɡriːn/",
                     "meaning": "màu xanh lá",
                     "definition": "The color of grass or leaves.",
-                    "example": "Grass is green.\nA green leaf.\nI like green grapes."
+                    "example": "Grass is green.\nA green leaf.\nI like green grapes.",
+                    "quizzes": [
+                        "The grass in our garden is __________. I like to play on it with my friends.",
+                        "Look! A small __________ leaf is falling from the tall tree today.",
+                        "I like __________ grapes for my snack. They are very delicious and sweet."
+                    ]
                 },
                 {
                     "word": "yellow",
                     "phonetic": "/ˈjeləʊ/",
                     "meaning": "màu vàng",
                     "definition": "The color of a lemon or the sun.",
-                    "example": "A yellow sun.\nYellow bananas.\nI have a yellow shirt."
+                    "example": "A yellow sun.\nYellow bananas.\nI have a yellow shirt.",
+                    "quizzes": [
+                        "The __________ sun is shining high in the blue sky. It makes me feel warm.",
+                        "I have two __________ bananas for my lunch today. They are very yellow!",
+                        "I am wearing my favorite __________ shirt today. It has a happy face on it."
+                    ]
                 },
                 {
                     "word": "orange",
                     "phonetic": "/ˈɒrɪndʒ/",
                     "meaning": "màu cam",
                     "definition": "A color between red and yellow; also a fruit.",
-                    "example": "An orange is orange.\nOrange juice.\nA bright orange fish."
+                    "example": "An orange is orange.\nOrange juice.\nA bright orange fish.",
+                    "quizzes": [
+                        "An __________ is orange! It is a round fruit that smells very good.",
+                        "I like to drink __________ juice for breakfast. It is very cold and sweet.",
+                        "I saw a bright __________ fish swimming in the water at the park today."
+                    ]
                 },
                 {
                     "word": "pink",
                     "phonetic": "/pɪŋk/",
                     "meaning": "màu hồng",
                     "definition": "A pale red color, like many flowers.",
-                    "example": "A pink flower.\nPink cheeks.\nI have a pink dress."
+                    "example": "A pink flower.\nPink cheeks.\nI have a pink dress.",
+                    "quizzes": [
+                        "Look at that beautiful __________ flower! It smells very nice and sweet.",
+                        "My little sister has __________ cheeks because she is very happy today.",
+                        "I have a new __________ dress. I want to wear it to the birthday party tonight."
+                    ]
                 },
                 {
                     "word": "purple",
                     "phonetic": "/ˈpɜːpl/",
                     "meaning": "màu tím",
                     "definition": "A color between red and blue.",
-                    "example": "I have a purple ball.\nMy favorite color is purple.\nLook at that purple flower."
+                    "example": "I have a purple ball.\nMy favorite color is purple.\nLook at that purple flower.",
+                    "quizzes": [
+                        "I have a big __________ ball. I like to throw it to my best friend lily.",
+                        "My favorite color is __________! What is your favorite color today?",
+                        "Look at that __________ flower in the garden. It is a very pretty color."
+                    ]
                 },
                 {
                     "word": "brown",
                     "phonetic": "/braʊn/",
                     "meaning": "màu nâu",
                     "definition": "The color of earth or chocolate.",
-                    "example": "A brown bear.\nBrown eyes.\nI have a brown bag."
+                    "example": "A brown bear.\nBrown eyes.\nI have a brown bag.",
+                    "quizzes": [
+                        "I saw a big __________ bear in my story book. It was very big and strong.",
+                        "He has __________ eyes and black hair. He looks very friendly and kind.",
+                        "I have a small __________ bag to keep all my favorite toys and silver coins."
+                    ]
                 },
                 {
                     "word": "black",
                     "phonetic": "/blæk/",
                     "meaning": "màu đen",
                     "definition": "The color of coal or the night sky.",
-                    "example": "A black cat.\nBlack shoes.\nThe night is black."
+                    "example": "A black cat.\nBlack shoes.\nThe night is black.",
+                    "quizzes": [
+                        "My neighbor has a small __________ cat. It likes to sleep on the soft sofa.",
+                        "I have new __________ shoes for school. They are very shiny and clean.",
+                        "The night sky is __________ tonight. I can see many bright yellow stars."
+                    ]
                 },
                 {
                     "word": "white",
                     "phonetic": "/waɪt/",
                     "meaning": "màu trắng",
                     "definition": "The color of milk or snow.",
-                    "example": "White snow.\nA white rabbit.\nMilk is white."
+                    "example": "White snow.\nA white rabbit.\nMilk is white.",
+                    "quizzes": [
+                        "The __________ snow is falling from the sky. It is very cold and very white.",
+                        "I saw a small __________ rabbit hopping in the long green grass today.",
+                        "Milk is __________! It is very good for your health and makes you strong."
+                    ]
                 }
             ],
             "grammars": [
@@ -183,98 +293,168 @@
                     "phonetic": "/hed/",
                     "meaning": "cái đầu",
                     "definition": "The part of your body that has your eyes, ears, nose, and mouth.",
-                    "example": "Touch your head.\nMove your head.\nI have one head."
+                    "example": "Touch your head.\nMove your head.\nI have one head.",
+                    "quizzes": [
+                        "Touch your __________ and say hello! My head is at the top of my body.",
+                        "I can move my __________ from side to side. Can you do it too today?",
+                        "I have one __________ and two ears on my body. It is very special today."
+                    ]
                 },
                 {
                     "word": "hair",
                     "phonetic": "/heə(r)/",
                     "meaning": "tóc",
                     "definition": "The thin things that grow on your head.",
-                    "example": "She has long hair.\nMy hair is black.\nWash your hair."
+                    "example": "She has long hair.\nMy hair is black.\nWash your hair.",
+                    "quizzes": [
+                        "She has long __________ that reaches all the way down to her waist today.",
+                        "My __________ is black and very soft. I like to brush it every morning today.",
+                        "Please wash your __________ with some nice soap! It will be very clean today."
+                    ]
                 },
                 {
                     "word": "face",
                     "phonetic": "/feɪs/",
                     "meaning": "khuôn mặt",
                     "definition": "The front part of your head with your eyes, nose, and mouth.",
-                    "example": "Wash your face.\nA happy face.\nA beautiful face."
+                    "example": "Wash your face.\nA happy face.\nA beautiful face.",
+                    "quizzes": [
+                        "Wash your __________ with some cold water! It will make you feel very fresh.",
+                        "Look at my happy __________! I am smiling because I am playing in the park.",
+                        "She has a beautiful __________ and long curly hair. She is very pretty today."
+                    ]
                 },
                 {
                     "word": "eye",
                     "phonetic": "/aɪ/",
                     "meaning": "mắt",
                     "definition": "The part of your face that you see with.",
-                    "example": "Close your eyes.\nI have blue eyes.\nOpen your eyes."
+                    "example": "Close your eyes.\nI have blue eyes.\nOpen your eyes.",
+                    "quizzes": [
+                        "Close your __________ and try to sleep! It is time for a rest in your bed tonight.",
+                        "I have two big blue __________ on my face. I use them to see everything today.",
+                        "Open your __________ wide! Look at the beautiful colorful birds in the tree today."
+                    ]
                 },
                 {
                     "word": "ear",
                     "phonetic": "/ɪə(r)/",
                     "meaning": "tai",
                     "definition": "The part of your head that you hear with.",
-                    "example": "Listen with your ears.\nI have two ears.\nA rabbit has long ears."
+                    "example": "Listen with your ears.\nI have two ears.\nA rabbit has long ears.",
+                    "quizzes": [
+                        "Please listen with your __________ to the beautiful song about a brave knight today.",
+                        "I have two __________ on my head. I can hear the birds singing in the garden.",
+                        "A small white rabbit has __________ ears that can move up and down today."
+                    ]
                 },
                 {
                     "word": "nose",
                     "phonetic": "/nəʊz/",
                     "meaning": "mũi",
                     "definition": "The part of your face that you smell with.",
-                    "example": "I smell with my nose.\nTouch your nose.\nA big nose."
+                    "example": "I smell with my nose.\nTouch your nose.\nA big nose.",
+                    "quizzes": [
+                        "I smell the beautiful pink flower with my __________. It smells very sweet today.",
+                        "Touch your __________ and make a funny sound! Can you do it with your friends?",
+                        "The big grey elephant has a very long __________ that we call a trunk today."
+                    ]
                 },
                 {
                     "word": "mouth",
                     "phonetic": "/maʊθ/",
                     "meaning": "cái miệng",
                     "definition": "The part of your face that you eat and speak with.",
-                    "example": "Open your mouth.\nI eat with my mouth.\nA fish has a small mouth."
+                    "example": "Open your mouth.\nI eat with my mouth.\nA fish has a small mouth.",
+                    "quizzes": [
+                        "Open your __________ and say 'Ah'! The doctor wants to see your teeth today.",
+                        "I eat delicious sweet chocolate cake with my __________. It tastes very good.",
+                        "A small silver fish has a very small __________ to eat tiny pieces of food today."
+                    ]
                 },
                 {
                     "word": "shoulder",
                     "phonetic": "/ˈʃəʊldə(r)/",
                     "meaning": "cái vai",
                     "definition": "The part of your body where your arm joins your neck.",
-                    "example": "Touch your shoulders.\nMy bag is on my shoulder.\nI have two shoulders."
+                    "example": "Touch your shoulders.\nMy bag is on my shoulder.\nI have two shoulders.",
+                    "quizzes": [
+                        "Touch your __________ with your hands! 1, 2, 3... let's do it together today.",
+                        "My school bag is very heavy on my __________. It is full of my English books.",
+                        "I have two __________ at the top of my arms. I can move them up and down."
+                    ]
                 },
                 {
                     "word": "arm",
                     "phonetic": "/ɑːm/",
                     "meaning": "cánh tay",
                     "definition": "The long part of your body between your shoulder and your hand.",
-                    "example": "Wave your arms.\nI have two arms.\nLong arms."
+                    "example": "Wave your arms.\nI have two arms.\nLong arms.",
+                    "quizzes": [
+                        "Wave your __________ and say goodbye to your friends! I will see you tomorrow.",
+                        "I have two __________ and two hands. I can hug my mother and father today.",
+                        "The funny monkey has very long __________ to climb the tall green trees today."
+                    ]
                 },
                 {
                     "word": "hand",
                     "phonetic": "/hænd/",
                     "meaning": "bàn tay",
                     "definition": "The part of your body at the end of your arm with fingers.",
-                    "example": "Wash your hands.\nClap your hands.\nI have two hands."
+                    "example": "Wash your hands.\nClap your hands.\nI have two hands.",
+                    "quizzes": [
+                        "Please wash your __________ with some soap before you eat your delicious lunch today.",
+                        "Clap your __________ if you are happy! Let's sing and dance together today.",
+                        "I have two __________ and ten fingers. I use them to draw and play with toys."
+                    ]
                 },
                 {
                     "word": "finger",
                     "phonetic": "/ˈfɪŋɡə(r)/",
                     "meaning": "ngón tay",
                     "definition": "One of the five long parts on your hand.",
-                    "example": "Point with your finger.\nTen fingers.\nI have a ring on my finger."
+                    "example": "Point with your finger.\nTen fingers.\nI have a ring on my finger.",
+                    "quizzes": [
+                        "Point with your __________ to the big yellow sun in the blue sky! It is very bright.",
+                        "I have ten __________ on my two hands. Can you count them with me today?",
+                        "I have a shiny silver ring on my __________. It was a present for my birthday."
+                    ]
                 },
                 {
                     "word": "leg",
                     "phonetic": "/leɡ/",
                     "meaning": "cái chân",
                     "definition": "The long part of your body that you use for standing and walking.",
-                    "example": "I run with my legs.\nLong legs.\nI have two legs."
+                    "example": "I run with my legs.\nLong legs.\nI have two legs.",
+                    "quizzes": [
+                        "I run and jump with my __________. I like to play football in the green park.",
+                        "The big giraffe has very long __________ and a very long neck to reach the trees.",
+                        "I have two __________ and two feet. I can walk to school with my big brother today."
+                    ]
                 },
                 {
                     "word": "foot",
                     "phonetic": "/fʊt/",
                     "meaning": "bàn chân",
                     "definition": "The part of your body at the end of your leg that you stand on.",
-                    "example": "Put your foot in the shoe.\nLeft foot.\nKick with your foot."
+                    "example": "Put your foot in the shoe.\nLeft foot.\nKick with your foot.",
+                    "quizzes": [
+                        "Put your __________ in the shoe! It is time to go to the park and play today.",
+                        "This is my left __________ and this is my right foot. I can wiggle my toes.",
+                        "I can kick the round ball with my __________! Watch me play football tonight."
+                    ]
                 },
                 {
                     "word": "toe",
                     "phonetic": "/təʊ/",
                     "meaning": "ngón chân",
                     "definition": "One of the five small parts on your foot.",
-                    "example": "Ten toes.\nWiggle your toes.\nTouch your toes."
+                    "example": "Ten toes.\nWiggle your toes.\nTouch your toes.",
+                    "quizzes": [
+                        "I have ten __________ on my two feet. Can you count them: 1, 2, 3, 4, 5...",
+                        "Wiggle your __________ inside your socks! It feels very funny and makes me laugh.",
+                        "Touch your __________ with your hands! Can you reach them today? You are very good."
+                    ]
                 }
             ],
             "grammars": [
@@ -294,63 +474,108 @@
                     "phonetic": "/ˈfæməli/",
                     "meaning": "gia đình",
                     "definition": "A group of people who are related to each other, like a mother and father.",
-                    "example": "I love my family.\nA big family.\nFamily is important."
+                    "example": "I love my family.\nA big family.\nFamily is important.",
+                    "quizzes": [
+                        "I love my __________ very much! We like to eat dinner together every night today.",
+                        "We have a big __________; I have three brothers and four sisters in my house tonight.",
+                        "My __________ is very important to me. We play games in the green garden today."
+                    ]
                 },
                 {
                     "word": "mother",
                     "phonetic": "/ˈmʌðə(r)/",
                     "meaning": "mẹ",
                     "definition": "A female parent.",
-                    "example": "My mother is beautiful.\nI help my mother.\nShe is a kind mother."
+                    "example": "My mother is beautiful.\nI help my mother.\nShe is a kind mother.",
+                    "quizzes": [
+                        "My __________ is very beautiful. She has long curly hair and a happy smile tonight.",
+                        "I help my __________ to clean the kitchen and wash the red apples for lunch today.",
+                        "She is a very kind __________; she reads me a long story before I go to sleep today."
+                    ]
                 },
                 {
                     "word": "father",
                     "phonetic": "/ˈfɑːðə(r)/",
                     "meaning": "bố",
                     "definition": "A male parent.",
-                    "example": "My father is tall.\nI play with my father.\nHe is a great father."
+                    "example": "My father is tall.\nI play with my father.\nHe is a great father.",
+                    "quizzes": [
+                        "My __________ is very tall. He can reach the top of the big wooden bookcase today.",
+                        "I play football with my __________ in the large green park every Saturday afternoon.",
+                        "He is a great __________! He helps me with my English homework every evening tonight."
+                    ]
                 },
                 {
                     "word": "sister",
                     "phonetic": "/ˈsɪstə(r)/",
                     "meaning": "chị/em gái",
                     "definition": "A girl or woman who has the same parents as you.",
-                    "example": "I have two sisters.\nMy sister is young.\nI play with my sister."
+                    "example": "I have two sisters.\nMy sister is young.\nI play with my sister.",
+                    "quizzes": [
+                        "I have two __________; their names are Lily and May. We play with our toys today.",
+                        "My __________ is very young. She is only three years old and she is very cute today.",
+                        "I play hide and seek with my __________ in our big house. It is very fun tonight."
+                    ]
                 },
                 {
                     "word": "brother",
                     "phonetic": "/ˈʌðə(r)/",
                     "meaning": "anh/em trai",
                     "definition": "A boy or man who has the same parents as you.",
-                    "example": "My brother is big.\nI have one brother.\nHe is my little brother."
+                    "example": "My brother is big.\nI have one brother.\nHe is my little brother.",
+                    "quizzes": [
+                        "My __________ is big. He goes to school in the big city with his best friends today.",
+                        "I have one __________; he is ten years old and he likes to play computer games today.",
+                        "He is my little __________; I help him to find his favorite small blue toy car today."
+                    ]
                 },
                 {
                     "word": "grandmother",
                     "phonetic": "/ˈɡrænmʌðə(r)/",
                     "meaning": "bà",
                     "definition": "The mother of your mother or father.",
-                    "example": "I love my grandmother.\nMy grandmother is kind.\nShe is my father's mother."
+                    "example": "I love my grandmother.\nMy grandmother is kind.\nShe is my father's mother.",
+                    "quizzes": [
+                        "I love my __________! She makes the most delicious sweet chocolate cake for me tonight.",
+                        "My __________ is very kind. She tells me interesting stories about a brave monster.",
+                        "She is my father's __________; she lives in a small pink house near the blue sea today."
+                    ]
                 },
                 {
                     "word": "grandfather",
                     "phonetic": "/ˈɡrænfɑːðə(r)/",
                     "meaning": "ông",
                     "definition": "The father of your mother or father.",
-                    "example": "My grandfather is old.\nHe tells stories.\nI visit my grandfather."
+                    "example": "My grandfather is old.\nHe tells stories.\nI visit my grandfather.",
+                    "quizzes": [
+                        "My __________ is old, but he is very strong. He walks to the busy market every day.",
+                        "He tells me very long __________ about space and the bright yellow stars every night.",
+                        "I visit my __________ every Saturday. We play board games in his quiet living room."
+                    ]
                 },
                 {
                     "word": "baby",
                     "phonetic": "/ˈbeɪbi/",
                     "meaning": "em bé",
                     "definition": "A very young child.",
-                    "example": "The baby is sleeping.\nA cute baby.\nI love the baby."
+                    "example": "The baby is sleeping.\nA cute baby.\nI love the baby.",
+                    "quizzes": [
+                        "The __________ is sleeping in the soft warm bed. Please be very quiet in the room.",
+                        "My mother has a cute __________! It has very small hands and ten tiny little toes today.",
+                        "I love the __________ very much; I like to hold its hand and sing a sweet song tonight."
+                    ]
                 },
                 {
                     "word": "cousin",
                     "phonetic": "/ˈkʌzn/",
                     "meaning": "anh chị em họ",
                     "definition": "The child of your aunt or uncle.",
-                    "example": "I play with my cousin.\nHe is my cousin.\nMy cousin lives in a big house."
+                    "example": "I play with my cousin.\nHe is my cousin.\nMy cousin lives in a big house.",
+                    "quizzes": [
+                        "I play with my __________ in the park. We run very fast and fly our colorful kites today.",
+                        "He is my __________; his father is my father's big brother. He is a very kind boy today.",
+                        "My __________ lives in a big house with a large green garden and many beautiful flowers."
+                    ]
                 }
             ],
             "grammars": [
@@ -370,70 +595,120 @@
                     "phonetic": "/kæt/",
                     "meaning": "con mèo",
                     "definition": "A small animal with soft fur and a long tail that people keep as a pet.",
-                    "example": "The cat is on the mat.\nI have a black cat.\nThe cat says meow."
+                    "example": "The cat is on the mat.\nI have a black cat.\nThe cat says meow.",
+                    "quizzes": [
+                        "The little __________ is sleeping on the soft mat in the living room today.",
+                        "I have a small black __________ with very soft fur and long whiskers tonight.",
+                        "The __________ is very hungry; it says meow and wants some delicious milk today."
+                    ]
                 },
                 {
                     "word": "dog",
                     "phonetic": "/dɒɡ/",
                     "meaning": "con chó",
                     "definition": "An animal that people keep as a pet or for work, often called man's best friend.",
-                    "example": "I have a big dog.\nThe dog is brown.\nThe dog says woof."
+                    "example": "I have a big dog.\nThe dog is brown.\nThe dog says woof.",
+                    "quizzes": [
+                        "I have a big __________; he likes to run and play with a round ball in the park.",
+                        "The __________ is brown and has a very long tail. He is a very friendly pet.",
+                        "Listen! The __________ says woof! He is very happy to see us at the door today."
+                    ]
                 },
                 {
                     "word": "bird",
                     "phonetic": "/bɜːd/",
                     "meaning": "con chim",
                     "definition": "An animal that has feathers and wings and can usually fly.",
-                    "example": "The bird is in the tree.\nA beautiful blue bird.\nBirds can fly."
+                    "example": "The bird is in the tree.\nA beautiful blue bird.\nBirds can fly.",
+                    "quizzes": [
+                        "The little __________ is sitting on the branch of the tall green tree today.",
+                        "I saw a beautiful blue __________ with long wings in the garden this morning.",
+                        "Small __________ can fly high in the blue sky. They sing very sweet songs tonight."
+                    ]
                 },
                 {
                     "word": "rabbit",
                     "phonetic": "/ˈræbɪt/",
                     "meaning": "con thỏ",
                     "definition": "A small animal with long ears and a short tail.",
-                    "example": "A small white rabbit.\nThe rabbit likes carrots.\nThe rabbit is hopping."
+                    "example": "A small white rabbit.\nThe rabbit likes carrots.\nThe rabbit is hopping.",
+                    "quizzes": [
+                        "I saw a small white __________ with long ears hopping in the green grass tonight.",
+                        "The __________ is very hungry; it likes to eat fresh orange carrots today.",
+                        "Look at the __________! It is hopping very fast around the big wooden box today."
+                    ]
                 },
                 {
                     "word": "mouse",
                     "phonetic": "/maʊs/",
                     "meaning": "con chuột",
                     "definition": "A very small animal with a long tail and small ears.",
-                    "example": "A little grey mouse.\nThe mouse likes cheese.\nA mouse has a long tail."
+                    "example": "A little grey mouse.\nThe mouse likes cheese.\nA mouse has a long tail.",
+                    "quizzes": [
+                        "A little grey __________ is hiding behind the big wooden bookcase in the room.",
+                        "The __________ is very small; it likes to eat little pieces of yellow cheese today.",
+                        "A __________ has very small ears and a very long tail. It is a tiny animal tonight."
+                    ]
                 },
                 {
                     "word": "kitten",
                     "phonetic": "/ˈkɪtn/",
                     "meaning": "mèo con",
                     "definition": "A young or baby cat.",
-                    "example": "A cute kitten.\nThe kitten is playing.\nI have a small kitten."
+                    "example": "A cute kitten.\nThe kitten is playing.\nI have a small kitten.",
+                    "quizzes": [
+                        "Look at that cute __________! It is a tiny baby cat with very soft black fur.",
+                        "The little __________ is playing with a colorful ball of wool on the floor tonight.",
+                        "I have a small __________ in my house; it likes to drink milk and sleep on my bed."
+                    ]
                 },
                 {
                     "word": "puppy",
                     "phonetic": "/ˈpʌpi/",
                     "meaning": "chó con",
                     "definition": "A young or baby dog.",
-                    "example": "A playful puppy.\nThe puppy is brown.\nI love my puppy."
+                    "example": "A playful puppy.\nThe puppy is brown.\nI love my puppy.",
+                    "quizzes": [
+                        "My baby dog is a playful __________; he likes to jump and wave his tail today.",
+                        "The __________ is brown and very small. He likes to play in the green garden.",
+                        "I love my __________ very much! He is my best friend and we play every day tonight."
+                    ]
                 },
                 {
                     "word": "guinea pig",
                     "phonetic": "/ˈɡɪni pɪɡ/",
                     "meaning": "chuột lang",
                     "definition": "A small animal with short ears and no tail, often kept as a pet.",
-                    "example": "I have a guinea pig.\nA small guinea pig.\nMy guinea pig is soft."
+                    "example": "I have a guinea pig.\nA small guinea pig.\nMy guinea pig is soft.",
+                    "quizzes": [
+                        "I have a __________; it is a small animal that likes to eat green grass today.",
+                        "A small __________ is sitting in its box. It has very short ears and no tail.",
+                        "My __________ is very soft and cute. I like to hold it in my hands tonight."
+                    ]
                 },
                 {
                     "word": "hamster",
                     "phonetic": "/ˈhæmstə(r)/",
                     "meaning": "chuột hamster",
                     "definition": "A small animal like a mouse with no tail that keeps food in its cheeks.",
-                    "example": "A little hamster.\nThe hamster is in its cage.\nI have a hamster."
+                    "example": "A little hamster.\nThe hamster is in its cage.\nI have a hamster.",
+                    "quizzes": [
+                        "I have a little __________; it looks like a small mouse but it has no tail tonight.",
+                        "The __________ is in its small wooden cage. It is sleeping on some soft paper.",
+                        "I have a __________ in my room; it likes to run in its round wheel every night."
+                    ]
                 },
                 {
                     "word": "goldfish",
                     "phonetic": "/ˈɡəʊldfɪʃ/",
                     "meaning": "cá vàng",
                     "definition": "A small orange or red fish that people keep in a bowl or tank.",
-                    "example": "A shiny goldfish.\nThe goldfish swims in the bowl.\nI have a goldfish."
+                    "example": "A shiny goldfish.\nThe goldfish swims in the bowl.\nI have a goldfish.",
+                    "quizzes": [
+                        "I have a shiny orange __________; it lives in a large glass bowl in the kitchen.",
+                        "The __________ swims around and around in the bowl of clear blue water tonight.",
+                        "I have a __________ in my house. It is a small fish and it is a very quiet pet."
+                    ]
                 }
             ],
             "grammars": [
@@ -453,56 +728,96 @@
                     "phonetic": "/kaʊ/",
                     "meaning": "con bò",
                     "definition": "A large farm animal that is kept for its milk or meat.",
-                    "example": "The cow is big.\nA cow gives milk.\nThe cow says moo."
+                    "example": "The cow is big.\nA cow gives milk.\nThe cow says moo.",
+                    "quizzes": [
+                        "The __________ is a very big farm animal. It likes to eat long green grass today.",
+                        "A black and white __________ gives us fresh white milk to drink for breakfast.",
+                        "Listen! The __________ says moo! It lives in the large field on the farm tonight."
+                    ]
                 },
                 {
                     "word": "horse",
                     "phonetic": "/hɔːs/",
                     "meaning": "con ngựa",
                     "definition": "A large animal that people ride or use for pulling heavy things.",
-                    "example": "I can ride a horse.\nA brown horse.\nA fast horse."
+                    "example": "I can ride a horse.\nA brown horse.\nA fast horse.",
+                    "quizzes": [
+                        "I can ride a big __________! It is very tall and it can run very fast today.",
+                        "Look at that beautiful brown __________ with the long tail in the green field tonight.",
+                        "A fast __________ can jump over the wooden fence. It is a very strong animal."
+                    ]
                 },
                 {
                     "word": "duck",
                     "phonetic": "/dʌk/",
                     "meaning": "con vịt",
                     "definition": "A common water bird with a flat beak and short legs.",
-                    "example": "The duck swims in the pond.\nA yellow duck.\nThe duck says quack."
+                    "example": "The duck swims in the pond.\nA yellow duck.\nThe duck says quack.",
+                    "quizzes": [
+                        "The little __________ swims in the blue pond. It has orange feet and a flat beak.",
+                        "I saw a small yellow __________ with its mother. They are swimming together today.",
+                        "The __________ says quack, quack! It is very happy to find some food in the water."
+                    ]
                 },
                 {
                     "word": "chicken",
                     "phonetic": "/ˈtʃɪkɪn/",
                     "meaning": "con gà",
                     "definition": "A common farm bird that is kept for its eggs or meat.",
-                    "example": "A chicken has feathers.\nChickens lay eggs.\nA little chicken."
+                    "example": "A chicken has feathers.\nChickens lay eggs.\nA little chicken.",
+                    "quizzes": [
+                        "A __________ has many soft feathers. It lives in a small house on the farm tonight.",
+                        "Our brown __________ lay many white eggs for us to eat every morning today.",
+                        "Look at the little __________! It is follows its mother around the farm yard today."
+                    ]
                 },
                 {
                     "word": "sheep",
                     "phonetic": "/ʃiːp/",
                     "meaning": "con cừu",
                     "definition": "A farm animal with thick wool that is kept for its wool or meat.",
-                    "example": "A white sheep.\nSheep eat grass.\nA soft sheep."
+                    "example": "A white sheep.\nSheep eat grass.\nA soft sheep.",
+                    "quizzes": [
+                        "I saw a fluffy white __________ in the field today. It looks like a soft cloud.",
+                        "The __________ eat green grass on the hill. They have very thick white wool tonight.",
+                        "A soft __________ says baa, baa! Is is very gentle and it likes to be with its friends."
+                    ]
                 },
                 {
                     "word": "pig",
                     "phonetic": "/pɪɡ/",
                     "meaning": "con lợn",
                     "definition": "A pink or black farm animal with a flat nose and a short curly tail.",
-                    "example": "A pink pig.\nThe pig lives on the farm.\nA big pig."
+                    "example": "A pink pig.\nThe pig lives on the farm.\nA big pig.",
+                    "quizzes": [
+                        "A little pink __________ is playing in the brown mud. It is very happy and dirty today.",
+                        "The __________ lives on the farm in a small house. It says oink, oink tonight.",
+                        "I saw a very big __________ with a short curly tail. It is eating its lunch now."
+                    ]
                 },
                 {
                     "word": "goat",
                     "phonetic": "/ɡəʊt/",
                     "meaning": "con dê",
                     "definition": "An animal with horns that lives on farms or in the mountains.",
-                    "example": "A goat has horns.\nThe goat eats grass.\nA small goat."
+                    "example": "A goat has horns.\nThe goat eats grass.\nA small goat.",
+                    "quizzes": [
+                        "A __________ has two horns on its head. It can climb up the big grey rocks today.",
+                        "The __________ eats green grass and leaves from the trees in the garden tonight.",
+                        "I saw a small __________ with its mother. It is jumping and playing in the field."
+                    ]
                 },
                 {
                     "word": "donkey",
                     "phonetic": "/ˈdɒŋki/",
                     "meaning": "con lừa",
                     "definition": "An animal like a small horse with long ears.",
-                    "example": "A grey donkey.\nThe donkey is strong.\nA donkey says eeyore."
+                    "example": "A grey donkey.\nThe donkey is strong.\nA donkey says eeyore.",
+                    "quizzes": [
+                        "A grey __________ has very long ears and a short tail. It looks like a small horse.",
+                        "The __________ is very strong; it can carry heavy bags on its back for the farmer today.",
+                        "A __________ says eeyore! It is a very loud sound in the quiet farm yard tonight."
+                    ]
                 }
             ],
             "grammars": [
@@ -522,63 +837,108 @@
                     "phonetic": "/ˈlaɪən/",
                     "meaning": "sư tử",
                     "definition": "A large wild cat that lives in Africa and has a mane.",
-                    "example": "The lion is the king.\nA big lion.\nA lion is strong."
+                    "example": "The lion is the king.\nA big lion.\nA lion is strong.",
+                    "quizzes": [
+                        "The __________ is the king of the animals. It has a big golden mane tonight.",
+                        "I saw a very big __________ at the zoo. It looks very strong and brave today.",
+                        "A __________ can roar very loudly! It is a big wild cat that lives in Africa today."
+                    ]
                 },
                 {
                     "word": "tiger",
                     "phonetic": "/ˈtaɪɡə(r)/",
                     "meaning": "con hổ",
                     "definition": "A large wild cat with orange and black stripes.",
-                    "example": "A tiger has stripes.\nThe tiger is fast.\nA big tiger."
+                    "example": "A tiger has stripes.\nThe tiger is fast.\nA big tiger.",
+                    "quizzes": [
+                        "A __________ has orange and black stripes. It is a very beautiful big cat tonight.",
+                        "The __________ can run very fast in the long green grass. It is a good hunter today.",
+                        "I saw a big __________ at the zoo. It has very sharp teeth and a long tail tonight."
+                    ]
                 },
                 {
                     "word": "elephant",
                     "phonetic": "/ˈelɪfənt/",
                     "meaning": "con voi",
                     "definition": "A very large grey animal with a long trunk and big ears.",
-                    "example": "An elephant is big.\nAn elephant has a trunk.\nA grey elephant."
+                    "example": "An elephant is big.\nAn elephant has a trunk.\nA grey elephant.",
+                    "quizzes": [
+                        "An __________ is the biggest land animal. It has very big ears and a long trunk today.",
+                        "The big grey __________ uses its long trunk to drink water from the river tonight.",
+                        "I saw a grey __________ with two white tusks. It is a very gentle and kind animal."
+                    ]
                 },
                 {
                     "word": "monkey",
                     "phonetic": "/ˈmʌŋki/",
                     "meaning": "con khỉ",
                     "definition": "An animal with a long tail that lives in trees.",
-                    "example": "A monkey likes bananas.\nThe monkey is funny.\nA monkey can climb."
+                    "example": "A monkey likes bananas.\nThe monkey is funny.\nA monkey can climb.",
+                    "quizzes": [
+                        "A __________ is very funny! It likes to eat sweet yellow bananas in the trees today.",
+                        "The __________ is jumping from branch to branch in the tall green trees tonight.",
+                        "A __________ has a long tail and can climb very well. It likes to play all day today."
+                    ]
                 },
                 {
                     "word": "giraffe",
                     "phonetic": "/dʒəˈrɑːf/",
                     "meaning": "hươu cao cổ",
                     "definition": "A very tall African animal with a long neck and spots.",
-                    "example": "A giraffe is tall.\nA giraffe has a long neck.\nA yellow giraffe."
+                    "example": "A giraffe is tall.\nA giraffe has a long neck.\nA yellow giraffe.",
+                    "quizzes": [
+                        "A __________ is very tall. It has a very long neck to reach the green leaves today.",
+                        "The orange and brown __________ has many spots on its body. It is a very tall animal.",
+                        "I saw a yellow __________ at the zoo. It is the tallest animal in the world tonight."
+                    ]
                 },
                 {
                     "word": "hippo",
                     "phonetic": "/ˈhɪpəʊ/",
                     "meaning": "con hà mã",
                     "definition": "A large, heavy African animal that lives in or near rivers.",
-                    "example": "A big hippo.\nThe hippo lives in the water.\nA grey hippo."
+                    "example": "A big hippo.\nThe hippo lives in the water.\nA grey hippo.",
+                    "quizzes": [
+                        "A big grey __________ likes to swim in the cool river water during the day tonight.",
+                        "The __________ has a very big mouth and it likes to eat green grass near the water.",
+                        "I saw a heavy grey __________ at the zoo. It is a very big wild animal from Africa today."
+                    ]
                 },
                 {
                     "word": "crocodile",
                     "phonetic": "/ˈkrɒkədaɪl/",
                     "meaning": "con cá sấu",
                     "definition": "A large reptile with hard skin and big teeth that lives in water.",
-                    "example": "A long crocodile.\nThe crocodile has big teeth.\nA green crocodile."
+                    "example": "A long crocodile.\nThe crocodile has big teeth.\nA green crocodile.",
+                    "quizzes": [
+                        "A long green __________ is swimming in the river. It has very hard and scaly skin today.",
+                        "The __________ has very big sharp teeth! We must be very careful near the water tonight.",
+                        "I saw a green __________ resting in the sun. It is a very long reptile with a big tail."
+                    ]
                 },
                 {
                     "word": "snake",
                     "phonetic": "/sneɪk/",
                     "meaning": "con rắn",
                     "definition": "A long thin animal with no legs.",
-                    "example": "A long snake.\nA snake has no legs.\nA green snake."
+                    "example": "A long snake.\nA snake has no legs.\nA green snake.",
+                    "quizzes": [
+                        "A long thin __________ is slithering through the green leaves in the garden tonight.",
+                        "A __________ has no legs and no feet, but it can move very quickly on the ground today.",
+                        "I saw a small green __________ in the grass. It is a very long and thin animal today."
+                    ]
                 },
                 {
                     "word": "zebra",
                     "phonetic": "/ˈzebrə/",
                     "meaning": "ngựa vằn",
                     "definition": "A wild animal that looks like a horse with black and white stripes.",
-                    "example": "A zebra is black and white.\nA zebra looks like a horse.\nA striped zebra."
+                    "example": "A zebra is black and white.\nA zebra looks like a horse.\nA striped zebra.",
+                    "quizzes": [
+                        "A __________ is a wild animal that is black and white. It has many beautiful stripes tonight.",
+                        "The __________ looks like a small horse, but it has black and white stripes all over.",
+                        "I saw a striped __________ in the field. Its stripes are very unique and beautiful today."
+                    ]
                 }
             ],
             "grammars": [
@@ -598,84 +958,144 @@
                     "phonetic": "/haʊs/",
                     "meaning": "ngôi nhà",
                     "definition": "A building that people live in.",
-                    "example": "I live in a big house.\nMy house is pink.\nI like my house."
+                    "example": "I live in a big house.\nMy house is pink.\nI like my house.",
+                    "quizzes": [
+                        "I live in a big __________ with my mother, father, and my little sister today.",
+                        "Our __________ is pink and it has a beautiful green garden with many flowers.",
+                        "I like my __________ very much! It is a very happy and warm place to live tonight."
+                    ]
                 },
                 {
                     "word": "flat",
                     "phonetic": "/flæt/",
                     "meaning": "căn hộ",
                     "definition": "A set of rooms for living in, usually on one floor of a building.",
-                    "example": "We live in a small flat.\nA flat in the city.\nMy flat is on the third floor."
+                    "example": "We live in a small flat.\nA flat in the city.\nMy flat is on the third floor.",
+                    "quizzes": [
+                        "We live in a small __________ on the second floor of this big grey building today.",
+                        "I have a __________ in the busy city. It is near the school and the large park.",
+                        "My __________ is on the third floor. I can see the blue sea from my window today."
+                    ]
                 },
                 {
                     "word": "bedroom",
                     "phonetic": "/ˈbedruːm/",
                     "meaning": "phòng ngủ",
                     "definition": "A room where people sleep.",
-                    "example": "I sleep in my bedroom.\nA clean bedroom.\nMy bedroom has a bed."
+                    "example": "I sleep in my bedroom.\nA clean bedroom.\nMy bedroom has a bed.",
+                    "quizzes": [
+                        "I sleep in my __________ every night. It is very quiet and very comfortable tonight.",
+                        "I have a clean __________! I keep all my colorful toys in the wooden bookcase today.",
+                        "My __________ has a big soft bed and a small desk where I can do my homework."
+                    ]
                 },
                 {
                     "word": "bathroom",
                     "phonetic": "/ˈbɑːθruːm/",
                     "meaning": "phòng tắm",
                     "definition": "A room with a bath or shower and a toilet.",
-                    "example": "I wash in the bathroom.\nA big bathroom.\nThe bathroom is clean."
+                    "example": "I wash in the bathroom.\nA big bathroom.\nThe bathroom is clean.",
+                    "quizzes": [
+                        "I wash my face and brush my teeth in the __________ every morning and night today.",
+                        "Our house has a big __________ with a large white bath and a clean silver shower.",
+                        "The __________ is very clean! My mother cleans it with some nice soap every day."
+                    ]
                 },
                 {
                     "word": "kitchen",
                     "phonetic": "/ˈkɪtʃɪn/",
                     "meaning": "nhà bếp",
                     "definition": "The room where food is prepared and cooked.",
-                    "example": "Cook in the kitchen.\nMy kitchen is nice.\nBreakfast in the kitchen."
+                    "example": "Cook in the kitchen.\nMy kitchen is nice.\nBreakfast in the kitchen.",
+                    "quizzes": [
+                        "My mother likes to cook delicious dinner in the __________ for all our family tonight.",
+                        "My __________ is very nice and bright. It has a big window and a wooden table today.",
+                        "We eat our healthy breakfast in the __________ before we go to school this morning."
+                    ]
                 },
                 {
                     "word": "living room",
                     "phonetic": "/ˈlɪvɪŋ ruːm/",
                     "meaning": "phòng khách",
                     "definition": "The main room in a house where people sit and relax.",
-                    "example": "Watch TV in the living room.\nA large living room.\nSit in the living room."
+                    "example": "Watch TV in the living room.\nA large living room.\nSit in the living room.",
+                    "quizzes": [
+                        "We watch funny cartoons on the TV in the __________ every Saturday afternoon today.",
+                        "Our house has a large __________ with a soft green sofa and two comfortable armchairs.",
+                        "I like to sit in the __________ and read my favorite story book about a brave dog."
+                    ]
                 },
                 {
                     "word": "dining room",
                     "phonetic": "/ˈdaɪnɪŋ ruːm/",
                     "meaning": "phòng ăn",
                     "definition": "A room where people eat their meals.",
-                    "example": "We eat in the dining room.\nA nice dining room.\nTable in the dining room."
+                    "example": "We eat in the dining room.\nA nice dining room.\nTable in the dining room.",
+                    "quizzes": [
+                        "We eat our delicious lunch in the __________ today. The table is very big and long.",
+                        "Our house has a nice __________ with many colorful pictures on the white walls tonight.",
+                        "There is a big wooden table in the __________ where all the family sits together."
+                    ]
                 },
                 {
                     "word": "garden",
                     "phonetic": "/ˈɡɑːdn/",
                     "meaning": "vườn",
                     "definition": "An area of land next to a house where plants are grown.",
-                    "example": "Flowers in the garden.\nPlay in the garden.\nA green garden."
+                    "example": "Flowers in the garden.\nPlay in the garden.\nA green garden.",
+                    "quizzes": [
+                        "I saw many beautiful pink and yellow flowers in the __________ this sunny morning.",
+                        "I like to play football and run with my dog in the __________ after school today.",
+                        "Our house has a large green __________ with a tall tree and a small wooden playhouse."
+                    ]
                 },
                 {
                     "word": "door",
                     "phonetic": "/dɔː(r)/",
                     "meaning": "cửa ra vào",
                     "definition": "The part of a room or building that opens and closes.",
-                    "example": "Open the door.\nA white door.\nClose the door."
+                    "example": "Open the door.\nA white door.\nClose the door.",
+                    "quizzes": [
+                        "Please open the __________ and come in! My family is waiting for you in the kitchen.",
+                        "Our house has a big white __________ with a shiny silver handle. It looks very nice.",
+                        "Don't forget to close the __________ when you leave the room! It is very cold tonight."
+                    ]
                 },
                 {
                     "word": "window",
                     "phonetic": "/ˈwɪndəʊ/",
                     "meaning": "cửa sổ",
                     "definition": "A space in a wall that is filled with glass to let in light.",
-                    "example": "Look out the window.\nA clean window.\nClose the window."
+                    "example": "Look out the window.\nA clean window.\nClose the window.",
+                    "quizzes": [
+                        "I like to look out the __________ and see the beautiful colorful birds in the garden.",
+                        "My father is cleaning the __________ in the living room. It is very clean and shiny today.",
+                        "Please close the __________! The rain is falling and the wind is blowing very hard tonight."
+                    ]
                 },
                 {
                     "word": "wall",
                     "phonetic": "/wɔːl/",
                     "meaning": "bức tường",
                     "definition": "One of the sides of a room or building.",
-                    "example": "Paint the wall.\nA white wall.\nClock on the wall."
+                    "example": "Paint the wall.\nA white wall.\nClock on the wall.",
+                    "quizzes": [
+                        "My father wants to paint the __________ in my bedroom blue. It is my favorite color.",
+                        "There are many colorful pictures on the white __________ in our nice dining room tonight.",
+                        "I can see a round __________ on the wall. It tells me that it is time for school today."
+                    ]
                 },
                 {
                     "word": "floor",
                     "phonetic": "/flɔː(r)/",
                     "meaning": "sàn nhà",
                     "definition": "The surface that you walk on in a room.",
-                    "example": "Sit on the floor.\nA clean floor.\nWooden floor."
+                    "example": "Sit on the floor.\nA clean floor.\nWooden floor.",
+                    "quizzes": [
+                        "I like to sit on the __________ and play with my toy cars and big red blocks today.",
+                        "The __________ is very clean! Please take off your shoes before you come into the room.",
+                        "Our living room has a beautiful wooden __________ with a soft purple rug in the middle."
+                    ]
                 }
             ],
             "grammars": [
@@ -695,84 +1115,144 @@
                     "phonetic": "/ˈteɪbl/",
                     "meaning": "cái bàn",
                     "definition": "A piece of furniture with a flat top and legs.",
-                    "example": "Sit at the table.\nA big table.\nPut it on the table."
+                    "example": "Sit at the table.\nA big table.\nPut it on the table.",
+                    "quizzes": [
+                        "Please sit at the wooden __________ and eat your delicious dinner today.",
+                        "Our kitchen has a big __________ where all the family can sit together tonight.",
+                        "Put your English book on the __________ in the living room, please today."
+                    ]
                 },
                 {
                     "word": "chair",
                     "phonetic": "/tʃeə(r)/",
                     "meaning": "cái ghế",
                     "definition": "A piece of furniture for one person to sit on.",
-                    "example": "Sit on the chair.\nA red chair.\nA small chair."
+                    "example": "Sit on the chair.\nA red chair.\nA small chair.",
+                    "quizzes": [
+                        "I like to sit on the blue __________ and draw pictures in my classroom today.",
+                        "Look at that big red __________! It belongs to my teacher, Mr. Miller today.",
+                        "Our dining room has a small __________ for my little sister to sit on tonight."
+                    ]
                 },
                 {
                     "word": "desk",
                     "phonetic": "/desk/",
                     "meaning": "bàn làm việc/học",
                     "definition": "A type of table that you sit at to write or work.",
-                    "example": "I study at my desk.\nA clean desk.\nMy desk is in my room."
+                    "example": "I study at my desk.\nA clean desk.\nMy desk is in my room.",
+                    "quizzes": [
+                        "I study and do my homework at my __________ every afternoon after school tonight.",
+                        "I have a very clean __________! I keep all my colorful pencils and pens on it.",
+                        "My __________ is in my bedroom, near the window. It is a very quiet place today."
+                    ]
                 },
                 {
                     "word": "bed",
                     "phonetic": "/bed/",
                     "meaning": "cái giường",
                     "definition": "A piece of furniture that you sleep on.",
-                    "example": "Go to bed.\nA soft bed.\nI have a big bed."
+                    "example": "Go to bed.\nA soft bed.\nI have a big bed.",
+                    "quizzes": [
+                        "It is time to go to __________! Put on your pajamas and close your eyes tonight.",
+                        "I have a big soft __________ with a warm blanket and a comfortable white pillow.",
+                        "I have a big __________ in my bedroom. My favorite brown teddy bear sleeps on it."
+                    ]
                 },
                 {
                     "word": "bookcase",
                     "phonetic": "/ˈbʊkkeɪs/",
                     "meaning": "kệ sách",
                     "definition": "A piece of furniture with shelves for keeping books on.",
-                    "example": "Books in the bookcase.\nA wooden bookcase.\nMy bookcase is full."
+                    "example": "Books in the bookcase.\nA wooden bookcase.\nMy bookcase is full.",
+                    "quizzes": [
+                        "I keep all my story books in the __________ in my bedroom. They are very colorful.",
+                        "We have a tall wooden __________ in the living room with many interesting books.",
+                        "My __________ is full of books about space and animals! I like to read them today."
+                    ]
                 },
                 {
                     "word": "wardrobe",
                     "phonetic": "/ˈwɔːdrəʊb/",
                     "meaning": "tủ quần áo",
                     "definition": "A large tall cupboard where you can hang your clothes.",
-                    "example": "Clothes in the wardrobe.\nA big wardrobe.\nClose the wardrobe."
+                    "example": "Clothes in the wardrobe.\nA big wardrobe.\nClose the wardrobe.",
+                    "quizzes": [
+                        "I keep all my shirts and dresses in the __________ in my clean bedroom today.",
+                        "Our bedroom has a big white __________ with many shiny silver handles tonight.",
+                        "Please close the __________! Your clothes are very neat and tidy inside today."
+                    ]
                 },
                 {
                     "word": "sofa",
                     "phonetic": "/ˈsəʊfə/",
                     "meaning": "ghế sô pha",
                     "definition": "A long comfortable seat for more than one person.",
-                    "example": "Sit on the sofa.\nA comfortable sofa.\nA green sofa."
+                    "example": "Sit on the sofa.\nA comfortable sofa.\nA green sofa.",
+                    "quizzes": [
+                        "Let's sit on the __________ and watch funny cartoons on the TV this afternoon.",
+                        "Our living room has a very comfortable __________ with many soft colorful pillows.",
+                        "We have a big green __________ where all the children can sit and play today."
+                    ]
                 },
                 {
                     "word": "armchair",
                     "phonetic": "/ˈɑːmtʃeə(r)/",
                     "meaning": "ghế bành",
                     "definition": "A comfortable chair with sides for your arms to rest on.",
-                    "example": "Sit in the armchair.\nA big armchair.\nA soft armchair."
+                    "example": "Sit in the armchair.\nA big armchair.\nA soft armchair.",
+                    "quizzes": [
+                        "My grandfather likes to sit in the __________ and read the news every morning.",
+                        "Our house has a big grey __________ in the living room. It is very large tonight.",
+                        "I like to sit in the soft __________ and listen to my favorite music today."
+                    ]
                 },
                 {
                     "word": "mirror",
                     "phonetic": "/ˈmɪrə(r)/",
                     "meaning": "cái gương",
                     "definition": "A piece of glass that you can see yourself in.",
-                    "example": "Look in the mirror.\nA clean mirror.\nA large mirror."
+                    "example": "Look in the mirror.\nA clean mirror.\nA large mirror.",
+                    "quizzes": [
+                        "Look in the __________! Can you see your happy face and your white teeth today?",
+                        "The __________ in the bathroom is very clean and shiny. I can see myself in it.",
+                        "Our hallway has a large __________ with a beautiful golden frame. It looks nice."
+                    ]
                 },
                 {
                     "word": "clock",
                     "phonetic": "/klɒk/",
                     "meaning": "đồng hồ",
                     "definition": "An object that shows what time it is.",
-                    "example": "Look at the clock.\nA round clock.\nWhat time is it on the clock?"
+                    "example": "Look at the clock.\nA round clock.\nWhat time is it on the clock?",
+                    "quizzes": [
+                        "Look at the __________ on the wall! It says that it is eight o'clock this morning.",
+                        "We have a big round __________ in the kitchen. It is very easy to see today.",
+                        "What time is it on the __________? Is it time for our delicious lunch tonight?"
+                    ]
                 },
                 {
                     "word": "lamp",
                     "phonetic": "/læmp/",
                     "meaning": "đèn",
                     "definition": "An object that produces light.",
-                    "example": "Turn on the lamp.\nA bright lamp.\nA desk lamp."
+                    "example": "Turn on the lamp.\nA bright lamp.\nA desk lamp.",
+                    "quizzes": [
+                        "Please turn on the __________! The room is very dark and I want to read my book.",
+                        "I have a bright __________ on my small desk. It helps me to see my homework today.",
+                        "My favorite __________ is blue and it has a yellow bulb. It looks very nice tonight."
+                    ]
                 },
                 {
                     "word": "computer",
                     "phonetic": "/kəmˈpjuːtə(r)/",
                     "meaning": "máy tính",
                     "definition": "An electronic machine that can store and find information.",
-                    "example": "I use a computer.\nA fast computer.\nPlay games on the computer."
+                    "example": "I use a computer.\nA fast computer.\nPlay games on the computer.",
+                    "quizzes": [
+                        "I use a __________ at school to learn many interesting things about the world.",
+                        "My father has a fast __________ in his home office. He uses it for his work tonight.",
+                        "I like to play silver games on the __________ with my best friend after school."
+                    ]
                 }
             ],
             "grammars": [
@@ -792,84 +1272,144 @@
                     "phonetic": "/skuːl/",
                     "meaning": "trường học",
                     "definition": "A place where children go to learn.",
-                    "example": "I go to school.\nMy school is big.\nI like my school."
+                    "example": "I go to school.\nMy school is big.\nI like my school.",
+                    "quizzes": [
+                        "I go to __________ every day from Monday to Friday with my big sister today.",
+                        "My __________ is very big and it has a large green field and many trees tonight.",
+                        "I like my __________ very much! I can play with my friends and learn English today."
+                    ]
                 },
                 {
                     "word": "classroom",
                     "phonetic": "/ˈklɑːsruːm/",
                     "meaning": "lớp học",
                     "definition": "A room in a school where students have lessons.",
-                    "example": "A bright classroom.\nSit in the classroom.\nOur classroom is on the second floor."
+                    "example": "A bright classroom.\nSit in the classroom.\nOur classroom is on the second floor.",
+                    "quizzes": [
+                        "We are sitting in our bright __________ and listening to a story about a brave dog.",
+                        "Please sit in the __________ and open your English books to page ten today.",
+                        "Our __________ is on the second floor of the school. It is very big and clean tonight."
+                    ]
                 },
                 {
                     "word": "teacher",
                     "phonetic": "/ˈtiːtʃə(r)/",
                     "meaning": "giáo viên",
                     "definition": "A person whose job is to teach students.",
-                    "example": "My teacher is kind.\nListen to the teacher.\nA great teacher."
+                    "example": "My teacher is kind.\nListen to the teacher.\nA great teacher.",
+                    "quizzes": [
+                        "My __________ is very kind. She helps me to learn many new English words every day.",
+                        "Please listen to the __________! She is telling us about the animals in the wild zoo.",
+                        "She is a great __________! We like to play fun games and sing songs in her class tonight."
+                    ]
                 },
                 {
                     "word": "student",
                     "phonetic": "/ˈstjuːdnt/",
                     "meaning": "học sinh",
                     "definition": "A person who is learning at a school or college.",
-                    "example": "I am a student.\nMany students in the school.\nA good student."
+                    "example": "I am a student.\nMany students in the school.\nA good student.",
+                    "quizzes": [
+                        "I am a __________ at this big school. I like to read and write in my notebook today.",
+                        "There are many __________ in the school yard. They are playing football and running.",
+                        "He is a very good __________! He always does his homework and listens to the teacher."
+                    ]
                 },
                 {
                     "word": "book",
                     "phonetic": "/bʊk/",
                     "meaning": "quyển sách",
                     "definition": "A set of pages with writing or pictures inside a cover.",
-                    "example": "Read a book.\nA fun book.\nI have many books."
+                    "example": "Read a book.\nA fun book.\nI have many books.",
+                    "quizzes": [
+                        "I like to read a story __________ about a beautiful princess and a small green frog.",
+                        "This is a fun __________! It has many colorful pictures and very funny stories today.",
+                        "I have many __________ on my wooden bookcase. I read a different one every night."
+                    ]
                 },
                 {
                     "word": "notebook",
                     "phonetic": "/ˈnəʊtbʊk/",
                     "meaning": "vở",
                     "definition": "A book with empty pages that you use for writing in.",
-                    "example": "Write in the notebook.\nA clean notebook.\nMy notebook is full."
+                    "example": "Write in the notebook.\nA clean notebook.\nMy notebook is full.",
+                    "quizzes": [
+                        "I use my pencil to write new English words in my __________ every day after school.",
+                        "I have a clean __________! The pages are white and there are no mistakes on them today.",
+                        "My __________ is full of my drawings and my homework. I need a new one tomorrow."
+                    ]
                 },
                 {
                     "word": "pen",
                     "phonetic": "/pen/",
                     "meaning": "bút mực",
                     "definition": "An object that you use for writing with ink.",
-                    "example": "A blue pen.\nWrite with a pen.\nI have a pen."
+                    "example": "A blue pen.\nWrite with a pen.\nI have a pen.",
+                    "quizzes": [
+                        "I use a blue __________ to write a letter to my friend who lives in the big city today.",
+                        "Please write your name with a black __________ on the first page of your notebook.",
+                        "I have a __________ in my hand. It is very shiny and it writes very well tonight."
+                    ]
                 },
                 {
                     "word": "pencil",
                     "phonetic": "/ˈpensl/",
                     "meaning": "bút chì",
                     "definition": "An object that you use for writing or drawing, usually made of wood with a black center.",
-                    "example": "A long pencil.\nDraw with a pencil.\nA sharp pencil."
+                    "example": "A long pencil.\nDraw with a pencil.\nA sharp pencil.",
+                    "quizzes": [
+                        "Look at this long yellow __________! It has a small pink eraser at the very top today.",
+                        "I like to draw a pink flower and a green tree with my __________ in my book tonight.",
+                        "I need a sharp __________! Please help me to make it ready for my drawing class today."
+                    ]
                 },
                 {
                     "word": "eraser",
                     "phonetic": "/ɪˈreɪzə(r)/",
                     "meaning": "cục tẩy",
                     "definition": "A small piece of rubber used for removing pencil marks.",
-                    "example": "Use an eraser.\nA small eraser.\nA white eraser."
+                    "example": "Use an eraser.\nA small eraser.\nA white eraser.",
+                    "quizzes": [
+                        "Please use an __________! You made a small mistake when you wrote the word 'cat' today.",
+                        "I have a small __________ on my desk. It is purple and it smells like a sweet orange.",
+                        "This is a white __________; it is very soft and it cleans the paper very well tonight."
+                    ]
                 },
                 {
                     "word": "ruler",
                     "phonetic": "/ˈruːlə(r)/",
                     "meaning": "thước kẻ",
                     "definition": "A flat piece of plastic or wood used for measuring things or drawing straight lines.",
-                    "example": "A long ruler.\nMeasure with a ruler.\nA plastic ruler."
+                    "example": "A long ruler.\nMeasure with a ruler.\nA plastic ruler.",
+                    "quizzes": [
+                        "I have a long silver __________ in my bag. I use it to draw straight lines in my book.",
+                        "Can you measure the desk with a __________? How many centimeters long is it today?",
+                        "This is a plastic __________; it is very strong and it has many small numbers on it."
+                    ]
                 },
                 {
                     "word": "bag",
                     "phonetic": "/bæɡ/",
                     "meaning": "cái cặp/túi",
                     "definition": "A container made of cloth or plastic used for carrying things.",
-                    "example": "A school bag.\nPut it in your bag.\nMy bag is heavy."
+                    "example": "A school bag.\nPut it in your bag.\nMy bag is heavy.",
+                    "quizzes": [
+                        "I have a new blue school __________ with a picture of a funny monkey on it today.",
+                        "Please put your apple and your sandwich in your __________! It is time for school.",
+                        "My __________ is very heavy! It is full of my English books and my long rulers today."
+                    ]
                 },
                 {
                     "word": "board",
                     "phonetic": "/bɔːd/",
                     "meaning": "cái bảng",
                     "definition": "A large flat surface in a classroom that a teacher writes on.",
-                    "example": "Write on the board.\nA white board.\nLook at the board."
+                    "example": "Write on the board.\nA white board.\nLook at the board.",
+                    "quizzes": [
+                        "The teacher is using a green pen to write our names on the __________ in the room.",
+                        "Our classroom has a big white __________! It is very easy to see from my desk today.",
+                        "Please look at the __________! The teacher is showing us a picture of a big grey hippo."
+                    ]
                 }
             ],
             "grammars": [
@@ -889,84 +1429,144 @@
                     "phonetic": "/fuːd/",
                     "meaning": "đồ ăn",
                     "definition": "Something that people and animals eat to stay alive.",
-                    "example": "I like food.\nYummy food.\nHealthy food."
+                    "example": "I like food.\nYummy food.\nHealthy food.",
+                    "quizzes": [
+                        "I like __________ very much! My favorite things to eat are apples and bananas.",
+                        "This is very yummy __________ tonight! It is hot and it smells very good today.",
+                        "We should eat healthy __________ like green vegetables and fresh fruit every day."
+                    ]
                 },
                 {
                     "word": "bread",
                     "phonetic": "/bred/",
                     "meaning": "bánh mì",
                     "definition": "A common food made from flour and water, then baked.",
-                    "example": "Eat some bread.\nA loaf of bread.\nWhite bread."
+                    "example": "Eat some bread.\nA loaf of bread.\nWhite bread.",
+                    "quizzes": [
+                        "I like to eat some __________ with some yellow butter and sweet strawberry jam.",
+                        "Can you buy a loaf of __________ from the shop near our big school today?",
+                        "This white __________ is very soft and delicious! It is still very warm tonight."
+                    ]
                 },
                 {
                     "word": "cake",
                     "phonetic": "/keɪk/",
                     "meaning": "bánh ngọt",
                     "definition": "A sweet food made from flour, sugar, and eggs.",
-                    "example": "A birthday cake.\nA chocolate cake.\nI like cake."
+                    "example": "A birthday cake.\nA chocolate cake.\nI like cake.",
+                    "quizzes": [
+                        "I have a big pink birthday __________ with seven small white candles on it today.",
+                        "My mother is making a chocolate __________ for our dessert after dinner tonight.",
+                        "I like __________ very much! It is very sweet and it has many colorful stars today."
+                    ]
                 },
                 {
                     "word": "chocolate",
                     "phonetic": "/ˈtʃɒklət/",
                     "meaning": "Sô-cô-la",
                     "definition": "A sweet brown food made from cacao beans.",
-                    "example": "I love chocolate.\nA bar of chocolate.\nDark chocolate."
+                    "example": "I love chocolate.\nA bar of chocolate.\nDark chocolate.",
+                    "quizzes": [
+                        "I love __________! It is my favorite sweet treat and it is very brown today.",
+                        "My father gave me a bar of __________ because I was a very good student at school.",
+                        "Dark __________ is very good for you! It is a little bit bitter but very yummy."
+                    ]
                 },
                 {
                     "word": "egg",
                     "phonetic": "/eɡ/",
                     "meaning": "quả trứng",
                     "definition": "A round object produced by a bird that is often used as food.",
-                    "example": "A fried egg.\nA chicken egg.\nI have an egg for breakfast."
+                    "example": "A fried egg.\nA chicken egg.\nI have an egg for breakfast.",
+                    "quizzes": [
+                        "I like a fried __________ for my lunch today. It is yellow and white tonight.",
+                        "A __________ comes from a chicken on the farm. It is small and very round today.",
+                        "I have an __________ for my healthy breakfast every morning before I go to school."
+                    ]
                 },
                 {
                     "word": "meat",
                     "phonetic": "/miːt/",
                     "meaning": "thịt",
                     "definition": "The part of an animal used as food.",
-                    "example": "Eat some meat.\nA piece of meat.\nRed meat."
+                    "example": "Eat some meat.\nA piece of meat.\nRed meat.",
+                    "quizzes": [
+                        "We eat some __________ for our dinner tonight. It is very hot and very yummy today.",
+                        "My father is cutting a piece of __________ for me. It is very soft and delicious.",
+                        "Red __________ like beef is very strong. It helps us to grow big and tall today."
+                    ]
                 },
                 {
                     "word": "rice",
                     "phonetic": "/raɪs/",
                     "meaning": "cơm/gạo",
                     "definition": "Small white or brown grains from a plant, used as food.",
-                    "example": "Eat rice.\nA bowl of rice.\nWhite rice."
+                    "example": "Eat rice.\nA bowl of rice.\nWhite rice.",
+                    "quizzes": [
+                        "We eat white __________ with our dinner every evening tonight. It is very good.",
+                        "I have a bowl of __________ on the wooden table. It is very hot and very white.",
+                        "White __________ comes from a plant. It grows in the water in the green fields."
+                    ]
                 },
                 {
                     "word": "noodle",
                     "phonetic": "/ˈnuːdl/",
                     "meaning": "mì",
                     "definition": "A long thin piece of food made from flour and water.",
-                    "example": "Eat noodles.\nI like noodles.\nHot noodles."
+                    "example": "Eat noodles.\nI like noodles.\nHot noodles.",
+                    "quizzes": [
+                        "I like to eat long thin __________ with some meat and some green vegetables tonight.",
+                        "I like __________ very much! They are very fun to eat and they are very yummy today.",
+                        "These hot __________ are very delicious! Be careful because they are very hot today."
+                    ]
                 },
                 {
                     "word": "pizza",
                     "phonetic": "/ˈpiːtsə/",
                     "meaning": "bánh pizza",
                     "definition": "An Italian food made of flat bread with tomatoes and cheese on top.",
-                    "example": "Eat pizza.\nA big pizza.\nI love pizza."
+                    "example": "Eat pizza.\nA big pizza.\nI love pizza.",
+                    "quizzes": [
+                        "Let's eat __________ for lunch today! It has some red tomato and some yellow cheese.",
+                        "This is a big __________! It is as round as a ball and it is very yummy tonight.",
+                        "I love __________! It is my favorite food in the world and I want to eat it today."
+                    ]
                 },
                 {
                     "word": "burger",
                     "phonetic": "/ˈbɜːɡə(r)/",
                     "meaning": "bánh mì kẹp",
                     "definition": "A flat round piece of meat served inside a round bread roll.",
-                    "example": "A chicken burger.\nEat a burger.\nA tasty burger."
+                    "example": "A chicken burger.\nEat a burger.\nA tasty burger.",
+                    "quizzes": [
+                        "I have a chicken __________ for my dinner today. It is inside a soft round bread.",
+                        "Let's eat a __________! It has some meat, some lettuce, and some yellow cheese today.",
+                        "This is a tasty __________! It is very big and it is very delicious tonight today."
+                    ]
                 },
                 {
                     "word": "fries",
                     "phonetic": "/fraɪz/",
                     "meaning": "khoai tây chiên",
                     "definition": "Long thin pieces of potato that have been fried.",
-                    "example": "I like fries.\nFrench fries.\nSalty fries."
+                    "example": "I like fries.\nFrench fries.\nSalty fries.",
+                    "quizzes": [
+                        "I like __________ very much! They are made from potatoes and they are very yellow.",
+                        "French __________ are very long and thin and they are very yummy with some tomato juice.",
+                        "These salty __________ are very delicious! They are hot and very crunchy tonight today."
+                    ]
                 },
                 {
                     "word": "ice cream",
                     "phonetic": "/ˌaɪs ˈkriːm/",
                     "meaning": "kem",
                     "definition": "A very cold sweet food made from milk.",
-                    "example": "Eat ice cream.\nA cold ice cream.\nVanilla ice cream."
+                    "example": "Eat ice cream.\nA cold ice cream.\nVanilla ice cream.",
+                    "quizzes": [
+                        "Let's eat __________! It is very cold and very sweet and I like chocolate flavor.",
+                        "A cold __________ is very good on a hot sunny day today in the green garden tonight.",
+                        "Vanilla __________ is white and it is very yummy! I like to eat it for my dessert."
+                    ]
                 }
             ],
             "grammars": [
@@ -986,147 +1586,252 @@
                     "phonetic": "/fruːt/",
                     "meaning": "trái cây",
                     "definition": "The sweet part of a plant that you can eat.",
-                    "example": "I like fruit.\nEat fresh fruit.\nWhat is your favorite fruit?"
+                    "example": "I like fruit.\nEat fresh fruit.\nWhat is your favorite fruit?",
+                    "quizzes": [
+                        "I like __________ very much! My favorite ones are red apples and yellow bananas today.",
+                        "Please eat some fresh __________! It is very sweet and very healthy for you tonight.",
+                        "What is your favorite __________? Do you like purple grapes or orange oranges today?"
+                    ]
                 },
                 {
                     "word": "apple",
                     "phonetic": "/ˈæpl/",
                     "meaning": "quả táo",
                     "definition": "A hard round fruit that is green or red.",
-                    "example": "A red apple.\nEat an apple.\nI have an apple in my bag."
+                    "example": "A red apple.\nEat an apple.\nI have an apple in my bag.",
+                    "quizzes": [
+                        "I have a big red __________ for my lunch today. It is very crunchy and very sweet.",
+                        "Let's eat a green __________! It is a little bit sour but it is very delicious tonight today.",
+                        "I have a silver __________ in my school bag. It is a very healthy snack for me today."
+                    ]
                 },
                 {
                     "word": "banana",
                     "phonetic": "/bəˈnɑːnə/",
                     "meaning": "quả chuối",
                     "definition": "A long yellow fruit with soft white inside.",
-                    "example": "A yellow banana.\nMonkey likes bananas.\nEat a banana."
+                    "example": "A yellow banana.\nMonkey likes bananas.\nEat a banana.",
+                    "quizzes": [
+                        "I have a long yellow __________ for my breakfast. It is very soft and very yummy today.",
+                        "A funny monkey likes to eat yellow __________ in the tall green trees in the wild tonight.",
+                        "Please eat a __________! It has a thick yellow skin and it is very sweet inside today."
+                    ]
                 },
                 {
                     "word": "orange",
                     "phonetic": "/ˈɒrɪndʒ/",
                     "meaning": "quả cam",
                     "definition": "A round fruit with a thick orange skin and a lot of juice.",
-                    "example": "An orange is orange.\nI like orange juice.\nA sweet orange."
+                    "example": "An orange is orange.\nI like orange juice.\nA sweet orange.",
+                    "quizzes": [
+                        "An __________ is the same color as its name! It is round and very juicy today in school.",
+                        "I like to drink cold __________ juice with my breakfast every morning. It is very good.",
+                        "This is a sweet __________! It has a thick skin and many small segments inside today."
+                    ]
                 },
                 {
                     "word": "grape",
                     "phonetic": "/ɡreɪp/",
                     "meaning": "quả nho",
                     "definition": "A small green or purple fruit that grows in groups.",
-                    "example": "Green grapes.\nI eat grapes.\nA bunch of grapes."
+                    "example": "Green grapes.\nI eat grapes.\nA bunch of grapes.",
+                    "quizzes": [
+                        "These small green __________ are very sweet! They grow in a big group together today.",
+                        "I like to eat purple __________ for my snack. They are very small and very round tonight.",
+                        "Can you see a bunch of __________ on the wooden table? They look very delicious tonight."
+                    ]
                 },
                 {
                     "word": "pear",
                     "phonetic": "/peə(r)/",
                     "meaning": "quả lê",
                     "definition": "A sweet fruit that is narrow at the top and wide at the bottom.",
-                    "example": "A green pear.\nEat a pear.\nA sweet pear."
+                    "example": "A green pear.\nEat a pear.\nA sweet pear.",
+                    "quizzes": [
+                        "A green __________ is narrow at the top and wide at the bottom. It is very tasty today.",
+                        "Let's eat a __________! It is a very sweet fruit and it is very juicy inside tonight today.",
+                        "This is a sweet __________! It is yellow and green and it is very good for your health."
+                    ]
                 },
                 {
                     "word": "pineapple",
                     "phonetic": "/ˈpaɪnæpl/",
                     "meaning": "quả dứa",
                     "definition": "A large fruit with thick yellow skin and sharp leaves on top.",
-                    "example": "A big pineapple.\nI like pineapple.\nA yellow pineapple."
+                    "example": "A big pineapple.\nI like pineapple.\nA yellow pineapple.",
+                    "quizzes": [
+                        "A big __________ has a thick prickly skin and sharp green leaves on the top today tonight.",
+                        "I like __________ very much! It is yellow inside and it is very sweet and a bit sour.",
+                        "Look at this yellow __________! My mother is cutting it into small pieces for us to eat."
+                    ]
                 },
                 {
                     "word": "watermelon",
                     "phonetic": "/ˈwɔːtəmelən/",
                     "meaning": "quả dưa hấu",
                     "definition": "A very large green fruit that is red and sweet inside.",
-                    "example": "A big watermelon.\nWatermelon is sweet.\nRed watermelon."
+                    "example": "A big watermelon.\nWatermelon is sweet.\nRed watermelon.",
+                    "quizzes": [
+                        "A big __________ is green on the outside and bright red on the inside. It has black seeds.",
+                        "A __________ is very sweet and very juicy! It is very good on a hot sunny day in the garden.",
+                        "Look at this red __________! It is very large and we can all share it for our dessert today."
+                    ]
                 },
                 {
                     "word": "mango",
                     "phonetic": "/ˈmæŋɡəʊ/",
                     "meaning": "quả xoài",
                     "definition": "A sweet tropical fruit with yellow or red skin and a large seed.",
-                    "example": "A yellow mango.\nI like mango.\nA sweet mango."
+                    "example": "A yellow mango.\nI like mango.\nA sweet mango.",
+                    "quizzes": [
+                        "A yellow __________ is very soft and very sweet. It has one big seed inside today tonight.",
+                        "I like __________ very much! It is a tropical fruit that grows in hot countries in the world.",
+                        "This is a sweet __________! It is orange and yellow and it smells very good in the kitchen."
+                    ]
                 },
                 {
                     "word": "strawberry",
                     "phonetic": "/ˈstrɔːbəri/",
                     "meaning": "quả dâu tây",
                     "definition": "A small juicy red fruit with seeds on the outside.",
-                    "example": "A red strawberry.\nI like strawberries.\nA small strawberry."
+                    "example": "A red strawberry.\nI like strawberries.\nA small strawberry.",
+                    "quizzes": [
+                        "A red __________ is very small and it has many tiny seeds on the outside of its skin tonight.",
+                        "I like __________ very much! They are my favorite fruit to eat with some white ice cream.",
+                        "Look at this small __________! It is very bright red and it is very sweet and yummy today."
+                    ]
                 },
                 {
                     "word": "lemon",
                     "phonetic": "/ˈlemən/",
                     "meaning": "quả chanh vàng",
                     "definition": "A sour yellow fruit.",
-                    "example": "A yellow lemon.\nLemonade is made from lemons.\nA sour lemon."
+                    "example": "A yellow lemon.\nLemonade is made from lemons.\nA sour lemon.",
+                    "quizzes": [
+                        "A yellow __________ is very sour! We use it to make a very cold and sweet drink today.",
+                        "Sweet yellow lemonade is made from fresh __________ and some white sugar and clear water.",
+                        "This is a sour __________! Be careful because it will make your mouth feel very funny today."
+                    ]
                 },
                 {
                     "word": "lime",
                     "phonetic": "/laɪm/",
                     "meaning": "quả chanh xanh",
                     "definition": "A small sour green fruit.",
-                    "example": "A green lime.\nAdd some lime juice.\nA sour line."
+                    "example": "A green lime.\nAdd some lime juice.\nA sour line.",
+                    "quizzes": [
+                        "A green __________ is a small and very sour fruit. It looks like a small green lemon tonight.",
+                        "Please add some __________ juice to my drink! It will make it taste very fresh and good day.",
+                        "This is a sour __________! It is very green and it is very juicy inside its thin skin today."
+                    ]
                 },
                 {
                     "word": "coconut",
                     "phonetic": "/ˈkəʊkənʌt/",
                     "meaning": "quả dừa",
                     "definition": "A large nut with a hard brown shell and white inside.",
-                    "example": "A big coconut.\nCoconut water.\nA brown coconut."
+                    "example": "A big coconut.\nCoconut water.\nA brown coconut.",
+                    "quizzes": [
+                        "A big __________ has a very hard brown shell and it has white milk inside it today tonight.",
+                        "I like to drink fresh __________ water! It is very cool and very sweet on a hot sunny day.",
+                        "This is a brown __________! It grows high up in the tall palm trees near the blue sea tonight."
+                    ]
                 },
                 {
                     "word": "vegetable",
                     "phonetic": "/ˈvedʒtəbl/",
                     "meaning": "rau củ",
                     "definition": "A plant that is used for food, like a potato or carrot.",
-                    "example": "Eat your vegetables.\nGreen vegetables.\nVegetables are healthy."
+                    "example": "Eat your vegetables.\nGreen vegetables.\nVegetables are healthy.",
+                    "quizzes": [
+                        "Please eat all your __________! They help you to grow big and strong and healthy every day.",
+                        "I like green __________ like peas and beans. They are very yummy for my dinner tonight today.",
+                        "__________ are very healthy for you! You should eat them with your meat and rice every day."
+                    ]
                 },
                 {
                     "word": "potato",
                     "phonetic": "/pəˈteɪtəʊ/",
                     "meaning": "khoai tây",
                     "definition": "A common white vegetable that grows under the ground.",
-                    "example": "I like potatoes.\nBaked potato.\nA big potato."
+                    "example": "I like potatoes.\nBaked potato.\nA big potato.",
+                    "quizzes": [
+                        "I like __________ very much! We can make yummy fries or soft white mash from them today.",
+                        "A baked __________ is very hot and very soft inside. It is very good with some yellow butter.",
+                        "Look at this big __________! It is brown on the outside and white on the inside today tonight."
+                    ]
                 },
                 {
                     "word": "tomato",
                     "phonetic": "/təˈmɑːtəʊ/",
                     "meaning": "quả cà chua",
                     "definition": "A soft red fruit that is often used as a vegetable.",
-                    "example": "A red tomato.\nTomato soup.\nI like tomatoes."
+                    "example": "A red tomato.\nTomato soup.\nI like tomatoes.",
+                    "quizzes": [
+                        "A red __________ is very soft and very juicy! It is very good in a fresh green salad today.",
+                        "My mother is making a bowl of hot __________ soup for our lunch. It smells very good tonight.",
+                        "I like __________ very much! They are red and round and they grow on a small green plant."
+                    ]
                 },
                 {
                     "word": "carrot",
                     "phonetic": "/ˈkærət/",
                     "meaning": "củ cà rốt",
                     "definition": "A long orange vegetable that grows under the ground.",
-                    "example": "An orange carrot.\nRabbit likes carrots.\nEat a carrot."
+                    "example": "An orange carrot.\nRabbit likes carrots.\nEat a carrot.",
+                    "quizzes": [
+                        "An orange __________ is long and thin. It grows under the ground in the green garden today.",
+                        "A fluffy white rabbit likes to eat crunchy __________! It is its favorite food tonight today.",
+                        "Please eat a __________! It is very crunchy and it is very good for your eyes today tonight."
+                    ]
                 },
                 {
                     "word": "onion",
                     "phonetic": "/ˈʌnjən/",
                     "meaning": "củ hành tây",
                     "definition": "A round white or red vegetable with a strong smell.",
-                    "example": "A white onion.\nChop the onion.\nAn onion is round."
+                    "example": "A white onion.\nChop the onion.\nAn onion is round.",
+                    "quizzes": [
+                        "A white __________ has a very strong smell! It can make you cry when you cut it today tonight.",
+                        "Please help me to chop the __________ for our dinner! We will put it in the hot soup today.",
+                        "An __________ is round and it has many layers inside. It is a very healthy vegetable tonight."
+                    ]
                 },
                 {
                     "word": "pea",
                     "phonetic": "/piː/",
                     "meaning": "đậu hà lan",
                     "definition": "A small round green seed that grows in a pod and is eaten as a vegetable.",
-                    "example": "Green peas.\nI eat peas.\nA small pea."
+                    "example": "Green peas.\nI eat peas.\nA small pea.",
+                    "quizzes": [
+                        "A small green __________ is very round and very sweet. It grows in a long green pod tonight.",
+                        "I saw many tiny __________ in a pod today! They look like small green balls in the garden.",
+                        "I like __________ very much! I eat them with my meat and my bowl of white rice for dinner."
+                    ]
                 },
                 {
                     "word": "bean",
                     "phonetic": "/biːn/",
                     "meaning": "đậu/đỗ",
                     "definition": "A seed or seed case of some plants that is used as food.",
-                    "example": "Green beans.\nI like beans.\nA long bean."
+                    "example": "Green beans.\nI like beans.\nA long bean.",
+                    "quizzes": [
+                        "I like green __________ very much! They are very long and thin and very yummy for dinner.",
+                        "A __________ is a healthy seed that grows in a pod. It is very green and very crunchy today.",
+                        "Looking at this long green __________! It is very tall and it has many tiny seeds inside it."
+                    ]
                 },
                 {
                     "word": "corn",
                     "phonetic": "/kɔːn/",
                     "meaning": "ngô/bắp",
                     "definition": "A tall plant with yellow grains that are eaten as a vegetable.",
-                    "example": "Yellow corn.\nSweet corn.\nI eat corn."
+                    "example": "Yellow corn.\nSweet corn.\nI eat corn.",
+                    "quizzes": [
+                        "Yellow __________ grows on a tall green plant! It has many small yellow grains inside today.",
+                        "I like sweet __________ very much! It is very yellow and very sweet when we eat it today.",
+                        "I eat hot __________ for my snack! It is very yummy with some yellow butter on it tonight."
+                    ]
                 }
             ],
             "grammars": [
@@ -1146,42 +1851,72 @@
                     "phonetic": "/drɪŋk/",
                     "meaning": "đồ uống",
                     "definition": "A liquid that you swallow.",
-                    "example": "I want a drink.\nCold drink.\nWhat is your favorite drink?"
+                    "example": "I want a drink.\nCold drink.\nWhat is your favorite drink?",
+                    "quizzes": [
+                        "I want a cold __________! I am very thirsty after playing football in the sun today.",
+                        "Looking for a cold __________ in the kitchen! There is some water and some orange juice.",
+                        "What is your favorite __________? Do you like white milk or sweet yellow lemonade today?"
+                    ]
                 },
                 {
                     "word": "water",
                     "phonetic": "/ˈwɔːtə(r)/",
                     "meaning": "nước",
                     "definition": "The clear liquid that we drink to stay alive.",
-                    "example": "Drink some water.\nCold water.\nA glass of water."
+                    "example": "Drink some water.\nCold water.\nA glass of water.",
+                    "quizzes": [
+                        "Please drink some __________! It is very healthy for you and it has no color or smell today.",
+                        "This cold __________ is very fresh! It comes from the fridge and it is very good tonight.",
+                        "Can I have a glass of __________? I am very thirsty and I want to drink something cool."
+                    ]
                 },
                 {
                     "word": "milk",
                     "phonetic": "/mɪlk/",
                     "meaning": "sữa",
                     "definition": "A white liquid produced by cows.",
-                    "example": "Drink milk.\nWhite milk.\nA glass of milk."
+                    "example": "Drink milk.\nWhite milk.\nA glass of milk.",
+                    "quizzes": [
+                        "I like to drink white __________ for my breakfast every morning. It comes from a farm cow.",
+                        "A glass of cold __________ is very good for your teeth and your strong bones today tonight.",
+                        "White __________ is very yummy! I like to drink it with my sweet chocolate cake tonight."
+                    ]
                 },
                 {
                     "word": "juice",
                     "phonetic": "/dʒuːs/",
                     "meaning": "nước ép",
                     "definition": "The liquid that comes from fruit.",
-                    "example": "Fruit juice.\nI like juice.\nOrange juice."
+                    "example": "Fruit juice.\nI like juice.\nOrange juice.",
+                    "quizzes": [
+                        "I like to drink fresh fruit __________! It is made from sweet apples or purple grapes today.",
+                        "Orange __________ is very yellow and sweet! It has many vitamins and it is very good tonight.",
+                        "I like __________ very much! I drink a glass of it with my lunch at school every day today."
+                    ]
                 },
                 {
                     "word": "lemonade",
                     "phonetic": "/ˌleməˈneɪd/",
                     "meaning": "nước chanh",
                     "definition": "A sweet drink made from lemons and water.",
-                    "example": "I like lemonade.\nSweet lemonade.\nA glass of lemonade."
+                    "example": "I like lemonade.\nSweet lemonade.\nA glass of lemonade.",
+                    "quizzes": [
+                        "I like yellow __________! It is made from sour lemons and sweet sugar and clear water today.",
+                        "This sweet __________ is very cold! It is a very good drink for a hot sunny day tonight.",
+                        "Can I have a glass of __________? It is very yellow and sparkly and I like it very much."
+                    ]
                 },
                 {
                     "word": "tea",
                     "phonetic": "/tiː/",
                     "meaning": "trà",
                     "definition": "A hot drink made by pouring water over dried leaves.",
-                    "example": "Drink some tea.\nHot tea.\nI like tea."
+                    "example": "Drink some tea.\nHot tea.\nI like tea.",
+                    "quizzes": [
+                        "My grandfather likes to drink hot __________ in the afternoon while he reads his book today.",
+                        "This hot __________ smells very good! Be careful because it is very hot in the white cup.",
+                        "I like __________ with a little bit of sweet white sugar. It is very warm and very good today."
+                    ]
                 }
             ],
             "grammars": [
@@ -1201,133 +1936,228 @@
                     "phonetic": "/kləʊðz/",
                     "meaning": "quần áo",
                     "definition": "The things that you wear on your body.",
-                    "example": "I have many clothes.\nClean clothes.\nPut on your clothes."
+                    "example": "I have many clothes.\nClean clothes.\nPut on your clothes.",
+                    "quizzes": [
+                        "I have many colorful __________ in my big wooden cupboard! I have shirts, skirts and hats.",
+                        "Please wear clean __________ every morning! They make you look very nice and very fresh today.",
+                        "Put on your __________! It is time to go to the park and play some fun games with friends."
+                    ]
                 },
                 {
                     "word": "hat",
                     "phonetic": "/hæt/",
                     "meaning": "mũ (có vành)",
                     "definition": "Something that you wear on your head.",
-                    "example": "A sun hat.\nPut on your hat.\nI have a red hat."
+                    "example": "A sun hat.\nPut on your hat.\nI have a red hat.",
+                    "quizzes": [
+                        "Please wear a sun __________! The sun is very bright and you must protect your head tonight.",
+                        "I have a new red __________! It looks very nice and it keeps my head cool today.",
+                        "Put on your __________! We are going out to play in the green garden today tonight."
+                    ]
                 },
                 {
                     "word": "cap",
                     "phonetic": "/kæp/",
                     "meaning": "mũ lưỡi trai",
                     "definition": "A type of soft hat with a part that sticks out at the front.",
-                    "example": "A baseball cap.\nI wear a cap.\nA blue cap."
+                    "example": "A baseball cap.\nI wear a cap.\nA blue cap.",
+                    "quizzes": [
+                        "I have a new baseball __________! It is blue and it has a long peak at the front today.",
+                        "I wear a __________ when I play football with my friends. it keeps the sun out of my eyes.",
+                        "Look at that blue __________! It has a picture of a fast silver plane on it tonight."
+                    ]
                 },
                 {
                     "word": "t-shirt",
                     "phonetic": "/ˈtiː ʃɜːt/",
                     "meaning": "áo thun",
                     "definition": "A soft cotton shirt with short sleeves.",
-                    "example": "A white t-shirt.\nI wear a t-shirt.\nMy favorite t-shirt."
+                    "example": "A white t-shirt.\nI wear a t-shirt.\nMy favorite t-shirt.",
+                    "quizzes": [
+                        "I have a clean white __________ for school today. It is very soft and very comfortable.",
+                        "I wear a __________ every day in the summer! It is very cool and it is very light today.",
+                        "This is my favorite __________! It is yellow and it has a funny monkey on the front today."
+                    ]
                 },
                 {
                     "word": "shirt",
                     "phonetic": "/ʃɜːt/",
                     "meaning": "áo sơ mi",
                     "definition": "A piece of clothing for the upper body with a collar and buttons.",
-                    "example": "A blue shirt.\nClean shirt.\nPut on your shirt."
+                    "example": "A blue shirt.\nClean shirt.\nPut on your shirt.",
+                    "quizzes": [
+                        "My father is wearing a blue __________ with a white collar and six round buttons today.",
+                        "Please wear a clean __________ for the party! It looks very nice with your new trousers.",
+                        "Put on your __________! It is time to go to school and meet your kind teacher tonight."
+                    ]
                 },
                 {
                     "word": "sweater",
                     "phonetic": "/ˈswetə(r)/",
                     "meaning": "áo len",
                     "definition": "A warm piece of clothing with sleeves, made of wool or cotton.",
-                    "example": "A warm sweater.\nI wear a sweater.\nA green sweater."
+                    "example": "A warm sweater.\nI wear a sweater.\nA green sweater.",
+                    "quizzes": [
+                        "Please wear a warm __________! It is very cold outside and you need to keep your body warm.",
+                        "I wear a __________ when it is winter. It is made of soft wool and it is very cozy today.",
+                        "Look at that green __________! It is very long and it has two big pockets for your hands."
+                    ]
                 },
                 {
                     "word": "jacket",
                     "phonetic": "/ˈdʒækɪt/",
                     "meaning": "áo khoác ngắn",
                     "definition": "A short light coat.",
-                    "example": "A red jacket.\nPut on your jacket.\nA new jacket."
+                    "example": "A red jacket.\nPut on your jacket.\nA new jacket.",
+                    "quizzes": [
+                        "I have a new red __________ for school today! It has a silver zipper and a soft hood tonight.",
+                        "Put on your __________! It is raining outside and you must keep your clothes dry today.",
+                        "This is a new __________! It is very blue and it is very warm for the cold weather tonight."
+                    ]
                 },
                 {
                     "word": "coat",
                     "phonetic": "/kəʊt/",
                     "meaning": "áo khoác dài",
                     "definition": "A piece of clothing worn over other clothes to keep warm.",
-                    "example": "A warm coat.\nI wear a coat in winter.\nA long coat."
+                    "example": "A warm coat.\nI wear a coat in winter.\nA long coat.",
+                    "quizzes": [
+                        "I have a warm __________ for the very cold days! it is very big and it covers my body tonight.",
+                        "I wear a __________ in winter to stay warm in the white snow. It is very thick and soft.",
+                        "Look at that long __________! It is brown and it looks very nice on you today tonight."
+                    ]
                 },
                 {
                     "word": "dress",
                     "phonetic": "/dres/",
                     "meaning": "váy liền",
                     "definition": "A piece of clothing for women that covers the top and hangs over the legs.",
-                    "example": "A pink dress.\nShe wears a dress.\nA beautiful dress."
+                    "example": "A pink dress.\nShe wears a dress.\nA beautiful dress.",
+                    "quizzes": [
+                        "My little sister is wearing a pink __________ with many small white flowers on it today.",
+                        "She wears a __________ for the birthday party. It is very pretty and it is very long tonight.",
+                        "That is a beautiful __________! It is purple and it has many shiny stars all over it today."
+                    ]
                 },
                 {
                     "word": "skirt",
                     "phonetic": "/skɜːt/",
                     "meaning": "chân váy",
                     "definition": "A piece of clothing for women that hangs from the waist.",
-                    "example": "A short skirt.\nShe wears a skirt.\nA blue skirt."
+                    "example": "A short skirt.\nShe wears a skirt.\nA blue skirt.",
+                    "quizzes": [
+                        "Look at that short __________! It moves when she runs in the green garden today tonight.",
+                        "She wears a __________ with her white shirt. It looks very nice for school today tonight.",
+                        "I have a new blue __________! It is very light and it is very comfortable for a sunny day."
+                    ]
                 },
                 {
                     "word": "trousers",
                     "phonetic": "/ˈtraʊzəz/",
                     "meaning": "quần dài",
                     "definition": "A piece of clothing with two legs that covers you from the waist.",
-                    "example": "Blue trousers.\nI wear trousers.\nA pair of trousers."
+                    "example": "Blue trousers.\nI wear trousers.\nA pair of trousers.",
+                    "quizzes": [
+                        "I have a pair of blue __________ for my school uniform today. They are very clean tonight.",
+                        "I wear __________ every day when I go to school. They are very strong and very comfortable.",
+                        "Look at this pair of __________! They are brown and they have four big pockets for your toys."
+                    ]
                 },
                 {
                     "word": "shorts",
                     "phonetic": "/ʃɔːts/",
                     "meaning": "quần đùi",
                     "definition": "Short trousers that end above the knees.",
-                    "example": "I wear shorts in summer.\nRed shorts.\nA pair of shorts."
+                    "example": "I wear shorts in summer.\nRed shorts.\nA pair of shorts.",
+                    "quizzes": [
+                        "I wear __________ in summer when it is very hot. My legs feel very cool and fresh today.",
+                        "Look at those red __________! They look very nice for a day at the sunny blue beach tonight.",
+                        "I have a pair of __________ in my bag. I can wear them to play football in the park today."
+                    ]
                 },
                 {
                     "word": "jeans",
                     "phonetic": "/dʒiːnz/",
                     "meaning": "quần bò",
                     "definition": "Strong trousers made of blue denim cloth.",
-                    "example": "I like jeans.\nBlue jeans.\nA pair of jeans."
+                    "example": "I like jeans.\nBlue jeans.\nA pair of jeans.",
+                    "quizzes": [
+                        "I like __________ very much! They are made of very strong blue cloth and they are cool.",
+                        "I have a pair of blue __________! I wear them with my red T-shirt for the party tonight.",
+                        "These are a pair of new __________! They are a bit long but they look very nice on you today."
+                    ]
                 },
                 {
                     "word": "socks",
                     "phonetic": "/sɒks/",
                     "meaning": "tất",
                     "definition": "Clothes that you wear on your feet inside your shoes.",
-                    "example": "White socks.\nI wear socks.\nA pair of socks."
+                    "example": "White socks.\nI wear socks.\nA pair of socks.",
+                    "quizzes": [
+                        "I have a pair of white __________ in my shoes. They keep my little feet very clean today.",
+                        "Please wear your __________! It is cold and you must keep your feet warm in the house tonight.",
+                        "These are a pair of funny __________! They have many colorful stripes and small stars today."
+                    ]
                 },
                 {
                     "word": "shoes",
                     "phonetic": "/ʃuːz/",
                     "meaning": "giày",
                     "definition": "Things that you wear on your feet to protect them.",
-                    "example": "Black shoes.\nPut on your shoes.\nA pair of shoes."
+                    "example": "Black shoes.\nPut on your shoes.\nA pair of shoes.",
+                    "quizzes": [
+                        "I have a pair of black __________ for school today. They are very shiny and very clean tonight.",
+                        "Put on your __________! We are going to walk to the big park and see the colorful ducks.",
+                        "These are a pair of new __________! They are very strong and they are very comfortable today."
+                    ]
                 },
                 {
                     "word": "boots",
                     "phonetic": "/buːts/",
                     "meaning": "ủng/bốt",
                     "definition": "Strong shoes that cover your feet and part of your legs.",
-                    "example": "Rain boots.\nI wear boots.\nA pair of boots."
+                    "example": "Rain boots.\nI wear boots.\nA pair of boots.",
+                    "quizzes": [
+                        "I wear rain __________ when it is wet outside! I can jump in the big water puddles today.",
+                        "I wear __________ on the farm! They keep my feet dry and clean in the green grass tonight.",
+                        "These are a pair of red __________! They are very tall and they are very strong tonight."
+                    ]
                 },
                 {
                     "word": "handbag",
                     "phonetic": "/ˈhændbæɡ/",
                     "meaning": "túi xách",
                     "definition": "A small bag used for carrying personal things.",
-                    "example": "A small handbag.\nMy mother has a handbag.\nA brown handbag."
+                    "example": "A small handbag.\nMy mother has a handbag.\nA brown handbag.",
+                    "quizzes": [
+                        "My mother has a beautiful small __________! She puts her phone and her keys inside it today.",
+                        "Looking for a new __________ at the shop! I want a pink one with a long silver strap tonight.",
+                        "This brown __________ is very nice! It is made of soft leather and it is very light today."
+                    ]
                 },
                 {
                     "word": "watch",
                     "phonetic": "/wɒtʃ/",
                     "meaning": "đồng hồ đeo tay",
                     "definition": "A small clock that you wear on your wrist.",
-                    "example": "A new watch.\nLook at my watch.\nWhat time is it on your watch?"
+                    "example": "A new watch.\nLook at my watch.\nWhat time is it on your watch?",
+                    "quizzes": [
+                        "I have a new black __________ on my wrist! It helps me to know the time for school today.",
+                        "Please look at my __________! It is very shiny and it has many small numbers on it tonight.",
+                        "What time is it on your __________? Is it time to go to the park and play some fun games?"
+                    ]
                 },
                 {
                     "word": "glasses",
                     "phonetic": "/ˈɡlɑːsɪz/",
                     "meaning": "kính mắt",
                     "definition": "Something you wear in front of your eyes to help you see better.",
-                    "example": "I wear glasses.\nA pair of glasses.\nWhere are my glasses?"
+                    "example": "I wear glasses.\nA pair of glasses.\nWhere are my glasses?",
+                    "quizzes": [
+                        "I wear a pair of blue __________ to see the small words on the white board in my class today.",
+                        "My grandfather has a pair of black __________! He uses them when he reads his story book.",
+                        "Where are my __________? I need to find them so I can see the colorful birds in the garden."
+                    ]
                 }
             ],
             "grammars": [
@@ -1347,133 +2177,228 @@
                     "phonetic": "/spɔːt/",
                     "meaning": "thể thao",
                     "definition": "A game or activity that you do for exercise or fun.",
-                    "example": "I like sports.\nMy favorite sport is football.\nDo you play sports?"
+                    "example": "I like sports.\nMy favorite sport is football.\nDo you play sports?",
+                    "quizzes": [
+                        "I like __________ very much! I like to run and jump and play games in the green park today.",
+                        "My favorite __________ is football! I like to kick the ball and score many goals for my team.",
+                        "Do you play any __________ at school? I play badminton with my friends every morning tonight."
+                    ]
                 },
                 {
                     "word": "play",
                     "phonetic": "/pleɪ/",
                     "meaning": "chơi",
                     "definition": "To do an activity for fun.",
-                    "example": "Play football.\nI play with my friends.\nLet's play!"
+                    "example": "Play football.\nI play with my friends.\nLet's play!",
+                    "quizzes": [
+                        "I like to __________ football with my friends! We run very fast and kick the ball today.",
+                        "I __________ with my pink doll and my toy plane in my bedroom every evening after school.",
+                        "Let's __________ a fun game tonight! We can use the colorful cards and sit on the soft rug."
+                    ]
                 },
                 {
                     "word": "run",
                     "phonetic": "/rʌn/",
                     "meaning": "chạy",
                     "definition": "To move quickly on your legs.",
-                    "example": "Run fast.\nI can run.\nLet's run to the park."
+                    "example": "Run fast.\nI can run.\nLet's run to the park.",
+                    "quizzes": [
+                        "I like to __________ fast in the big green garden! I can go as fast as a racing car today.",
+                        "I can __________ very well! I always win the race when I play with my brothers tonight today.",
+                        "Let's __________ to the park! It is a very sunny day and we can see the tall trees tonight."
+                    ]
                 },
                 {
                     "word": "swim",
                     "phonetic": "/swɪm/",
                     "meaning": "bơi",
                     "definition": "To move through water.",
-                    "example": "I can swim.\nSwim in the sea.\nLet's go swimming."
+                    "example": "I can swim.\nSwim in the sea.\nLet's go swimming.",
+                    "quizzes": [
+                        "I can __________ like a small fish! I like to wear my blue goggles and go in the cool water.",
+                        "Let's __________ in the blue sea! The water is very warm and we can play with a big ball.",
+                        "We go __________ every Sunday at the big pool! I am learning to move my arms and legs today."
+                    ]
                 },
                 {
                     "word": "jump",
                     "phonetic": "/dʒʌmp/",
                     "meaning": "nhảy",
                     "definition": "To push yourself into the air with your legs.",
-                    "example": "Jump high.\nA kangaroo can jump.\nLet's jump!"
+                    "example": "Jump high.\nA kangaroo can jump.\nLet's jump!",
+                    "quizzes": [
+                        "I can __________ very high! I can touch the leaves of the small tree in our garden today.",
+                        "A big brown kangaroo can __________ very far! It has very strong legs and a long tail tonight.",
+                        "Let's __________ together! One, two, three and we go up into the air and land on the grass."
+                    ]
                 },
                 {
                     "word": "kick",
                     "phonetic": "/kɪk/",
                     "meaning": "đá",
                     "definition": "To hit something with your foot.",
-                    "example": "Kick the ball.\nI can kick.\nKick it hard."
+                    "example": "Kick the ball.\nI can kick.\nKick it hard.",
+                    "quizzes": [
+                        "Please __________ the ball to me! I am standing near the goal and I want to score today.",
+                        "I can __________ the ball very far! I use my strong black shoes and my right foot tonight.",
+                        "__________ it hard! The ball is going very fast through the air and into the net today."
+                    ]
                 },
                 {
                     "word": "hit",
                     "phonetic": "/hɪt/",
                     "meaning": "đánh/đập",
                     "definition": "To touch something suddenly and with force.",
-                    "example": "Hit the ball.\nDon't hit your friend.\nHit the drum."
+                    "example": "Hit the ball.\nDon't hit your friend.\nHit the drum.",
+                    "quizzes": [
+                        "Please __________ the yellow ball with your wooden racket today! It is very fun tonight.",
+                        "Be a good student and don't __________ your friend when you play in the school yard today.",
+                        "Let's __________ the big red drum! One, two, three and we make a very loud and fun sound."
+                    ]
                 },
                 {
                     "word": "catch",
                     "phonetic": "/kætʃ/",
                     "meaning": "bắt lấy",
                     "definition": "To stop and hold something that is moving through the air.",
-                    "example": "Catch the ball.\nI can catch.\nCatch the bus."
+                    "example": "Catch the ball.\nI can catch.\nCatch the bus.",
+                    "quizzes": [
+                        "Please __________ the ball with your two hands! It is flying very fast through the air tonight.",
+                        "I can __________ the ball very well! I use my hands and my eyes to see where it is today.",
+                        "We need to __________ the big blue bus! It is coming to the stop and we must be ready today."
+                    ]
                 },
                 {
                     "word": "throw",
                     "phonetic": "/θrəʊ/",
                     "meaning": "ném",
                     "definition": "To send something through the air with your hand.",
-                    "example": "Throw the ball.\nI can throw.\nDon't throw stones."
+                    "example": "Throw the ball.\nI can throw.\nDon't throw stones.",
+                    "quizzes": [
+                        "Please __________ the small ball to me! I want to catch it with my new brown glove today.",
+                        "I can __________ the ball very far! I use my strong arms to send it high into the air tonight.",
+                        "Be careful and don't __________ stones in the garden! We must play safely with our toys today."
+                    ]
                 },
                 {
                     "word": "ride a bike",
                     "phonetic": "/raɪd ə baɪk/",
                     "meaning": "đi xe đạp",
                     "definition": "To travel on a bicycle.",
-                    "example": "I can ride a bike.\nA new bike.\nLet's ride our bikes."
+                    "example": "I can ride a bike.\nA new bike.\nLet's ride our bikes.",
+                    "quizzes": [
+                        "I can __________ a bike very well! I wear my blue helmet and I move my legs very fast today.",
+                        "I have a new __________ for my birthday! It is bright red and it has two small training wheels.",
+                        "Let's __________ our bikes to the park! It is a very sunny day and we can see the colorful park."
+                    ]
                 },
                 {
                     "word": "football",
                     "phonetic": "/ˈfʊtbɔːl/",
                     "meaning": "bóng đá",
                     "definition": "A game where you kick a ball into a goal.",
-                    "example": "Play football.\nI like football.\nA football match."
+                    "example": "Play football.\nI like football.\nA football match.",
+                    "quizzes": [
+                        "I like to __________ football with my friends! We run on the green grass and kick the ball.",
+                        "I like __________ very much! I wear my white shirt and my strong black shoes to play today.",
+                        "Let's go and see a __________ match! Many people are shouting and the players are running fast."
+                    ]
                 },
                 {
                     "word": "basketball",
                     "phonetic": "/ˈbɑːskɪtbɔːl/",
                     "meaning": "bóng rổ",
                     "definition": "A game where you throw a ball through a net.",
-                    "example": "Play basketball.\nA big basketball.\nI am good at basketball."
+                    "example": "Play basketball.\nA big basketball.\nI am good at basketball.",
+                    "quizzes": [
+                        "I like to __________ basketball with my team! We bounce the ball and throw it into the net.",
+                        "Look at this big __________! It is orange and round and it is very bouncy on the floor today.",
+                        "I am very good at __________! I can throw the ball very high and score many points tonight."
+                    ]
                 },
                 {
                     "word": "tennis",
                     "phonetic": "/ˈtenɪs/",
                     "meaning": "quần vợt",
                     "definition": "A game played with rackets and a ball on a court.",
-                    "example": "Play tennis.\nA tennis ball.\nI like tennis."
+                    "example": "Play tennis.\nA tennis ball.\nI like tennis.",
+                    "quizzes": [
+                        "I like to __________ tennis with my father! We use our rackets to hit the small green ball.",
+                        "I have a small yellow __________ ball in my bag. It is very fuzzy and it bounces very high.",
+                        "I like __________ very much! It is a very fun sport and it makes me feel very strong today."
+                    ]
                 },
                 {
                     "word": "badminton",
                     "phonetic": "/ˈbædmɪntən/",
                     "meaning": "cầu lông",
                     "definition": "A sport played with rackets and a shuttlecock.",
-                    "example": "Play badminton.\nA badminton racket.\nI like badminton."
+                    "example": "Play badminton.\nA badminton racket.\nI like badminton.",
+                    "quizzes": [
+                        "I like to __________ badminton in the garden! We hit the white shuttlecock over the high net.",
+                        "I have a new __________ racket! It is very light and it has a long silver handle tonight.",
+                        "I like __________ very much! It is my favorite sport to play with my mother in the morning."
+                    ]
                 },
                 {
                     "word": "dance",
                     "phonetic": "/dɑːns/",
                     "meaning": "nhảy múa",
                     "definition": "To move your body to music.",
-                    "example": "I can dance.\nDance to the music.\nLet's dance!"
+                    "example": "I can dance.\nDance to the music.\nLet's dance!",
+                    "quizzes": [
+                        "I can __________ very well! I move my feet and my arms to the happy music in the room today.",
+                        "Let's __________ to the music! It is very loud and very fun and we can jump and turn around.",
+                        "She can __________ beautifully! She wears a pink dress and she looks like a pretty princess."
+                    ]
                 },
                 {
                     "word": "sing",
                     "phonetic": "/sɪŋ/",
                     "meaning": "hát",
                     "definition": "To make musical sounds with your voice.",
-                    "example": "I can sing.\nSing a song.\nShe sings beautifully."
+                    "example": "I can sing.\nSing a song.\nShe sings beautifully.",
+                    "quizzes": [
+                        "I can __________ many happy songs! I use my voice and I like to sing with my friends at school.",
+                        "Let's __________ a song together! We can sing about the colorful animals in the wild zoo tonight.",
+                        "She __________ beautifully! Her voice is very sweet and we like to listen to her songs today."
+                    ]
                 },
                 {
                     "word": "draw",
                     "phonetic": "/drɔː/",
                     "meaning": "vẽ",
                     "definition": "To make a picture with a pencil or pen.",
-                    "example": "Draw a picture.\nI can draw a cat.\nUse a pencil to draw."
+                    "example": "Draw a picture.\nI can draw a cat.\nUse a pencil to draw.",
+                    "quizzes": [
+                        "I like to __________ a picture of my family! I use my colorful pencils and a clean white paper.",
+                        "I can __________ a small green cat! It has a long tail and two big yellow eyes today tonight.",
+                        "Please use a __________ to draw a straight line! We are making a big house with many windows."
+                    ]
                 },
                 {
                     "word": "paint",
                     "phonetic": "/peɪnt/",
                     "meaning": "tô màu/vẽ (bằng cọ)",
                     "definition": "To make a picture with paint.",
-                    "example": "Paint a house.\nI like painting.\nUse blue paint."
+                    "example": "Paint a house.\nI like painting.\nUse blue paint.",
+                    "quizzes": [
+                        "I like to __________ a picture of a big yellow house! I use my brush and some colorful paints.",
+                        "I like __________ very much! I can make many beautiful pictures of the blue sea and green trees.",
+                        "Let's use some blue __________ for the sky! It looks very bright and very pretty on the paper."
+                    ]
                 },
                 {
                     "word": "music",
                     "phonetic": "/ˈmjuːzɪk/",
                     "meaning": "âm nhạc",
                     "definition": "Sounds that are made by voices or instruments.",
-                    "example": "Listen to music.\nI like music.\nPlay some music."
+                    "example": "Listen to music.\nI like music.\nPlay some music.",
+                    "quizzes": [
+                        "I like to listen to happy __________ on my radio! It makes me want to dance and jump around today.",
+                        "I like __________ very much! I can play the piano and sing many sweet songs with my teacher.",
+                        "Please play some __________! We are having a party and we want to have some fun and games tonight."
+                    ]
                 }
             ],
             "grammars": [
@@ -1493,70 +2418,120 @@
                     "phonetic": "/tɔɪ/",
                     "meaning": "đồ chơi",
                     "definition": "An object that children play with.",
-                    "example": "I have many toys.\nA toy box.\nMy favorite toy."
+                    "example": "I have many toys.\nA toy box.\nMy favorite toy.",
+                    "quizzes": [
+                        "I have many colorful __________ in my bedroom! I have a doll, a ball, and a big blue robot today.",
+                        "Please put all your __________ in the wooden toy box! It is time to go to sleep now tonight.",
+                        "What is your favorite __________? I like my soft brown teddy bear very much because it is cute."
+                    ]
                 },
                 {
                     "word": "doll",
                     "phonetic": "/dɒl/",
                     "meaning": "búp bê",
                     "definition": "A toy that looks like a small person.",
-                    "example": "A beautiful doll.\nPlay with a doll.\nShe has a doll."
+                    "example": "A beautiful doll.\nPlay with a doll.\nShe has a doll.",
+                    "quizzes": [
+                        "I have a beautiful __________ with long yellow hair and a pretty pink dress today tonight.",
+                        "I like to __________ with my doll! I can comb its hair and give it some tea and cake today.",
+                        "She has a __________ in her hand. It is very small and she takes it to school in her bag."
+                    ]
                 },
                 {
                     "word": "ball",
                     "phonetic": "/bɔːl/",
                     "meaning": "quả bóng",
                     "definition": "A round object used in games.",
-                    "example": "A red ball.\nKick the ball.\nThrow the ball."
+                    "example": "A red ball.\nKick the ball.\nThrow the ball.",
+                    "quizzes": [
+                        "Look at this big red __________! It is very round and it is very bouncy on the green grass.",
+                        "Please __________ the ball to me! We are playing a game and I want to kick it into the goal.",
+                        "Can you __________ the ball very high? I want to see it go up into the bright blue sky tonight."
+                    ]
                 },
                 {
                     "word": "robot",
                     "phonetic": "/ˈrəʊbɒt/",
                     "meaning": "rô bốt",
                     "definition": "A machine that can move and do work like a person.",
-                    "example": "A cool robot.\nI have a robot.\nMy robot can walk."
+                    "example": "A cool robot.\nI have a robot.\nMy robot can walk.",
+                    "quizzes": [
+                        "I have a cool silver __________! It has many buttons and its eyes can shine very bright tonight.",
+                        "I have a __________ in my toy box! It is made of metal and it can make funny sounds today.",
+                        "Look at my __________! It can walk and move its arms. It is a very fun toy for me to play with."
+                    ]
                 },
                 {
                     "word": "teddy bear",
                     "phonetic": "/ˈtedi beə(r)/",
                     "meaning": "gấu bông",
                     "definition": "A soft toy that looks like a bear.",
-                    "example": "A soft teddy bear.\nI sleep with my teddy bear.\nA cute teddy bear."
+                    "example": "A soft teddy bear.\nI sleep with my teddy bear.\nA cute teddy bear.",
+                    "quizzes": [
+                        "I have a soft brown __________ with a red ribbon around its neck today tonight. It is very cozy.",
+                        "I like to __________ with my teddy bear every night! It makes me feel very safe and happy today.",
+                        "This is a cute __________! It has small black eyes and a very soft and fuzzy body tonight today."
+                    ]
                 },
                 {
                     "word": "balloon",
                     "phonetic": "/bəˈluːn/",
                     "meaning": "quả bóng bay",
                     "definition": "A thin rubber bag filled with air.",
-                    "example": "A red balloon.\nA big balloon.\nThe balloon is flying."
+                    "example": "A red balloon.\nA big balloon.\nThe balloon is flying.",
+                    "quizzes": [
+                        "I have a big red __________ in my hand! It is full of air and it is very round and light tonight.",
+                        "Look at that big yellow __________! It is very pretty and it has a long white string on it today.",
+                        "The __________ is flying high in the blue sky! Be careful or it will fly away into the clouds."
+                    ]
                 },
                 {
                     "word": "kite",
                     "phonetic": "/kaɪt/",
                     "meaning": "con diều",
                     "definition": "A toy made of paper or cloth that flies in the wind on a string.",
-                    "example": "Fly a kite.\nA colorful kite.\nMy kite is high in the sky."
+                    "example": "Fly a kite.\nA colorful kite.\nMy kite is high in the sky.",
+                    "quizzes": [
+                        "Let's go to the park and __________ a kite! It is a very windy day and it will go very high.",
+                        "I have a colorful __________ with long ribbons! It has many colors like red, blue and yellow.",
+                        "My __________ is high in the sky today! It looks like a small bird flying in the white clouds."
+                    ]
                 },
                 {
                     "word": "game",
                     "phonetic": "/ɡeɪm/",
                     "meaning": "trò chơi",
                     "definition": "An activity done for fun with rules.",
-                    "example": "Play a game.\nA fun game.\nComputer game."
+                    "example": "Play a game.\nA fun game.\nComputer game.",
+                    "quizzes": [
+                        "Let's play a fun __________ together today! We can sit on the soft rug and use the cards.",
+                        "This is a very fun __________! Everyone is laughing and having a great time tonight today.",
+                        "I like to play a computer __________ on my father's big tablet. It has many colorful birds."
+                    ]
                 },
                 {
                     "word": "train",
                     "phonetic": "/treɪn/",
                     "meaning": "tàu hỏa (đồ chơi)",
                     "definition": "A long vehicle that travels on tracks.",
-                    "example": "A toy train.\nThe train goes choo-choo.\nI have a train set."
+                    "example": "A toy train.\nThe train goes choo-choo.\nI have a train set.",
+                    "quizzes": [
+                        "I have a new colorful toy __________ in my toy box today! It has many long wooden tracks.",
+                        "The __________ goes choo-choo and moves very fast on the small silver tracks tonight today.",
+                        "I have a big train set! I can build a long track and watch my __________ go round and round."
+                    ]
                 },
                 {
                     "word": "plane",
                     "phonetic": "/pleɪn/",
                     "meaning": "máy bay (đồ chơi)",
                     "definition": "A vehicle with wings that flies in the sky.",
-                    "example": "A toy plane.\nThe plane can fly.\nA white plane."
+                    "example": "A toy plane.\nThe plane can fly.\nA white plane.",
+                    "quizzes": [
+                        "I have a cool toy __________ that is very blue! It has two wings and it can go very fast.",
+                        "This toy __________ can fly high in the air when I throw it with my hand today tonight.",
+                        "Look at that small white __________! It looks like a real one flying high in the blue sky today."
+                    ]
                 }
             ],
             "grammars": [
@@ -1576,63 +2551,108 @@
                     "phonetic": "/kɑː(r)/",
                     "meaning": "xe hơi",
                     "definition": "A vehicle with four wheels for carrying a few people.",
-                    "example": "A red car.\nMy father has a car.\nDrive a car."
+                    "example": "A red car.\nMy father has a car.\nDrive a car.",
+                    "quizzes": [
+                        "My mother has a bright red __________! It has four wheels and it can go very fast today.",
+                        "My father has a big blue __________! We go to the park and the sea in it every Sunday today.",
+                        "I want to drive a __________ when I am big! I will wear my sunglasses and go on a long trip."
+                    ]
                 },
                 {
                     "word": "bus",
                     "phonetic": "/bʌs/",
                     "meaning": "xe buýt",
                     "definition": "A large vehicle that carries many people.",
-                    "example": "Go to school by bus.\nA yellow bus.\nWait for the bus."
+                    "example": "Go to school by bus.\nA yellow bus.\nWait for the bus.",
+                    "quizzes": [
+                        "I like to go to my big school by __________! I sit next to my best friend and we talk today.",
+                        "Look at that big yellow __________! It is very long and it can carry many students tonight.",
+                        "We must wait for the __________ at the stop! It is coming soon and it will take us to the city."
+                    ]
                 },
                 {
                     "word": "bike",
                     "phonetic": "/baɪk/",
                     "meaning": "xe đạp",
                     "definition": "A vehicle with two wheels that you move with your legs.",
-                    "example": "I have a bike.\nRide a bike.\nA new bike."
+                    "example": "I have a bike.\nRide a bike.\nA new bike.",
+                    "quizzes": [
+                        "I have a new __________ for my birthday! It is very blue and it has a small silver bell.",
+                        "I like to ride a __________ in the green park! I wear my helmet and move my legs very fast.",
+                        "Look at my new __________! It has two wheels and I can go very fast to my friend's house."
+                    ]
                 },
                 {
                     "word": "motorbike",
                     "phonetic": "/ˈməʊtəbaɪk/",
                     "meaning": "xe máy",
                     "definition": "A vehicle with two wheels and an engine.",
-                    "example": "A fast motorbike.\nRide a motorbike.\nA blue motorbike."
+                    "example": "A fast motorbike.\nRide a motorbike.\nA blue motorbike.",
+                    "quizzes": [
+                        "My father has a very fast blue __________! He wears a black helmet and a warm jacket.",
+                        "I want to ride a __________ when I am big and tall! It moves very fast on the long road.",
+                        "Look at that shiny blue __________! It makes a very loud sound when it goes past our house."
+                    ]
                 },
                 {
                     "word": "boat",
                     "phonetic": "/bəʊt/",
                     "meaning": "con thuyền",
                     "definition": "A vehicle used for traveling on water.",
-                    "example": "A boat on the sea.\nRow a boat.\nA small boat."
+                    "example": "A boat on the sea.\nRow a boat.\nA small boat.",
+                    "quizzes": [
+                        "Look at that small white __________ on the blue sea! It is moving on the warm water today.",
+                        "Let's row a __________ in the lake! We can use the wooden oars and see the green trees.",
+                        "I have a toy __________ for my bath! It is very red and it floats on the warm soapy water."
+                    ]
                 },
                 {
                     "word": "ship",
                     "phonetic": "/ʃɪp/",
                     "meaning": "tàu thủy",
                     "definition": "A large boat for traveling across the sea.",
-                    "example": "A big ship.\nA ship on the ocean.\nWatch the ship."
+                    "example": "A big ship.\nA ship on the ocean.\nWatch the ship.",
+                    "quizzes": [
+                        "Look at that very big __________ on the blue ocean! It is carrying many large containers today.",
+                        "A __________ can travel for a long time across the sea. It is very big and very strong tonight.",
+                        "Let's watch the __________ go into the harbor! It is very tall and it has many people on it."
+                    ]
                 },
                 {
                     "word": "truck",
                     "phonetic": "/trʌk/",
                     "meaning": "xe tải",
                     "definition": "A large vehicle for carrying heavy things.",
-                    "example": "A big truck.\nA red truck.\nA truck carries things."
+                    "example": "A big truck.\nA red truck.\nA truck carries things.",
+                    "quizzes": [
+                        "Look at that big green __________! It has many wheels and it is very long on the road today.",
+                        "I have a toy red __________ in my box! I can put many small toys in the back and drive it.",
+                        "A __________ carries heavy things to the shops! It is very strong and it has a big engine."
+                    ]
                 },
                 {
                     "word": "helicopter",
                     "phonetic": "/ˈhelɪkɒptə(r)/",
                     "meaning": "trực thăng",
                     "definition": "A vehicle that flies and has large blades on top that turn.",
-                    "example": "A helicopter in the sky.\nA noisy helicopter.\nWatch the helicopter."
+                    "example": "A helicopter in the sky.\nA noisy helicopter.\nWatch the helicopter.",
+                    "quizzes": [
+                        "Look at that __________ in the blue sky! It has big blades on top that go round and round.",
+                        "A noisy __________ is flying over our house! It makes a very loud sound today tonight.",
+                        "Let's watch the __________ land in the field! It is very cool and it can go up and down fast."
+                    ]
                 },
                 {
                     "word": "van",
                     "phonetic": "/væn/",
                     "meaning": "xe tải nhỏ/xe bán tải",
                     "definition": "A vehicle that is used for carrying things or groups of people.",
-                    "example": "A white van.\nA delivery van.\nA big van."
+                    "example": "A white van.\nA delivery van.\nA big van.",
+                    "quizzes": [
+                        "Look at that white __________! It is carrying many boxes to the shop near our big school today.",
+                        "A delivery __________ is at our door! It has a new package for my mother and father today.",
+                        "This is a big __________! It can carry many people or many heavy things in the back tonight."
+                    ]
                 }
             ],
             "grammars": [
@@ -1652,63 +2672,108 @@
                     "phonetic": "/pɑːk/",
                     "meaning": "công viên",
                     "definition": "A public garden where people can walk and play.",
-                    "example": "Play in the park.\nA big park.\nGo to the park."
+                    "example": "Play in the park.\nA big park.\nGo to the park.",
+                    "quizzes": [
+                        "I like to play with my friends in the big green __________! We can run on the grass today.",
+                        "Look at that big __________! It has many tall trees and a small pond with colorful ducks.",
+                        "Let's go to the __________! We can sit on the wooden bench and eat our sweet red apples."
+                    ]
                 },
                 {
                     "word": "street",
                     "phonetic": "/striːt/",
                     "meaning": "con đường/phố",
                     "definition": "A road in a city or town with buildings along it.",
-                    "example": "Walk on the street.\nA busy street.\nCross the street."
+                    "example": "Walk on the street.\nA busy street.\nCross the street.",
+                    "quizzes": [
+                        "Please walk on the sidewalk and not on the __________! Many cars are going fast today tonight.",
+                        "This is a very busy __________! There are many shops and many people walking around today.",
+                        "We must cross the __________ carefully! Look left and right and hold your mother's hand."
+                    ]
                 },
                 {
                     "word": "beach",
                     "phonetic": "/biːtʃ/",
                     "meaning": "bãi biển",
                     "definition": "An area of sand next to the sea.",
-                    "example": "Go to the beach.\nSwim at the beach.\nA beautiful beach."
+                    "example": "Go to the beach.\nSwim at the beach.\nA beautiful beach.",
+                    "quizzes": [
+                        "Let's go to the __________! We can play with the yellow sand and see the blue sea tonight.",
+                        "I like to swim at the __________! The water is very cool and the sun is very bright today.",
+                        "This is a beautiful __________! We can find many small seashells and make a big sandcastle."
+                    ]
                 },
                 {
                     "word": "zoo",
                     "phonetic": "/zuː/",
                     "meaning": "vườn thú",
                     "definition": "A place where wild animals are kept so people can look at them.",
-                    "example": "Visit the zoo.\nWatch animals at the zoo.\nA big zoo."
+                    "example": "Visit the zoo.\nWatch animals at the zoo.\nA big zoo.",
+                    "quizzes": [
+                        "Let's visit the __________! We can see the tall giraffes and the big orange tigers today.",
+                        "I like to watch the animals at the __________! The monkeys are very funny and they like bananas.",
+                        "This is a very big __________! It has many different animals from all over the world tonight."
+                    ]
                 },
                 {
                     "word": "shop",
                     "phonetic": "/ʃɒp/",
                     "meaning": "cửa hàng",
                     "definition": "A building where you buy things.",
-                    "example": "Go to the shop.\nA toy shop.\nBuy things at the shop."
+                    "example": "Go to the shop.\nA toy shop.\nBuy things at the shop.",
+                    "quizzes": [
+                        "I want to go to the __________ to buy a new book! It is near the big market in the city.",
+                        "Look at that toy __________! It has many colorful dolls and fast cars in the window tonight.",
+                        "Let's buy some things at the __________! We need some milk and some sweet bread for breakfast."
+                    ]
                 },
                 {
                     "word": "market",
                     "phonetic": "/ˈmɑːkɪt/",
                     "meaning": "chợ",
                     "definition": "A place where people buy and sell food and other things.",
-                    "example": "Go to the market.\nBuy fruit at the market.\nA busy market."
+                    "example": "Go to the market.\nBuy fruit at the market.\nA busy market.",
+                    "quizzes": [
+                        "I like to go to the __________ with my grandmother! We buy fresh fish and green vegetables.",
+                        "Please buy some fruit at the __________! I want some yellow bananas and some red apples today.",
+                        "This is a very busy __________! There are many people selling many good things to eat tonight."
+                    ]
                 },
                 {
                     "word": "hospital",
                     "phonetic": "/ˈhɒspɪtl/",
                     "meaning": "bệnh viện",
                     "definition": "A place where sick people are treated by doctors.",
-                    "example": "Doctors work in the hospital.\nA big hospital.\nGo to the hospital."
+                    "example": "Doctors work in the hospital.\nA big hospital.\nGo to the hospital.",
+                    "quizzes": [
+                        "Many kind doctors work in the big __________! They help the sick people to feel better today.",
+                        "This is a very big __________! It has many white beds and many busy nurses in blue clothes.",
+                        "We must go to the __________! My little sister has a high fever and she needs to see a doctor."
+                    ]
                 },
                 {
                     "word": "city",
                     "phonetic": "/ˈsɪti/",
                     "meaning": "trong thành phố",
                     "definition": "A large and important town.",
-                    "example": "Live in the city.\nA big city.\nMany cars in the city."
+                    "example": "Live in the city.\nA big city.\nMany cars in the city.",
+                    "quizzes": [
+                        "I live in a big __________! There are many tall buildings and many busy streets today tonight.",
+                        "This is a very big __________! It has many parks and many shops and it is very noisy tonight.",
+                        "There are many cars in the __________! They move fast and they make a lot of noise today."
+                    ]
                 },
                 {
                     "word": "countryside",
                     "phonetic": "/ˈkʌntrisaɪd/",
                     "meaning": "nông thôn",
                     "definition": "The land outside of towns and cities.",
-                    "example": "Live in the countryside.\nA quiet countryside.\nGreen fields in the countryside."
+                    "example": "Live in the countryside.\nA quiet countryside.\nGreen fields in the countryside.",
+                    "quizzes": [
+                        "I like to live in the __________! It is very quiet and I can see many cows and sheep today.",
+                        "This is a very quiet __________! There are no busy streets and no loud cars around here today.",
+                        "Look at the green fields in the __________! They are very big and they have many pretty flowers."
+                    ]
                 }
             ],
             "grammars": [
@@ -1728,98 +2793,168 @@
                     "phonetic": "/bɪɡ/",
                     "meaning": "to/lớn",
                     "definition": "Large in size.",
-                    "example": "A big elephant.\nA big house.\nMy dog is big."
+                    "example": "A big elephant.\nA big house.\nMy dog is big.",
+                    "quizzes": [
+                        "Look at that __________ elephant! It has a very long nose and two very large ears tonight.",
+                        "I live in a __________ house with my family! It has many rooms and a very large garden today.",
+                        "My dog is very __________! It is as tall as I am and it has a very long tail today tonight."
+                    ]
                 },
                 {
                     "word": "small",
                     "phonetic": "/smɔːl/",
                     "meaning": "nhỏ",
                     "definition": "Little in size.",
-                    "example": "A small mouse.\nA small cat.\nMy toy is small."
+                    "example": "A small mouse.\nA small cat.\nMy toy is small.",
+                    "quizzes": [
+                        "Look at that __________ mouse! It is very little and it is eating a piece of yellow cheese.",
+                        "I have a __________ cat at home! It is very cute and it likes to sleep in a little basket.",
+                        "My favorite toy is __________! I can put it in my pocket and take it to school every day tonight."
+                    ]
                 },
                 {
                     "word": "happy",
                     "phonetic": "/ˈhæpi/",
                     "meaning": "hạnh phúc",
                     "definition": "Feeling pleased or glad.",
-                    "example": "A happy face.\nI am happy.\nA happy boy."
+                    "example": "A happy face.\nI am happy.\nA happy boy.",
+                    "quizzes": [
+                        "Look at her __________ face! She is smiling because she has a new colorful doll today tonight.",
+                        "I am very __________ today! I played in the park with my friends and ate some sweet cake.",
+                        "This is a very __________ boy! He is singing a song and jumping up and down in the garden."
+                    ]
                 },
                 {
                     "word": "sad",
                     "phonetic": "/sæd/",
                     "meaning": "buồn",
                     "definition": "Feeling unhappy.",
-                    "example": "A sad face.\nI am sad.\nDon't be sad."
+                    "example": "A sad face.\nI am sad.\nDon't be sad.",
+                    "quizzes": [
+                        "Why do you have a __________ face? Did you lose your favorite toy or your colorful ball today?",
+                        "I am very __________ tonight because I cannot go to the park. It is raining outside today.",
+                        "Please don't be __________! We can play a fun game inside the house and eat some sweet cookies."
+                    ]
                 },
                 {
                     "word": "hot",
                     "phonetic": "/hɒt/",
                     "meaning": "nóng",
                     "definition": "Having a high temperature.",
-                    "example": "Hot weather.\nHot tea.\nI am hot."
+                    "example": "Hot weather.\nHot tea.\nI am hot.",
+                    "quizzes": [
+                        "It is very __________ weather today! I want to eat a cold ice cream and drink some water.",
+                        "Be careful with that __________ tea! It is in the white cup and it can burn your mouth tonight.",
+                        "I am very __________ after running in the garden! I need to sit under the big tree and rest."
+                    ]
                 },
                 {
                     "word": "cold",
                     "phonetic": "/kəʊld/",
                     "meaning": "lạnh",
                     "definition": "Having a low temperature.",
-                    "example": "Cold water.\nCold weather.\nI am cold."
+                    "example": "Cold water.\nCold weather.\nI am cold.",
+                    "quizzes": [
+                        "I like to drink __________ water in the summer! It makes me feel very fresh and very good.",
+                        "It is very __________ weather today! Please wear your warm coat and your soft woolly hat.",
+                        "I am very __________ tonight! Can I have a warm blanket and a cup of hot milk before I sleep?"
+                    ]
                 },
                 {
                     "word": "long",
                     "phonetic": "/lɒŋ/",
                     "meaning": "dài",
                     "definition": "Measuring a large distance from end to end.",
-                    "example": "A long snake.\nLong hair.\nA long pencil."
+                    "example": "A long snake.\nLong hair.\nA long pencil.",
+                    "quizzes": [
+                        "Look at that __________ snake! It is very green and it is moving through the tall grass today.",
+                        "My sister has __________ hair! It is black and she likes to wear a pretty pink ribbon today.",
+                        "I have a __________ pencil in my bag! It is yellow and I use it to draw many big pictures."
+                    ]
                 },
                 {
                     "word": "short",
                     "phonetic": "/ʃɔːt/",
                     "meaning": "ngắn/thấp",
                     "definition": "Not long, or not tall.",
-                    "example": "A short pencil.\nA short boy.\nShort hair."
+                    "example": "A short pencil.\nA short boy.\nShort hair.",
+                    "quizzes": [
+                        "This is a __________ pencil! I need to use it to write some small words in my new book today.",
+                        "He is a __________ boy! He is not very tall but he can run very fast in the green park today.",
+                        "I have __________ hair! It is easy to wash and it stays very clean when I play outside tonight."
+                    ]
                 },
                 {
                     "word": "new",
                     "phonetic": "/njuː/",
                     "meaning": "mới",
                     "definition": "Not old; made recently.",
-                    "example": "A new toy.\nA new car.\nI have new shoes."
+                    "example": "A new toy.\nA new car.\nI have new shoes.",
+                    "quizzes": [
+                        "I have a __________ toy in my box today! It is very shiny and it has no scratches.",
+                        "Look at that __________ car! It is very clean and it has a very bright red color tonight.",
+                        "I have __________ shoes for school today! They are very black and they feel very good on my feet."
+                    ]
                 },
                 {
                     "word": "old",
                     "phonetic": "/əʊld/",
                     "meaning": "cũ/già",
                     "definition": "Having existed for a long time.",
-                    "example": "An old book.\nAn old man.\nMy shoes are old."
+                    "example": "An old book.\nAn old man.\nMy shoes are old.",
+                    "quizzes": [
+                        "I have an __________ book from my grandfather! The pages are yellow but the story is very good.",
+                        "That __________ man is walking slowly in the park! He has white hair and a kind smile today.",
+                        "My shoes are __________ now! They have some small holes and they are not very black tonight."
+                    ]
                 },
                 {
                     "word": "good",
                     "phonetic": "/ɡʊd/",
                     "meaning": "tốt",
                     "definition": "Of a high quality or pleasant.",
-                    "example": "A good boy.\nA good book.\nYou are good."
+                    "example": "A good boy.\nA good book.\nYou are good.",
+                    "quizzes": [
+                        "You are a __________ boy! You helped your mother to clean the big wooden table today tonight.",
+                        "This is a very __________ book! It has many colorful pictures and a very happy ending today.",
+                        "You are __________ at drawing! Your picture of the green cat is very beautiful tonight today."
+                    ]
                 },
                 {
                     "word": "bad",
                     "phonetic": "/bæd/",
                     "meaning": "xấu/tệ",
                     "definition": "Not good; unpleasant.",
-                    "example": "A bad dream.\nA bad boy.\nThat is bad."
+                    "example": "A bad dream.\nA bad boy.\nThat is bad.",
+                    "quizzes": [
+                        "I had a __________ dream last night! I saw a big scary monster under my bed today tonight.",
+                        "Don't be a __________ boy! Please listen to your teacher and don't throw stones in the garden.",
+                        "That is __________! You must not hit your friends when you play with the colorful toys today."
+                    ]
                 },
                 {
                     "word": "clean",
                     "phonetic": "/kliːn/",
                     "meaning": "sạch sẽ",
                     "definition": "Not dirty.",
-                    "example": "Clean hands.\nA clean room.\nI am clean."
+                    "example": "Clean hands.\nA clean room.\nI am clean.",
+                    "quizzes": [
+                        "Please wash your hands so they are __________! We are going to eat some sweet cake now tonight.",
+                        "I have a __________ room today! I put all my toys in the box and my clothes in the cupboard.",
+                        "I am __________ now! I had a warm bath and I am wearing my new white t-shirt today tonight."
+                    ]
                 },
                 {
                     "word": "dirty",
                     "phonetic": "/ˈdɜːti/",
                     "meaning": "bẩn",
                     "definition": "Not clean.",
-                    "example": "Dirty hands.\nA dirty face.\nMy shoes are dirty."
+                    "example": "Dirty hands.\nA dirty face.\nMy shoes are dirty.",
+                    "quizzes": [
+                        "Oh no! You have __________ hands from playing in the garden! Please wash them with soap today.",
+                        "Look at your __________ face! You have some chocolate on your nose and your chin tonight.",
+                        "My shoes are __________ after running in the rain! I must clean them with a wet cloth today."
+                    ]
                 }
             ],
             "grammars": [
@@ -1839,105 +2974,180 @@
                     "phonetic": "/wɔːk/",
                     "meaning": "đi bộ",
                     "definition": "To move on your legs at a regular speed.",
-                    "example": "Walk to school.\nI can walk.\nLet's walk."
+                    "example": "Walk to school.\nI can walk.\nLet's walk.",
+                    "quizzes": [
+                        "I like to __________ to school with my mother! We see many colorful cars on the street today.",
+                        "I can __________ very well now! I am a big boy and I don't need a small stroller tonight.",
+                        "Let's __________ to the big park! It is a very sunny day and we can see the green trees today."
+                    ]
                 },
                 {
                     "word": "sit",
                     "phonetic": "/sɪt/",
                     "meaning": "ngồi",
                     "definition": "To rest on your bottom with your body upright.",
-                    "example": "Sit down.\nSit on the chair.\nI am sitting."
+                    "example": "Sit down.\nSit on the chair.\nI am sitting.",
+                    "quizzes": [
+                        "Please __________ down on the soft rug! It is time for a story about the funny monkeys today.",
+                        "You can __________ on the small wooden chair! It is next to the big table in the kitchen tonight.",
+                        "I am __________ on the sofa with my father! We are watching a movie about a big blue robot."
+                    ]
                 },
                 {
                     "word": "stand",
                     "phonetic": "/stænd/",
                     "meaning": "đứng",
                     "definition": "To be on your feet in an upright position.",
-                    "example": "Stand up.\nStand on the floor.\nI am standing."
+                    "example": "Stand up.\nStand on the floor.\nI am standing.",
+                    "quizzes": [
+                        "Please __________ up when the teacher comes into the room! It is a very good thing to do today.",
+                        "I can __________ on the floor on one leg! Look at me, I am like a big pink flamingo today tonight.",
+                        "I am __________ near the door! I am waiting for my father to come home from work tonight today."
+                    ]
                 },
                 {
                     "word": "look",
                     "phonetic": "/lʊk/",
                     "meaning": "nhìn",
                     "definition": "To use your eyes to see.",
-                    "example": "Look at the bird.\nLook at me.\nLook out the window."
+                    "example": "Look at the bird.\nLook at me.\nLook out the window.",
+                    "quizzes": [
+                        "Please __________ at the small blue bird! It is singing a sweet song on the tall tree today.",
+                        "__________ at me! I am wearing my new red hat and my shiny black shoes today tonight.",
+                        "I like to __________ out the window! I can see the clouds and the birds in the bright sky today."
+                    ]
                 },
                 {
                     "word": "listen",
                     "phonetic": "/ˈlɪsn/",
                     "meaning": "nghe",
                     "definition": "To give attention to a sound.",
-                    "example": "Listen to the music.\nListen to the teacher.\nI am listening."
+                    "example": "Listen to the music.\nListen to the teacher.\nI am listening.",
+                    "quizzes": [
+                        "Please __________ to the happy music! It makes me want to dance and jump in the room tonight.",
+                        "You must __________ to the teacher! She is telling us about the animals in the wild zoo today.",
+                        "I am __________ to the rain on the window! It makes a funny sound like patter-patter tonight."
+                    ]
                 },
                 {
                     "word": "speak",
                     "phonetic": "/spiːk/",
                     "meaning": "nói",
                     "definition": "To say words with your voice.",
-                    "example": "Speak English.\nSpeak slowly.\nI can speak."
+                    "example": "Speak English.\nSpeak slowly.\nI can speak.",
+                    "quizzes": [
+                        "I like to __________ English with my friends at school! We can say many fun words today tonight.",
+                        "Please __________ slowly! I want to understand what you are saying about the big red truck today.",
+                        "I can __________ two languages! I speak Vietnamese with my mother and English with my teacher."
+                    ]
                 },
                 {
                     "word": "read",
                     "phonetic": "/riːd/",
                     "meaning": "đọc",
                     "definition": "To look at and understand words.",
-                    "example": "Read a book.\nI can read.\nI am reading."
+                    "example": "Read a book.\nI can read.\nI am reading.",
+                    "quizzes": [
+                        "I like to __________ a book about the fast cars! It has many colorful pictures and long stories.",
+                        "I can __________ many small words! My teacher helps me to learn new things every day today.",
+                        "I am __________ a story to my little sister! She likes the one about the cute brown teddy bear."
+                    ]
                 },
                 {
                     "word": "write",
                     "phonetic": "/raɪt/",
                     "meaning": "viết",
                     "definition": "To make letters or words with a pen or pencil.",
-                    "example": "Write your name.\nWrite in the notebook.\nI am writing."
+                    "example": "Write your name.\nWrite in the notebook.\nI am writing.",
+                    "quizzes": [
+                        "Please __________ your name on the top of the paper! Use your new yellow pencil today tonight.",
+                        "I like to __________ in my new notebook! I write about my family and my favorite small pets today.",
+                        "I am __________ a letter to my grandmother! I want to tell her about my new red bicycle tonight."
+                    ]
                 },
                 {
                     "word": "color",
                     "phonetic": "/ˈkʌlə(r)/",
                     "meaning": "tô màu",
                     "definition": "To use a crayon or paint to add color to a picture.",
-                    "example": "Color the picture.\nI like coloring.\nUse red to color."
+                    "example": "Color the picture.\nI like coloring.\nUse red to color.",
+                    "quizzes": [
+                        "I like to __________ the picture of the big yellow house! I use my colorful crayons today.",
+                        "I like __________ very much! I can make the sky blue and the grass green in my book tonight.",
+                        "Please use red to __________ the small apple! It looks very sweet and very pretty today tonight."
+                    ]
                 },
                 {
                     "word": "draw",
                     "phonetic": "/drɔː/",
                     "meaning": "vẽ",
                     "definition": "To make a picture with a pencil or pen.",
-                    "example": "Draw a dog.\nI can draw.\nI am drawing."
+                    "example": "Draw a dog.\nI can draw.\nI am drawing.",
+                    "quizzes": [
+                        "I like to __________ a small brown dog! It has a long tail and two big black eyes today.",
+                        "I can __________ a beautiful flower for my mother! I use my pencil and a clean white paper.",
+                        "I am __________ a big silver plane now! It has two wings and it can fly high in the air today."
+                    ]
                 },
                 {
                     "word": "point",
                     "phonetic": "/pɔɪnt/",
                     "meaning": "chỉ",
                     "definition": "To show something by holding out your finger towards it.",
-                    "example": "Point to the board.\nPoint to your nose.\nDon't point."
+                    "example": "Point to the board.\nPoint to your nose.\nDon't point.",
+                    "quizzes": [
+                        "Please __________ to the white board! The teacher is writing some fun words for us to read.",
+                        "Can you __________ to your small nose? It is between your two eyes and above your mouth today.",
+                        "Don't __________ at people! It is better to use your words to say what you want today tonight."
+                    ]
                 },
                 {
                     "word": "wave",
                     "phonetic": "/weɪv/",
                     "meaning": "vẫy tay",
                     "definition": "To move your hand from side to side to say hello or goodbye.",
-                    "example": "Wave goodbye.\nWave your hand.\nI am waving."
+                    "example": "Wave goodbye.\nWave your hand.\nI am waving.",
+                    "quizzes": [
+                        "Please __________ goodbye to your grandmother! She is going home in her big red car today.",
+                        "__________ your hand to say hello to your friends! They are playing in the green garden tonight.",
+                        "I am __________ to the people on the big ship! They are far away on the blue sea today tonight."
+                    ]
                 },
                 {
                     "word": "put",
                     "phonetic": "/pʊt/",
                     "meaning": "đặt/để",
                     "definition": "To move something to a particular place.",
-                    "example": "Put it on the table.\nPut your bag down.\nPut on your shoes."
+                    "example": "Put it on the table.\nPut your bag down.\nPut on your shoes.",
+                    "quizzes": [
+                        "Please __________ the red apple on the wooden table! We can eat it after we play our game.",
+                        "__________ your blue bag down on the floor! It is very heavy and you need to rest your arms.",
+                        "Put __________ your black shoes! We are going to walk to the park and see the colorful ducks."
+                    ]
                 },
                 {
                     "word": "give",
                     "phonetic": "/ɡɪv/",
                     "meaning": "đưa/cho",
                     "definition": "To let someone have something as a gift.",
-                    "example": "Give me the book.\nGive it to me.\nI give you an apple."
+                    "example": "Give me the book.\nGive it to me.\nI give you an apple.",
+                    "quizzes": [
+                        "Please __________ me the story book! I want to read about the funny monkeys in the wild zoo.",
+                        "__________ it to me! I want to look at the beautiful picture you drew with your pencils today.",
+                        "I __________ you a sweet red apple! You can eat it for your snack at school today tonight."
+                    ]
                 },
                 {
                     "word": "take",
                     "phonetic": "/teɪk/",
                     "meaning": "lấy",
                     "definition": "To move something away from a place.",
-                    "example": "Take a pencil.\nTake it.\nDon't take my toy."
+                    "example": "Take a pencil.\nTake it.\nDon't take my toy.",
+                    "quizzes": [
+                        "Please __________ a yellow pencil from the box! You can use it to write your name on the paper.",
+                        "__________ it with your hand! It is very small and light and you can carry it in your pocket.",
+                        "Don't __________ my favorite toy! I am playing with it now and I want to keep it in my hand."
+                    ]
                 }
             ],
             "grammars": [

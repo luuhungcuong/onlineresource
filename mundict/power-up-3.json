@@ -1481,6 +1481,66 @@
                         "She is a very __________ singer who has millions of fans.",
                         "Online games are very __________ with teenagers nowadays."
                     ]
+                },
+                {
+                    "word": "mean",
+                    "phonetic": "/miːn/",
+                    "meaning": "xấu tính/keo kiệt",
+                    "definition": "A mean person is not kind and does not like sharing.",
+                    "example": "Don't be mean to your sister.\nHe is a mean person.\nIt is mean to say that.",
+                    "quizzes": [
+                        "Don't be __________ to your friends; share your toys.",
+                        "He's a __________ person who never shares anything.",
+                        "It was very __________ of him to take her book."
+                    ]
+                },
+                {
+                    "word": "rude",
+                    "phonetic": "/ruːd/",
+                    "meaning": "thô lỗ",
+                    "definition": "Not polite; behaving in a way that hurts other people's feelings.",
+                    "example": "It is rude to interrupt.\nHe was very rude to the waiter.\nDon't be rude!",
+                    "quizzes": [
+                        "It is very __________ to speak with your mouth full of food.",
+                        "The boy was __________ to his teacher.",
+                        "Don't be __________; say 'please' and 'thank you'."
+                    ]
+                },
+                {
+                    "word": "polite",
+                    "phonetic": "/pəˈlaɪt/",
+                    "meaning": "lịch sự",
+                    "definition": "Behaving in a way that is socially correct and shows respect for other people.",
+                    "example": "He is a polite boy.\nIt is polite to say 'Thank you'.\nShe gave a polite answer.",
+                    "quizzes": [
+                        "Always be __________ to your teachers and elders.",
+                        "It is __________ to hold the door open for someone.",
+                        "He gave a __________ smile to the visitors."
+                    ]
+                },
+                {
+                    "word": "quiet",
+                    "phonetic": "/ˈkwaɪ.ət/",
+                    "meaning": "yên lặng/ít nói",
+                    "definition": "Making very little noise, or a person who does not talk much.",
+                    "example": "Be quiet in the library.\nShe is a quiet girl.\nIt is a quiet place.",
+                    "quizzes": [
+                        "Please be __________; the baby is sleeping.",
+                        "She is very __________ and doesn't talk much in class.",
+                        "The library is a very __________ place to study."
+                    ]
+                },
+                {
+                    "word": "funny",
+                    "phonetic": "/ˈfʌn.i/",
+                    "meaning": "buồn cười/khôi hài",
+                    "definition": "Something that makes you laugh.",
+                    "example": "He told a funny joke.\nThat movie is very funny.\nYou are so funny!",
+                    "quizzes": [
+                        "The clown told a very __________ joke that made everyone laugh.",
+                        "We watched a __________ movie at the cinema last night.",
+                        "My friend is very __________ and always makes me smile."
+                    ]
                 }
             ],
             "grammars": [

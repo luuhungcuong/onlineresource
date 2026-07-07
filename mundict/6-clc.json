@@ -1,0 +1,704 @@
+{
+    "programId": "6-clc",
+    "programName": "CLC Grade 6",
+    "sections": [
+        {
+            "sectionId": "unit-1-describing-people",
+            "sectionName": "Unit 1: Describing People",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "baby",
+                    "phonetic": "/ˈbeɪbi/",
+                    "meaning": "trẻ sơ sinh, em bé",
+                    "definition": "A very young child, especially one that cannot walk or talk yet.",
+                    "example": "The baby is sleeping in the crib.\nShe gave birth to a healthy baby girl.\nHe looks just like his father when he was a baby.",
+                    "quizzes": [
+                        "The newborn __________ cried when she was hungry.",
+                        "Can you help me feed the __________ her milk?",
+                        "She bought some cute clothes for the new __________."
+                    ]
+                },
+                {
+                    "word": "toddler",
+                    "phonetic": "/ˈtɒdlə(r)/",
+                    "meaning": "trẻ đi chập chững",
+                    "definition": "A young child who is just learning to walk.",
+                    "example": "The toddler took his first steps yesterday.\nShe teaches at a playgroup for toddlers.\nIt is hard to keep a toddler sitting still for long.",
+                    "quizzes": [
+                        "A __________ needs constant supervision because they walk around and touch everything.",
+                        "My little brother is a __________ and he loves to explore the house.",
+                        "The toy is safe for a __________ over the age of two."
+                    ]
+                },
+                {
+                    "word": "child",
+                    "phonetic": "/tʃaɪld/",
+                    "meaning": "đứa trẻ, con",
+                    "definition": "A young human being below the age of puberty or below the legal age of majority.",
+                    "example": "Every child has the right to education.\nShe is an only child.\nWhen I was a child, I wanted to be an astronaut.",
+                    "quizzes": [
+                        "A young __________ needs a lot of sleep and healthy food.",
+                        "She is the eldest __________ in her family.",
+                        "The school has many activities to help a __________ learn and play."
+                    ]
+                },
+                {
+                    "word": "boy",
+                    "phonetic": "/bɔɪ/",
+                    "meaning": "cậu bé, con trai",
+                    "definition": "A male child or young man.",
+                    "example": "The little boy is playing with his toy cars.\nHe is a very polite boy.\nWho is that boy sitting next to your sister?",
+                    "quizzes": [
+                        "The young __________ ran to catch the school bus.",
+                        "He is a smart __________ who loves science experiments.",
+                        "The tall __________ is the captain of the soccer team."
+                    ]
+                },
+                {
+                    "word": "kid",
+                    "phonetic": "/kɪd/",
+                    "meaning": "đứa trẻ (thân mật)",
+                    "definition": "A child or young person (informal).",
+                    "example": "The kids are playing in the backyard.\nWhen I was a kid, we lived in the countryside.\nShe is a very nice kid.",
+                    "quizzes": [
+                        "The school playground was full of __________s running around.",
+                        "He is just a __________ and still has a lot to learn.",
+                        "We used to ride our bikes all day when we were __________s."
+                    ]
+                },
+                {
+                    "word": "girl",
+                    "phonetic": "/ɡɜːl/",
+                    "meaning": "cô bé, con gái",
+                    "definition": "A female child or young woman.",
+                    "example": "The little girl is wearing a beautiful pink dress.\nShe is a very talented girl.\nWho is that girl with long blond hair?",
+                    "quizzes": [
+                        "The young __________ drew a colorful picture of a rainbow.",
+                        "She is a clever __________ who always gets good grades.",
+                        "The __________ in the blue jacket is my cousin."
+                    ]
+                },
+                {
+                    "word": "adolescent",
+                    "phonetic": "/ˌædəˈlesnt/",
+                    "meaning": "thanh thiếu niên (đang tuổi dậy thì)",
+                    "definition": "A young person who is developing from a child into an adult.",
+                    "example": "Adolescents often experience many physical and emotional changes.\nIt can be difficult to communicate with an adolescent.\nThe book is written for adolescents.",
+                    "quizzes": [
+                        "Many __________s face peer pressure at school.",
+                        "An __________ is no longer a child but not yet a fully grown adult.",
+                        "The program helps __________s build confidence and life skills."
+                    ]
+                },
+                {
+                    "word": "teenager",
+                    "phonetic": "/ˈtiːneɪdʒə(r)/",
+                    "meaning": "người ở tuổi thiếu niên (13-19 tuổi)",
+                    "definition": "A person aged between 13 and 19 years.",
+                    "example": "Most teenagers love spending time with their friends.\nShe behaves like a typical teenager.\nHe has two teenage sons.",
+                    "quizzes": [
+                        "A __________ often spends a lot of time on social media.",
+                        "When you turn thirteen, you officially become a __________.",
+                        "The clothing store sells trendy outfits for __________s."
+                    ]
+                },
+                {
+                    "word": "adult",
+                    "phonetic": "/ˈædʌlt/",
+                    "meaning": "người trưởng thành, người lớn",
+                    "definition": "A person who is fully grown or developed.",
+                    "example": "Children must be accompanied by an adult.\nHe behaves like a mature adult.\nIt is hard work being an adult.",
+                    "quizzes": [
+                        "Tickets are cheaper for children than for __________s.",
+                        "When you grow up, you will face the responsibilities of an __________.",
+                        "The movie is suitable for both kids and __________s."
+                    ]
+                },
+                {
+                    "word": "man",
+                    "phonetic": "/mæn/",
+                    "meaning": "đàn ông, nam giới",
+                    "definition": "An adult male human being.",
+                    "example": "He is a man of his word.\nA tall man was standing near the door.\nHe grew up to be a very kind man.",
+                    "quizzes": [
+                        "The __________ wearing the black suit is our new principal.",
+                        "She asked the __________ at the reception desk for directions.",
+                        "A wise old __________ gave me some excellent advice."
+                    ]
+                },
+                {
+                    "word": "woman",
+                    "phonetic": "/ˈwʊmən/",
+                    "meaning": "phụ nữ, nữ giới",
+                    "definition": "An adult female human being.",
+                    "example": "She is a very strong and independent woman.\nA young woman waved at us.\nWho is that woman over there?",
+                    "quizzes": [
+                        "The __________ who lives next door is a famous doctor.",
+                        "She grew up to be a successful business__________.",
+                        "A kind __________ helped the lost boy find his mother."
+                    ]
+                },
+                {
+                    "word": "old person",
+                    "phonetic": "/əʊld ˈpɜːsn/",
+                    "meaning": "người già, người cao tuổi",
+                    "definition": "An elderly human being.",
+                    "example": "We should always show respect to an old person.\nAn old person was crossing the street slowly.\nShe volunteers to help old people in the community.",
+                    "quizzes": [
+                        "You should offer your seat on the bus to an __________.",
+                        "The __________ smiled warmly and thanked us for our help.",
+                        "My grandfather is a wise __________ who tells great stories."
+                    ]
+                },
+                {
+                    "word": "gray",
+                    "phonetic": "/ɡreɪ/",
+                    "meaning": "màu xám (mắt/tóc)",
+                    "definition": "Of a color intermediate between black and white, as of ashes or lead.",
+                    "example": "He has beautiful gray eyes.\nHis hair is starting to turn gray.\nThe sky looks very gray and cloudy.",
+                    "quizzes": [
+                        "She looked at me with her calm __________ eyes.",
+                        "My grandfather has __________ hair and a long beard.",
+                        "He wore a smart __________ suit to the interview."
+                    ]
+                },
+                {
+                    "word": "brown",
+                    "phonetic": "/braʊn/",
+                    "meaning": "màu nâu",
+                    "definition": "Of a color produced by mixing red, yellow, and black, as of dark wood or rich soil.",
+                    "example": "She has big brown eyes.\nHe wears a brown leather jacket.\nThe dog has soft brown fur.",
+                    "quizzes": [
+                        "Most people in Asia have dark __________ eyes.",
+                        "He painted the wooden fence a dark shade of __________.",
+                        "She carried a light __________ handbag that matched her shoes."
+                    ]
+                },
+                {
+                    "word": "green",
+                    "phonetic": "/ɡriːn/",
+                    "meaning": "màu xanh lá cây",
+                    "definition": "Of the color between blue and yellow in the spectrum; colored like grass or emeralds.",
+                    "example": "She has striking green eyes.\nThe grass is bright green in spring.\nHe wore a green sweater.",
+                    "quizzes": [
+                        "It is rare to see someone with natural __________ eyes.",
+                        "The leaves on the trees are starting to turn __________ again.",
+                        "The cat's glowing __________ eyes could be seen in the dark."
+                    ]
+                },
+                {
+                    "word": "blue",
+                    "phonetic": "/bluː/",
+                    "meaning": "màu xanh dương",
+                    "definition": "Of a color intermediate between green and violet, as of the sky or sea on a sunny day.",
+                    "example": "The baby has bright blue eyes.\nShe has a blue ribbon in her hair.\nThe sky is blue and clear today.",
+                    "quizzes": [
+                        "He was born with deep __________ eyes like his mother.",
+                        "She wore a beautiful __________ dress to the party.",
+                        "The ocean looked calm and __________ under the morning sun."
+                    ]
+                },
+                {
+                    "word": "hazel",
+                    "phonetic": "/ˈheɪzl/",
+                    "meaning": "màu hạt dẻ (mắt nâu vàng lục)",
+                    "definition": "A greenish-brown or yellowish-brown color, especially used to describe eye color.",
+                    "example": "She has lovely hazel eyes that change color in the sun.\nHis eyes are hazel, a mix of brown and green.\nShe wore makeup that complemented her hazel eyes.",
+                    "quizzes": [
+                        "Her __________ eyes seemed to look gold in the bright sunlight.",
+                        "He has a combination of green and brown in his __________ eyes.",
+                        "The girl with the __________ eyes smiled at the camera."
+                    ]
+                },
+                {
+                    "word": "bald",
+                    "phonetic": "/bɔːld/",
+                    "meaning": "hói, không có tóc",
+                    "definition": "Having little or no hair on the head.",
+                    "example": "He went bald in his late twenties.\nMy uncle is completely bald.\nHe has a bald head and wears glasses.",
+                    "quizzes": [
+                        "The actor is famous for his shiny __________ head.",
+                        "He decided to shave his head completely when he started going __________.",
+                        "A __________ man was sitting at the front row."
+                    ]
+                },
+                {
+                    "word": "gone!",
+                    "phonetic": "/ɡɒn/",
+                    "meaning": "biến mất, hết sạch!",
+                    "definition": "No longer present; departed, used up, or disappeared.",
+                    "example": "Look, all his hair is gone!\nWhere is my phone? It is gone!\nWhen we arrived, the cake was already gone!",
+                    "quizzes": [
+                        "I left my keys on the table, but now they are __________!",
+                        "He looked in the mirror and realized his hair was completely __________!",
+                        "All the cookies in the jar are __________!"
+                    ]
+                },
+                {
+                    "word": "fair",
+                    "phonetic": "/feə(r)/",
+                    "meaning": "trắng, sáng (da/tóc vàng nhạt)",
+                    "definition": "Pale; light in color (used for skin or hair).",
+                    "example": "She has fair skin that burns easily in the sun.\nHe has short, fair hair.\nShe looks beautiful with her fair complexion.",
+                    "quizzes": [
+                        "People with __________ skin need to wear sunscreen in summer.",
+                        "She has long, __________ hair that looks almost blonde.",
+                        "Her face was __________ and smooth."
+                    ]
+                },
+                {
+                    "word": "short",
+                    "phonetic": "/ʃɔːt/",
+                    "meaning": "ngắn, thấp",
+                    "definition": "Measuring a small distance from end to end, or small in height.",
+                    "example": "She cut her hair short.\nHe is quite short for his age.\nWe took a short break after the exam.",
+                    "quizzes": [
+                        "He is the __________est student in our class.",
+                        "She prefers to keep her hair __________ because it is easy to wash.",
+                        "The teacher gave us a __________ story to read for homework."
+                    ]
+                },
+                {
+                    "word": "blond",
+                    "phonetic": "/blɒnd/",
+                    "meaning": "vàng nhạt (tóc)",
+                    "definition": "Of a yellow or pale golden color (used to describe hair).",
+                    "example": "She has long blond hair.\nThe boy with blond hair is my cousin.\nHis hair is naturally blond.",
+                    "quizzes": [
+                        "The little girl has beautiful curly __________ hair.",
+                        "Is your brother's hair dark or __________?",
+                        "She dyed her hair __________ for the summer."
+                    ]
+                },
+                {
+                    "word": "straight",
+                    "phonetic": "/streɪt/",
+                    "meaning": "thẳng (tóc)",
+                    "definition": "Without a curve or bend; not curly or wavy.",
+                    "example": "She has long, straight black hair.\nI wish my hair was straight instead of curly.\nUse a hair straightener to make your hair straight.",
+                    "quizzes": [
+                        "Her hair is naturally __________ and smooth.",
+                        "She got tired of her curly hair and decided to get it __________ened.",
+                        "He has short, __________ hair that is easy to style."
+                    ]
+                },
+                {
+                    "word": "curly",
+                    "phonetic": "/ˈkɜːli/",
+                    "meaning": "xoăn (tóc)",
+                    "definition": "Made of curves or ringlets (used to describe hair).",
+                    "example": "She has beautiful curly red hair.\nHis hair becomes very curly when it is wet.\nShe uses special shampoo for her curly locks.",
+                    "quizzes": [
+                        "The baby has cute __________ hair that looks like springs.",
+                        "My sister has straight hair, but I have __________ hair.",
+                        "He brushed his __________ hair to make it look neat."
+                    ]
+                },
+                {
+                    "word": "light brown",
+                    "phonetic": "/laɪt braʊn/",
+                    "meaning": "nâu nhạt",
+                    "definition": "A pale shade of the color brown.",
+                    "example": "She has light brown hair that shines in the sun.\nHe has light brown eyes.\nThey painted the room a light brown color.",
+                    "quizzes": [
+                        "Her hair is not dark, it is a lovely __________ color.",
+                        "He wore a pair of __________ leather shoes.",
+                        "The puppy has soft __________ fur with white paws."
+                    ]
+                },
+                {
+                    "word": "spiky",
+                    "phonetic": "/ˈspaɪki/",
+                    "meaning": "chôm chôm, dựng đứng (tóc)",
+                    "definition": "Having sharp points; (of hair) styled to stand up in points.",
+                    "example": "He put gel in his hair to make it spiky.\nThe boy has cool spiky hair.\nI don't like my hair when it looks too spiky.",
+                    "quizzes": [
+                        "He used strong hair gel to create a __________ hairstyle.",
+                        "The teenager loves wearing his hair __________ and messy.",
+                        "She laughed at his __________ hair after he woke up."
+                    ]
+                },
+                {
+                    "word": "red",
+                    "phonetic": "/red/",
+                    "meaning": "màu đỏ / tóc hung đỏ",
+                    "definition": "Of a color like blood or a ruby; also used for orange-brown hair.",
+                    "example": "She has natural red hair and freckles.\nHe drove a shiny red sports car.\nHer face turned red when she was embarrassed.",
+                    "quizzes": [
+                        "People with __________ hair are sometimes called 'gingers'.",
+                        "She painted her nails a bright __________ color.",
+                        "The teacher used a __________ pen to correct our mistakes."
+                    ]
+                },
+                {
+                    "word": "auburn",
+                    "phonetic": "/ˈɔːbən/",
+                    "meaning": "màu nâu đỏ, tóc hung",
+                    "definition": "A reddish-brown color, especially used to describe hair.",
+                    "example": "She has long auburn hair.\nHis hair has a beautiful auburn tint in the sunlight.\nAuburn is a very warm and rich color.",
+                    "quizzes": [
+                        "Her __________ hair looked stunning against her green dress.",
+                        "He has dark eyes and wavy __________ hair.",
+                        "She decided to dye her hair a deep __________ shade."
+                    ]
+                },
+                {
+                    "word": "long",
+                    "phonetic": "/lɒŋ/",
+                    "meaning": "dài",
+                    "definition": "Measuring a great distance from end to end, or having a great length.",
+                    "example": "She has very long hair that reaches her waist.\nIt was a long and tiring journey.\nWe had a long discussion about the project.",
+                    "quizzes": [
+                        "How __________ is your hair now?",
+                        "She braided her __________ hair to keep it out of her face.",
+                        "We had to wait in a __________ queue to buy the tickets."
+                    ]
+                },
+                {
+                    "word": "dark brown",
+                    "phonetic": "/dɑːk braʊn/",
+                    "meaning": "nâu đậm",
+                    "definition": "A deep, dark shade of the color brown.",
+                    "example": "She has dark brown eyes and black hair.\nHe wears a dark brown coat.\nThe cabinet is made of dark brown wood.",
+                    "quizzes": [
+                        "Her hair is almost black, but in the sun you can see it is __________.",
+                        "He has chocolate-colored, __________ eyes.",
+                        "The soil in the garden is a rich, __________ color."
+                    ]
+                },
+                {
+                    "word": "gray",
+                    "phonetic": "/ɡreɪ/",
+                    "meaning": "xám, bạc (tóc)",
+                    "definition": "Of a color intermediate between black and white, as of ashes or lead.",
+                    "example": "He has gray hair at the temples.\nMy grandmother's hair is completely gray.\nHis gray beard makes him look very wise.",
+                    "quizzes": [
+                        "Many people get __________ hair as they grow older.",
+                        "She has short __________ hair and always wears a smile.",
+                        "He decided not to dye his __________ hair."
+                    ]
+                },
+                {
+                    "word": "wavy",
+                    "phonetic": "/ˈweɪvi/",
+                    "meaning": "gợn sóng (tóc)",
+                    "definition": "Having curves; not straight (used to describe hair).",
+                    "example": "She has long wavy blond hair.\nHis hair is naturally wavy.\nI like her wavy hairstyle.",
+                    "quizzes": [
+                        "Her hair is neither straight nor curly, it is just __________.",
+                        "She used a curling iron to make her hair look __________.",
+                        "The boy with the __________ hair is my classmate."
+                    ]
+                },
+                {
+                    "word": "graceful",
+                    "phonetic": "/ˈɡreɪsfl/",
+                    "meaning": "duyên dáng, thanh lịch",
+                    "definition": "Having or showing grace or elegance in movement or form.",
+                    "example": "She is a very graceful dancer.\nThe swan made a graceful movement across the water.\nHer handwriting is beautiful and graceful.",
+                    "quizzes": [
+                        "The ballerina performed a __________ leap on the stage.",
+                        "She is known for her __________ manners and polite speech.",
+                        "The cat made a __________ jump onto the high wall."
+                    ]
+                },
+                {
+                    "word": "confident",
+                    "phonetic": "/ˈkɒnfɪdənt/",
+                    "meaning": "tự tin",
+                    "definition": "Feeling or showing confidence in oneself; self-assured.",
+                    "example": "She is confident that she will pass the exam.\nHe gave a very confident speech.\nYou need to look confident during the interview.",
+                    "quizzes": [
+                        "He is a __________ boy who is not afraid to speak in public.",
+                        "The more you practice, the more __________ you will feel.",
+                        "She walked onto the stage with a __________ smile."
+                    ]
+                },
+                {
+                    "word": "calm",
+                    "phonetic": "/kɑːm/",
+                    "meaning": "bình tĩnh, điềm tĩnh",
+                    "definition": "Not excited, nervous, or upset; peaceful.",
+                    "example": "Try to stay calm and don't panic.\nHe has a very calm voice.\nThe sea is calm and peaceful today.",
+                    "quizzes": [
+                        "The teacher spoke in a __________ voice to quiet the students.",
+                        "She remained __________ even during the emergency.",
+                        "Yoga helps me keep my mind __________ and relaxed."
+                    ]
+                },
+                {
+                    "word": "clumsy",
+                    "phonetic": "/ˈklʌmzi/",
+                    "meaning": "vụng về, hậu đậu",
+                    "definition": "Awkward in movement or in handling things.",
+                    "example": "I am very clumsy and always drop things.\nThat was a clumsy mistake.\nHe is a clumsy boy but very kind.",
+                    "quizzes": [
+                        "The __________ waiter spilled soup on the customer's lap.",
+                        "I'm so __________; I keep bumping into the furniture.",
+                        "She made a __________ attempt to catch the falling glass."
+                    ]
+                },
+                {
+                    "word": "worried",
+                    "phonetic": "/ˈwʌrid/",
+                    "meaning": "lo lắng",
+                    "definition": "Anxious or troubled about actual or potential problems.",
+                    "example": "She looks worried about her grades.\nMy parents were worried when I came home late.\nDon't look so worried, everything will be fine.",
+                    "quizzes": [
+                        "The doctor had a __________ expression on his face.",
+                        "She was __________ that she might miss her flight.",
+                        "He is __________ about his upcoming math test."
+                    ]
+                },
+                {
+                    "word": "scared",
+                    "phonetic": "/skeəd/",
+                    "meaning": "sợ hãi",
+                    "definition": "Fearful; frightened.",
+                    "example": "She is scared of spiders.\nHe was too scared to speak.\nDon't be scared, the dog is friendly.",
+                    "quizzes": [
+                        "The little boy was __________ of the loud thunder.",
+                        "She felt __________ when she walked home alone in the dark.",
+                        "Are you __________ of watching horror movies?"
+                    ]
+                },
+                {
+                    "word": "helpful",
+                    "phonetic": "/ˈhelpfl/",
+                    "meaning": "có ích, hay giúp đỡ",
+                    "definition": "Giving or ready to give help.",
+                    "example": "The staff were very polite and helpful.\nHe gave me some helpful advice.\nShe is a helpful girl who loves to clean the classroom.",
+                    "quizzes": [
+                        "Thank you for being so __________ during my moving day.",
+                        "The library guide was very __________ in finding the right book.",
+                        "It is __________ to write down new vocabulary in a notebook."
+                    ]
+                },
+                {
+                    "word": "greedy",
+                    "phonetic": "/ˈɡriːdi/",
+                    "meaning": "tham lam",
+                    "definition": "Having or showing an intense and selfish desire for wealth, power, or food.",
+                    "example": "Don't be greedy, share the cake with your friends.\nHe is a greedy businessman who only cares about money.\nThe greedy dog wanted all the bones.",
+                    "quizzes": [
+                        "The __________ boy ate all the candies and left none for others.",
+                        "It is __________ to take more food than you can eat.",
+                        "The story teaches us that __________ people often end up with nothing."
+                    ]
+                },
+                {
+                    "word": "hungry",
+                    "phonetic": "/ˈhʌŋɡri/",
+                    "meaning": "đói bụng",
+                    "definition": "Feeling or showing the need for food.",
+                    "example": "I am so hungry, I could eat a horse.\nThe hungry children devoured the pizza.\nIf you are hungry, there is some fruit in the kitchen.",
+                    "quizzes": [
+                        "The baby started crying because she was __________.",
+                        "I skipped breakfast today, so I am very __________ now.",
+                        "They fed the __________ stray dog some food."
+                    ]
+                },
+                {
+                    "word": "kind",
+                    "phonetic": "/kaɪnd/",
+                    "meaning": "tốt bụng, tử tế",
+                    "definition": "Having or showing a friendly, generous, and considerate nature.",
+                    "example": "She is a very kind person.\nThank you for your kind words.\nHe was kind enough to help me carry my bags.",
+                    "quizzes": [
+                        "Be __________ to animals and do not hurt them.",
+                        "The __________ teacher explained the lesson again for us.",
+                        "It was very __________ of you to share your lunch."
+                    ]
+                },
+                {
+                    "word": "polite",
+                    "phonetic": "/pəˈlaɪt/",
+                    "meaning": "lịch sự, lễ phép",
+                    "definition": "Having or showing behavior that is respectful and considerate of other people.",
+                    "example": "He is a very polite young man.\nIt is polite to say 'please' and 'thank you'.\nShe gave a polite answer to the question.",
+                    "quizzes": [
+                        "A __________ child always greets the elders.",
+                        "It is not __________ to interrupt people when they are talking.",
+                        "He was very __________ and held the door open for me."
+                    ]
+                },
+                {
+                    "word": "happy",
+                    "phonetic": "/ˈhæpi/",
+                    "meaning": "vui vẻ, hạnh phúc",
+                    "definition": "Feeling or showing pleasure or contentment.",
+                    "example": "I am so happy to see you!\nThey lived a happy life together.\nShe has a happy smile on her face.",
+                    "quizzes": [
+                        "We wish you a __________ birthday and a great year ahead.",
+                        "The children looked very __________ playing in the park.",
+                        "Winning the game made the whole team extremely __________."
+                    ]
+                },
+                {
+                    "word": "sad",
+                    "phonetic": "/sæd/",
+                    "meaning": "buồn bã, đáng buồn",
+                    "definition": "Feeling or showing sorrow; unhappy.",
+                    "example": "She felt sad when her friend moved away.\nIt is a sad story with a tragic ending.\nWhy do you look so sad today?",
+                    "quizzes": [
+                        "The little girl was __________ because she lost her toy.",
+                        "It is __________ to see the old trees being cut down.",
+                        "He felt __________ after saying goodbye to his family."
+                    ]
+                },
+                {
+                    "word": "naughty",
+                    "phonetic": "/ˈnɔːti/",
+                    "meaning": "nghịch ngợm, hư đốn",
+                    "definition": "Badly behaved or disobedient (especially of a child).",
+                    "example": "He was a naughty boy who liked to play tricks on his friends.\nDon't be naughty, listen to your teacher.\nThe naughty puppy chewed on my shoes.",
+                    "quizzes": [
+                        "The __________ child drew crayons all over the clean wall.",
+                        "He was punished for his __________ behavior at school.",
+                        "The teacher told the __________ students to sit quietly."
+                    ]
+                },
+                {
+                    "word": "quiet",
+                    "phonetic": "/ˈkwaɪət/",
+                    "meaning": "yên tĩnh, im lặng, trầm tính",
+                    "definition": "Making little or no noise; silent or peaceful.",
+                    "example": "Please be quiet in the library.\nHe is a very quiet and shy boy.\nIt was a quiet night in the countryside.",
+                    "quizzes": [
+                        "The classroom became __________ when the teacher entered.",
+                        "She prefers a __________ place to read her books.",
+                        "He is a __________ student who rarely speaks in class."
+                    ]
+                },
+                {
+                    "word": "surprised",
+                    "phonetic": "/səˈpraɪzd/",
+                    "meaning": "ngạc nhiên",
+                    "definition": "Feeling or showing surprise because something unexpected has happened.",
+                    "example": "She was surprised by the sudden party.\nHe looked surprised to see me there.\nI was surprised that he passed the test.",
+                    "quizzes": [
+                        "She was pleasantly __________ by the lovely gift.",
+                        "He had a __________ look on his face when he heard the news.",
+                        "We were __________ to find the shop closed so early."
+                    ]
+                },
+                {
+                    "word": "asleep",
+                    "phonetic": "/əˈsliːp/",
+                    "meaning": "đang ngủ",
+                    "definition": "In a state of sleep.",
+                    "example": "The baby fell asleep in her mother's arms.\nHe is still fast asleep in bed.\nDon't make any noise, she is asleep.",
+                    "quizzes": [
+                        "The cat was sound __________ on the warm rug.",
+                        "He fell __________ while watching the boring movie.",
+                        "I checked on the kids and found them both fast __________."
+                    ]
+                },
+                {
+                    "word": "grumpy",
+                    "phonetic": "/ˈɡrʌmpi/",
+                    "meaning": "càu nhàu, gắt gỏng",
+                    "definition": "Bad-tempered and irritable.",
+                    "example": "He is always grumpy in the morning.\nWhy are you so grumpy today?\nThe grumpy old man complained about the noise.",
+                    "quizzes": [
+                        "She gets __________ when she does not get enough sleep.",
+                        "He gave a __________ reply and walked away.",
+                        "Don't be so __________; smile and have some fun!"
+                    ]
+                },
+                {
+                    "word": "awake",
+                    "phonetic": "/əˈweɪk/",
+                    "meaning": "thức giấc, tỉnh táo",
+                    "definition": "Not asleep.",
+                    "example": "I was awake all night worrying about the exam.\nIs the baby awake yet?\nHe tried hard to stay awake during the lecture.",
+                    "quizzes": [
+                        "I was still wide __________ when the sun started to rise.",
+                        "She lay __________ in bed, listening to the rain.",
+                        "Please wake him up if he is not __________ yet."
+                    ]
+                },
+                {
+                    "word": "confused",
+                    "phonetic": "/kənˈfjuːzd/",
+                    "meaning": "bối rối, hoang mang",
+                    "definition": "Unable to think clearly; bewildered.",
+                    "example": "I am confused about the new rules.\nHe looked confused when I asked the question.\nHer instructions only made us more confused.",
+                    "quizzes": [
+                        "The students looked __________ by the difficult math problem.",
+                        "If you are __________, please ask the teacher for help.",
+                        "I got __________ and took the wrong turn on the road."
+                    ]
+                },
+                {
+                    "word": "noisy",
+                    "phonetic": "/ˈnɔɪzi/",
+                    "meaning": "ồn ào",
+                    "definition": "Making a lot of noise.",
+                    "example": "The classroom was very noisy.\nHe bought a noisy toy for his nephew.\nI can't sleep because of the noisy street.",
+                    "quizzes": [
+                        "The children were very __________ during the playground games.",
+                        "They live in a __________ neighborhood near the airport.",
+                        "The old washing machine is very __________ when it runs."
+                    ]
+                },
+                {
+                    "word": "lazy",
+                    "phonetic": "/ˈleɪzi/",
+                    "meaning": "lười biếng",
+                    "definition": "Unwilling to work or use energy.",
+                    "example": "He is too lazy to do his homework.\nWe had a lazy Sunday at home.\nDon't be lazy, get up and exercise!",
+                    "quizzes": [
+                        "A __________ person rarely helps with the housework.",
+                        "She spent a __________ afternoon lying on the couch.",
+                        "The dog is very __________ and sleeps all day long."
+                    ]
+                },
+                {
+                    "word": "strong",
+                    "phonetic": "/strɒŋ/",
+                    "meaning": "mạnh mẽ, khỏe mạnh",
+                    "definition": "Having great physical power or ability to resist force.",
+                    "example": "He is a strong man who can lift heavy weights.\nShe has a strong mind and never gives up.\nThe wind was so strong that it blew away my hat.",
+                    "quizzes": [
+                        "You need to eat healthy food to grow up __________ and healthy.",
+                        "The bridge is made of steel and is very __________.",
+                        "He is a __________ swimmer who has won many medals."
+                    ]
+                },
+                {
+                    "word": "funny",
+                    "phonetic": "/ˈfʌni/",
+                    "meaning": "hài hước, buồn cười",
+                    "definition": "Causing laughter or amusement; humorous.",
+                    "example": "He told a funny joke that made everyone laugh.\nShe is a very funny girl.\nIt is a funny movie that you should watch.",
+                    "quizzes": [
+                        "The clown did some __________ tricks at the birthday party.",
+                        "He is the __________est student in our class and makes us laugh.",
+                        "She wrote a __________ story about a cat that could talk."
+                    ]
+                },
+                {
+                    "word": "smart",
+                    "phonetic": "/smɑːt/",
+                    "meaning": "thông minh",
+                    "definition": "Having or showing a quick-witted intelligence.",
+                    "example": "She is a very smart student who always gets straight A's.\nHe made a smart decision to save his money.\nThat is a smart device that can be controlled by your phone.",
+                    "quizzes": [
+                        "The __________ dog learned the trick in just five minutes.",
+                        "He is a __________ boy who loves reading science books.",
+                        "She came up with a __________ solution to the puzzle."
+                    ]
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "Adjectives for Describing People",
+                    "description": "Sử dụng tính từ để miêu tả ngoại hình, tính cách và cảm xúc của một người.",
+                    "example": "She has long curly brown hair.\nHe is a very smart and helpful boy.\nMy grandfather is old, but he is still strong."
+                }
+            ]
+        }
+    ]
+}

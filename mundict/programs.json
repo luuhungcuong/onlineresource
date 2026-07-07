@@ -57,6 +57,20 @@
             ]
         },
         {
+            "groupId": "6-clc",
+            "groupName": "CLC Grade 6",
+            "imageUrl": "https://mathexpress.vn/wp-content/uploads/2021/06/dd28.jpg",
+            "programs": [
+                {
+                    "id": "Xưởng-TA-5C4",
+                    "name": "Xưởng tiếng anh lớp 5",
+                    "description": "Từ vựng Xưởng tiếng anh lớp 5",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5WRSFYtcBQ3J_ipbLrXmmIilC62PPTuhSNyJDhna1vw&s=10",
+                    "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/6-clc.json"
+                }
+            ]
+        },
+        {
             "groupId": "TOEIC",
             "groupName": "TOEIC",
             "imageUrl": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4NzczLCJwdXIiOiJibG9iX2lkIn19--b7d5b053ee4076029b6e71de1bf34d1a10426d24/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ce5706a9b5356bfcb66e4bb8a05142ce3cfc09ea/gia-s-toeic-logo.png",

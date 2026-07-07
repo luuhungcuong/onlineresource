@@ -67,6 +67,13 @@
                     "description": "Từ vựng Xưởng tiếng anh lớp 5",
                     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5WRSFYtcBQ3J_ipbLrXmmIilC62PPTuhSNyJDhna1vw&s=10",
                     "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/6-clc.json"
+                },
+                {
+                    "id": "pronunciation",
+                    "name": "Phát âm & Trọng âm",
+                    "description": "Quy tắc trọng âm, phát âm đuôi -ed, -s/-es và nguyên âm",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH7g71vNlYlEksG01B3K_4rJ6kEaE2F9mRDA&s",
+                    "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/pronunciation.json"
                 }
             ]
         },

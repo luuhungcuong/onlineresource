@@ -1,0 +1,1458 @@
+{
+    "programId": "pronunciation",
+    "programName": "Phát âm & Trọng âm tiếng Anh",
+    "sections": [
+        {
+            "sectionId": "unit-1-word-stress",
+            "sectionName": "Unit 1: Word Stress (Trọng Âm)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "TAble",
+                    "phonetic": "/ˈteɪbl/",
+                    "meaning": "cái bàn",
+                    "definition": "[2-syllable Noun] Stress on the 1st syllable. Danh từ/Tính từ 2 âm tiết: trọng âm thường rơi vào âm tiết THỨ NHẤT.",
+                    "example": "Put the books on the TAble.\nThe TAble is made of wood.\nWe eat dinner at the TAble.",
+                    "quizzes": [
+                        "Please set the dishes on the __________ for dinner.",
+                        "The big round __________ in the kitchen is made of wood.",
+                        "She put her bag on the __________ next to the door."
+                    ]
+                },
+                {
+                    "word": "WAter",
+                    "phonetic": "/ˈwɔːtə(r)/",
+                    "meaning": "nước",
+                    "definition": "[2-syllable Noun] Stress on the 1st syllable. Danh từ/Tính từ 2 âm tiết: trọng âm thường rơi vào âm tiết THỨ NHẤT.",
+                    "example": "Can I have a glass of WAter?\nDrink more WAter every day.\nThe WAter in the lake is cold.",
+                    "quizzes": [
+                        "She poured a cold glass of __________ for her sister.",
+                        "Plants need sunlight and __________ to grow.",
+                        "The __________ in the swimming pool was very clear and clean."
+                    ]
+                },
+                {
+                    "word": "HAPpy",
+                    "phonetic": "/ˈhæpi/",
+                    "meaning": "vui vẻ, hạnh phúc",
+                    "definition": "[2-syllable Adjective] Stress on the 1st syllable. Danh từ/Tính từ 2 âm tiết: trọng âm thường rơi vào âm tiết THỨ NHẤT.",
+                    "example": "The children look very HAPpy.\nShe is HAPpy when she plays with her friends.\nA HAPpy face is contagious.",
+                    "quizzes": [
+                        "He smiled and looked very __________ when he got the gift.",
+                        "She is always __________ and friendly in the classroom.",
+                        "Seeing my family always makes me feel very __________."
+                    ]
+                },
+                {
+                    "word": "BUSy",
+                    "phonetic": "/ˈbɪzi/",
+                    "meaning": "bận rộn",
+                    "definition": "[2-syllable Adjective] Stress on the 1st syllable. Danh từ/Tính từ 2 âm tiết: trọng âm thường rơi vào âm tiết THỨ NHẤT.",
+                    "example": "She is very BUSy with homework.\nAre you BUSy this evening?\nThe market is always BUSy on weekends.",
+                    "quizzes": [
+                        "I can't talk now, I am very __________ with my project.",
+                        "The teacher was __________ marking the students' tests.",
+                        "He is always __________ on Monday mornings."
+                    ]
+                },
+                {
+                    "word": "aLONE",
+                    "phonetic": "/əˈləʊn/",
+                    "meaning": "một mình",
+                    "definition": "[2-syllable Adjective - EXCEPTION] Stress on the 2nd syllable. Ngoại lệ: từ bắt đầu bằng 'a' - trọng âm rơi vào âm tiết THỨ HAI.",
+                    "example": "She sat aLONE in the room.\nHe walked home aLONE.\nDon't leave the baby aLONE.",
+                    "quizzes": [
+                        "She was left __________ in the house while her parents went shopping.",
+                        "I don't like staying __________ when it is dark outside.",
+                        "The puppy looked sad and __________ in the corner of the room."
+                    ]
+                },
+                {
+                    "word": "aSLEEP",
+                    "phonetic": "/əˈsliːp/",
+                    "meaning": "đang ngủ",
+                    "definition": "[2-syllable Adjective - EXCEPTION] Stress on the 2nd syllable. Ngoại lệ: từ bắt đầu bằng 'a' - trọng âm rơi vào âm tiết THỨ HAI.",
+                    "example": "The baby is aSLEEP.\nHe fell aSLEEP on the sofa.\nShe was aSLEEP when I called.",
+                    "quizzes": [
+                        "Please be quiet! The baby is __________.",
+                        "He was so tired that he fell __________ in less than five minutes.",
+                        "The cat is __________ on the warm mat near the heater."
+                    ]
+                },
+                {
+                    "word": "beGIN",
+                    "phonetic": "/bɪˈɡɪn/",
+                    "meaning": "bắt đầu",
+                    "definition": "[2-syllable Verb] Stress on the 2nd syllable. Động từ/Giới từ 2 âm tiết: trọng âm thường rơi vào âm tiết THỨ HAI.",
+                    "example": "Let's beGIN the lesson.\nThe show will beGIN at 8 o'clock.\nWhen will you beGIN your homework?",
+                    "quizzes": [
+                        "The teacher asked us to __________ reading from page 10.",
+                        "The movie will __________ at exactly seven o'clock.",
+                        "I will __________ my new hobby of painting next weekend."
+                    ]
+                },
+                {
+                    "word": "inVITE",
+                    "phonetic": "/ɪnˈvaɪt/",
+                    "meaning": "mời",
+                    "definition": "[2-syllable Verb] Stress on the 2nd syllable. Động từ/Giới từ 2 âm tiết: trọng âm thường rơi vào âm tiết THỨ HAI.",
+                    "example": "I want to inVITE you to my party.\nShe inVITED all her classmates.\nHe did not inVITE me to his birthday.",
+                    "quizzes": [
+                        "She will __________ all her friends to her birthday party.",
+                        "He forgot to __________ his best friend to the celebration.",
+                        "Did your teacher __________ the students to the school event?"
+                    ]
+                },
+                {
+                    "word": "OPen",
+                    "phonetic": "/ˈəʊpən/",
+                    "meaning": "mở ra",
+                    "definition": "[2-syllable Verb - EXCEPTION] Stress on the 1st syllable. Ngoại lệ động từ: âm tiết 2 yếu hoặc có đuôi -en/-er/-ow/-ish/-y nên trọng âm rơi vào âm tiết THỨ NHẤT.",
+                    "example": "Please OPen the window.\nOPen your books to page 20.\nCan you OPen the door for me?",
+                    "quizzes": [
+                        "Please __________ the window to let some fresh air in.",
+                        "The shop will __________ at nine o'clock every morning.",
+                        "__________ your textbook and turn to page fifteen."
+                    ]
+                },
+                {
+                    "word": "HAPpen",
+                    "phonetic": "/ˈhæpən/",
+                    "meaning": "xảy ra",
+                    "definition": "[2-syllable Verb - EXCEPTION] Stress on the 1st syllable. Ngoại lệ động từ: đuôi -en nên trọng âm rơi vào âm tiết THỨ NHẤT.",
+                    "example": "What did HAPpen?\nAccidents HAPpen sometimes.\nSomething strange HAPpened last night.",
+                    "quizzes": [
+                        "What will __________ if it rains during the sports day?",
+                        "Strange things __________ in that old house at night.",
+                        "Did anything interesting __________ while I was away?"
+                    ]
+                },
+                {
+                    "word": "PARadise",
+                    "phonetic": "/ˈpærədaɪs/",
+                    "meaning": "thiên đường",
+                    "definition": "[3-syllable Noun] Stress on the 1st syllable. Danh từ/Tính từ 3 âm tiết: nếu âm tiết thứ 2 chứa âm /ə/ hoặc /ɪ/, trọng âm rơi vào âm tiết THỨ NHẤT.",
+                    "example": "This beach is like PARadise.\nThe garden looks like a PARadise.\nFor me, a library is a PARadise.",
+                    "quizzes": [
+                        "The beautiful tropical island felt like a __________.",
+                        "A garden full of flowers is her idea of __________.",
+                        "The children called the playground their little __________."
+                    ]
+                },
+                {
+                    "word": "PHARmacy",
+                    "phonetic": "/ˈfɑːməsi/",
+                    "meaning": "nhà thuốc",
+                    "definition": "[3-syllable Noun] Stress on the 1st syllable. Danh từ/Tính từ 3 âm tiết: nếu âm tiết thứ 2 chứa âm /ə/ hoặc /ɪ/, trọng âm rơi vào âm tiết THỨ NHẤT.",
+                    "example": "Buy the medicine at the PHARmacy.\nThe PHARmacy is next to the hospital.\nShe works as a pharmacist at the PHARmacy.",
+                    "quizzes": [
+                        "You can buy cough syrup at the __________ on the corner.",
+                        "The doctor told me to go to the __________ to get my medicine.",
+                        "Is there a __________ near this hospital?"
+                    ]
+                },
+                {
+                    "word": "poTAto",
+                    "phonetic": "/pəˈteɪtəʊ/",
+                    "meaning": "khoai tây",
+                    "definition": "[3-syllable Noun] Stress on the 2nd syllable. Danh từ/Tính từ 3 âm tiết: nếu âm tiết cuối chứa âm yếu và âm tiết 2 chứa nguyên âm dài/đôi, trọng âm rơi vào âm tiết THỨ HAI.",
+                    "example": "I love mashed poTAto.\nShe peeled the poTAto carefully.\nWe grow poTAtoes in our garden.",
+                    "quizzes": [
+                        "She made delicious mashed __________ for dinner.",
+                        "Do you want __________ chips or rice with your meal?",
+                        "He planted __________ seeds in the garden last spring."
+                    ]
+                },
+                {
+                    "word": "diSASter",
+                    "phonetic": "/dɪˈzɑːstə(r)/",
+                    "meaning": "thảm họa",
+                    "definition": "[3-syllable Noun] Stress on the 2nd syllable. Danh từ/Tính từ 3 âm tiết: nếu âm tiết cuối chứa âm yếu và âm tiết 2 chứa nguyên âm dài/đôi, trọng âm rơi vào âm tiết THỨ HAI.",
+                    "example": "The flood was a diSASter.\nThe fire was a major diSASter.\nThe broken computer was a diSASter for the project.",
+                    "quizzes": [
+                        "The earthquake was a terrible __________ for the whole country.",
+                        "Forgetting to save the file was a __________ for his report.",
+                        "The heavy rain caused a __________ in the low-lying areas."
+                    ]
+                },
+                {
+                    "word": "enCOUNter",
+                    "phonetic": "/ɪnˈkaʊntə(r)/",
+                    "meaning": "gặp phải, chạm trán",
+                    "definition": "[3-syllable Verb] Stress on the 2nd syllable. Động từ 3 âm tiết: nếu âm tiết cuối chứa nguyên âm ngắn và kết thúc bằng 1 phụ âm, trọng âm rơi vào âm tiết THỨ HAI.",
+                    "example": "Did you enCOUNter any problems?\nWe enCOUNtered a storm at sea.\nHe enCOUNtered his old teacher at the market.",
+                    "quizzes": [
+                        "Did you __________ any difficulties while doing your homework?",
+                        "The explorers __________ wild animals deep in the forest.",
+                        "She was surprised to __________ her old neighbor at the mall."
+                    ]
+                },
+                {
+                    "word": "deTERmine",
+                    "phonetic": "/dɪˈtɜːmɪn/",
+                    "meaning": "xác định, quyết tâm",
+                    "definition": "[3-syllable Verb] Stress on the 2nd syllable. Động từ 3 âm tiết: nếu âm tiết cuối chứa nguyên âm ngắn và kết thúc bằng 1 phụ âm, trọng âm rơi vào âm tiết THỨ HAI.",
+                    "example": "We need to deTERmine the cause.\nThe test will deTERmine your level.\nShe deTERmined that hard work was the key.",
+                    "quizzes": [
+                        "The scientist tried to __________ the cause of the illness.",
+                        "We need to __________ the best route to take.",
+                        "The exam results will __________ which class he joins next year."
+                    ]
+                },
+                {
+                    "word": "enterTAIN",
+                    "phonetic": "/ˌentəˈteɪn/",
+                    "meaning": "giải trí, tiếp đãi",
+                    "definition": "[3-syllable Verb] Stress on the 3rd (last) syllable. Động từ 3 âm tiết: nếu âm tiết cuối chứa nguyên âm dài hoặc kết thúc bằng 2+ phụ âm, trọng âm rơi vào âm tiết CUỐI.",
+                    "example": "The clown enterTAINed the children.\nShe loves to enterTAIN guests.\nHe enterTAINed us with funny stories.",
+                    "quizzes": [
+                        "The comedian did his best to __________ the large crowd.",
+                        "She loves to __________ her guests with delicious food.",
+                        "The magic tricks __________ all the children at the party."
+                    ]
+                },
+                {
+                    "word": "compreHEND",
+                    "phonetic": "/ˌkɒmprɪˈhend/",
+                    "meaning": "hiểu, nắm bắt",
+                    "definition": "[3-syllable Verb] Stress on the 3rd (last) syllable. Động từ 3 âm tiết: nếu âm tiết cuối kết thúc bằng 2+ phụ âm, trọng âm rơi vào âm tiết CUỐI.",
+                    "example": "I did not compreHEND the question.\nShe found it hard to compreHEND the lesson.\nPlease read it again to compreHEND it fully.",
+                    "quizzes": [
+                        "It is difficult to __________ a lesson when you haven't read the textbook.",
+                        "Did you fully __________ the instructions for the exam?",
+                        "She had to read the paragraph twice to __________ its meaning."
+                    ]
+                },
+                {
+                    "word": "aGREE",
+                    "phonetic": "/əˈɡriː/",
+                    "meaning": "đồng ý",
+                    "definition": "[Suffix -ee] The suffix -ee carries the main stress. Hậu tố -ee nhận trọng âm.",
+                    "example": "Do you aGREE with me?\nI aGREE with your decision.\nWe all aGREE that teamwork is important.",
+                    "quizzes": [
+                        "Do you __________ that we should start earlier?",
+                        "Not everyone will __________ with your plan.",
+                        "I __________ that learning English is very useful."
+                    ]
+                },
+                {
+                    "word": "engiNEER",
+                    "phonetic": "/ˌendʒɪˈnɪə(r)/",
+                    "meaning": "kỹ sư",
+                    "definition": "[Suffix -eer] The suffix -eer carries the main stress. Hậu tố -eer nhận trọng âm.",
+                    "example": "My father is an engiNEER.\nShe wants to become an engiNEER.\nThe engiNEER designed the bridge.",
+                    "quizzes": [
+                        "He dreams of becoming a software __________ one day.",
+                        "The __________ checked all the machines in the factory.",
+                        "Her mother works as a civil __________ for the city."
+                    ]
+                },
+                {
+                    "word": "VietnaMESE",
+                    "phonetic": "/ˌvjetnəˈmiːz/",
+                    "meaning": "người Việt Nam / tiếng Việt",
+                    "definition": "[Suffix -ese] The suffix -ese carries the main stress. Hậu tố -ese nhận trọng âm.",
+                    "example": "I am VietnaMESE.\nShe speaks VietnaMESE very well.\nVietnaMESE food is delicious.",
+                    "quizzes": [
+                        "__________ food is famous all over the world.",
+                        "She is learning the __________ language.",
+                        "He is proud to be __________ and loves his country."
+                    ]
+                },
+                {
+                    "word": "uNIQUE",
+                    "phonetic": "/juːˈniːk/",
+                    "meaning": "độc đáo, duy nhất",
+                    "definition": "[Suffix -ique] The suffix -ique carries the main stress. Hậu tố -ique nhận trọng âm.",
+                    "example": "Everyone has a uNIQUE fingerprint.\nHer style is very uNIQUE.\nEach student has a uNIQUE talent.",
+                    "quizzes": [
+                        "Her painting style is very __________ and special.",
+                        "Every snowflake has a __________ pattern.",
+                        "He has a __________ way of solving math problems."
+                    ]
+                },
+                {
+                    "word": "bamBOO",
+                    "phonetic": "/bæmˈbuː/",
+                    "meaning": "cây tre",
+                    "definition": "[Suffix -oo] The suffix -oo carries the main stress. Hậu tố -oo nhận trọng âm.",
+                    "example": "Pandas love eating bamBOO.\nBamBOO grows very fast.\nWe made furniture from bamBOO.",
+                    "quizzes": [
+                        "Pandas love to eat __________ shoots.",
+                        "__________ is a very strong and flexible material.",
+                        "The forest has many tall __________ trees."
+                    ]
+                },
+                {
+                    "word": "mainTAIN",
+                    "phonetic": "/meɪnˈteɪn/",
+                    "meaning": "duy trì",
+                    "definition": "[Suffix -ain] The suffix -ain carries the main stress. Hậu tố -ain nhận trọng âm.",
+                    "example": "She mainTAINs a healthy lifestyle.\nWe must mainTAIN the school grounds.\nHe mainTAINed his good grades all year.",
+                    "quizzes": [
+                        "You need to __________ good habits to stay healthy.",
+                        "The school hires workers to __________ the garden.",
+                        "He worked hard to __________ his position on the team."
+                    ]
+                },
+                {
+                    "word": "ecoNOmic",
+                    "phonetic": "/ˌiːkəˈnɒmɪk/",
+                    "meaning": "thuộc về kinh tế",
+                    "definition": "[Suffix -ic] Stress falls on the syllable BEFORE -ic. Hậu tố -ic làm trọng âm rơi vào âm tiết NGAY TRƯỚC nó.",
+                    "example": "The ecoNOmic situation has improved.\nShe studied ecoNOmic geography.\nEcoNOmic growth is important for a country.",
+                    "quizzes": [
+                        "The country is facing an __________ crisis.",
+                        "She is interested in __________ geography.",
+                        "Good __________ policies help a country grow."
+                    ]
+                },
+                {
+                    "word": "artiFIcial",
+                    "phonetic": "/ˌɑːtɪˈfɪʃl/",
+                    "meaning": "nhân tạo",
+                    "definition": "[Suffix -ial] Stress falls on the syllable BEFORE -ial. Hậu tố -ial làm trọng âm rơi vào âm tiết NGAY TRƯỚC nó.",
+                    "example": "The flower is artiFIcial.\nShe wore artiFIcial jewels.\nThey made an artiFIcial lake in the park.",
+                    "quizzes": [
+                        "She decorated the table with __________ flowers.",
+                        "The lake in the city center is __________, not natural.",
+                        "__________ intelligence is used in many modern devices."
+                    ]
+                },
+                {
+                    "word": "muSIcian",
+                    "phonetic": "/mjuːˈzɪʃn/",
+                    "meaning": "nhạc sĩ",
+                    "definition": "[Suffix -ian] Stress falls on the syllable BEFORE -ian. Hậu tố -ian làm trọng âm rơi vào âm tiết NGAY TRƯỚC nó.",
+                    "example": "She is a talented muSIcian.\nEvery muSIcian practices a lot.\nHe became a famous muSIcian.",
+                    "quizzes": [
+                        "She is a talented __________ who plays the violin.",
+                        "A great __________ always practices every single day.",
+                        "He hopes to become a professional __________ one day."
+                    ]
+                },
+                {
+                    "word": "inforMAtion",
+                    "phonetic": "/ˌɪnfəˈmeɪʃn/",
+                    "meaning": "thông tin",
+                    "definition": "[Suffix -tion] Stress falls on the syllable BEFORE -tion. Hậu tố -tion làm trọng âm rơi vào âm tiết NGAY TRƯỚC nó.",
+                    "example": "Can I get some inforMAtion?\nThe guide gave us useful inforMAtion.\nThis website has a lot of inforMAtion.",
+                    "quizzes": [
+                        "Can you give me some __________ about the school trip?",
+                        "The brochure contains useful __________ about the city.",
+                        "I need more __________ before I can make a decision."
+                    ]
+                },
+                {
+                    "word": "deLIcious",
+                    "phonetic": "/dɪˈlɪʃəs/",
+                    "meaning": "ngon miệng",
+                    "definition": "[Suffix -ious] Stress falls on the syllable BEFORE -ious. Hậu tố -ious làm trọng âm rơi vào âm tiết NGAY TRƯỚC nó.",
+                    "example": "This cake is deLIcious!\nShe cooked a deLIcious meal.\nThe deLIcious smell came from the kitchen.",
+                    "quizzes": [
+                        "The soup my grandmother makes is absolutely __________.",
+                        "The smell of the __________ pizza filled the whole room.",
+                        "Everything on the menu looks so __________!"
+                    ]
+                },
+                {
+                    "word": "aBIlity",
+                    "phonetic": "/əˈbɪləti/",
+                    "meaning": "khả năng",
+                    "definition": "[Suffix -ity] Stress falls on the syllable BEFORE -ity. Hậu tố -ity làm trọng âm rơi vào âm tiết NGAY TRƯỚC nó.",
+                    "example": "She has the aBIlity to learn quickly.\nHe showed great aBIlity in music.\nEveryone has a special aBIlity.",
+                    "quizzes": [
+                        "She has a natural __________ to make people feel at ease.",
+                        "His __________ to solve problems quickly is impressive.",
+                        "Everyone has a unique __________ that makes them special."
+                    ]
+                },
+                {
+                    "word": "biOlogy",
+                    "phonetic": "/baɪˈɒlədʒi/",
+                    "meaning": "sinh học",
+                    "definition": "[Suffix -logy] Stress falls on the syllable BEFORE -logy. Hậu tố -logy làm trọng âm rơi vào âm tiết NGAY TRƯỚC nó.",
+                    "example": "I love studying biOlogy.\nBiOlogy is the science of living things.\nShe got an A in her biOlogy exam.",
+                    "quizzes": [
+                        "__________ is the study of plants, animals, and all living things.",
+                        "She got an excellent score on her __________ exam.",
+                        "Our __________ teacher showed us a frog in class today."
+                    ]
+                },
+                {
+                    "word": "deMOcracy",
+                    "phonetic": "/dɪˈmɒkrəsi/",
+                    "meaning": "nền dân chủ",
+                    "definition": "[Suffix -cy] Stress on the 3rd syllable from the end. Hậu tố -cy làm trọng âm rơi vào âm tiết THỨ 3 TỪ CUỐI LÊN.",
+                    "example": "We live in a deMOcracy.\nDeMOcracy means people choose their leaders.\nFreedom is a key value of deMOcracy.",
+                    "quizzes": [
+                        "In a __________, citizens vote to choose their leaders.",
+                        "Many countries around the world practice __________.",
+                        "She studied the history of __________ in university."
+                    ]
+                },
+                {
+                    "word": "phoTOgraphy",
+                    "phonetic": "/fəˈtɒɡrəfi/",
+                    "meaning": "nhiếp ảnh",
+                    "definition": "[Suffix -graphy] Stress on the 3rd syllable from the end. Hậu tố -graphy làm trọng âm rơi vào âm tiết THỨ 3 TỪ CUỐI LÊN.",
+                    "example": "She is learning phoTOgraphy.\nPhoTOgraphy is her favourite hobby.\nHe is very talented in phoTOgraphy.",
+                    "quizzes": [
+                        "She takes beautiful pictures because she loves __________.",
+                        "He enrolled in a __________ class to learn how to take better photos.",
+                        "__________ is a great hobby for people who love art."
+                    ]
+                },
+                {
+                    "word": "NAtional",
+                    "phonetic": "/ˈnæʃnəl/",
+                    "meaning": "thuộc về quốc gia",
+                    "definition": "[Suffix -al] Stress on the 3rd syllable from the end. Hậu tố -al làm trọng âm rơi vào âm tiết THỨ 3 TỪ CUỐI LÊN.",
+                    "example": "It is a NAtional holiday.\nShe won the NAtional spelling competition.\nWe sang the NAtional anthem together.",
+                    "quizzes": [
+                        "We celebrate the __________ holiday with fireworks.",
+                        "She won the __________ science competition last month.",
+                        "Everyone stood up when the __________ anthem began."
+                    ]
+                },
+                {
+                    "word": "comMUnicate",
+                    "phonetic": "/kəˈmjuːnɪkeɪt/",
+                    "meaning": "giao tiếp",
+                    "definition": "[Suffix -ate] Stress on the 3rd syllable from the end. Hậu tố -ate làm trọng âm rơi vào âm tiết THỨ 3 TỪ CUỐI LÊN.",
+                    "example": "We comMUnicate by email.\nShe comMUnicates clearly in English.\nIt is important to comMUnicate well.",
+                    "quizzes": [
+                        "We use social media to __________ with friends far away.",
+                        "It is important to __________ clearly when working in a team.",
+                        "She learned English so she could __________ with tourists."
+                    ]
+                },
+                {
+                    "word": "REcognize",
+                    "phonetic": "/ˈrekəɡnaɪz/",
+                    "meaning": "nhận ra",
+                    "definition": "[Suffix -ize] Stress on the 3rd syllable from the end. Hậu tố -ize làm trọng âm rơi vào âm tiết THỨ 3 TỪ CUỐI LÊN.",
+                    "example": "Did you REcognize her voice?\nI REcognize this song.\nHe REcognized his old friend in the crowd.",
+                    "quizzes": [
+                        "I can __________ her handwriting from a mile away.",
+                        "Can you __________ the song from just a few notes?",
+                        "He couldn't __________ his old friend after so many years."
+                    ]
+                },
+                {
+                    "word": "unHAPpy",
+                    "phonetic": "/ʌnˈhæpi/",
+                    "meaning": "không vui, buồn bã",
+                    "definition": "[Prefix un-] The prefix un- does NOT change the stress of the root word. Tiền tố un- KHÔNG làm thay đổi trọng âm của từ gốc: HAPpy → unHAPpy.",
+                    "example": "She looked unHAPpy after the match.\nHe was unHAPpy with the result.\nDon't be unHAPpy, things will get better.",
+                    "quizzes": [
+                        "She was __________ because she didn't get the grade she wanted.",
+                        "He looked __________ when he heard the bad news.",
+                        "Don't be __________, let's find a solution together."
+                    ]
+                },
+                {
+                    "word": "disCOver",
+                    "phonetic": "/dɪˈskʌvə(r)/",
+                    "meaning": "khám phá, tìm ra",
+                    "definition": "[Prefix dis-] The prefix dis- does NOT change the stress of the root word. Tiền tố dis- KHÔNG làm thay đổi trọng âm của từ gốc: COver → disCOver.",
+                    "example": "Scientists disCOver new things every day.\nShe disCOvered a beautiful waterfall.\nHe disCOvered his love for music.",
+                    "quizzes": [
+                        "Scientists __________ new plants in the rainforest.",
+                        "She was excited to __________ a hidden cave on the beach.",
+                        "He __________ that he loved painting when he was ten years old."
+                    ]
+                },
+                {
+                    "word": "aGREEment",
+                    "phonetic": "/əˈɡriːmənt/",
+                    "meaning": "sự đồng ý, thỏa thuận",
+                    "definition": "[Suffix -ment] The suffix -ment does NOT change the stress of the root word. Hậu tố -ment KHÔNG làm thay đổi trọng âm: aGREE → aGREEment.",
+                    "example": "We reached an aGREEment.\nSign the aGREEment before the deadline.\nThey made an aGREEment to share the work.",
+                    "quizzes": [
+                        "Both teams signed the __________ after a long discussion.",
+                        "We came to an __________ about sharing the chores.",
+                        "The two countries signed a peace __________ last year."
+                    ]
+                },
+                {
+                    "word": "MEANingless",
+                    "phonetic": "/ˈmiːnɪŋləs/",
+                    "meaning": "vô nghĩa",
+                    "definition": "[Suffix -less] The suffix -less does NOT change the stress of the root word. Hậu tố -less KHÔNG làm thay đổi trọng âm: MEANing → MEANingless.",
+                    "example": "The argument became MEANingless.\nHis apology felt MEANingless.\nDon't do MEANingless things with your time.",
+                    "quizzes": [
+                        "A word without context can sound completely __________.",
+                        "His excuse seemed __________ after what had happened.",
+                        "Don't waste your time doing __________ tasks."
+                    ]
+                },
+                {
+                    "word": "RAINcoat",
+                    "phonetic": "/ˈreɪnkəʊt/",
+                    "meaning": "áo mưa",
+                    "definition": "[Compound Noun] Stress on the FIRST word. Danh từ ghép: trọng âm rơi vào từ cấu tạo THỨ NHẤT.",
+                    "example": "Don't forget your RAINcoat!\nShe bought a new RAINcoat.\nHe wore a yellow RAINcoat in the storm.",
+                    "quizzes": [
+                        "Bring your __________ because it might rain this afternoon.",
+                        "She put on her bright yellow __________ before going outside.",
+                        "He forgot his __________ and got completely soaked."
+                    ]
+                },
+                {
+                    "word": "TEAcup",
+                    "phonetic": "/ˈtiːkʌp/",
+                    "meaning": "tách trà",
+                    "definition": "[Compound Noun] Stress on the FIRST word. Danh từ ghép: trọng âm rơi vào từ cấu tạo THỨ NHẤT.",
+                    "example": "She poured tea into the TEAcup.\nThe TEAcup is very delicate.\nHe dropped the TEAcup on the floor.",
+                    "quizzes": [
+                        "She carefully poured the hot tea into the small __________.",
+                        "The pretty __________ was a gift from her grandmother.",
+                        "He accidentally knocked the __________ off the table."
+                    ]
+                },
+                {
+                    "word": "TYPEwriter",
+                    "phonetic": "/ˈtaɪpraɪtə(r)/",
+                    "meaning": "máy đánh chữ",
+                    "definition": "[Compound Noun] Stress on the FIRST word. Danh từ ghép: trọng âm rơi vào từ cấu tạo THỨ NHẤT.",
+                    "example": "My grandfather used a TYPEwriter.\nThe old TYPEwriter was in the museum.\nShe typed her letter on a TYPEwriter.",
+                    "quizzes": [
+                        "Before computers, people used a __________ to write letters.",
+                        "The old __________ in the museum still works.",
+                        "She found a dusty __________ in her grandmother's attic."
+                    ]
+                },
+                {
+                    "word": "bad-TEMpered",
+                    "phonetic": "/ˌbæd ˈtempəd/",
+                    "meaning": "nóng tính, xấu tính",
+                    "definition": "[Compound Adjective: Adj + Past Participle] Stress on the SECOND part. Tính từ ghép [Tính từ + Phân từ quá khứ]: trọng âm thường rơi vào từ THỨ HAI.",
+                    "example": "He can be bad-TEMpered when he is hungry.\nThe bad-TEMpered man shouted at everyone.\nDon't be bad-TEMpered about small things.",
+                    "quizzes": [
+                        "He gets really __________ when he doesn't get enough sleep.",
+                        "The __________ customer complained about everything.",
+                        "She was __________ all morning because she missed breakfast."
+                    ]
+                },
+                {
+                    "word": "old-FASHioned",
+                    "phonetic": "/ˌəʊld ˈfæʃnd/",
+                    "meaning": "lỗi thời, cổ điển",
+                    "definition": "[Compound Adjective: Adj + Past Participle] Stress on the SECOND part. Tính từ ghép [Tính từ + Phân từ quá khứ]: trọng âm thường rơi vào từ THỨ HAI.",
+                    "example": "That style is very old-FASHioned.\nShe likes old-FASHioned music.\nThe building has an old-FASHioned design.",
+                    "quizzes": [
+                        "Some people prefer __________ music to modern pop songs.",
+                        "That hairstyle looks a bit __________ these days.",
+                        "The __________ building had a very classic and elegant design."
+                    ]
+                },
+                {
+                    "word": "HOMEsick",
+                    "phonetic": "/ˈhəʊmsɪk/",
+                    "meaning": "nhớ nhà",
+                    "definition": "[Compound Adjective: Noun + Adjective] Stress on the FIRST part. Tính từ ghép [Danh từ + Tính từ]: trọng âm rơi vào từ THỨ NHẤT.",
+                    "example": "She felt HOMEsick at camp.\nHe was HOMEsick during his first week abroad.\nBeing HOMEsick is normal for students far from home.",
+                    "quizzes": [
+                        "During her first week away, she felt very __________.",
+                        "He called his parents every day because he was so __________.",
+                        "Many students feel __________ when they first move to a new city."
+                    ]
+                },
+                {
+                    "word": "WATERproof",
+                    "phonetic": "/ˈwɔːtəpruːf/",
+                    "meaning": "chống nước",
+                    "definition": "[Compound Adjective: Noun + Adjective] Stress on the FIRST part. Tính từ ghép [Danh từ + Tính từ]: trọng âm rơi vào từ THỨ NHẤT.",
+                    "example": "My jacket is WATERproof.\nHe bought WATERproof boots for hiking.\nIs this phone WATERproof?",
+                    "quizzes": [
+                        "She bought a __________ jacket before hiking in the rainy forest.",
+                        "Make sure your bag is __________ before you go kayaking.",
+                        "Is the new phone model completely __________?"
+                    ]
+                },
+                {
+                    "word": "overFLOW",
+                    "phonetic": "/ˌəʊvəˈfləʊ/",
+                    "meaning": "tràn ngập, chảy tràn",
+                    "definition": "[Compound Verb] Stress on the SECOND part. Động từ ghép: trọng âm rơi vào từ cấu tạo THỨ HAI.",
+                    "example": "The river will overFLOW.\nThe sink overFLOWed because the drain was blocked.\nDon't let the bucket overFLOW.",
+                    "quizzes": [
+                        "The river tends to __________ during the rainy season.",
+                        "The bathtub began to __________ because she forgot to turn off the tap.",
+                        "Don't pour too much water or the cup will __________."
+                    ]
+                },
+                {
+                    "word": "underSTAND",
+                    "phonetic": "/ˌʌndəˈstænd/",
+                    "meaning": "hiểu",
+                    "definition": "[Compound Verb] Stress on the SECOND part. Động từ ghép: trọng âm rơi vào từ cấu tạo THỨ HAI.",
+                    "example": "Do you underSTAND the question?\nI don't underSTAND this rule.\nShe underSTOOD the lesson very quickly.",
+                    "quizzes": [
+                        "Please raise your hand if you don't __________ the question.",
+                        "She found it hard to __________ the new grammar rule at first.",
+                        "He spoke slowly to help us __________ his explanation."
+                    ]
+                },
+                {
+                    "word": "REcord (n.)",
+                    "phonetic": "/ˈrekɔːd/",
+                    "meaning": "bản ghi, kỷ lục (Danh từ)",
+                    "definition": "[Stress shift - Noun] When used as a Noun, stress is on the 1st syllable. Khi là Danh từ, trọng âm rơi vào âm tiết THỨ NHẤT: REcord.",
+                    "example": "He broke the world REcord.\nShe kept a REcord of her expenses.\nThe team set a new REcord this year.",
+                    "quizzes": [
+                        "She broke the school __________ for the 100-meter sprint.",
+                        "He keeps a daily __________ of the weather.",
+                        "The team set a new __________ for the most wins in a season."
+                    ]
+                },
+                {
+                    "word": "reCORD (v.)",
+                    "phonetic": "/rɪˈkɔːd/",
+                    "meaning": "ghi lại (Động từ)",
+                    "definition": "[Stress shift - Verb] When used as a Verb, stress is on the 2nd syllable. Khi là Động từ, trọng âm rơi vào âm tiết THỨ HAI: reCORD.",
+                    "example": "Can you reCORD this programme?\nShe reCORDed the song beautifully.\nHe is reCORDing a video right now.",
+                    "quizzes": [
+                        "Can you __________ the TV show for me tonight?",
+                        "She will __________ her first song in the studio this Friday.",
+                        "He is __________ a short video to post on his channel."
+                    ]
+                },
+                {
+                    "word": "PREsent (n./adj.)",
+                    "phonetic": "/ˈpreznt/",
+                    "meaning": "món quà / hiện tại (Danh từ/Tính từ)",
+                    "definition": "[Stress shift - Noun/Adj] When used as a Noun or Adjective, stress is on the 1st syllable. Khi là Danh từ/Tính từ, trọng âm rơi vào âm tiết THỨ NHẤT: PREsent.",
+                    "example": "She gave him a birthday PREsent.\nLet us focus on the PREsent moment.\nAll PREsent students must sign the list.",
+                    "quizzes": [
+                        "She wrapped the __________ in bright red paper.",
+                        "Let's not think about the past; focus on the __________ moment.",
+                        "The teacher called the names of all __________ students."
+                    ]
+                },
+                {
+                    "word": "preSENT (v.)",
+                    "phonetic": "/prɪˈzent/",
+                    "meaning": "thuyết trình, giới thiệu (Động từ)",
+                    "definition": "[Stress shift - Verb] When used as a Verb, stress is on the 2nd syllable. Khi là Động từ, trọng âm rơi vào âm tiết THỨ HAI: preSENT.",
+                    "example": "She will preSENT her project today.\nHe preSENTed the award to the winner.\nCan you preSENT your findings to the class?",
+                    "quizzes": [
+                        "He was chosen to __________ the project to the judges.",
+                        "She will __________ her science experiment tomorrow.",
+                        "Can you __________ the results of your research to the class?"
+                    ]
+                },
+                {
+                    "word": "EXport (n.)",
+                    "phonetic": "/ˈekspɔːt/",
+                    "meaning": "hàng xuất khẩu (Danh từ)",
+                    "definition": "[Stress shift - Noun] When used as a Noun, stress is on the 1st syllable. Khi là Danh từ, trọng âm rơi vào âm tiết THỨ NHẤT: EXport.",
+                    "example": "Coffee is a major EXport of Vietnam.\nThe EXport of rice helps the economy.\nShe works in the EXport department.",
+                    "quizzes": [
+                        "Rice is one of Vietnam's most important __________s.",
+                        "Coffee is a major __________ that earns a lot of money for the country.",
+                        "She works in the __________ and import department of a big company."
+                    ]
+                },
+                {
+                    "word": "exPORT (v.)",
+                    "phonetic": "/ɪkˈspɔːt/",
+                    "meaning": "xuất khẩu (Động từ)",
+                    "definition": "[Stress shift - Verb] When used as a Verb, stress is on the 2nd syllable. Khi là Động từ, trọng âm rơi vào âm tiết THỨ HAI: exPORT.",
+                    "example": "Vietnam exPORTs a lot of coffee.\nThey exPORT goods to many countries.\nThe company exPORTs furniture to Europe.",
+                    "quizzes": [
+                        "Vietnam __________ millions of tons of rice every year.",
+                        "The company __________ its products to over 50 countries.",
+                        "This factory __________ handmade furniture to Europe and America."
+                    ]
+                },
+                {
+                    "word": "OBject (n.)",
+                    "phonetic": "/ˈɒbdʒɪkt/",
+                    "meaning": "vật thể, đồ vật (Danh từ)",
+                    "definition": "[Stress shift - Noun] When used as a Noun, stress is on the 1st syllable. Khi là Danh từ, trọng âm rơi vào âm tiết THỨ NHẤT: OBject.",
+                    "example": "What is that strange OBject?\nShe picked up the OBject from the floor.\nThe OBject in the box is very heavy.",
+                    "quizzes": [
+                        "What is that mysterious __________ in the corner of the room?",
+                        "She found a small __________ on the floor of the library.",
+                        "The heavy __________ fell off the shelf with a loud bang."
+                    ]
+                },
+                {
+                    "word": "obJECT (v.)",
+                    "phonetic": "/əbˈdʒekt/",
+                    "meaning": "phản đối (Động từ)",
+                    "definition": "[Stress shift - Verb] When used as a Verb, stress is on the 2nd syllable. Khi là Động từ, trọng âm rơi vào âm tiết THỨ HAI: obJECT.",
+                    "example": "She obJECTed to the new rule.\nHe obJECTed loudly during the meeting.\nWhy did you obJECT to my plan?",
+                    "quizzes": [
+                        "Several students __________ to the change in the exam schedule.",
+                        "He stood up to __________ when the unfair rule was announced.",
+                        "Why did she __________ to the new seating arrangement?"
+                    ]
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "I. Quy tắc với từ 2 âm tiết - Danh từ & Tính từ",
+                    "description": "Trọng âm thường rơi vào âm tiết THỨ NHẤT.\nNgoại lệ: aLONE, aSLEEP, maCHINE, miSTAKE (từ bắt đầu bằng 'a' hoặc âm tiết 2 là nguyên âm dài).",
+                    "example": "TAble, WAter, HAPpy, BUSy\nException: aLONE, aSLEEP"
+                },
+                {
+                    "structure": "I. Quy tắc với từ 2 âm tiết - Động từ & Giới từ",
+                    "description": "Trọng âm thường rơi vào âm tiết THỨ HAI.\nNgoại lệ: Nếu âm tiết 2 là âm ngắn hoặc có đuôi -er, -en, -ow, -ish, -y thì trọng âm rơi vào âm tiết THỨ NHẤT.",
+                    "example": "beGIN, inVITE, aMONG, beTWEEN\nException: OPen, HAPpen, ANSwer, FOLlow, FInish, CARry"
+                },
+                {
+                    "structure": "II. Quy tắc với từ 3 âm tiết trở lên - Danh từ & Tính từ",
+                    "description": "- Nếu âm tiết thứ 2 chứa âm /ə/ hoặc /ɪ/: trọng âm rơi vào âm tiết THỨ NHẤT.\n- Nếu âm tiết cuối chứa âm yếu và âm tiết 2 chứa nguyên âm dài/đôi: trọng âm rơi vào âm tiết THỨ HAI.",
+                    "example": "PAradise, PHARmacy\npoTAto, diSASter"
+                },
+                {
+                    "structure": "II. Quy tắc với từ 3 âm tiết trở lên - Động từ",
+                    "description": "- Nếu âm tiết cuối chứa nguyên âm ngắn + 1 phụ âm: trọng âm rơi vào âm tiết THỨ HAI.\n- Nếu âm tiết cuối chứa nguyên âm dài/đôi hoặc kết thúc bằng 2+ phụ âm: trọng âm rơi vào âm tiết CUỐI (thứ ba).",
+                    "example": "enCOUNter, deTERmine\nenterTAIN, compreHEND"
+                },
+                {
+                    "structure": "III. Hậu tố NHẬN trọng âm (-ee, -eer, -ese, -ique, -oo, -ain)",
+                    "description": "Các hậu tố -ee, -eer, -ese, -ique, -esque, -ain, -oo tự nhận trọng âm.\nNgoại lệ: comMITtee, COFfee.",
+                    "example": "aGREE, engiNEER, VietnaMESE, uNIQUE, bamBOO, mainTAIN"
+                },
+                {
+                    "structure": "III. Hậu tố làm trọng âm rơi vào âm tiết NGAY TRƯỚC (-ic, -ial, -ian, -ion, -ious, -ity, -logy...)",
+                    "description": "Các hậu tố -ic, -ics, -ial, -ian, -ion, -sion, -tion, -ious, -eous, -ity, -ety, -logy, -graphy làm trọng âm rơi vào âm tiết NGAY TRƯỚC chúng.",
+                    "example": "ecoNOmic, artiFIcial, muSIcian, inforMAtion, deLIcious, aBIlity, biOlogy"
+                },
+                {
+                    "structure": "III. Hậu tố làm trọng âm rơi vào âm tiết THỨ 3 TỪ CUỐI (-cy, -ty, -phy, -gy, -al, -ate, -ize, -fy)",
+                    "description": "Các hậu tố -cy, -ty, -phy, -gy, -al, -ate, -ize, -fy làm trọng âm rơi vào âm tiết thứ ba tính từ cuối lên.",
+                    "example": "deMOcracy, phoTOgraphy, NAtional, comMUnicate, REcognize, BEAUtify"
+                },
+                {
+                    "structure": "III. Tiền tố & Hậu tố KHÔNG làm thay đổi trọng âm",
+                    "description": "Tiền tố: un-, in-, im-, ir-, dis-, re-, over-, under-\nHậu tố: -ment, -ship, -ness, -er, -or, -hood, -ing, -ed, -en, -ful, -able, -less, -ly\nCác affixes này không thay đổi trọng âm của từ gốc.",
+                    "example": "HAPpy → unHAPpy | COver → disCOver\naGREE → aGREEment | MEANing → MEANingless"
+                },
+                {
+                    "structure": "IV. Từ Ghép - Danh từ ghép (Noun + Noun)",
+                    "description": "Trọng âm rơi vào từ cấu tạo THỨ NHẤT.",
+                    "example": "RAINcoat, TEAcup, TYPEwriter"
+                },
+                {
+                    "structure": "IV. Từ Ghép - Tính từ ghép [Adj/Noun + Past Participle]",
+                    "description": "Tính từ ghép dạng [Tính từ + Phân từ quá khứ] hoặc [Danh từ + Phân từ quá khứ]: trọng âm rơi vào từ THỨ HAI.\nTính từ ghép dạng [Danh từ + Tính từ]: trọng âm rơi vào từ THỨ NHẤT.",
+                    "example": "bad-TEMpered, old-FASHioned, snow-WHITE\nHOMEsick, WATERproof"
+                },
+                {
+                    "structure": "IV. Từ Ghép - Động từ ghép",
+                    "description": "Trọng âm rơi vào từ cấu tạo THỨ HAI.",
+                    "example": "overFLOW, underSTAND"
+                },
+                {
+                    "structure": "V. Trọng âm thay đổi theo từ loại (Noun/Adj → Âm 1 | Verb → Âm 2)",
+                    "description": "Nhiều từ giữ nguyên cách viết nhưng thay đổi trọng âm tùy theo từ loại.\nDanh từ/Tính từ: trọng âm rơi vào âm tiết THỨ NHẤT.\nĐộng từ: trọng âm rơi vào âm tiết THỨ HAI.",
+                    "example": "REcord (n.) ↔ reCORD (v.)\nPREsent (n./adj.) ↔ preSENT (v.)\nEXport (n.) ↔ exPORT (v.)\nOBject (n.) ↔ obJECT (v.)"
+                }
+            ]
+        },
+        {
+            "sectionId": "unit-2-ed-pronunciation",
+            "sectionName": "Unit 2: Pronunciation of -ed ending (Phát âm đuôi -ed)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "wanted",
+                    "phonetic": "/ˈwɒntɪd/",
+                    "meaning": "muốn (quá khứ)",
+                    "definition": "[Nhóm /ɪd/] Đuôi -ed phát âm là /ɪd/ khi động từ kết thúc bằng âm /t/ hoặc /d/ (Mẹo nhớ: 'Tiền Đô' hoặc 'Tình Đầu').",
+                    "example": "He wanted to go to the park yesterday.\nShe wanted a new bicycle for her birthday.\nThey wanted to know the answer.",
+                    "quizzes": [
+                        "Yesterday, he __________ to play soccer with his friends.",
+                        "She __________ to buy that beautiful dress, but it was too expensive.",
+                        "We __________ to help him, but he said he was fine."
+                    ]
+                },
+                {
+                    "word": "needed",
+                    "phonetic": "/ˈniːdɪd/",
+                    "meaning": "cần (quá khứ)",
+                    "definition": "[Nhóm /ɪd/] Đuôi -ed phát âm là /ɪd/ khi động từ kết thúc bằng âm /t/ hoặc /d/ (Mẹo nhớ: 'Tiền Đô' hoặc 'Tình Đầu').",
+                    "example": "I needed some help with my homework.\nWe needed more water for the trip.\nShe needed to buy some milk.",
+                    "quizzes": [
+                        "I __________ some help with my math homework last night.",
+                        "They __________ more time to finish their school project.",
+                        "She __________ to see a doctor because she felt sick."
+                    ]
+                },
+                {
+                    "word": "looked",
+                    "phonetic": "/lʊkt/",
+                    "meaning": "nhìn (quá khứ)",
+                    "definition": "[Nhóm /t/] Đuôi -ed phát âm là /t/ khi kết thúc bằng âm vô thanh /k/ (chữ k - Mẹo: 'Khi').",
+                    "example": "She looked out the window.\nHe looked at the picture on the wall.\nWe looked for the lost key.",
+                    "quizzes": [
+                        "She __________ out the window and saw a beautiful bird.",
+                        "He __________ at me and smiled warmly.",
+                        "We __________ everywhere for the missing key."
+                    ]
+                },
+                {
+                    "word": "missed",
+                    "phonetic": "/mɪst/",
+                    "meaning": "nhỡ, nhớ (quá khứ)",
+                    "definition": "[Nhóm /t/] Đuôi -ed phát âm là /t/ khi kết thúc bằng âm vô thanh /s/ (chữ s, ss, x, ce - Mẹo: 'Sang').",
+                    "example": "He missed the school bus this morning.\nShe missed her parents when she went to camp.\nWe missed the beginning of the movie.",
+                    "quizzes": [
+                        "He woke up late and __________ the school bus this morning.",
+                        "She __________ her family very much when she was studying abroad.",
+                        "They arrived late and unfortunately __________ the train."
+                    ]
+                },
+                {
+                    "word": "washed",
+                    "phonetic": "/wɒʃt/",
+                    "meaning": "rửa, giặt (quá khứ)",
+                    "definition": "[Nhóm /t/] Đuôi -ed phát âm là /t/ khi kết thúc bằng âm vô thanh /ʃ/ (chữ sh - Mẹo: 'Sông').",
+                    "example": "She washed her hands before dinner.\nHe washed his bicycle yesterday.\nThey washed the dishes after eating.",
+                    "quizzes": [
+                        "She __________ her hands thoroughly with soap before eating.",
+                        "My father __________ his car yesterday morning.",
+                        "We __________ all the dirty dishes after the party."
+                    ]
+                },
+                {
+                    "word": "stopped",
+                    "phonetic": "/stɒpt/",
+                    "meaning": "dừng lại (quá khứ)",
+                    "definition": "[Nhóm /t/] Đuôi -ed phát âm là /t/ khi kết thúc bằng âm vô thanh /p/ (chữ p - Mẹo: 'Phải').",
+                    "example": "The bus stopped at the station.\nHe stopped talking when the teacher entered.\nShe stopped to buy some fruit.",
+                    "quizzes": [
+                        "The car __________ suddenly when the light turned red.",
+                        "Everyone __________ talking when the bell rang.",
+                        "She __________ running because she was too tired."
+                    ]
+                },
+                {
+                    "word": "watched",
+                    "phonetic": "/wɒtʃt/",
+                    "meaning": "xem (quá khứ)",
+                    "definition": "[Nhóm /t/] Đuôi -ed phát âm là /t/ khi kết thúc bằng âm vô thanh /tʃ/ (chữ ch - Mẹo: 'Chờ').",
+                    "example": "We watched a movie last night.\nHe watched the birds in the garden.\nShe watched her brother play football.",
+                    "quizzes": [
+                        "We __________ a very funny cartoon on TV last night.",
+                        "He __________ the birds flying in the sky for hours.",
+                        "She __________ the game excitingly until the end."
+                    ]
+                },
+                {
+                    "word": "bathed",
+                    "phonetic": "/beɪðd/",
+                    "meaning": "tắm (quá khứ) - Lưu ý: Từ này âm cuối là /ð/ hữu thanh nên phát âm là /d/.",
+                    "definition": "[Nhóm /d/] Lưu ý đặc biệt: Từ bathe /beɪð/ có âm cuối /ð/ (hữu thanh) nên phát âm là /d/. Còn từ bath /bɑːθ/ khi làm động từ ở quá khứ sẽ phát âm đuôi -ed là /t/ (Mẹo: 'Thu').",
+                    "example": "She bathed the baby in warm water.\nHe bathed in the river yesterday.\nShe bathed her dog in the garden.",
+                    "quizzes": [
+                        "She carefully __________ the baby in warm water.",
+                        "We __________ in the cool sea water during our vacation.",
+                        "He __________ his dirty dog after it played in the mud."
+                    ]
+                },
+                {
+                    "word": "laughed",
+                    "phonetic": "/lɑːft/",
+                    "meaning": "cười (quá khứ)",
+                    "definition": "[Nhóm /t/] Đuôi -ed phát âm là /t/ khi kết thúc bằng âm vô thanh /f/ (chữ f, gh, ph - Mẹo: 'Phí').",
+                    "example": "They laughed at the funny joke.\nShe laughed when she saw the puppy.\nHe laughed loudly.",
+                    "quizzes": [
+                        "We all __________ out loud at his funny story.",
+                        "She __________ happily when she saw her friends again.",
+                        "The children __________ at the silly clown's performance."
+                    ]
+                },
+                {
+                    "word": "played",
+                    "phonetic": "/pleɪd/",
+                    "meaning": "chơi (quá khứ)",
+                    "definition": "[Nhóm /d/] Đuôi -ed phát âm là /d/ cho các trường hợp còn lại (âm cuối hữu thanh, không thuộc 2 nhóm trên).",
+                    "example": "He played football with his friends.\nShe played the piano beautifully.\nWe played board games all afternoon.",
+                    "quizzes": [
+                        "They __________ football in the park yesterday afternoon.",
+                        "She __________ a beautiful song on the violin.",
+                        "We __________ chess together last weekend."
+                    ]
+                },
+                {
+                    "word": "loved",
+                    "phonetic": "/lʌvd/",
+                    "meaning": "yêu thích (quá khứ)",
+                    "definition": "[Nhóm /d/] Đuôi -ed phát âm là /d/ cho các trường hợp còn lại (âm cuối hữu thanh, không thuộc 2 nhóm trên).",
+                    "example": "She loved reading fairy tales when she was young.\nWe loved the food at the restaurant.\nHe loved his grandparents very much.",
+                    "quizzes": [
+                        "She __________ reading comic books when she was a child.",
+                        "We really __________ the delicious food at the party.",
+                        "He always __________ spending time in the countryside."
+                    ]
+                },
+                {
+                    "word": "opened",
+                    "phonetic": "/ˈəʊpənd/",
+                    "meaning": "mở (quá khứ)",
+                    "definition": "[Nhóm /d/] Đuôi -ed phát âm là /d/ cho các trường hợp còn lại (âm cuối hữu thanh, không thuộc 2 nhóm trên).",
+                    "example": "He opened the door for his mother.\nShe opened the gift with excitement.\nThe shop opened early today.",
+                    "quizzes": [
+                        "He kindly __________ the door for the elderly lady.",
+                        "She __________ the box and found a beautiful necklace.",
+                        "The new bookstore __________ for the first time yesterday."
+                    ]
+                },
+                {
+                    "word": "cleaned",
+                    "phonetic": "/kliːnd/",
+                    "meaning": "dọn dẹp (quá khứ)",
+                    "definition": "[Nhóm /d/] Đuôi -ed phát âm là /d/ cho các trường hợp còn lại (âm cuối hữu thanh, không thuộc 2 nhóm trên).",
+                    "example": "She cleaned her bedroom yesterday.\nWe cleaned the classroom after school.\nHe cleaned his shoes before going out.",
+                    "quizzes": [
+                        "She __________ her messy bedroom before her parents came home.",
+                        "We __________ the kitchen after cooking a big dinner.",
+                        "He __________ his glasses with a soft cloth."
+                    ]
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "1. Nhóm phát âm là /ɪd/",
+                    "description": "Dành cho động từ kết thúc bằng âm /t/ hoặc /d/.\nMẹo nhớ: 'Tiền Đô' (T - Đ) hoặc 'Tình Đầu'.",
+                    "example": "wanted (/ˈwɒntɪd/), needed (/ˈniːdɪd/)"
+                },
+                {
+                    "structure": "2. Nhóm phát âm là /t/",
+                    "description": "Dành cho các động từ kết thúc bằng các âm vô thanh: /k/, /s/, /ʃ/, /p/, /tʃ/, /θ/, /f/.\nMẹo nhớ 1: 'Khi Sang Sông Phải Chờ Thu Phí'\nMẹo nhớ 2: 'Chính Phủ Phát Sách Không Thèm Share'",
+                    "example": "looked (/lʊkt/), missed (/mɪst/), washed (/wɒʃt/), stopped (/stɒpt/), watched (/wɒtʃt/), bathed (/bɑːθt/), laughed (/lɑːft/)"
+                },
+                {
+                    "structure": "3. Nhóm phát âm là /d/",
+                    "description": "Dành cho các động từ kết thúc bằng các âm còn lại (áp dụng phương pháp loại trừ, không nằm trong nhóm 1 và nhóm 2).",
+                    "example": "played (/pleɪd/), loved (/lʌvd/), opened (/ˈəʊpənd/), cleaned (/kliːnd/)"
+                }
+            ]
+        },
+        {
+            "sectionId": "unit-3-s-es-pronunciation",
+            "sectionName": "Unit 3: Pronunciation of -s/-es ending (Phát âm đuôi -s/-es)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "months",
+                    "phonetic": "/mʌnθs/",
+                    "meaning": "những tháng",
+                    "definition": "[Nhóm /s/] Đuôi -s/-es phát âm là /s/ khi từ kết thúc bằng âm vô thanh /θ/ (chữ th - Mẹo: 'Thời').",
+                    "example": "He spent three months in London.\nThere are twelve months in a year.\nShe has been learning English for six months.",
+                    "quizzes": [
+                        "We have been planning this trip for many __________.",
+                        "There are twelve __________ in a single year.",
+                        "The baby is now ten __________ old."
+                    ]
+                },
+                {
+                    "word": "cups",
+                    "phonetic": "/kʌps/",
+                    "meaning": "những chiếc cốc/tách",
+                    "definition": "[Nhóm /s/] Đuôi -s/-es phát âm là /s/ khi từ kết thúc bằng âm vô thanh /p/ (chữ p - Mẹo: 'phong').",
+                    "example": "We need four cups of flour.\nShe washed the cups and saucers.\nThere are two cups of tea on the table.",
+                    "quizzes": [
+                        "Please bring three __________ of water for our guests.",
+                        "She washed all the coffee __________ and put them away.",
+                        "He has won many gold __________ in soccer tournaments."
+                    ]
+                },
+                {
+                    "word": "books",
+                    "phonetic": "/bʊks/",
+                    "meaning": "những cuốn sách",
+                    "definition": "[Nhóm /s/] Đuôi -s/-es phát âm là /s/ khi từ kết thúc bằng âm vô thanh /k/ (chữ k - Mẹo: 'kiến').",
+                    "example": "She loves reading books.\nThese books are very heavy.\nPut the books back on the shelf.",
+                    "quizzes": [
+                        "The library has thousands of interesting __________ to read.",
+                        "Please put these textbooks and notebook __________ back on the shelf.",
+                        "He has read three __________ this month."
+                    ]
+                },
+                {
+                    "word": "laughs",
+                    "phonetic": "/lɑːfs/",
+                    "meaning": "cười, tiếng cười (số nhiều/chia ngôi ba)",
+                    "definition": "[Nhóm /s/] Đuôi -s/-es phát âm là /s/ khi từ kết thúc bằng âm vô thanh /f/ (chữ f, gh, ph phát âm là /f/ - Mẹo: 'phương').",
+                    "example": "He always laughs at my jokes.\nShe laughs very loudly.\nEveryone laughs when the clown performs.",
+                    "quizzes": [
+                        "He always __________ when he watches comedy shows.",
+                        "She __________ so much that her face turns red.",
+                        "No one __________ at his silly jokes anymore."
+                    ]
+                },
+                {
+                    "word": "cats",
+                    "phonetic": "/kæts/",
+                    "meaning": "những con mèo",
+                    "definition": "[Nhóm /s/] Đuôi -s/-es phát âm là /s/ khi từ kết thúc bằng âm vô thanh /t/ (chữ t - Mẹo: 'tây').",
+                    "example": "She has three pet cats.\nCats love chasing mice.\nMy cats are sleeping on the sofa.",
+                    "quizzes": [
+                        "My sister loves pet __________ more than dogs.",
+                        "The two __________ are playing with a ball of yarn.",
+                        "Stray __________ sometimes sleep on our porch."
+                    ]
+                },
+                {
+                    "word": "potatoes",
+                    "phonetic": "/pəˈteɪtəʊz/",
+                    "meaning": "những củ khoai tây - Lưu ý: Mặc dù viết đuôi -es sau 'o' nhưng phát âm là /z/ do kết thúc bằng nguyên âm.",
+                    "definition": "[Lưu ý phát âm /z/] Mặc dù từ kết thúc bằng chữ 'o' và thêm -es, nhưng về mặt âm học, âm cuối cùng là nguyên âm /əʊ/ (hữu thanh) nên phát âm đuôi -es là /z/ chứ không phải /ɪz/. Tuy nhiên, mẹo nhớ chữ cái 'o' ('Ông') thường được xếp vào nhóm thêm 'es'.",
+                    "example": "We need to buy some potatoes.\nShe peeled the potatoes for the soup.\nHe planted potatoes in the garden.",
+                    "quizzes": [
+                        "We bought a big bag of fresh __________ from the market.",
+                        "She mashed the cooked __________ with butter and milk.",
+                        "Are you going to bake these __________ for dinner?"
+                    ]
+                },
+                {
+                    "word": "buses",
+                    "phonetic": "/ˈbʌsɪz/",
+                    "meaning": "những chuyến xe buýt",
+                    "definition": "[Nhóm /ɪz/] Đuôi -s/-es phát âm là /ɪz/ khi từ kết thúc bằng chữ s (Mẹo: 'Sáu').",
+                    "example": "The school buses are yellow.\nMany buses pass by our house.\nWe waited for the buses for an hour.",
+                    "quizzes": [
+                        "All the school __________ are parked in the yard.",
+                        "Are there any city __________ running late at night?",
+                        "We have to wait here because the __________ are delayed."
+                    ]
+                },
+                {
+                    "word": "classes",
+                    "phonetic": "/ˈklɑːsɪz/",
+                    "meaning": "các lớp học",
+                    "definition": "[Nhóm /ɪz/] Đuôi -s/-es phát âm là /ɪz/ khi từ kết thúc bằng chữ ss (Mẹo: 'sungsức').",
+                    "example": "She has English classes on Mondays.\nAll classes start at 8 AM.\nThe school has twenty classes in total.",
+                    "quizzes": [
+                        "I enjoy my science and art __________ the most.",
+                        "Our morning __________ usually finish at eleven thirty.",
+                        "The teacher manages three different __________ of students."
+                    ]
+                },
+                {
+                    "word": "oranges",
+                    "phonetic": "/ˈɒrɪndʒɪz/",
+                    "meaning": "những quả cam",
+                    "definition": "[Nhóm /ɪz/] Đuôi -s/-es phát âm là /ɪz/ khi từ kết thúc bằng đuôi ge (phát âm là âm gió /dʒ/ - Mẹo: 'ghé').",
+                    "example": "Oranges are rich in vitamin C.\nShe squeezed three oranges for juice.\nThese oranges are very sweet.",
+                    "quizzes": [
+                        "Eating __________ every day is good for your health.",
+                        "She bought a dozen fresh __________ to make juice.",
+                        "How much do these sweet __________ cost per kilo?"
+                    ]
+                },
+                {
+                    "word": "places",
+                    "phonetic": "/ˈpleɪsɪz/",
+                    "meaning": "những địa điểm, nơi chốn",
+                    "definition": "[Nhóm /ɪz/] Đuôi -s/-es phát âm là /ɪz/ khi từ kết thúc bằng chữ c/ce (phát âm là âm gió /s/ - Mẹo: 'công').",
+                    "example": "We visited many beautiful places.\nThere are no empty places left.\nShe loves exploring new places.",
+                    "quizzes": [
+                        "We visited many historic __________ during our trip to Europe.",
+                        "There are still some empty __________ at the dining table.",
+                        "He has traveled to many interesting __________ around the world."
+                    ]
+                },
+                {
+                    "word": "quizzes",
+                    "phonetic": "/ˈkwɪzɪz/",
+                    "meaning": "những bài kiểm tra ngắn",
+                    "definition": "[Nhóm /ɪz/] Đuôi -s/-es phát âm là /ɪz/ khi từ kết thúc bằng chữ z (Mẹo: 'ziên').",
+                    "example": "We have weekly quizzes in English.\nShe did well on all her math quizzes.\nThe teacher prepares short quizzes for us.",
+                    "quizzes": [
+                        "Our science teacher gives us short __________ every Friday.",
+                        "I need to study hard to pass these vocabulary __________.",
+                        "How many __________ did you have to take this semester?"
+                    ]
+                },
+                {
+                    "word": "watches",
+                    "phonetic": "/ˈwɒtʃɪz/",
+                    "meaning": "những chiếc đồng hồ / xem (ngôi ba số ít)",
+                    "definition": "[Nhóm /ɪz/] Đuôi -s/-es phát âm là /ɪz/ khi từ kết thúc bằng đuôi ch (phát âm là âm gió /tʃ/ - Mẹo: 'chạy').",
+                    "example": "He watches television after school.\nShe has two beautiful watches.\nMy father watches the news every evening.",
+                    "quizzes": [
+                        "He always __________ his favorite cartoon show on Sundays.",
+                        "She collection includes several vintage __________.",
+                        "My mother __________ the cooking program to learn new recipes."
+                    ]
+                },
+                {
+                    "word": "boxes",
+                    "phonetic": "/ˈbɒksɪz/",
+                    "meaning": "những chiếc hộp",
+                    "definition": "[Nhóm /ɪz/] Đuôi -s/-es phát âm là /ɪz/ khi từ kết thúc bằng chữ x (phát âm là âm gió /ks/ - Mẹo: 'xe').",
+                    "example": "We packed the toys in cardboard boxes.\nThere are three heavy boxes in the hall.\nCan you help me carry these boxes?",
+                    "quizzes": [
+                        "Please help me pack these books into the cardboard __________.",
+                        "There are several empty __________ in the garage.",
+                        "We stored all our old clothes in plastic __________."
+                    ]
+                },
+                {
+                    "word": "dishes",
+                    "phonetic": "/ˈdɪʃɪz/",
+                    "meaning": "những chiếc đĩa/món ăn",
+                    "definition": "[Nhóm /ɪz/] Đuôi -s/-es phát âm là /ɪz/ khi từ kết thúc bằng đuôi sh (phát âm là âm gió /ʃ/ - Mẹo: 'sh').",
+                    "example": "She washed the dishes after dinner.\nThey served many traditional dishes.\nWe need more clean dishes for the party.",
+                    "quizzes": [
+                        "It is your turn to wash the __________ after dinner tonight.",
+                        "The restaurant serves many delicious traditional __________.",
+                        "We laid out all the plates and __________ on the buffet table."
+                    ]
+                },
+                {
+                    "word": "dogs",
+                    "phonetic": "/dɒɡz/",
+                    "meaning": "những con chó",
+                    "definition": "[Nhóm /z/] Đuôi -s/-es phát âm là /z/ cho các trường hợp còn lại (âm cuối hữu thanh như /ɡ/).",
+                    "example": "They have two friendly dogs.\nDogs are very loyal animals.\nI hear dogs barking outside.",
+                    "quizzes": [
+                        "We saw three big __________ playing in the park.",
+                        "__________ are known to be very loyal companions.",
+                        "The neighbor's __________ always bark when someone walks past."
+                    ]
+                },
+                {
+                    "word": "pens",
+                    "phonetic": "/penz/",
+                    "meaning": "những chiếc bút mực",
+                    "definition": "[Nhóm /z/] Đuôi -s/-es phát âm là /z/ cho các trường hợp còn lại (âm cuối hữu thanh như /n/).",
+                    "example": "I need some blue pens.\nHe has many pens in his pencil case.\nThese pens write very smoothly.",
+                    "quizzes": [
+                        "Could you lend me one of your blue __________?",
+                        "She has a collection of colorful gel __________ on her desk.",
+                        "I always keep two spare __________ in my backpack."
+                    ]
+                },
+                {
+                    "word": "bags",
+                    "phonetic": "/bæɡz/",
+                    "meaning": "những chiếc túi/cặp",
+                    "definition": "[Nhóm /z/] Đuôi -s/-es phát âm là /z/ cho các trường hợp còn lại (âm cuối hữu thanh như /ɡ/).",
+                    "example": "They carried heavy bags of groceries.\nPut your bags in the locker.\nWe bought some new school bags.",
+                    "quizzes": [
+                        "The children left their heavy school __________ in the classroom.",
+                        "She carried two plastic __________ full of fresh vegetables.",
+                        "All passenger __________ must go through security check."
+                    ]
+                },
+                {
+                    "word": "rooms",
+                    "phonetic": "/ruːmz/",
+                    "meaning": "những căn phòng",
+                    "definition": "[Nhóm /z/] Đuôi -s/-es phát âm là /z/ cho các trường hợp còn lại (âm cuối hữu thanh như /m/).",
+                    "example": "The house has five rooms.\nClean your rooms before going out.\nThese hotel rooms are very quiet.",
+                    "quizzes": [
+                        "Their new house is big and has many __________.",
+                        "Please clean your __________ before going out to play.",
+                        "The conference __________ are located on the second floor."
+                    ]
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "1. Nhóm phát âm là /s/",
+                    "description": "Áp dụng cho các từ kết thúc bằng các âm/chữ cái vô thanh: th, p, k, f, t.\nMẹo nhớ: 'Thời phong kiến phương tây' (th - p - k - f/gh/ph - t).",
+                    "example": "months (/mʌnθs/), cups (/kʌps/), books (/bʊks/), laughs (/lɑːfs/), cats (/kæts/)"
+                },
+                {
+                    "structure": "2. Nhóm phát âm là /iz/",
+                    "description": "Áp dụng cho các từ kết thúc bằng các âm gió, chữ cái: s, ss, ge, c/ce, z, ch, x, sh.\nMẹo nhớ: 'Ông Sáu sungsức ghé công ziên chạy xe sh' (o - s - ss - ge - c - z - ch - x - sh).",
+                    "example": "buses (/ˈbʌsɪz/), classes (/ˈklɑːsɪz/), oranges (/ˈɒrɪndʒɪz/), places (/ˈpleɪsɪz/), quizzes (/ˈkwɪzɪz/), watches (/ˈwɒtʃɪz/), boxes (/ˈbɒksɪz/), dishes (/ˈdɪʃɪz/)\n*Lưu ý: từ kết thúc bằng 'o' như potatoes, tomatoes phát âm là /z/."
+                },
+                {
+                    "structure": "3. Nhóm phát âm là /z/",
+                    "description": "Áp dụng cho tất cả các trường hợp còn lại (kết thúc bằng các nguyên âm và phụ âm hữu thanh khác: b, d, g, l, m, n, r, v, y...).",
+                    "example": "dogs (/dɒɡz/), pens (/penz/), bags (/bæɡz/), rooms (/ruːmz/)"
+                },
+                {
+                    "structure": "BÀI TẬP NHANH CHO BẠN",
+                    "description": "Hãy thử áp dụng quy tắc/mẹo nhớ bên trên để phân loại cách phát âm đuôi s/es của các từ sau:",
+                    "example": "- books → Kết thúc bằng k ('kiến') → Phát âm là /s/\n- boxes → Kết thúc bằng x ('xe') → Phát âm là /iz/\n- cats → Kết thúc bằng t ('tây') → Phát âm là /s/\n- pens → Không thuộc nhóm 1 và 2 ('còn lại') → Phát âm là /z/\n- watches → Kết thúc bằng ch ('chạy') → Phát âm là /iz/"
+                }
+            ]
+        },
+        {
+            "sectionId": "unit-4-vowels-pronunciation",
+            "sectionName": "Unit 4: Pronunciation of Vowels (Phát âm nguyên âm)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "cat",
+                    "phonetic": "/kæt/",
+                    "meaning": "con mèo",
+                    "definition": "[Chữ A phát âm là /æ/] Thường gặp trong các từ có 1 âm tiết, kết thúc bằng phụ âm.",
+                    "example": "The cat is sleeping on the mat.\nI have a black cat.\nCats can see in the dark.",
+                    "quizzes": [
+                        "My pet __________ loves to sleep on my lap.",
+                        "A small grey __________ ran across the street.",
+                        "Do you prefer __________s or dogs?"
+                    ]
+                },
+                {
+                    "word": "cake",
+                    "phonetic": "/keɪk/",
+                    "meaning": "bánh ngọt",
+                    "definition": "[Chữ A phát âm là /eɪ/] Rất phổ biến khi đi với cấu trúc: a + phụ âm + e (âm e ở cuối câm).",
+                    "example": "She baked a chocolate cake.\nWould you like a piece of cake?\nThis cake is delicious.",
+                    "quizzes": [
+                        "We bought a big birthday __________ for my sister.",
+                        "Would you like another slice of __________?",
+                        "She taught me how to bake a strawberry __________."
+                    ]
+                },
+                {
+                    "word": "car",
+                    "phonetic": "/kɑː(r)/",
+                    "meaning": "xe hơi, ô tô",
+                    "definition": "[Chữ A phát âm là /ɑː/] Thường gặp khi chữ 'a' đứng trước chữ 'r' (ar).",
+                    "example": "He drives a blue car.\nWe parked the car outside.\nShe washed her car yesterday.",
+                    "quizzes": [
+                        "My uncle bought a brand new red __________.",
+                        "We travelled to the beach by __________.",
+                        "Can you help me wash the __________ this weekend?"
+                    ]
+                },
+                {
+                    "word": "tall",
+                    "phonetic": "/tɔːl/",
+                    "meaning": "cao",
+                    "definition": "[Chữ A phát âm là /ɔː/] Thường gặp khi chữ 'a' đứng trước 'll', 'lk', 'w', 'u'.",
+                    "example": "He is very tall for his age.\nThere are tall trees in the park.\nShe is taller than her brother.",
+                    "quizzes": [
+                        "He is the __________est boy in our classroom.",
+                        "The city has many __________ buildings.",
+                        "She is not short; she is actually quite __________."
+                    ]
+                },
+                {
+                    "word": "about",
+                    "phonetic": "/əˈbaʊt/",
+                    "meaning": "về, khoảng",
+                    "definition": "[Chữ A phát âm là /ə/] Khi chữ 'a' nằm ở âm tiết không nhận trọng âm.",
+                    "example": "What is this book about?\nIt takes about ten minutes.\nTell me about your family.",
+                    "quizzes": [
+                        "This story is __________ a brave young knight.",
+                        "We arrived at school at __________ seven o'clock.",
+                        "What are you thinking __________?"
+                    ]
+                },
+                {
+                    "word": "pen",
+                    "phonetic": "/pen/",
+                    "meaning": "bút mực",
+                    "definition": "[Chữ E phát âm là /e/] Thường gặp trong các từ ngắn kết thúc bằng phụ âm.",
+                    "example": "Write your name with a pen.\nCan I borrow your pen?\nI lost my red pen.",
+                    "quizzes": [
+                        "You should write the exam in blue __________.",
+                        "I need to buy a new black __________ today.",
+                        "May I borrow your __________ for a second?"
+                    ]
+                },
+                {
+                    "word": "see",
+                    "phonetic": "/siː/",
+                    "meaning": "nhìn, thấy",
+                    "definition": "[Chữ E phát âm là /iː/] Thường gặp khi 'e' đứng ở cuối từ ngắn hoặc cấu trúc 'ee', 'ea'.",
+                    "example": "I can see the sea from here.\nNice to see you again.\nDid you see the soccer match?",
+                    "quizzes": [
+                        "I can __________ a beautiful rainbow in the sky.",
+                        "It is so nice to __________ you after a long time.",
+                        "Did you __________ where I placed my glasses?"
+                    ]
+                },
+                {
+                    "word": "begin",
+                    "phonetic": "/bɪˈɡɪn/",
+                    "meaning": "bắt đầu",
+                    "definition": "[Chữ E phát âm là /ɪ/] Thường gặp trong các tiền tố như be-, de-, re-.",
+                    "example": "Let's begin the lesson.\nWhen does the film begin?\nThe show is about to begin.",
+                    "quizzes": [
+                        "We will __________ our class at eight o'clock.",
+                        "When did the rain __________ to fall?",
+                        "Please stand up before we __________ the presentation."
+                    ]
+                },
+                {
+                    "word": "pig",
+                    "phonetic": "/pɪɡ/",
+                    "meaning": "con lợn",
+                    "definition": "[Chữ I phát âm là /ɪ/] Thường gặp trong các từ ngắn kết thúc bằng phụ âm.",
+                    "example": "The pig is eating food.\nHe drew a pink pig.\nThey raise pigs on the farm.",
+                    "quizzes": [
+                        "The farmer fed the hungry __________s in the barn.",
+                        "A baby __________ is called a piglet.",
+                        "She loves the cartoon character of the little pink __________."
+                    ]
+                },
+                {
+                    "word": "kite",
+                    "phonetic": "/kaɪt/",
+                    "meaning": "cái diều",
+                    "definition": "[Chữ I phát âm là /aɪ/] Rất phổ biến trong cấu trúc i + phụ âm + e, hoặc trước 'nd', 'ld'.",
+                    "example": "Let's fly a kite in the park.\nHe made a colorful kite.\nThe kite flew high in the sky.",
+                    "quizzes": [
+                        "The children are flying a red __________ in the windy field.",
+                        "He built a beautiful paper __________ with his father.",
+                        "The __________ got stuck in the tall tree branch."
+                    ]
+                },
+                {
+                    "word": "bird",
+                    "phonetic": "/bɜːd/",
+                    "meaning": "con chim",
+                    "definition": "[Chữ I phát âm là /ɜː/] Thường gặp khi chữ 'i' đứng trước chữ 'r' (ir).",
+                    "example": "A bird is singing in the tree.\nI saw a colorful bird.\nBirds fly south for winter.",
+                    "quizzes": [
+                        "A beautiful little __________ was singing outside my window.",
+                        "She fed breadcrumbs to the __________s in the park.",
+                        "Which kind of __________ is the largest in the world?"
+                    ]
+                },
+                {
+                    "word": "dog",
+                    "phonetic": "/dɒɡ/",
+                    "meaning": "con chó",
+                    "definition": "[Chữ O phát âm là /ɒ/] Thường gặp trong các từ ngắn.",
+                    "example": "The dog is barking loudly.\nI have a friendly dog.\nHe walked his dog in the park.",
+                    "quizzes": [
+                        "Our pet __________ always runs to greet us at the door.",
+                        "He took his __________ for a walk around the block.",
+                        "The wild __________ barked at the stranger."
+                    ]
+                },
+                {
+                    "word": "home",
+                    "phonetic": "/həʊm/",
+                    "meaning": "nhà, tổ ấm",
+                    "definition": "[Chữ O phát âm là /əʊ/] Thường gặp trong cấu trúc o + phụ âm + e, hoặc khi đứng cuối từ ngắn.",
+                    "example": "I want to go home now.\nMake yourself at home.\nShe stayed at home yesterday.",
+                    "quizzes": [
+                        "I feel so comfortable when I am at __________.",
+                        "What time do you usually get __________ from school?",
+                        "They bought a lovely new __________ near the park."
+                    ]
+                },
+                {
+                    "word": "son",
+                    "phonetic": "/sʌn/",
+                    "meaning": "con trai (trong gia đình)",
+                    "definition": "[Chữ O phát âm là /ʌ/] Thường gặp trong một số từ đặc biệt thông dụng.",
+                    "example": "He is my eldest son.\nThey have a son and a daughter.\nHer son is a student.",
+                    "quizzes": [
+                        "Their eldest __________ is studying at university.",
+                        "She is very proud of her young __________'s achievements.",
+                        "They are blessed to have a healthy baby __________."
+                    ]
+                },
+                {
+                    "word": "short",
+                    "phonetic": "/ʃɔːt/",
+                    "meaning": "ngắn, thấp",
+                    "definition": "[Chữ O phát âm là /ɔː/] Thường gặp khi 'o' đứng trước 'r' (or).",
+                    "example": "He has short hair.\nIt was a short story.\nShe is short but active.",
+                    "quizzes": [
+                        "We took a __________ break after the test.",
+                        "She prefers to wear __________ pants in summer.",
+                        "The days are __________er in the winter season."
+                    ]
+                },
+                {
+                    "word": "food",
+                    "phonetic": "/fuːd/",
+                    "meaning": "thức ăn, thực phẩm",
+                    "definition": "[Chữ O phát âm là /uː/] Trong một số từ đặc biệt hoặc cụm 'oo'.",
+                    "example": "I love Vietnamese food.\nWe bought some food for the party.\nCats need healthy food.",
+                    "quizzes": [
+                        "Vietnamese __________ is very popular worldwide.",
+                        "We need to buy some fresh __________ from the supermarket.",
+                        "Do not waste __________ because many people are hungry."
+                    ]
+                },
+                {
+                    "word": "cup",
+                    "phonetic": "/kʌp/",
+                    "meaning": "cái cốc, tách",
+                    "definition": "[Chữ U phát âm là /ʌ/] Thường gặp trong các từ ngắn.",
+                    "example": "Drink a cup of tea.\nShe washed the coffee cup.\nI need a cup of water.",
+                    "quizzes": [
+                        "He drank a hot __________ of cocoa before bed.",
+                        "She carefully placed the porcelain __________ on the table.",
+                        "Can I have a __________ of coffee, please?"
+                    ]
+                },
+                {
+                    "word": "cute",
+                    "phonetic": "/kjuːt/",
+                    "meaning": "dễ thương, đáng yêu",
+                    "definition": "[Chữ U phát âm là /juː/] Thường gặp trong cấu trúc u + phụ âm + e, hoặc đầu một số từ.",
+                    "example": "What a cute baby!\nShe has a cute puppy.\nHe wrote a cute message.",
+                    "quizzes": [
+                        "The baby has a very __________ and happy smile.",
+                        "She bought a __________ little teddy bear for her cousin.",
+                        "He has a __________ kitten that loves to play with wool."
+                    ]
+                },
+                {
+                    "word": "put",
+                    "phonetic": "/pʊt/",
+                    "meaning": "đặt, để",
+                    "definition": "[Chữ U phát âm là /u/ ngắn - /ʊ/] Cách phát âm đặc biệt.",
+                    "example": "Put the keys on the table.\nWhere did you put my pen?\nShe put on her coat and left.",
+                    "quizzes": [
+                        "Please __________ your books back in your backpack.",
+                        "Where did you __________ my glasses, Mom?",
+                        "He __________ the box on the top shelf."
+                    ]
+                },
+                {
+                    "word": "turn",
+                    "phonetic": "/tɜːn/",
+                    "meaning": "xoay, rẽ, lượt",
+                    "definition": "[Chữ U phát âm là /ɜː/] Thường gặp khi 'u' đứng trước chữ 'r' (ur).",
+                    "example": "Turn left at the corner.\nIt's your turn now.\nHe turned the handle slowly.",
+                    "quizzes": [
+                        "Please __________ right when you reach the post office.",
+                        "It is now your __________ to roll the dice.",
+                        "Don't forget to __________ off the lights when leaving."
+                    ]
+                }
+            ],
+            "grammars": [
+                {
+                    "structure": "1. Sự biến hóa của chữ 'A'",
+                    "description": "- /æ/: Từ 1 âm tiết kết thúc bằng phụ âm (cat, hat).\n- /eɪ/: Cấu trúc a + phụ âm + e câm (cake, name).\n- /ɑː/: Đứng trước chữ 'r' (car, star).\n- /ɔː/: Đứng trước 'll', 'lk', 'w', 'u' (tall, water).\n- /ə/: Âm tiết không nhận trọng âm (about, banana).",
+                    "example": "cat (/kæt/), cake (/keɪk/), car (/kɑː(r)/), tall (/tɔːl/), about (/əˈbaʊt/)"
+                },
+                {
+                    "structure": "2. Sự biến hóa của chữ 'E'",
+                    "description": "- /e/: Từ ngắn kết thúc bằng phụ âm (pen, bed).\n- /iː/: Đứng cuối từ ngắn hoặc cấu trúc ee, ea (she, see, meat).\n- /ɪ/: Tiền tố be-, de-, re- (begin, return).\n- E câm: Đứng cuối từ, làm nguyên âm trước kéo dài (like, make).",
+                    "example": "pen (/pen/), see (/siː/), begin (/bɪˈɡɪn/)"
+                },
+                {
+                    "structure": "3. Sự biến hóa của chữ 'I'",
+                    "description": "- /ɪ/: Từ ngắn kết thúc bằng phụ âm (pig, sit).\n- /aɪ/: Cấu trúc i + phụ âm + e, hoặc trước nd, ld (kite, kind, child).\n- /ɜː/: Đứng trước chữ 'r' (bird, girl, first).",
+                    "example": "pig (/pɪɡ/), kite (/kaɪt/), bird (/bɜːd/)"
+                },
+                {
+                    "structure": "4. Sự biến hóa của chữ 'O'",
+                    "description": "- /ɒ/: Từ ngắn (dog, hot).\n- /əʊ/: Cấu trúc o + phụ âm + e hoặc cuối từ ngắn (home, go).\n- /ʌ/: Từ đặc biệt (son, love, month).\n- /ɔː/: Đứng trước 'r' (short, morning).\n- /uː/: Từ đặc biệt hoặc cụm 'oo' (do, food).",
+                    "example": "dog (/dɒɡ/), home (/həʊm/), son (/sʌn/), short (/ʃɔːt/), food (/fuːd/)"
+                },
+                {
+                    "structure": "5. Sự biến hóa của chữ 'U'",
+                    "description": "- /ʌ/: Từ ngắn (cup, sun, bus).\n- /juː/: Cấu trúc u + phụ âm + e hoặc đầu một số từ (cute, music).\n- /ʊ/: Cách phát âm đặc biệt (put, pull, full).\n- /ɜː/: Đứng trước chữ 'r' (turn, burn, hurt).",
+                    "example": "cup (/kʌp/), cute (/kjuːt/), put (/pʊt/), turn (/tɜːn/)"
+                }
+            ]
+        }
+    ]
+}

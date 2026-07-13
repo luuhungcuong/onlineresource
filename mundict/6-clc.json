@@ -699,6 +699,350 @@
                     "example": "She has long curly brown hair.\nHe is a very smart and helpful boy.\nMy grandfather is old, but he is still strong."
                 }
             ]
+        },
+        {
+            "sectionId": "unit-2-ladybugs-and-other-insects",
+            "sectionName": "Unit 2: Ladybugs and Other Insects",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "beetle",
+                    "phonetic": "/ˈbiːtl/",
+                    "meaning": "bọ cánh cứng",
+                    "definition": "An insect with a hard shell-like back that covers its wings.",
+                    "example": "We saw a shiny green beetle in the garden.\nThe beetle crawled slowly up the tree trunk.\nSome beetles can fly, but others cannot.",
+                    "quizzes": [
+                        "A green __________ was crawling on a leaf.",
+                        "The insect has a hard outer shell, which is typical for a __________.",
+                        "We found a large black __________ under a rock."
+                    ]
+                },
+                {
+                    "word": "ladybug",
+                    "phonetic": "/ˈleɪdibʌɡ/",
+                    "meaning": "bọ rùa",
+                    "definition": "A small, round beetle that is usually red or yellow with black spots.",
+                    "example": "A ladybug landed gently on her hand.\nLadybugs are helpful insects because they eat aphids.\nChildren love ladybugs because of their bright colors.",
+                    "quizzes": [
+                        "Look! A tiny red __________ with black spots has landed on my finger.",
+                        "Farmers love the __________ because it eats pests that damage crops.",
+                        "I saw a __________ crawling on a flower petal."
+                    ]
+                },
+                {
+                    "word": "harmless to",
+                    "phonetic": "/ˈhɑːmləs tə/",
+                    "meaning": "vô hại đối với",
+                    "definition": "Not causing any hurt, damage, or danger to someone or something.",
+                    "example": "Most ladybugs are harmless to humans.\nThis insect is completely harmless to garden plants.\nIs this chemical harmless to pets?",
+                    "quizzes": [
+                        "Most small spiders in our garden are completely __________ humans.",
+                        "This cleaning spray is safe and __________ the environment.",
+                        "These snakes are non-venomous and __________ livestock."
+                    ]
+                },
+                {
+                    "word": "sting",
+                    "phonetic": "/stɪŋ/",
+                    "meaning": "đốt, chích",
+                    "definition": "To hurt someone by piercing their skin with a sharp point, like a bee.",
+                    "example": "A bee can sting you if it feels threatened.\nDo not touch that wasp, it might sting.\nHis hand began to swell after the insect sting.",
+                    "quizzes": [
+                        "Do bees __________ when they are scared?",
+                        "A wasp can __________ you if you disturb its nest.",
+                        "The hot water helped ease the pain of the bee __________."
+                    ]
+                },
+                {
+                    "word": "bite",
+                    "phonetic": "/baɪt/",
+                    "meaning": "cắn",
+                    "definition": "To use teeth to cut into or pierce something.",
+                    "example": "Be careful, the dog might bite if you scare it.\nMosquitoes bite people to suck their blood.\nHe took a big bite of the red apple.",
+                    "quizzes": [
+                        "Do not put your fingers near the cage, or the hamster might __________ you.",
+                        "Some insects __________ to defend themselves.",
+                        "He took a large __________ of the delicious sandwich."
+                    ]
+                },
+                {
+                    "word": "disease",
+                    "phonetic": "/dɪˈziːz/",
+                    "meaning": "bệnh tật",
+                    "definition": "An illness affecting humans, animals, or plants.",
+                    "example": "Dirty water can spread dangerous diseases.\nMosquitoes can carry and transmit disease.\nHe is studying how to cure this rare disease.",
+                    "quizzes": [
+                        "Vaccines protect children from many childhood __________s.",
+                        "Rats can spread __________ by contaminating food.",
+                        "The doctor explained how the __________ affects the body."
+                    ]
+                },
+                {
+                    "word": "Middle Ages",
+                    "phonetic": "/ˌmɪd.əl 'eɪ.dʒɪz/",
+                    "meaning": "thời Trung Cổ",
+                    "definition": "The historical period in European history from about 500 AD to 1500 AD.",
+                    "example": "Life in the Middle Ages was very different from today.\nCastles were built across Europe during the Middle Ages.\nPeople in the Middle Ages faced many deadly plagues.",
+                    "quizzes": [
+                        "Knights and castles are famous symbols of the __________ __________.",
+                        "During the __________ __________, many people lived in small agricultural villages.",
+                        "We are learning about European history in the __________ __________."
+                    ]
+                },
+                {
+                    "word": "crop",
+                    "phonetic": "/krɒp/",
+                    "meaning": "mùa màng, cây trồng",
+                    "definition": "A plant that is grown in large quantities, especially for food.",
+                    "example": "Rice is the main crop grown in this region.\nFarmers harvest their crops in autumn.\nThe dry weather damaged the corn crops.",
+                    "quizzes": [
+                        "The farmers are working hard to harvest their __________s.",
+                        "Wheat is an important __________ used to make bread.",
+                        "Lack of rain caused the potato __________ to fail."
+                    ]
+                },
+                {
+                    "word": "villager",
+                    "phonetic": "/ˈvɪlɪdʒə(r)/",
+                    "meaning": "dân làng",
+                    "definition": "A person who lives in a village.",
+                    "example": "The villagers gathered to discuss the new road.\nMost villagers are farmers or fishermen.\nShe is a friendly villager who helped us find our way.",
+                    "quizzes": [
+                        "Local __________s were friendly and welcomed the tourists.",
+                        "The __________s gathered in the town square for the festival.",
+                        "As a __________, he knows everyone in the small community."
+                    ]
+                },
+                {
+                    "word": "pray",
+                    "phonetic": "/preɪ/",
+                    "meaning": "cầu nguyện",
+                    "definition": "To speak to a god to show love, give thanks, or ask for help.",
+                    "example": "The villagers pray for a good harvest every year.\nShe closed her eyes and began to pray.\nThey pray at the local temple on Sundays.",
+                    "quizzes": [
+                        "Farmers often __________ for rain during a dry summer.",
+                        "They gathered at the church to __________ for peace.",
+                        "She taught her children to __________ before going to bed."
+                    ]
+                },
+                {
+                    "word": "belief",
+                    "phonetic": "/bɪˈliːf/",
+                    "meaning": "niềm tin",
+                    "definition": "An acceptance that something is true or that something exists.",
+                    "example": "It is my belief that honesty is the best policy.\nThey have a strong belief in traditional medicine.\nWe must respect the religious beliefs of others.",
+                    "quizzes": [
+                        "There is a common __________ that ladybugs bring good luck.",
+                        "Her __________ in her students helped them succeed.",
+                        "Different cultures have different __________s and customs."
+                    ]
+                },
+                {
+                    "word": "land on",
+                    "phonetic": "/lænd ɒn/",
+                    "meaning": "đậu lên",
+                    "definition": "To come down from the air and settle on a surface.",
+                    "example": "A butterfly went to land on a red flower.\nWe watched the plane land on the runway.\nThe bird decided to land on the tree branch.",
+                    "quizzes": [
+                        "The helicopter will __________ __________ the hospital roof.",
+                        "I watched a ladybug __________ __________ my notebook.",
+                        "A leaf fell from the tree and decided to __________ __________ the grass."
+                    ]
+                },
+                {
+                    "word": "maiden",
+                    "phonetic": "/ˈmeɪdn/",
+                    "meaning": "thiếu nữ",
+                    "definition": "A young girl or a woman, especially one who is not married.",
+                    "example": "In the old story, a brave knight saved the maiden.\nShe was a beautiful maiden who lived in a small cottage.\nThe maiden spun wool into beautiful yarn.",
+                    "quizzes": [
+                        "Fairy tales often feature a beautiful __________ in distress.",
+                        "The young __________ wore a flower crown on her head.",
+                        "In ancient legends, the __________ walked through the forest."
+                    ]
+                },
+                {
+                    "word": "harvest",
+                    "phonetic": "/ˈhɑːvɪst/",
+                    "meaning": "mùa thu hoạch / thu hoạch",
+                    "definition": "The time of year when crops are cut and gathered, or the act of gathering them.",
+                    "example": "The farmers are preparing for the autumn harvest.\nWe help our grandparents harvest the apples.\nThey had a very good harvest this year.",
+                    "quizzes": [
+                        "Autumn is the time of year when farmers __________ their crops.",
+                        "The village celebrated a rich wheat __________ this year.",
+                        "They need more workers during the fruit __________."
+                    ]
+                },
+                {
+                    "word": "represent",
+                    "phonetic": "/ˌreprɪˈzent/",
+                    "meaning": "đại diện",
+                    "definition": "To speak or act on behalf of someone, or to be a symbol of something.",
+                    "example": "Each color on the flag represents something special.\nHe was chosen to represent his school in the competition.\nRed roses often represent love and beauty.",
+                    "quizzes": [
+                        "A white dove is often used to __________ peace.",
+                        "Two students will __________ our class in the debate.",
+                        "The blue stripes on the map __________ rivers."
+                    ]
+                },
+                {
+                    "word": "fortune",
+                    "phonetic": "/ˈhɔːtʃuːn/",
+                    "meaning": "vận may, tài lộc",
+                    "definition": "Chance or luck, especially in the way it affects people's lives; or a large amount of money.",
+                    "example": "She had the good fortune to win the competition.\nSome people believe ladybugs bring good fortune.\nThat car must have cost a small fortune.",
+                    "quizzes": [
+                        "Finding a four-leaf clover is believed to bring good __________.",
+                        "He spent a small __________ on his new laptop.",
+                        "They wished us good __________ on our new journey."
+                    ]
+                },
+                {
+                    "word": "bring",
+                    "phonetic": "/brɪŋ/",
+                    "meaning": "mang đến",
+                    "definition": "To take or carry someone or something to a place.",
+                    "example": "Don't forget to bring your umbrella.\nCan you bring me a glass of water, please?\nWinning this prize will bring joy to his family.",
+                    "quizzes": [
+                        "Please __________ your textbook to class tomorrow.",
+                        "Many people believe that ladybugs __________ good luck.",
+                        "We decided to __________ some snacks to the picnic."
+                    ]
+                },
+                {
+                    "word": "insect poison",
+                    "phonetic": "/ˈɪnsekt ˈpɔɪzn/",
+                    "meaning": "thuốc diệt côn trùng",
+                    "definition": "A substance that is used to kill unwanted insects.",
+                    "example": "We sprayed insect poison to get rid of the ants.\nBe careful when handling insect poison around pets.\nThe farmer used insect poison to protect his crops.",
+                    "quizzes": [
+                        "They sprayed some __________ __________ in the kitchen to kill the cockroaches.",
+                        "Make sure you keep the __________ __________ away from children.",
+                        "He bought a can of __________ __________ at the garden center."
+                    ]
+                },
+                {
+                    "word": "get rid of",
+                    "phonetic": "/ɡet rɪd əv/",
+                    "meaning": "loại bỏ",
+                    "definition": "To take action so as to be free of a troublesome or unwanted person or thing.",
+                    "example": "We need to get rid of these old newspapers.\nHow can we get rid of the weeds in the garden?\nShe wanted to get rid of her cold quickly.",
+                    "quizzes": [
+                        "Farmers use ladybugs to __________ __________ __________ harmful pests.",
+                        "It is hard to __________ __________ __________ dust in this room.",
+                        "I want to __________ __________ __________ my old clothes before buying new ones."
+                    ]
+                },
+                {
+                    "word": "aphid",
+                    "phonetic": "/ˈeɪfɪd/",
+                    "meaning": "rệp cây",
+                    "definition": "A very small insect that feeds by sucking juices from plants.",
+                    "example": "Aphids can damage garden plants by sucking their sap.\nLadybugs are natural predators of aphids.\nThe leaves turned yellow because of an aphid infestation.",
+                    "quizzes": [
+                        "An __________ is a tiny insect that damages roses by sucking their sap.",
+                        "Ladybugs are extremely helpful because they eat __________s.",
+                        "He inspected the rose leaves and found hundreds of green __________s."
+                    ]
+                },
+                {
+                    "word": "suck",
+                    "phonetic": "/sʌk/",
+                    "meaning": "hút",
+                    "definition": "To draw into the mouth by inhaling or using suction.",
+                    "example": "Mosquitoes suck blood from animals and humans.\nSome insects suck sap from plants to feed themselves.\nShe used a straw to suck the milkshake from the glass.",
+                    "quizzes": [
+                        "Some bugs __________ sap from the leaves, causing them to dry up.",
+                        "Babies often __________ their thumbs when they are sleepy.",
+                        "You can use a straw to __________ the juice."
+                    ]
+                },
+                {
+                    "word": "fight",
+                    "phonetic": "/faɪt/",
+                    "meaning": "chiến đấu, chống lại",
+                    "definition": "To take part in a battle or struggle against someone or something.",
+                    "example": "The soldiers had to fight for their country.\nWe must fight against air pollution.\nOur immune system helps fight diseases.",
+                    "quizzes": [
+                        "The human body has white blood cells to __________ infections.",
+                        "Farmers are trying to __________ pests without using chemicals.",
+                        "We must work together to __________ climate change."
+                    ]
+                },
+                {
+                    "word": "insecticide",
+                    "phonetic": "/ɪnˈsektɪsaɪd/",
+                    "meaning": "thuốc trừ sâu",
+                    "definition": "A chemical substance used for killing insects.",
+                    "example": "The farmer sprayed insecticide on the crops.\nUsing too much insecticide can harm beneficial insects.\nThey look for organic alternatives to chemical insecticides.",
+                    "quizzes": [
+                        "Spraying chemical __________ can be harmful to bees and ladybugs.",
+                        "He bought a bottle of organic __________ to protect his tomato plants.",
+                        "The crop yield increased after they used a safe __________."
+                    ]
+                },
+                {
+                    "word": "reproduce",
+                    "phonetic": "/ˌriːprəˈdjuːs/",
+                    "meaning": "sinh sản",
+                    "definition": "To produce offspring or create a copy of something.",
+                    "example": "Insects can reproduce very quickly in warm weather.\nMost plants reproduce by producing seeds.\nCells reproduce by dividing into two.",
+                    "quizzes": [
+                        "Bacteria can __________ rapidly in dirty environments.",
+                        "Birds build nests in order to lay eggs and __________.",
+                        "How do these small organisms __________?"
+                    ]
+                },
+                {
+                    "word": "anatomy",
+                    "phonetic": "/əˈnætəmi/",
+                    "meaning": "giải phẫu học",
+                    "definition": "The scientific study of the physical structure of humans, animals, or plants.",
+                    "example": "In biology class, we studied the anatomy of a frog.\nUnderstanding insect anatomy helps us identify different species.\nHe is a medical student studying human anatomy.",
+                    "quizzes": [
+                        "We had to label the parts of a plant in our __________ lesson.",
+                        "She is studying the __________ of insects to see how their wings function.",
+                        "A basic knowledge of human __________ is important for doctors."
+                    ]
+                },
+                {
+                    "word": "general",
+                    "phonetic": "/ˈdʒenrəl/",
+                    "meaning": "chung, tổng quát",
+                    "definition": "Affecting or concerning all or most people, places, or things.",
+                    "example": "There is a general feeling of happiness in the air.\nIn general, ladybugs are beneficial to gardens.\nShe gave a general description of the suspect.",
+                    "quizzes": [
+                        "The teacher gave a __________ overview of the new topic.",
+                        "In __________, dogs are very loyal to their owners.",
+                        "This dictionary is for __________ use, not for specialists."
+                    ]
+                },
+                {
+                    "word": "bugle",
+                    "phonetic": "/ˈbjuːɡl/",
+                    "meaning": "kèn đồng",
+                    "definition": "A simple brass musical instrument like a small trumpet, typically without valves.",
+                    "example": "The soldier played the bugle to wake up the camp.\nHe learned to play the bugle in the school band.\nThe sound of the bugle echoed through the hills.",
+                    "quizzes": [
+                        "A brass band usually includes trumpets, flutes, and a __________.",
+                        "He blew the __________ to signal the start of the ceremony.",
+                        "The young boy is practicing the __________ in his room."
+                    ]
+                },
+                {
+                    "word": "bug",
+                    "phonetic": "/bʌɡ/",
+                    "meaning": "con bọ",
+                    "definition": "A small insect; or a malfunction in a computer program.",
+                    "example": "We found a strange green bug on the window screen.\nThere is a bug in the software that causes it to crash.\nDon't let the bed bugs bite!",
+                    "quizzes": [
+                        "I saw a tiny green __________ crawling on the leaves of the rose plant.",
+                        "The programmer is trying to fix a __________ in the app.",
+                        "He hates it when a __________ flies into his room at night."
+                    ]
+                }
+            ],
+            "grammars": []
         }
     ]
 }

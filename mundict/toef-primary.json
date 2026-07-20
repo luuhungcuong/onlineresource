@@ -1,0 +1,608 @@
+{
+    "programId": "toef-primary",
+    "programName": "TOEFL Primary",
+    "sections": [
+        {
+            "sectionId": "objects",
+            "sectionName": "Objects",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "land",
+                    "phonetic": "/lænd/",
+                    "meaning": "vùng đất",
+                    "definition": "The solid part of the surface of the Earth.",
+                    "example": "We learn about different types of land.\nChúng tớ học về các loại vùng đất khác nhau.",
+                    "quizzes": [
+                        "We learn about different types of __________.",
+                        "The ship finally reached __________ after a long journey.",
+                        "They bought a piece of __________ to build a house."
+                    ]
+                },
+                {
+                    "word": "magnifying glass",
+                    "phonetic": "/'mæg.nɪ.faɪ.ɪŋ ˌglɑːs/",
+                    "meaning": "kính lúp",
+                    "definition": "A lens that makes things look larger than they are.",
+                    "example": "I use a magnifying glass to see tiny bugs.\nTớ dùng kính lúp để xem các con bọ nhỏ.",
+                    "quizzes": [
+                        "I use a __________ to see tiny bugs.",
+                        "He looked at the small print through a __________.",
+                        "A __________ is very useful for studying insects."
+                    ]
+                },
+                {
+                    "word": "map",
+                    "phonetic": "/mæp/",
+                    "meaning": "bản đồ",
+                    "definition": "A drawing of a particular area showing its main features.",
+                    "example": "The teacher shows a map of Vietnam.\nCô giáo cho xem bản đồ Việt Nam.",
+                    "quizzes": [
+                        "The teacher shows a __________ of Vietnam.",
+                        "Can you find our city on this __________?",
+                        "We need a __________ to find the museum."
+                    ]
+                },
+                {
+                    "word": "marker",
+                    "phonetic": "/'mɑː.kər/",
+                    "meaning": "bút lông",
+                    "definition": "A pen with a broad felt tip, used for drawing or writing.",
+                    "example": "The teacher writes with a marker.\nCô giáo viết bằng bút lông.",
+                    "quizzes": [
+                        "The teacher writes on the board with a __________.",
+                        "Can I borrow a red __________ to highlight this?",
+                        "He drew a thick line with a black __________."
+                    ]
+                },
+                {
+                    "word": "notebook",
+                    "phonetic": "/'nəʊt.bʊk/",
+                    "meaning": "vở ghi",
+                    "definition": "A book with blank pages for writing notes in.",
+                    "example": "I write homework in my notebook.\nTớ viết bài tập vào vở ghi.",
+                    "quizzes": [
+                        "I write homework in my __________.",
+                        "She took a clean __________ to write her story.",
+                        "Please open your __________ and copy this sentence."
+                    ]
+                },
+                {
+                    "word": "paintbrush",
+                    "phonetic": "/'peɪnt.brʌʃ/",
+                    "meaning": "cọ vẽ",
+                    "definition": "A brush for applying paint.",
+                    "example": "I color my picture with a paintbrush.\nTớ tô màu bức tranh bằng cọ vẽ.",
+                    "quizzes": [
+                        "I color my picture with a __________.",
+                        "He dipped his __________ into the blue watercolor.",
+                        "Wash your __________ after you finish painting."
+                    ]
+                },
+                {
+                    "word": "pencil case",
+                    "phonetic": "/'pen.səl keɪs/",
+                    "meaning": "hộp bút",
+                    "definition": "A small bag or container for holding pens, pencils, and erasers.",
+                    "example": "I put my pens in my pencil case.\nTớ để bút trong hộp bút.",
+                    "quizzes": [
+                        "I put my pens and rulers in my __________.",
+                        "Her new __________ has a picture of a cute cat.",
+                        "Don't forget to pack your __________ for school."
+                    ]
+                },
+                {
+                    "word": "pencil sharpener",
+                    "phonetic": "/'ʃɑː.pən.ər/",
+                    "meaning": "gọt bút chì",
+                    "definition": "A tool for sharpening pencils.",
+                    "example": "I need a sharpener to make my pencil sharp.\nTớ cần gọt bút chì để bút nhọn hơn.",
+                    "quizzes": [
+                        "I need a __________ to make my pencil sharp.",
+                        "Can I use your __________ because mine is broken?",
+                        "Empty the wood shavings from the __________."
+                    ]
+                },
+                {
+                    "word": "project",
+                    "phonetic": "/'prɒdʒ.ekt/",
+                    "meaning": "dự án, bài tập",
+                    "definition": "A planned piece of work that has a specific purpose.",
+                    "example": "Our project is about animals.\nBài tập của chúng tớ là về các loài động vật.",
+                    "quizzes": [
+                        "Our science __________ is about wild animals.",
+                        "We are working on a school __________ together.",
+                        "She spent all afternoon finishing her history __________."
+                    ]
+                },
+                {
+                    "word": "put on",
+                    "phonetic": "/pʊt ɒn/",
+                    "meaning": "mang vào, đeo vào",
+                    "definition": "To dress oneself in or apply something.",
+                    "example": "I put on my backpack and go to school.\nTớ đeo ba lô và đi học.",
+                    "quizzes": [
+                        "I __________ my backpack and go to school.",
+                        "Remember to __________ your warm jacket before going outside.",
+                        "He needs to __________ his glasses to read the book."
+                    ]
+                },
+                {
+                    "word": "ruler",
+                    "phonetic": "/'ruː.lər/",
+                    "meaning": "thước kẻ",
+                    "definition": "A straight strip of plastic, wood, or metal used to measure distance or draw straight lines.",
+                    "example": "I draw straight lines with a ruler.\nTớ vẽ đường thẳng bằng thước kẻ.",
+                    "quizzes": [
+                        "I draw straight lines with a __________.",
+                        "Use a __________ to measure the length of this paper.",
+                        "She lent me her __________ during the math class."
+                    ]
+                },
+                {
+                    "word": "rubber / eraser",
+                    "phonetic": "/'rʌb.ər//ɪ'reɪ.sər/",
+                    "meaning": "cục tẩy",
+                    "definition": "A piece of rubber or other material used to rub out marks made by ink, pencil, or chalk.",
+                    "example": "I use an eraser to fix mistakes.\nTớ dùng cục tẩy để sửa lỗi.",
+                    "quizzes": [
+                        "I use an __________ to fix mistakes in my drawing.",
+                        "He rubbed out the wrong answer with his __________.",
+                        "Do you have a __________ I can borrow?"
+                    ]
+                },
+                {
+                    "word": "scissors",
+                    "phonetic": "/'sɪz.əz/",
+                    "meaning": "kéo",
+                    "definition": "An instrument used for cutting paper or cloth.",
+                    "example": "Be careful with the scissors!\nCẩn thận với cây kéo nhé!",
+                    "quizzes": [
+                        "Be careful with the __________!",
+                        "Use a pair of __________ to cut out the picture.",
+                        "These __________ are very sharp, so hold them carefully."
+                    ]
+                },
+                {
+                    "word": "stapler",
+                    "phonetic": "/'steɪ.plər/",
+                    "meaning": "dập ghim",
+                    "definition": "A device used for joining together sheets of paper with a small metal staple.",
+                    "example": "I use a stapler to join papers.\nTớ dùng dập ghim để ghim các tờ giấy lại.",
+                    "quizzes": [
+                        "I use a __________ to join papers together.",
+                        "The teacher used a __________ to attach the test sheets.",
+                        "Is there any staple left inside the __________?"
+                    ]
+                },
+                {
+                    "word": "stand out",
+                    "phonetic": "/stænd aʊt/",
+                    "meaning": "nổi bật",
+                    "definition": "To be easily seen or noticed.",
+                    "example": "Her drawing stands out in class.\nBức vẽ của bạn ấy nổi bật trong lớp.",
+                    "quizzes": [
+                        "Her drawing __________ in class because of its bright colors.",
+                        "His tall height makes him __________ in the crowd.",
+                        "Bright yellow letters __________ well on a dark background."
+                    ]
+                },
+                {
+                    "word": "stick (n.)",
+                    "phonetic": "/stɪk/",
+                    "meaning": "cây, que",
+                    "definition": "A thin piece of wood that has fallen or been cut from a tree.",
+                    "example": "I draw a stick man.\nTớ vẽ hình người bằng que.",
+                    "quizzes": [
+                        "I draw a __________ man in my art notebook.",
+                        "The dog ran to fetch the wooden __________.",
+                        "We gathered dry __________s to make a campfire."
+                    ]
+                },
+                {
+                    "word": "stick (v.)",
+                    "phonetic": "/stɪk/",
+                    "meaning": "dán, dính",
+                    "definition": "To attach or fix something with glue or adhesive.",
+                    "example": "I stick pictures in my notebook.\nTớ dán hình vào vở.",
+                    "quizzes": [
+                        "I __________ pictures in my notebook using glue.",
+                        "Please __________ the poster on the wall.",
+                        "These stickers will __________ easily to your folder."
+                    ]
+                },
+                {
+                    "word": "strap",
+                    "phonetic": "/stræp/",
+                    "meaning": "dây đeo",
+                    "definition": "A narrow strip of leather, cloth, or other material used to fasten or hold something.",
+                    "example": "My bag has two straps.\nCặp của tớ có hai dây đeo.",
+                    "quizzes": [
+                        "My school bag has two soft __________s.",
+                        "Adjust the shoulder __________ to make the backpack comfortable.",
+                        "The watch __________ is made of black leather."
+                    ]
+                },
+                {
+                    "word": "stuff",
+                    "phonetic": "/stʌf/",
+                    "meaning": "đồ đạc, vật dụng",
+                    "definition": "Matter, items, or belongings of a specified or unspecified kind.",
+                    "example": "I put my stuff in my bag.\nTớ bỏ đồ đạc vào cặp.",
+                    "quizzes": [
+                        "I put all my school __________ in my bag before leaving.",
+                        "Please clean up your room and pack your __________.",
+                        "There is a lot of interesting __________ in this box."
+                    ]
+                },
+                {
+                    "word": "substance",
+                    "phonetic": "/'sʌb.stəns/",
+                    "meaning": "chất, vật chất",
+                    "definition": "A particular kind of matter with uniform properties.",
+                    "example": "Water is a clear substance.\nNước là một chất trong suốt.",
+                    "quizzes": [
+                        "Water is a clear and liquid __________.",
+                        "Scientists study different chemical __________s in the lab.",
+                        "Be careful, this sticky __________ is hard to clean."
+                    ]
+                },
+                {
+                    "word": "watercolor",
+                    "phonetic": "/'wɔː.təˌkʌl.ər/",
+                    "meaning": "màu nước",
+                    "definition": "Artists' paint made of a water-soluble binder.",
+                    "example": "I paint with watercolors in art class.\nTớ tô màu bằng màu nước trong giờ Mỹ thuật.",
+                    "quizzes": [
+                        "I paint with __________s in art class.",
+                        "Mix the __________ with a little bit of water.",
+                        "She painted a beautiful landscape with __________."
+                    ]
+                },
+                {
+                    "word": "wax",
+                    "phonetic": "/wæks/",
+                    "meaning": "sáp",
+                    "definition": "A sticky, fatty solid substance used for candles, crayons, or polish.",
+                    "example": "Crayons are made of wax.",
+                    "quizzes": [
+                        "Crayons are made of colored __________.",
+                        "Candles melt because they are made of __________.",
+                        "The floors were polished with smooth __________."
+                    ]
+                },
+                {
+                    "word": "world",
+                    "phonetic": "/wɜːld/",
+                    "meaning": "thế giới",
+                    "definition": "The earth, together with all of its countries and people.",
+                    "example": "The world is full of amazing places.\nThế giới đầy những nơi tuyệt vời.",
+                    "quizzes": [
+                        "The __________ is full of amazing places.",
+                        "There are many different cultures around the __________.",
+                        "Mount Everest is the highest mountain in the __________."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "school-objects-and-school-activities",
+            "sectionName": "School Objects and School Activities",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "geography",
+                    "phonetic": "/dʒiˈɒɡrəfi/",
+                    "meaning": "môn địa lý",
+                    "definition": "The study of the physical features of the Earth and its atmosphere.",
+                    "example": "In geography, we learn about different countries.\nTrong môn địa lý, chúng ta học về các quốc gia khác nhau.",
+                    "quizzes": [
+                        "In __________, we learn about different countries and oceans.",
+                        "We looked at maps during our __________ class today.",
+                        "My favorite subject is __________ because I like learning about mountains."
+                    ]
+                },
+                {
+                    "word": "history",
+                    "phonetic": "/ˈhɪstri/",
+                    "meaning": "môn lịch sử",
+                    "definition": "The study of past events, particularly in human affairs.",
+                    "example": "I'm good at history because my grandfather tells me a lot of stories about the past.\nTôi giỏi lịch sử vì ông tôi kể nhiều chuyện về quá khứ.",
+                    "quizzes": [
+                        "I'm good at __________ because my grandfather tells me stories about the past.",
+                        "We learned about ancient kings in __________ class.",
+                        "__________ helps us understand how people lived long ago."
+                    ]
+                },
+                {
+                    "word": "art",
+                    "phonetic": "/ɑːrt/",
+                    "meaning": "môn mỹ thuật",
+                    "definition": "The expression or application of human creative skill and imagination.",
+                    "example": "In art class, we do creative activities like drawing and painting.\nTrong giờ mỹ thuật, chúng tôi vẽ và tô màu.",
+                    "quizzes": [
+                        "In __________ class, we do creative activities like drawing and painting.",
+                        "She drew a colorful sunset during __________ class.",
+                        "We need paper, pencils, and paints for our __________ lesson."
+                    ]
+                },
+                {
+                    "word": "Physical Education (P.E.)",
+                    "phonetic": "/ˌfɪzɪkl ˌedʒuˈkeɪʃn/",
+                    "meaning": "môn thể dục",
+                    "definition": "Instruction in physical exercise and sports in schools.",
+                    "example": "I love PE because we get to run, jump, and play games with our friends.\nTôi thích thể dục vì được chạy nhảy và chơi cùng bạn bè.",
+                    "quizzes": [
+                        "I love __________ because we get to run, jump, and play games.",
+                        "Wear your sneakers for __________ class today.",
+                        "We played basketball during __________ in the afternoon."
+                    ]
+                },
+                {
+                    "word": "take notes",
+                    "phonetic": "/teɪk nəʊts/",
+                    "meaning": "ghi chú",
+                    "definition": "To write down information quickly to remember it.",
+                    "example": "During the lecture, I always take notes to remember important information.\nTrong buổi học, tôi luôn ghi chú để nhớ thông tin quan trọng.",
+                    "quizzes": [
+                        "During the lecture, I always __________ to remember important information.",
+                        "Use your notebook to __________ while the teacher is speaking.",
+                        "It is a good habit to __________ during science class."
+                    ]
+                },
+                {
+                    "word": "discuss",
+                    "phonetic": "/dɪˈskʌs/",
+                    "meaning": "thảo luận",
+                    "definition": "To talk about something with another person or group of people.",
+                    "example": "We like to discuss our favorite books during reading time.\nChúng tôi thích thảo luận về những quyển sách yêu thích trong giờ đọc.",
+                    "quizzes": [
+                        "We like to __________ our favorite books during reading time.",
+                        "Let's __________ the topic before writing the essay.",
+                        "The students gathered around to __________ their project ideas."
+                    ]
+                },
+                {
+                    "word": "work in groups",
+                    "phonetic": "/wɜːrk ɪn ɡruːps/",
+                    "meaning": "làm việc nhóm",
+                    "definition": "To cooperate with others to complete a task.",
+                    "example": "Sometimes, we get to work in groups on fun projects.\nThỉnh thoảng chúng tôi làm việc nhóm trong các dự án thú vị.",
+                    "quizzes": [
+                        "Sometimes, we get to __________ on fun projects.",
+                        "The teacher asked us to __________ to solve the puzzle.",
+                        "Learning to __________ helps us communicate better."
+                    ]
+                },
+                {
+                    "word": "take an exam",
+                    "phonetic": "/teɪk ən ɪɡˈzæm/",
+                    "meaning": "làm bài kiểm tra",
+                    "definition": "To do a formal test of knowledge or ability.",
+                    "example": "At the end of the unit, we will take an exam to show what we've learned.\nCuối bài học, chúng tôi sẽ làm bài kiểm tra để thể hiện kiến thức.",
+                    "quizzes": [
+                        "At the end of the unit, we will __________ to show what we've learned.",
+                        "I need to study hard before I __________ tomorrow.",
+                        "Keep quiet while the other students __________."
+                    ]
+                },
+                {
+                    "word": "hand in",
+                    "phonetic": "/hænd ɪn/",
+                    "meaning": "nộp (bài, tài liệu)",
+                    "definition": "To submit or give work to a teacher or authority.",
+                    "example": "Don’t forget to hand in your assignment to the teacher when you’re done.\nĐừng quên nộp bài tập cho giáo viên sau khi hoàn thành.",
+                    "quizzes": [
+                        "Don’t forget to __________ your assignment to the teacher.",
+                        "Please __________ your homework before leaving the classroom.",
+                        "She was happy to __________ her completed art project."
+                    ]
+                },
+                {
+                    "word": "make friends",
+                    "phonetic": "/meɪk frendz/",
+                    "meaning": "kết bạn",
+                    "definition": "To form new friendships with people.",
+                    "example": "It’s nice to make friends with new classmates.\nThật vui khi kết bạn với các bạn mới.",
+                    "quizzes": [
+                        "It’s nice to __________ with new classmates.",
+                        "He was shy at first, but soon began to __________.",
+                        "School is a great place to __________ and play together."
+                    ]
+                },
+                {
+                    "word": "mathematics",
+                    "phonetic": "/ˌmæθəˈmætɪks/",
+                    "meaning": "môn toán",
+                    "definition": "The abstract science of number, quantity, and space.",
+                    "example": "In Mathematics class, we learn about numbers, shapes, and fun puzzles.\nTrong giờ toán, chúng ta học về con số, hình khối và câu đố thú vị.",
+                    "quizzes": [
+                        "In __________ class, we learn about numbers and shapes.",
+                        "He enjoys solving difficult __________ problems.",
+                        "__________ is essential for counting and measuring."
+                    ]
+                },
+                {
+                    "word": "explore",
+                    "phonetic": "/ɪkˈsplɔːr/",
+                    "meaning": "khám phá",
+                    "definition": "To travel through or inquire into a new area or topic.",
+                    "example": "During science lessons, we explore different plants and animals.\nTrong giờ khoa học, chúng tôi khám phá các loài cây và động vật.",
+                    "quizzes": [
+                        "During science lessons, we __________ different plants and animals.",
+                        "Children love to __________ the garden looking for bugs.",
+                        "We will __________ new ideas in our research project."
+                    ]
+                },
+                {
+                    "word": "event",
+                    "phonetic": "/ɪˈvent/",
+                    "meaning": "sự kiện",
+                    "definition": "A planned public or social occasion.",
+                    "example": "Our school is having a fun event next week.\nTrường chúng tôi sẽ tổ chức một sự kiện vui vào tuần tới.",
+                    "quizzes": [
+                        "Our school is having a fun __________ next week.",
+                        "Sports Day is an exciting annual __________ at our school.",
+                        "Everyone prepared performances for the special __________."
+                    ]
+                },
+                {
+                    "word": "literature",
+                    "phonetic": "/ˈlɪtrətʃər/",
+                    "meaning": "môn văn học",
+                    "definition": "Written works, especially those considered of superior or lasting artistic merit.",
+                    "example": "I love reading literature books in the library.\nTôi thích đọc sách văn học trong thư viện.",
+                    "quizzes": [
+                        "I love reading __________ books in the library.",
+                        "We studied famous poems in our __________ lesson.",
+                        "__________ helps us appreciate story writing."
+                    ]
+                },
+                {
+                    "word": "stay friends",
+                    "phonetic": "/steɪ frendz/",
+                    "meaning": "vẫn giữ tình bạn",
+                    "definition": "To remain friends with someone over time.",
+                    "example": "Even if we go to different classes, let's stay friends.\nDù học lớp khác nhau, chúng ta hãy vẫn làm bạn nhé.",
+                    "quizzes": [
+                        "Even if we go to different classes, let's __________.",
+                        "They have managed to __________ for many years.",
+                        "It is wonderful to __________ even after moving to a new city."
+                    ]
+                },
+                {
+                    "word": "get to know",
+                    "phonetic": "/get tə nəʊ/",
+                    "meaning": "làm quen, tìm hiểu",
+                    "definition": "To become familiar with someone or something.",
+                    "example": "I want to get to know more about my new classmates.\nTôi muốn làm quen thêm với bạn học mới.",
+                    "quizzes": [
+                        "I want to __________ more about my new classmates.",
+                        "The teacher held a game to help us __________ each other.",
+                        "Take your time to __________ the school rules."
+                    ]
+                },
+                {
+                    "word": "deadline",
+                    "phonetic": "/ˈdedlaɪn/",
+                    "meaning": "hạn nộp",
+                    "definition": "The latest time or date by which something should be completed.",
+                    "example": "Remember, the deadline for the art project is Friday.\nNhớ nhé, hạn nộp bài mỹ thuật là thứ Sáu.",
+                    "quizzes": [
+                        "Remember, the __________ for the art project is Friday.",
+                        "We must finish our work before the __________.",
+                        "The teacher extended the __________ by two days."
+                    ]
+                },
+                {
+                    "word": "give up",
+                    "phonetic": "/ɡɪv ʌp/",
+                    "meaning": "bỏ cuộc",
+                    "definition": "To stop trying to do something.",
+                    "example": "Don’t give up on solving the math problems.\nĐừng bỏ cuộc khi làm bài toán khó.",
+                    "quizzes": [
+                        "Don’t __________ on solving the math problems.",
+                        "Even when it gets tough, never __________.",
+                        "She decided not to __________ and tried one more time."
+                    ]
+                },
+                {
+                    "word": "Information Technology (IT)",
+                    "phonetic": "/ˌɪnfəˈmeɪʃn tekˈnɒlədʒi/",
+                    "meaning": "môn tin học",
+                    "definition": "The study or use of systems (especially computers and telecommunications).",
+                    "example": "In IT class, we learn how computers work.\nTrong giờ tin học, chúng ta học cách máy tính hoạt động.",
+                    "quizzes": [
+                        "In __________ class, we learn how computers work.",
+                        "Students learn basic coding skills in __________ lessons.",
+                        "We went to the computer lab for our __________ class."
+                    ]
+                },
+                {
+                    "word": "healthy",
+                    "phonetic": "/ˈhelθi/",
+                    "meaning": "khỏe mạnh",
+                    "definition": "In good health; promoting good health.",
+                    "example": "Eating fruit and vegetables helps us stay healthy.\nĂn trái cây và rau giúp ta khỏe mạnh.",
+                    "quizzes": [
+                        "Eating fruit and vegetables helps us stay __________.",
+                        "Drinking plenty of water keeps your body __________.",
+                        "He eats a __________ breakfast every morning."
+                    ]
+                },
+                {
+                    "word": "active",
+                    "phonetic": "/ˈæktɪv/",
+                    "meaning": "năng động",
+                    "definition": "Engaging or ready to engage in physically energetic pursuits.",
+                    "example": "It's important to exercise to stay active.\nTập thể dục giúp chúng ta năng động hơn.",
+                    "quizzes": [
+                        "It's important to exercise to stay __________.",
+                        "She is an __________ student who participates in many sports.",
+                        "Playing outdoors keeps children __________."
+                    ]
+                },
+                {
+                    "word": "talk with sb about sth",
+                    "phonetic": "/tɔːk wɪð … əˈbaʊt …/",
+                    "meaning": "nói chuyện với ai về điều gì",
+                    "definition": "To converse with someone regarding a specific topic.",
+                    "example": "I want to talk with my friend about the book we read.\nTôi muốn nói chuyện với bạn về quyển sách chúng tôi đã đọc.",
+                    "quizzes": [
+                        "I want to __________ my friend __________ the book we read.",
+                        "You can __________ your teacher __________ your difficulties.",
+                        "They met at recess to __________ their weekend plans."
+                    ]
+                },
+                {
+                    "word": "share",
+                    "phonetic": "/ʃer/",
+                    "meaning": "chia sẻ",
+                    "definition": "To give a portion of something to others or use together.",
+                    "example": "Students often share their textbooks during study groups.\nHọc sinh thường chia sẻ sách khi học nhóm.",
+                    "quizzes": [
+                        "Students often __________ their textbooks during study groups.",
+                        "It is kind to __________ your snacks with friends.",
+                        "We can __________ our ideas during group discussions."
+                    ]
+                },
+                {
+                    "word": "yell at sb",
+                    "phonetic": "/jel/",
+                    "meaning": "la mắng, quát mắng ai đó",
+                    "definition": "To shout loudly at someone, usually in anger.",
+                    "example": "We should never yell at classmates.\nChúng ta không nên la mắng bạn bè.",
+                    "quizzes": [
+                        "We should never __________ classmates.",
+                        "It is impolite to __________ someone when you are upset.",
+                        "Try to speak calmly instead of trying to __________ others."
+                    ]
+                },
+                {
+                    "word": "fight (v.)",
+                    "phonetic": "/faɪt/",
+                    "meaning": "đánh nhau, cãi nhau",
+                    "definition": "To take part in a violent struggle or argument.",
+                    "example": "We shouldn’t fight with our classmates.\nChúng ta không nên đánh nhau với bạn cùng lớp.",
+                    "quizzes": [
+                        "We shouldn’t __________ with our classmates.",
+                        "Children are taught to share toys and not __________.",
+                        "It is better to talk things out than to __________."
+                    ]
+                },
+                {
+                    "word": "fight (n.)",
+                    "phonetic": "/faɪt/",
+                    "meaning": "trận đánh nhau / cãi vã",
+                    "definition": "A violent struggle or verbal disagreement.",
+                    "example": "It's important to solve problems with words, not by having a fight.\nHãy giải quyết bằng lời nói, không phải bằng đánh nhau.",
+                    "quizzes": [
+                        "It's important to solve problems with words, not by having a __________.",
+                        "The two kids stopped their __________ and made peace.",
+                        "Try to avoid getting into a __________ at school."
+                    ]
+                }
+            ]
+        }
+    ]
+}

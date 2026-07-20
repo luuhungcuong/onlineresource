@@ -72,7 +72,7 @@
                     "id": "pronunciation",
                     "name": "Phát âm & Trọng âm",
                     "description": "Quy tắc trọng âm, phát âm đuôi -ed, -s/-es và nguyên âm",
-                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG-j1hwiCllNQq2yQfHphqeRxfQCkFjbahl0VbwjDUjw&s=10",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH7g71vNlYlEksG01B3K_4rJ6kEaE2F9mRDA&s",
                     "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/pronunciation.json"
                 }
             ]
@@ -88,6 +88,20 @@
                     "description": "Từ vựng Hackers TOEIC",
                     "imageUrl": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_44153.jpg",
                     "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/hackers-toeic-vocabulary.json"
+                }
+            ]
+        },
+        {
+            "groupId": "TOEFL",
+            "groupName": "TOEFL",
+            "imageUrl": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_44153.jpg",
+            "programs": [
+                {
+                    "id": "toef-primary",
+                    "name": "TOEFL Primary",
+                    "description": "Từ vựng TOEFL Primary",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNptQzY0cNXkHAIMDYbbc0Oy4pUo00jp9gLRYK9TBfnQ&s",
+                    "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/toef-primary.json"
                 }
             ]
         }

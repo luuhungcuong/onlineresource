@@ -1043,6 +1043,1510 @@
                 }
             ],
             "grammars": []
+        },
+        {
+            "sectionId": "unit-3-panda-bears",
+            "sectionName": "Unit 3: Panda Bears",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "panda bears",
+                    "phonetic": "/ˈpæn.də beərz/",
+                    "meaning": "gấu trúc",
+                    "definition": "Large bear-like mammals with characteristic black and white markings, native to certain mountain ranges in central China.",
+                    "example": "Panda bears are known for their distinctive black and white fur.\nWe watched the panda bears chewing on fresh bamboo.\nOnly a few thousand panda bears still live in the wild.",
+                    "quizzes": [
+                        "Many people travel to China to see __________ in their natural habitat.",
+                        "Unlike other bears, __________ do not hibernate in the winter.",
+                        "The zoo recently welcomed two new __________ from Beijing."
+                    ]
+                },
+                {
+                    "word": "unusual",
+                    "phonetic": "/ʌnˈjuː.ʒu.əl/",
+                    "meaning": "bất thường, hiếm",
+                    "definition": "Different from what is common or expected; not normal.",
+                    "example": "It is unusual to see snow in this tropical region.\nShe has an unusual hobby of collecting antique clocks.\nThe bird made an unusual sound that we had never heard before.",
+                    "quizzes": [
+                        "It is very __________ for him to be late for school.",
+                        "She noticed an __________ pattern on the leaves of the plant.",
+                        "They found some __________ rocks during their hike in the mountains."
+                    ]
+                },
+                {
+                    "word": "misty forests",
+                    "phonetic": "/ˈmɪs.ti ˈfɒr.ɪsts/",
+                    "meaning": "rừng sương mù",
+                    "definition": "Forests that are covered in mist, fog, or low clouds, often creating a damp and cool environment.",
+                    "example": "Giant pandas live in the cold, misty forests of southwestern China.\nThe hikers got lost in the dense, misty forests.\nMisty forests are often quiet and filled with moisture.",
+                    "quizzes": [
+                        "Many rare species of moss and ferns grow in these damp, __________.",
+                        "The pandas prefer the cool climate of the high, __________.",
+                        "Early in the morning, the __________ are covered in a thick white fog."
+                    ]
+                },
+                {
+                    "word": "giant",
+                    "phonetic": "/ˈdʒaɪ.ənt/",
+                    "meaning": "khổng lồ",
+                    "definition": "Extremely large; much larger than other things of the same kind.",
+                    "example": "They built a giant snowman in the middle of the square.\nA giant wave crashed against the rocky shore.\nThe museum features a skeleton of a giant dinosaur.",
+                    "quizzes": [
+                        "The __________ panda is one of the most famous animals in the world.",
+                        "A __________ oak tree stood in the center of the garden.",
+                        "He took a bite of a __________ apple that was as big as his hand."
+                    ]
+                },
+                {
+                    "word": "weigh",
+                    "phonetic": "/weɪ/",
+                    "meaning": "nặng, cân nặng",
+                    "definition": "To have a specified weight, or to measure how heavy someone or something is.",
+                    "example": "How much does a newborn panda weigh?\nI need to weigh these packages before sending them.\nThe suitcases weigh more than the airline allows.",
+                    "quizzes": [
+                        "Adult male pandas can __________ up to three hundred pounds.",
+                        "The nurse will __________ the baby during the checkup.",
+                        "You should __________ the ingredients carefully before baking the cake."
+                    ]
+                },
+                {
+                    "word": "pounds",
+                    "phonetic": "/paʊndz/",
+                    "meaning": "pao (đơn vị cân nặng)",
+                    "definition": "A unit of weight equal to 16 ounces (approx. 0.45 kilograms).",
+                    "example": "The puppy weighs about ten pounds.\nA newborn panda weighs less than a few pounds.\nCan you buy three pounds of apples?",
+                    "quizzes": [
+                        "A newborn cub weighs less than a few __________.",
+                        "He lost ten __________ after changing his diet and exercising.",
+                        "The luggage limit for the flight is forty-five __________."
+                    ]
+                },
+                {
+                    "word": "height",
+                    "phonetic": "/haɪt/",
+                    "meaning": "chiều cao",
+                    "definition": "The measurement of someone or something from head to foot or from base to top.",
+                    "example": "The doctor measured the height of the young boy.\nThe height of the mountain is over two thousand meters.\nPandas have a shoulder height of about two to three feet.",
+                    "quizzes": [
+                        "What is the average __________ of an adult giant panda?",
+                        "She adjusted the __________ of the chair to be more comfortable.",
+                        "The pilot announced that the plane was flying at a __________ of ten thousand feet."
+                    ]
+                },
+                {
+                    "word": "newborn",
+                    "phonetic": "/ˈnjuː.bɔːn/",
+                    "meaning": "sơ sinh",
+                    "definition": "Recently or just born.",
+                    "example": "A newborn baby sleeps most of the day.\nThe mother panda licked her newborn cub to keep it clean.\nWe visited the farm to see the newborn lambs.",
+                    "quizzes": [
+                        "A __________ panda is tiny, pink, and has almost no fur.",
+                        "The hospital has a special ward for __________ infants.",
+                        "They were excited to see the __________ calf take its first steps."
+                    ]
+                },
+                {
+                    "word": "cub",
+                    "phonetic": "/kʌb/",
+                    "meaning": "con non",
+                    "definition": "The young of certain wild predatory animals, such as bears, lions, wolves, and pandas.",
+                    "example": "The mother bear carried her cub across the shallow river.\nA panda cub stays with its mother for about two years.\nThe lioness watched her cub play in the tall grass.",
+                    "quizzes": [
+                        "The newborn __________ is about the size of a stick of butter.",
+                        "We saw a little bear __________ climbing a tree in the woods.",
+                        "The mother tiger teaches her __________ how to hunt."
+                    ]
+                },
+                {
+                    "word": "chipmunk",
+                    "phonetic": "/ˈtʃɪp.mʌŋk/",
+                    "meaning": "sóc chuột",
+                    "definition": "A small, striped rodent of the squirrel family.",
+                    "example": "A chipmunk scurried across the path and hid in the bushes.\nThe chipmunk stuffed its cheeks with seeds from the garden.\nWe saw a cute chipmunk with dark stripes down its back.",
+                    "quizzes": [
+                        "A newborn panda cub is about the size of a __________.",
+                        "The little __________ gathered acorns under the oak tree.",
+                        "I heard a __________ chattering near the wooden fence."
+                    ]
+                },
+                {
+                    "word": "blind",
+                    "phonetic": "/blaɪnd/",
+                    "meaning": "mù",
+                    "definition": "Unable to see because of injury, disease, or a natural condition.",
+                    "example": "Pandas are born blind and do not open their eyes for several weeks.\nHe is blind in his left eye but sees well with his right.\nGuide dogs are trained to help blind people navigate the city.",
+                    "quizzes": [
+                        "Panda cubs are completely __________ and deaf at birth.",
+                        "The __________ musician played a beautiful melody on the piano.",
+                        "Some insects living in deep caves are __________ because they do not need sight."
+                    ]
+                },
+                {
+                    "word": "completely",
+                    "phonetic": "/kəmˈpliːt.li/",
+                    "meaning": "hoàn toàn",
+                    "definition": "Totally; in every way; fully.",
+                    "example": "I completely forgot about the homework assignment.\nThe two brothers have completely different personalities.\nThe village was completely covered in snow.",
+                    "quizzes": [
+                        "The baby panda is __________ dependent on its mother for survival.",
+                        "The classroom was __________ quiet during the exam.",
+                        "I am __________ satisfied with the results of the project."
+                    ]
+                },
+                {
+                    "word": "helpless",
+                    "phonetic": "/ˈhelp.ləs/",
+                    "meaning": "bất lực",
+                    "definition": "Unable to defend oneself or to act without help; weak.",
+                    "example": "A newborn panda is helpless and cannot move on its own.\nShe felt helpless when her car broke down in the middle of the highway.\nThe little birds in the nest looked so small and helpless.",
+                    "quizzes": [
+                        "Without their mother, the young cubs are completely __________.",
+                        "They rescued a __________ puppy that had fallen into a deep ditch.",
+                        "He felt __________ because he did not know how to solve the problem."
+                    ]
+                },
+                {
+                    "word": "rely on",
+                    "phonetic": "/rɪˈlaɪ ɒn/",
+                    "meaning": "phụ thuộc vào",
+                    "definition": "To depend on someone or something with full trust or confidence.",
+                    "example": "Panda cubs rely on their mother's milk for the first few months.\nWe rely on public transportation to commute to work every day.\nYou can always rely on him because he is very reliable.",
+                    "quizzes": [
+                        "Wild pandas __________ bamboo for almost all of their food.",
+                        "I __________ my calendar to keep track of all my appointments.",
+                        "Young children __________ their parents for food and shelter."
+                    ]
+                },
+                {
+                    "word": "heavily",
+                    "phonetic": "/ˈhev.ɪ.li/",
+                    "meaning": "nhiều, nặng nề",
+                    "definition": "To a great degree; in large amounts; or with a lot of force or weight.",
+                    "example": "It has been raining heavily all morning.\nPandas rely heavily on their sense of smell to find bamboo.\nHe was breathing heavily after running up the stairs.",
+                    "quizzes": [
+                        "The local farmers depend __________ on the seasonal rain.",
+                        "The roads were blocked because it snowed __________ last night.",
+                        "She sighed __________ before giving her final speech."
+                    ]
+                },
+                {
+                    "word": "active",
+                    "phonetic": "/ˈæk.tɪv/",
+                    "meaning": "năng động",
+                    "definition": "Busy with or ready to perform activities; energetic.",
+                    "example": "Pandas are not very active and spend most of their time resting.\nShe stays active by playing tennis and swimming.\nVolcanoes that can erupt at any time are called active volcanoes.",
+                    "quizzes": [
+                        "Children are usually very __________ and love playing outdoors.",
+                        "Some animals are more __________ at night than during the day.",
+                        "He plays an __________ role in the school's drama club."
+                    ]
+                },
+                {
+                    "word": "bamboo",
+                    "phonetic": "/bæmˈbuː/",
+                    "meaning": "cây tre",
+                    "definition": "A tall woody grass that grows in tropical and temperate regions, eaten by pandas.",
+                    "example": "Bamboo is one of the fastest-growing plants in the world.\nPandas use their strong jaws to crush tough bamboo stalks.\nThey bought a beautiful table made of sustainable bamboo.",
+                    "quizzes": [
+                        "A giant panda eats a large amount of __________ every day.",
+                        "We walked through a thick __________ forest during our trip.",
+                        "They used __________ poles to build a fence around the garden."
+                    ]
+                },
+                {
+                    "word": "bones",
+                    "phonetic": "/bəʊnz/",
+                    "meaning": "xương",
+                    "definition": "The hard pieces of the skeleton of a person or animal.",
+                    "example": "Milk contains calcium which helps build strong bones.\nDogs love to chew on beef bones.\nThe doctor checked the X-ray to see if any bones were broken.",
+                    "quizzes": [
+                        "The human body has more than two hundred __________.",
+                        "Pandas have enlarged wrist __________ that act like thumbs.",
+                        "A balanced diet is important for keeping your __________ healthy."
+                    ]
+                },
+                {
+                    "word": "wrists",
+                    "phonetic": "/rɪsts/",
+                    "meaning": "cổ tay",
+                    "definition": "The joints connecting the hands with the forearms.",
+                    "example": "He wears a leather watch on his left wrist.\nShe hurt both of her wrists when she slipped on the ice.\nPandas have unique wrists that help them hold bamboo.",
+                    "quizzes": [
+                        "You should wear protective guards on your __________ when skateboarding.",
+                        "He turned his __________ to check the time on his watch.",
+                        "She wore shiny gold bracelets on her __________."
+                    ]
+                },
+                {
+                    "word": "enable to",
+                    "phonetic": "/ɪˈneɪ.bəl/",
+                    "meaning": "cho phép, giúp",
+                    "definition": "To make someone or something able to do something; to provide with the ability or means.",
+                    "example": "Special wrist bones enable pandas to grasp bamboo stalks.\nThis new scholarship will enable him to study at a top university.\nSmartphones enable us to stay connected with friends around the world.",
+                    "quizzes": [
+                        "Under the new policy, employees are __________ work from home twice a week.",
+                        "With the student ID, you are __________ get a discount on train tickets.",
+                        "The new updates are __________ improve the security of your device."
+                    ]
+                },
+                {
+                    "word": "grab",
+                    "phonetic": "/ɡræb/",
+                    "meaning": "nắm, chộp",
+                    "definition": "To take hold of something suddenly, roughly, or eagerly.",
+                    "example": "He had to grab the railing to avoid falling down the stairs.\nShe tried to grab her bag before the thief ran away.\nPandas grab bamboo stalks with their front paws.",
+                    "quizzes": [
+                        "Please __________ your coat before we leave the house.",
+                        "The monkey managed to __________ a banana from the basket.",
+                        "I had to __________ the child's hand before he stepped into the street."
+                    ]
+                },
+                {
+                    "word": "stalks",
+                    "phonetic": "/stɔːks/",
+                    "meaning": "thân cây",
+                    "definition": "The main stems of herbaceous plants, or the stems supporting leaves, flowers, or fruit.",
+                    "example": "We harvested the tall celery stalks from the garden.\nPandas peel the outer layer of bamboo stalks before eating.\nThe stalks of the sunflower were very thick and strong.",
+                    "quizzes": [
+                        "He cut the green __________ of the plants to tidy up the garden.",
+                        "Pandas use their strong teeth to bite through thick bamboo __________.",
+                        "We used corn __________ to decorate the front door for autumn."
+                    ]
+                },
+                {
+                    "word": "peel away",
+                    "phonetic": "/piːl əˈweɪ/",
+                    "meaning": "bóc ra",
+                    "definition": "To remove the outer layer or covering of something.",
+                    "example": "You need to peel away the outer skin of the onion.\nPandas peel away the tough outer edge of the bamboo stalk.\nShe peeled away the old wallpaper from the bedroom walls.",
+                    "quizzes": [
+                        "It is easy to __________ the skin of a ripe banana.",
+                        "Before painting the wall, you should __________ the loose paint.",
+                        "The doctor showed him how to __________ the bandage carefully."
+                    ]
+                },
+                {
+                    "word": "outer edge",
+                    "phonetic": "/ˈaʊ.tər edʒ/",
+                    "meaning": "phần ngoài",
+                    "definition": "The part of something that is furthest from the center; the external border.",
+                    "example": "We walked along the outer edge of the forest.\nPandas do not eat the tough outer edge of bamboo stalks.\nThe town is located on the outer edge of the valley.",
+                    "quizzes": [
+                        "She drew a thin red line around the __________ of the plate.",
+                        "The children sat on the __________ of the swimming pool.",
+                        "There are many shops located along the __________ of the market."
+                    ]
+                },
+                {
+                    "word": "stalk",
+                    "phonetic": "/stɔːk/",
+                    "meaning": "thân cây",
+                    "definition": "The stem or main axis of a plant.",
+                    "example": "He broke the stalk of the flower by accident.\nEach bamboo stalk is filled with soft fibers inside.\nThe plant has a single green stalk with small leaves.",
+                    "quizzes": [
+                        "A single __________ of bamboo can grow very tall in a few months.",
+                        "The gardener trimmed the dead __________ of the rose bush.",
+                        "She held the flower by its __________ so she wouldn't damage the petals."
+                    ]
+                },
+                {
+                    "word": "soft",
+                    "phonetic": "/sɒft/",
+                    "meaning": "mềm",
+                    "definition": "Easy to press, fold, or shape; not hard or firm to the touch.",
+                    "example": "The baby panda has very soft fur.\nHe likes to sleep on a soft pillow.\nThis bread is fresh and soft.",
+                    "quizzes": [
+                        "The grass was __________ and warm under our bare feet.",
+                        "Pandas prefer to eat the __________ inner part of the bamboo.",
+                        "She bought a __________ blanket for her new baby."
+                    ]
+                },
+                {
+                    "word": "inner",
+                    "phonetic": "/ˈɪn.ər/",
+                    "meaning": "bên trong",
+                    "definition": "Located inside or further inside; internal.",
+                    "example": "The inner walls of the house were painted white.\nPandas eat the soft, sweet inner portion of bamboo stalks.\nShe kept her passport in the inner pocket of her jacket.",
+                    "quizzes": [
+                        "The museum is located in the __________ courtyard of the castle.",
+                        "The __________ layers of the tree trunk are called heartwood.",
+                        "You must protect the __________ parts of the machine from dust."
+                    ]
+                },
+                {
+                    "word": "portion",
+                    "phonetic": "/ˈpɔː.ʃən/",
+                    "meaning": "phần",
+                    "definition": "A part or share of something whole.",
+                    "example": "Only a small portion of the work has been completed.\nShe ate a large portion of the chocolate cake.\nPandas spend a significant portion of their day sleeping.",
+                    "quizzes": [
+                        "He cut the pizza and gave a large __________ to his brother.",
+                        "A major __________ of the country is covered by mountains.",
+                        "We spent the first __________ of our holiday in Paris."
+                    ]
+                },
+                {
+                    "word": "molars",
+                    "phonetic": "/ˈməʊ.lərz/",
+                    "meaning": "răng hàm",
+                    "definition": "Large teeth at the back of the mouth used for grinding and crushing food.",
+                    "example": "Pandas have wide, flat molars to grind tough bamboo.\nThe dentist checked his molars for cavities.\nHumans have twelve molars in total.",
+                    "quizzes": [
+                        "Bears use their heavy __________ to crush bones and tough plants.",
+                        "The dentist had to fill one of my back __________ yesterday.",
+                        "These flat __________ are typical for animals that eat plants."
+                    ]
+                },
+                {
+                    "word": "crush",
+                    "phonetic": "/krʌʃ/",
+                    "meaning": "nghiền",
+                    "definition": "To press or squeeze something so hard that it is damaged, broken, or loses its shape.",
+                    "example": "The heavy stone will crush the plastic cup.\nPandas use their powerful jaws to crush bamboo.\nHe crushed the garlic cloves with a flat knife.",
+                    "quizzes": [
+                        "Be careful not to __________ the flowers when you pack them.",
+                        "The machine is used to __________ metal cans for recycling.",
+                        "You can use a spoon to __________ the boiled potatoes."
+                    ]
+                },
+                {
+                    "word": "mushrooms",
+                    "phonetic": "/ˈmʌʃ.ruːmz/",
+                    "meaning": "nấm",
+                    "definition": "Fungi with a round cap on a stalk, some of which are edible.",
+                    "example": "We picked wild mushrooms in the forest.\nShe added some sliced mushrooms to the pizza.\nSome mushrooms are highly poisonous and should not be eaten.",
+                    "quizzes": [
+                        "They found some edible __________ growing under the pine trees.",
+                        "Do you like to eat __________ in your soup?",
+                        "He is an expert at identifying wild __________ in the woods."
+                    ]
+                },
+                {
+                    "word": "methodical manner",
+                    "phonetic": "/məˈθɒd.ɪ.kəl ˈmæn.ər/",
+                    "meaning": "cách có hệ thống",
+                    "definition": "A systematic, organized, and orderly way of doing something.",
+                    "example": "He solved the math problems in a methodical manner.\nPandas eat bamboo in a methodical manner, starting from one end.\nShe arranged the files in the cabinet in a methodical manner.",
+                    "quizzes": [
+                        "The detective searched the room in a __________ to find clues.",
+                        "She always completes her tasks in a very __________.",
+                        "To avoid mistakes, you should follow the instructions in a __________."
+                    ]
+                },
+                {
+                    "word": "hibernate",
+                    "phonetic": "/ˈhaɪ.bə.neɪt/",
+                    "meaning": "ngủ đông",
+                    "definition": "To spend the winter in a state like deep sleep, as some animals do.",
+                    "example": "Bears usually hibernate in caves during the cold winter months.\nPandas do not hibernate because they need to eat bamboo constantly.\nMany frogs bury themselves in the mud to hibernate.",
+                    "quizzes": [
+                        "Some animals, like squirrels and bats, __________ during winter.",
+                        "Do you know which animals do not __________ in the cold season?",
+                        "The hedgehog will find a safe place to __________ until spring."
+                    ]
+                },
+                {
+                    "word": "climate",
+                    "phonetic": "/ˈklaɪ.mət/",
+                    "meaning": "khí hậu",
+                    "definition": "The general weather conditions of a region over a long period.",
+                    "example": "The country has a warm and dry climate.\nPandas live in areas with a cool and damp climate.\nClimate change is causing temperatures to rise globally.",
+                    "quizzes": [
+                        "They moved to Spain because they prefer a warmer __________.",
+                        "These tropical plants cannot survive in a cold __________.",
+                        "Scientists are studying how the Earth's __________ is changing."
+                    ]
+                },
+                {
+                    "word": "throughout",
+                    "phonetic": "/θruːˈaʊt/",
+                    "meaning": "suốt, xuyên suốt",
+                    "definition": "In every part of a place, or during the whole period of time.",
+                    "example": "The news spread throughout the entire school.\nPandas must eat bamboo throughout the day to get enough energy.\nIt rained throughout the night.",
+                    "quizzes": [
+                        "The author is famous __________ the world for her novels.",
+                        "He remained cheerful __________ the difficult journey.",
+                        "We need to drink water __________ the day to stay hydrated."
+                    ]
+                }
+            ],
+            "grammars": []
+        },
+        {
+            "sectionId": "unit-4-fun-and-games",
+            "sectionName": "Unit 4: Fun and Games",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "beat",
+                    "phonetic": "/biːt/",
+                    "meaning": "thắng, đánh bại",
+                    "definition": "To defeat someone in a game, competition, election, or battle.",
+                    "example": "Our team managed to beat the champions in the final match.\nHe always tries to beat his personal best time when running.\nShe beat me at chess three times in a row.",
+                    "quizzes": [
+                        "They worked hard to __________ their rivals in the tournament.",
+                        "Can you __________ my high score on this video game?",
+                        "He was thrilled when his team managed to __________ the defending champions."
+                    ]
+                },
+                {
+                    "word": "board game",
+                    "phonetic": "/ˈbɔːd ɡeɪm/",
+                    "meaning": "trò chơi trên bàn cờ",
+                    "definition": "A game played on a specially marked board using small pieces or counters.",
+                    "example": "Chess is a classic board game that requires strategic thinking.\nWe spent the rainy afternoon playing a board game with family.\nMonopoly is one of the most popular board games in history.",
+                    "quizzes": [
+                        "Monopoly is a very famous __________ that many families play together.",
+                        "They sat around the table to play a fun __________ on Saturday night.",
+                        "Do you prefer video games or a traditional __________?"
+                    ]
+                },
+                {
+                    "word": "captain",
+                    "phonetic": "/ˈkæptɪn/",
+                    "meaning": "đội trưởng, thuyền trưởng",
+                    "definition": "The leader of a sports team, ship, or aircraft.",
+                    "example": "She was chosen as the captain of the basketball team.\nThe captain shook hands with the referee before the game began.\nAs captain, he always encourages his teammates during matches.",
+                    "quizzes": [
+                        "The __________ led the team onto the field with confidence.",
+                        "He was proud to be named the __________ of the school football team.",
+                        "The team members listened carefully to instructions from their __________."
+                    ]
+                },
+                {
+                    "word": "challenge",
+                    "phonetic": "/ˈtʃælɪndʒ/",
+                    "meaning": "thách thức, sự thách thức",
+                    "definition": "A call to take part in a contest, or something that needs a lot of skill or effort.",
+                    "example": "Learning a new language can be a great challenge.\nHe accepted the challenge to play against the chess grandmaster.\nThis puzzle presents a fun challenge for young students.",
+                    "quizzes": [
+                        "Climbing the high mountain was a difficult __________ for the hikers.",
+                        "She decided to accept the __________ and enter the math competition.",
+                        "Playing against an experienced opponent is always a good __________."
+                    ]
+                },
+                {
+                    "word": "champion",
+                    "phonetic": "/ˈtʃæmpiən/",
+                    "meaning": "quán quân",
+                    "definition": "A person or team that has defeated all other competitors in a competition.",
+                    "example": "He became the world chess champion at a young age.\nThe reigning champion successfully defended her title yesterday.\nThey celebrated excitedly after becoming the league champions.",
+                    "quizzes": [
+                        "The tennis __________ received a gold trophy after winning the tournament.",
+                        "Who do you think will become the next world __________?",
+                        "She trained every day to become a swimming __________."
+                    ]
+                },
+                {
+                    "word": "cheat",
+                    "phonetic": "/tʃiːt/",
+                    "meaning": "lừa, gian lận",
+                    "definition": "To act dishonestly in order to gain an advantage in a game, test, or task.",
+                    "example": "It is wrong to cheat in an exam or a sports game.\nHe tried to cheat by hiding extra cards up his sleeve.\nAnyone caught trying to cheat will be disqualified immediately.",
+                    "quizzes": [
+                        "It is unfair to __________ during a board game with your friends.",
+                        "The referee penalised the player who tried to __________.",
+                        "You will never truly learn if you __________ on your homework."
+                    ]
+                },
+                {
+                    "word": "classical",
+                    "phonetic": "/ˈklæsɪkl/",
+                    "meaning": "cổ điển",
+                    "definition": "Relating to traditional music of European origin, or traditional in style.",
+                    "example": "She enjoys listening to classical music while studying.\nBeethoven and Mozart are famous composers of classical music.\nHe plays classical guitar very beautifully.",
+                    "quizzes": [
+                        "Mozart composed some of the most famous __________ music in history.",
+                        "She prefers listening to __________ music rather than modern pop.",
+                        "The orchestra gave a wonderful concert of __________ pieces."
+                    ]
+                },
+                {
+                    "word": "club",
+                    "phonetic": "/klʌb/",
+                    "meaning": "câu lạc bộ",
+                    "definition": "An organization of people with a common interest who meet regularly.",
+                    "example": "He joined the school chess club to improve his game.\nThe football club holds practice sessions twice a week.\nShe is an active member of the drama club.",
+                    "quizzes": [
+                        "Are you going to join the sports __________ this semester?",
+                        "The book __________ meets once a month to discuss new novels.",
+                        "He has been a member of the local golf __________ for five years."
+                    ]
+                },
+                {
+                    "word": "coach",
+                    "phonetic": "/kəʊtʃ/",
+                    "meaning": "huấn luyện viên",
+                    "definition": "A person who trains and guides an athlete or a sports team.",
+                    "example": "The coach gave the team a encouraging speech during halftime.\nOur football coach taught us new defensive strategies.\nShe works as a swimming coach at the community pool.",
+                    "quizzes": [
+                        "The __________ instructed the players to focus on their teamwork.",
+                        "Our basketball __________ praised us for playing so well today.",
+                        "He hired a private __________ to help him prepare for the marathon."
+                    ]
+                },
+                {
+                    "word": "competition",
+                    "phonetic": "/ˌkɒmpəˈtɪʃn/",
+                    "meaning": "cuộc thi đấu",
+                    "definition": "An event in which people compete against each other to find a winner.",
+                    "example": "More than fifty students entered the singing competition.\nThe swimming competition will take place next weekend.\nThere is strong competition between the two top teams.",
+                    "quizzes": [
+                        "She won first prize in the national painting __________.",
+                        "Hundreds of athletes participated in the annual athletic __________.",
+                        "The school is holding a chess __________ on Friday afternoon."
+                    ]
+                },
+                {
+                    "word": "concert",
+                    "phonetic": "/ˈkɒnsət/",
+                    "meaning": "buổi hòa nhạc",
+                    "definition": "A live performance of music before an audience.",
+                    "example": "We bought tickets for the outdoor rock concert.\nThe school choir gave a wonderful Christmas concert.\nThousands of fans gathered at the stadium for the concert.",
+                    "quizzes": [
+                        "The band played their greatest hits during the live __________.",
+                        "We went to a classical music __________ at the city hall last night.",
+                        "She was excited to attend her favorite singer's __________."
+                    ]
+                },
+                {
+                    "word": "defeat",
+                    "phonetic": "/dɪˈfiːt/",
+                    "meaning": "đánh bại",
+                    "definition": "To win a victory over someone in a battle, contest, or game.",
+                    "example": "They managed to defeat the enemy team in the semi-final.\nNo one expected them to defeat the reigning champions.\nShe was determined to defeat her opponent in the next round.",
+                    "quizzes": [
+                        "The team worked together to __________ their opponents in the final match.",
+                        "It is not easy to __________ an experienced chess master.",
+                        "They trained hard every day so they could __________ the rival team."
+                    ]
+                },
+                {
+                    "word": "entertaining",
+                    "phonetic": "/ˌentəˈteɪnɪŋ/",
+                    "meaning": "giải trí",
+                    "definition": "Providing amusement or enjoyment; fun and interesting.",
+                    "example": "The movie was very entertaining from start to finish.\nHe told an entertaining story that made everyone laugh.\nThe circus provided an entertaining show for children.",
+                    "quizzes": [
+                        "The comedy film was extremely __________ and kept us laughing.",
+                        "She gave an __________ speech that held everyone's attention.",
+                        "Playing board games with friends is a very __________ way to pass time."
+                    ]
+                },
+                {
+                    "word": "group",
+                    "phonetic": "/ɡruːp/",
+                    "meaning": "nhóm",
+                    "definition": "A number of people or things that are gathered together or classified together.",
+                    "example": "A group of students was playing volleyball in the yard.\nThey divided the class into small working groups.\nThe music group performed three songs at the festival.",
+                    "quizzes": [
+                        "A small __________ of fans waited outside the hotel to see the singer.",
+                        "The teacher asked us to work in a __________ of four.",
+                        "He plays guitar in a local rock __________."
+                    ]
+                },
+                {
+                    "word": "gym",
+                    "phonetic": "/dʒɪm/",
+                    "meaning": "phòng tập thể dục",
+                    "definition": "A room or building equipped for gymnastics, exercise, or sports.",
+                    "example": "He goes to the gym three times a week to lift weights.\nThe school gym was decorated for the graduation party.\nWorking out at the gym helps keep you fit and healthy.",
+                    "quizzes": [
+                        "She spends an hour at the __________ every morning after work.",
+                        "Our school has a modern __________ with a basketball court.",
+                        "You can exercise on the treadmill at the local __________."
+                    ]
+                },
+                {
+                    "word": "interest",
+                    "phonetic": "/ˈɪntrəst/",
+                    "meaning": "sự thích thú",
+                    "definition": "The feeling of wanting to give your attention to something or learn more about it.",
+                    "example": "He showed a keen interest in learning how to play chess.\nThe science exhibit sparked her interest in astronomy.\nReading books is one of his main personal interests.",
+                    "quizzes": [
+                        "She has a great __________ in outdoor sports and hiking.",
+                        "The documentary generated a lot of __________ among students.",
+                        "His main __________ outside of school is playing the violin."
+                    ]
+                },
+                {
+                    "word": "member",
+                    "phonetic": "/ˈmembər/",
+                    "meaning": "thành viên",
+                    "definition": "A person or thing belonging to a group, team, or organization.",
+                    "example": "Each member of the team received a gold medal.\nShe has been a member of the swimming club for two years.\nEvery board member must vote on the new proposal.",
+                    "quizzes": [
+                        "He is an active __________ of the school drama club.",
+                        "Every __________ of the choir sang with great passion.",
+                        "How many __________s belong to this fitness center?"
+                    ]
+                },
+                {
+                    "word": "opponent",
+                    "phonetic": "/əˈpəʊnənt/",
+                    "meaning": "đối thủ",
+                    "definition": "Someone who competes against or opposes another in a contest or game.",
+                    "example": "His opponent in the tennis match was very skilled.\nShe shook hands with her opponent after the match finished.\nHe studied his opponent's moves to find weaknesses.",
+                    "quizzes": [
+                        "He respected his __________ despite winning the game easily.",
+                        "Her __________ in the chess final was a talented young player.",
+                        "The boxer prepared thoroughly for his next powerful __________."
+                    ]
+                },
+                {
+                    "word": "organise",
+                    "phonetic": "/ˈɔːɡənaɪz/",
+                    "meaning": "sắp xếp, tổ chức",
+                    "definition": "To arrange or order things, or to plan an event or activity.",
+                    "example": "They decided to organise a charity football tournament.\nShe helped organise the books in the school library.\nOur club will organise a trip to the mountains next month.",
+                    "quizzes": [
+                        "We plan to __________ a surprise birthday party for our friend.",
+                        "The teacher helped the class __________ a sports day event.",
+                        "It takes time and effort to __________ a large music concert."
+                    ]
+                },
+                {
+                    "word": "pleasure",
+                    "phonetic": "/ˈpleʒər/",
+                    "meaning": "niềm vui",
+                    "definition": "A feeling of happy satisfaction and enjoyment.",
+                    "example": "Reading good books gives her great pleasure.\nIt was a pleasure meeting you today.\nHe takes pleasure in helping others learn sports.",
+                    "quizzes": [
+                        "It was a real __________ to watch the team play so well.",
+                        "Playing music brings immense __________ to her life.",
+                        "Thank you for the invitation, it will be my __________ to attend."
+                    ]
+                },
+                {
+                    "word": "referee",
+                    "phonetic": "/ˌrefəˈriː/",
+                    "meaning": "trọng tài",
+                    "definition": "An official who watches a game to ensure rules are followed.",
+                    "example": "The referee blew the whistle to signal the start of the match.\nThe player argued with the referee over a foul decision.\nA referee must remain impartial during the whole game.",
+                    "quizzes": [
+                        "The __________ blew his whistle to end the first half.",
+                        "All players must respect the decisions made by the __________.",
+                        "The __________ awarded a penalty kick to the home team."
+                    ]
+                },
+                {
+                    "word": "rhythm",
+                    "phonetic": "/ˈrɪðəm/",
+                    "meaning": "nhịp, âm tiết",
+                    "definition": "A strong, regular repeated pattern of movement or sound.",
+                    "example": "Dancers need to move in time with the rhythm of the music.\nThe steady rhythm of the drums filled the room.\nShe tapped her foot to the lively rhythm of the song.",
+                    "quizzes": [
+                        "Listen to the drumbeat and try to follow the __________.",
+                        "She has a natural sense of __________ when she dances.",
+                        "The music has a fast, catchy __________ that makes people want to dance."
+                    ]
+                },
+                {
+                    "word": "risk",
+                    "phonetic": "/rɪsk/",
+                    "meaning": "rủi ro",
+                    "definition": "The possibility of facing danger, loss, or injury; or to chance doing something.",
+                    "example": "Extreme sports involve a certain amount of physical risk.\nHe decided to risk jumping across the wide creek.\nThere is always a risk of rain when camping outdoors.",
+                    "quizzes": [
+                        "Extreme athletes are willing to take a high __________ for excitement.",
+                        "Don't __________ losing your money on foolish bets.",
+                        "Playing sports without warm-up exercises increases the __________ of injury."
+                    ]
+                },
+                {
+                    "word": "score",
+                    "phonetic": "/skɔːr/",
+                    "meaning": "ghi điểm, điểm số",
+                    "definition": "To gain points in a game or test; or the total number of points.",
+                    "example": "He managed to score the winning goal in the final minute.\nWhat was the final score of the basketball game?\nShe hopes to score high marks on her music exam.",
+                    "quizzes": [
+                        "What was the final __________ of the football match yesterday?",
+                        "Our striker managed to __________ two goals in the second half.",
+                        "Keep track of your __________ on the game board."
+                    ]
+                },
+                {
+                    "word": "support",
+                    "phonetic": "/səˈpɔːt/",
+                    "meaning": "hỗ trợ, ủng hộ, sự ủng hộ",
+                    "definition": "To give encouragement, help, or approval to someone or something.",
+                    "example": "Thousands of fans turned out to support their team.\nParents should support their children's sports interests.\nWe received great support from the local community.",
+                    "quizzes": [
+                        "Which football team do you __________ in the national league?",
+                        "The fans shouted loudly to __________ their favorite players.",
+                        "We appreciate the strong __________ from our school community."
+                    ]
+                },
+                {
+                    "word": "team",
+                    "phonetic": "/tiːm/",
+                    "meaning": "đội",
+                    "definition": "A group of players forming one side in a competitive game or sport.",
+                    "example": "Our volleyball team won the regional championship.\nGood communication is vital for any successful sports team.\nShe was selected for the national swimming team.",
+                    "quizzes": [
+                        "Every member of the __________ worked together to win the match.",
+                        "He plays for the local football __________ every weekend.",
+                        "We have a strong __________ this year and hope to win the cup."
+                    ]
+                },
+                {
+                    "word": "train",
+                    "phonetic": "/treɪn/",
+                    "meaning": "huấn luyện, đào tạo",
+                    "definition": "To practice a sport or skill to prepare for a contest or test.",
+                    "example": "Athletes train hard every day to stay in peak condition.\nShe trains at the swimming pool every afternoon.\nOur coach helps us train for the upcoming competition.",
+                    "quizzes": [
+                        "You need to __________ regularly if you want to run a marathon.",
+                        "The players __________ three times a week at the sports center.",
+                        "He spent years to __________ his dog for obedience trials."
+                    ]
+                },
+                {
+                    "word": "fun",
+                    "phonetic": "/fʌn/",
+                    "meaning": "vui, trò vui",
+                    "definition": "Enjoyment, amusement, or lighthearted pleasure.",
+                    "example": "We had a lot of fun at the amusement park.\nPlaying board games with friends is great fun.\nShe joined the club just for fun.",
+                    "quizzes": [
+                        "We had so much __________ playing games at the birthday party.",
+                        "Swimming in the lake on a hot day is great __________.",
+                        "They do not play competitively; they just play for __________."
+                    ]
+                },
+                {
+                    "word": "carry on",
+                    "phonetic": "/ˈkæri ɒn/",
+                    "meaning": "tiếp tục",
+                    "definition": "To continue doing something.",
+                    "example": "Please carry on with your work while I am out of the room.\nDespite the heavy rain, the players carried on playing.\nIf you carry on practicing, you will improve soon.",
+                    "quizzes": [
+                        "The coach told the team to __________ playing despite the rain.",
+                        "Sorry for interrupting, please __________ with what you were saying.",
+                        "If you __________ practicing every day, you will become a master."
+                    ]
+                },
+                {
+                    "word": "eat out",
+                    "phonetic": "/iːt aʊt/",
+                    "meaning": "ăn ngoài (ở nhà hàng)",
+                    "definition": "To have a meal at a restaurant instead of at home.",
+                    "example": "We decided to eat out at an Italian restaurant on Friday night.\nThey rarely eat out because they prefer home-cooked meals.\nIt is nice to eat out with friends on weekends.",
+                    "quizzes": [
+                        "We like to __________ at a local restaurant on special occasions.",
+                        "How often do you __________ with your family during the week?",
+                        "Instead of cooking dinner tonight, let's __________."
+                    ]
+                },
+                {
+                    "word": "give up",
+                    "phonetic": "/ɡɪv ʌp/",
+                    "meaning": "từ bỏ",
+                    "definition": "To stop trying to do something, or to stop doing a habit.",
+                    "example": "Never give up on your dreams, no matter how hard things get.\nHe decided to give up smoking for his health.\nThe puzzle was so difficult that I had to give up.",
+                    "quizzes": [
+                        "Never __________ trying even if the game gets difficult.",
+                        "He decided to __________ playing video games during exam week.",
+                        "She refused to __________ despite facing many challenges."
+                    ]
+                },
+                {
+                    "word": "join in",
+                    "phonetic": "/dʒɔɪn ɪn/",
+                    "meaning": "tham gia",
+                    "definition": "To take part in an activity with other people.",
+                    "example": "The teacher invited all students to join in the game.\nFeel free to join in if you want to sing along with us.\nHe was shy at first, but then he joined in the dance.",
+                    "quizzes": [
+                        "Why don't you __________ and play volleyball with us?",
+                        "Everyone was encouraged to __________ the group singing.",
+                        "The children loved to __________ all the outdoor games."
+                    ]
+                },
+                {
+                    "word": "send off",
+                    "phonetic": "/send ɒf/",
+                    "meaning": "đuổi ra khỏi sân chơi",
+                    "definition": "To order a player to leave the field during a sports game because of a serious violation.",
+                    "example": "The referee had to send off the player for a dangerous tackle.\nGetting sent off hurt his team's chances of winning.\nThe player was sent off after receiving a second yellow card.",
+                    "quizzes": [
+                        "The referee decided to __________ the player for committing a severe foul.",
+                        "If a player gets a red card, the referee will __________ him immediately.",
+                        "He was disappointed to be __________ during the crucial match."
+                    ]
+                },
+                {
+                    "word": "take up",
+                    "phonetic": "/teɪk ʌp/",
+                    "meaning": "bắt đầu (một sở thích, thể thao...)",
+                    "definition": "To start doing a new hobby, activity, or sport.",
+                    "example": "She decided to take up photography during her summer break.\nHe wants to take up tennis to stay active.\nMy brother took up playing the guitar last year.",
+                    "quizzes": [
+                        "I plan to __________ chess as a new hobby this year.",
+                        "She decided to __________ yoga to stay healthy and relaxed.",
+                        "Many people __________ a new sport at the beginning of the year."
+                    ]
+                },
+                {
+                    "word": "turn down",
+                    "phonetic": "/tɜːn daʊn/",
+                    "meaning": "giảm âm lượng",
+                    "definition": "To reduce the volume, heat, or power of a device.",
+                    "example": "Please turn down the music, it is too loud.\nHe turned down the TV so his baby sister could sleep.\nCould you turn down the radio a little bit?",
+                    "quizzes": [
+                        "Could you please __________ the TV volume? It's too loud.",
+                        "He asked his brother to __________ the music while he studied.",
+                        "Remember to __________ the heat on the stove once the water boils."
+                    ]
+                },
+                {
+                    "word": "turn up",
+                    "phonetic": "/tɜːn ʌp/",
+                    "meaning": "tăng âm lượng",
+                    "definition": "To increase the volume, heat, or power of a device.",
+                    "example": "Turn up the radio! This is my favorite song!\nShe turned up the sound on the computer to hear the video clearly.\nHe asked the DJ to turn up the volume.",
+                    "quizzes": [
+                        "Please __________ the radio so we can hear our favorite song!",
+                        "She had to __________ the volume because the speaker was too quiet.",
+                        "Can you __________ the TV? I can't hear the news reporter."
+                    ]
+                },
+                {
+                    "word": "for a long time",
+                    "phonetic": "/fər ə lɒŋ taɪm/",
+                    "meaning": "lâu, rất lâu",
+                    "definition": "For an extended duration of time.",
+                    "example": "They have been best friends for a long time.\nI haven't played this board game for a long time.\nShe lived in London for a long time before moving here.",
+                    "quizzes": [
+                        "We haven't seen each other __________.",
+                        "He has been practicing martial arts __________.",
+                        "They waited at the bus stop __________ before the bus arrived."
+                    ]
+                },
+                {
+                    "word": "for fun",
+                    "phonetic": "/fər fʌn/",
+                    "meaning": "cho vui, không nghiêm túc",
+                    "definition": "For pleasure or enjoyment rather than for serious reasons.",
+                    "example": "We play football on weekends just for fun.\nShe writes short stories for fun in her free time.\nDon't take it too seriously; we are doing this for fun.",
+                    "quizzes": [
+                        "We play card games together just __________ on Sunday afternoons.",
+                        "She paints landscapes __________ rather than for money.",
+                        "It's not a real match, we are playing purely __________."
+                    ]
+                },
+                {
+                    "word": "in the middle of",
+                    "phonetic": "/ɪn ðə ˈmɪdl əv/",
+                    "meaning": "ở giữa cái gì",
+                    "definition": "At or near the center of a space, period of time, or process.",
+                    "example": "The net is located in the middle of the tennis court.\nDon't talk when someone is in the middle of a speech.\nThere is a big fountain in the middle of the square.",
+                    "quizzes": [
+                        "A large referee stood __________ the basketball court.",
+                        "Please don't interrupt me when I'm __________ reading.",
+                        "The playground is located __________ the park."
+                    ]
+                },
+                {
+                    "word": "in time for",
+                    "phonetic": "/ɪn taɪm fər/",
+                    "meaning": "kịp giờ",
+                    "definition": "Early enough for a particular event or purpose.",
+                    "example": "We arrived at the stadium just in time for the kickoff.\nMake sure you are home in time for dinner.\nShe ran fast to get to the station in time for the train.",
+                    "quizzes": [
+                        "We arrived at the concert hall just __________ the opening song.",
+                        "Will you be home __________ the football match on TV?",
+                        "He hurried to school to be __________ the morning assembly."
+                    ]
+                },
+                {
+                    "word": "on CD/DVD/video",
+                    "phonetic": "/ɒn siː diː / diː viː diː / ˈvɪdiəʊ/",
+                    "meaning": "trên đĩa CD, DVD, video",
+                    "definition": "Recorded or available on digital discs or videotape format.",
+                    "example": "They released their new album on CD and vinyl.\nWe watched our favorite childhood movie on DVD.\nThis instructional lesson is available on video.",
+                    "quizzes": [
+                        "I bought my favorite album __________ so I could listen to it in the car.",
+                        "We watched the concert recording __________ at home.",
+                        "The tutorial is provided __________ for easy watching."
+                    ]
+                },
+                {
+                    "word": "on stage",
+                    "phonetic": "/ɒn steɪdʒ/",
+                    "meaning": "trên sân khấu",
+                    "definition": "Performing or standing on a platform in a theater or concert hall.",
+                    "example": "The actors were performing on stage under bright lights.\nThe singer walked out on stage to loud applause from the audience.\nShe felt nervous standing on stage in front of hundreds of people.",
+                    "quizzes": [
+                        "The musicians performed brilliantly while __________.",
+                        "She stepped __________ to receive her trophy.",
+                        "The crowd cheered loudly when the band appeared __________."
+                    ]
+                },
+                {
+                    "word": "on the stage",
+                    "phonetic": "/ɒn ðə steɪdʒ/",
+                    "meaning": "trở thành diễn viên",
+                    "definition": "Working as a professional actor or in the theatrical profession.",
+                    "example": "She has had a successful career on the stage for over twenty years.\nMany young actors dream of making a name for themselves on the stage.\nHe started his acting career on the stage before starring in films.",
+                    "quizzes": [
+                        "After studying drama, she pursued a career __________.",
+                        "He spent most of his life working __________ as a theater actor.",
+                        "Many famous film stars began their acting careers __________."
+                    ]
+                },
+                {
+                    "word": "be bored with",
+                    "phonetic": "/bi bɔːd wɪð/",
+                    "meaning": "chán với",
+                    "definition": "Feeling tired and uninterested because of lack of interest or repetition.",
+                    "example": "The children were bored with playing the same video game every day.\nHe is bored with his current routine and wants a new challenge.\nShe got bored with watching television and went out for a walk.",
+                    "quizzes": [
+                        "I am __________ playing the same game over and over again.",
+                        "The students were __________ the long lecture.",
+                        "Don't get __________ your practice; stay focused!"
+                    ]
+                },
+                {
+                    "word": "be crazy about",
+                    "phonetic": "/bi ˈkreɪzi əˈbaʊt/",
+                    "meaning": "say mê, cuồng",
+                    "definition": "To be extremely enthusiastic about or fond of someone or something.",
+                    "example": "My little brother is crazy about playing football.\nShe is crazy about classical music and attends every concert.\nThey are crazy about playing board games on weekends.",
+                    "quizzes": [
+                        "My sister is __________ pop music and has posters everywhere.",
+                        "He is __________ basketball and plays every single day.",
+                        "Many young kids are __________ collecting trading cards."
+                    ]
+                },
+                {
+                    "word": "be good at",
+                    "phonetic": "/bi ɡʊd æt/",
+                    "meaning": "giỏi về",
+                    "definition": "Able to do something well; skilled.",
+                    "example": "She is very good at playing chess.\nHe is good at solving complex mathematical puzzles.\nOur team captain is good at organizing strategy.",
+                    "quizzes": [
+                        "She is very __________ playing the piano.",
+                        "Are you __________ swimming and water sports?",
+                        "He is __________ making friends wherever he goes."
+                    ]
+                },
+                {
+                    "word": "be interested in",
+                    "phonetic": "/bi ˈɪntrəstɪd ɪn/",
+                    "meaning": "thích thú",
+                    "definition": "Wanting to know more about something or become involved in it.",
+                    "example": "He is very interested in learning how to sail.\nShe has always been interested in photography.\nAre you interested in joining our school chess club?",
+                    "quizzes": [
+                        "He is __________ joining the local football club.",
+                        "Are you __________ learning how to play classical guitar?",
+                        "She has always been __________ ancient history."
+                    ]
+                },
+                {
+                    "word": "be keen on",
+                    "phonetic": "/bi kiːn ɒn/",
+                    "meaning": "say mê",
+                    "definition": "Enthusiastic about or interested in something.",
+                    "example": "She is very keen on playing outdoor sports.\nHe isn't very keen on going to noisy concerts.\nMy friends are keen on camping during the holidays.",
+                    "quizzes": [
+                        "My brother is very __________ playing tennis.",
+                        "She isn't very __________ watching horror movies.",
+                        "Are you __________ taking up a new outdoor hobby?"
+                    ]
+                },
+                {
+                    "word": "be popular with",
+                    "phonetic": "/bi ˈpɒpjələr wɪð/",
+                    "meaning": "phổ biến với",
+                    "definition": "Liked, enjoyed, or admired by a specific group of people.",
+                    "example": "This board game is very popular with teenagers.\nThe new sports coach is popular with all the players.\nSoccer is popular with kids around the globe.",
+                    "quizzes": [
+                        "This computer game is extremely __________ young students.",
+                        "The new music teacher is very __________ the choir members.",
+                        "Board games are becoming more __________ families again."
+                    ]
+                },
+                {
+                    "word": "feel like",
+                    "phonetic": "/fiːl laɪk/",
+                    "meaning": "thích, thèm",
+                    "definition": "To want to have or do something at a particular moment.",
+                    "example": "Do you feel like going out for dinner tonight?\nI feel like playing a game of badminton.\nShe didn't feel like going to the gym after work.",
+                    "quizzes": [
+                        "Do you __________ having an ice cream right now?",
+                        "I don't __________ watching TV tonight; let's go for a walk.",
+                        "She didn't __________ going to practice because she was tired."
+                    ]
+                },
+                {
+                    "word": "listen to",
+                    "phonetic": "/ˈlɪsn tə/",
+                    "meaning": "lắng nghe",
+                    "definition": "To pay attention to sound or music.",
+                    "example": "I love to listen to classical music when studying.\nAlways listen to your coach's advice during practice.\nShe listened to the radio while driving home.",
+                    "quizzes": [
+                        "Make sure you __________ the teacher's instructions carefully.",
+                        "I like to __________ music while relaxing in my room.",
+                        "The players stopped to __________ their coach."
+                    ]
+                },
+                {
+                    "word": "take part in",
+                    "phonetic": "/teɪk pɑːt ɪn/",
+                    "meaning": "tham gia vào",
+                    "definition": "To participate or be involved in an activity or event.",
+                    "example": "Hundreds of athletes will take part in the marathon.\nShe loves to take part in school drama plays.\nEvery student is encouraged to take part in sports day.",
+                    "quizzes": [
+                        "Many runners will __________ the city marathon tomorrow.",
+                        "Did you __________ the chess tournament last week?",
+                        "We hope everyone will __________ the holiday celebrations."
+                    ]
+                },
+                {
+                    "word": "a book (by sb) about",
+                    "phonetic": "/ə bʊk əˈbaʊt/",
+                    "meaning": "sách của ai viết về",
+                    "definition": "A written work created by an author concerning a specific subject.",
+                    "example": "I read a book by J.K. Rowling about magic.\nHe bought a book by a famous coach about football tactics.\nShe is reading a book by an adventurer about mountain climbing.",
+                    "quizzes": [
+                        "She read __________ the history of classical music.",
+                        "He gave me __________ football strategies written by a top coach.",
+                        "This is __________ wildlife written by a famous scientist."
+                    ]
+                },
+                {
+                    "word": "a fan of",
+                    "phonetic": "/ə fæn əv/",
+                    "meaning": "người hâm mộ",
+                    "definition": "An admirer or enthusiastic follower of a sports team, singer, or activity.",
+                    "example": "He is a big fan of the local football club.\nShe is a fan of classical music and collects old records.\nMy father has been a fan of tennis for decades.",
+                    "quizzes": [
+                        "My brother is a huge __________ Manchester United.",
+                        "Are you __________ rock music or classical music?",
+                        "She is a dedicated __________ that singer and buys all her albums."
+                    ]
+                },
+                {
+                    "word": "a game against",
+                    "phonetic": "/ə ɡeɪm əˈɡenst/",
+                    "meaning": "trận đấu với",
+                    "definition": "A match or contest played in competition with another opponent or team.",
+                    "example": "We have a game against our rival school this Saturday.\nIt was a tough game against the championship leaders.\nThey played a game against the top team in the region.",
+                    "quizzes": [
+                        "Our team has __________ the regional champions next week.",
+                        "They lost __________ their local rivals by two points.",
+                        "It was an exciting __________ the defending champions."
+                    ]
+                },
+                {
+                    "word": "act",
+                    "phonetic": "/ækt/",
+                    "meaning": "hành động, hành xử",
+                    "definition": "To take action, perform a role, or behave in a particular way.",
+                    "example": "You must act quickly in an emergency.\nHe loves to act in school plays.\nShe acted bravely during the storm.",
+                    "quizzes": [
+                        "The referee had to __________ immediately to stop the fight.",
+                        "She loves to __________ in local theater productions.",
+                        "Think carefully before you __________ in a difficult situation."
+                    ]
+                },
+                {
+                    "word": "active",
+                    "phonetic": "/ˈæk.tɪv/",
+                    "meaning": "năng động",
+                    "definition": "Engaged in action; physically energetic.",
+                    "example": "Playing sports helps children stay healthy and active.\nShe leads an active lifestyle by running every morning.\nHe is an active member of the hiking club.",
+                    "quizzes": [
+                        "It is important to stay physically __________ throughout your life.",
+                        "He is a very __________ participant in all class discussions.",
+                        "Regular exercise keeps you fit and __________."
+                    ]
+                },
+                {
+                    "word": "inactive",
+                    "phonetic": "/ɪnˈæk.tɪv/",
+                    "meaning": "thụ động",
+                    "definition": "Not engaging in physical exercise or activity; passive.",
+                    "example": "Sitting all day can lead to an inactive lifestyle.\nThe volcano has been inactive for hundreds of years.\nHe became inactive after his leg injury.",
+                    "quizzes": [
+                        "An __________ lifestyle can lead to health problems.",
+                        "The account has been __________ for more than six months.",
+                        "Don't remain __________; get up and do some exercise!"
+                    ]
+                },
+                {
+                    "word": "action",
+                    "phonetic": "/ˈæk.ʃn/",
+                    "meaning": "hành động",
+                    "definition": "The process of doing something, or an exciting event.",
+                    "example": "We need to take immediate action to protect the environment.\nHe loves watching action movies with lots of stunts.\nThe referee took action against the foul player.",
+                    "quizzes": [
+                        "The coach took swift __________ to change the team strategy.",
+                        "He enjoys reading books full of adventure and __________.",
+                        "Actions speak louder than words."
+                    ]
+                },
+                {
+                    "word": "actor",
+                    "phonetic": "/ˈæktər/",
+                    "meaning": "diễn viên",
+                    "definition": "A person whose profession is acting on stage, in films, or on television.",
+                    "example": "He is a famous Hollywood actor.\nThe actor gave an outstanding performance on stage.\nShe met her favorite actor at the film festival.",
+                    "quizzes": [
+                        "The lead __________ in the movie won an award for his performance.",
+                        "He dreams of becoming a professional theater __________.",
+                        "Which __________ played the role of the superhero?"
+                    ]
+                },
+                {
+                    "word": "athlete",
+                    "phonetic": "/ˈæθliːt/",
+                    "meaning": "vận động viên",
+                    "definition": "A person who is proficient in sports and physical exercises.",
+                    "example": "Every professional athlete dedicates hours to daily training.\nShe is a talented athlete who competes in track and field.\nThe Olympic athlete won a gold medal for her country.",
+                    "quizzes": [
+                        "The Olympic __________ trained for years to win the gold medal.",
+                        "A dedicated __________ eats a healthy diet and sleeps well.",
+                        "She is a natural __________ who excels at every sport she tries."
+                    ]
+                },
+                {
+                    "word": "athletic",
+                    "phonetic": "/æθˈletɪk/",
+                    "meaning": "khỏe mạnh, thuộc về điền kinh",
+                    "definition": "Physically strong, fit, and active; relating to athletics.",
+                    "example": "He has an athletic build because he exercises regularly.\nShe showed great athletic ability in the hurdle race.\nThey participated in an athletic competition at school.",
+                    "quizzes": [
+                        "He has an __________ body from years of running and swimming.",
+                        "She showed her __________ talent by winning three races.",
+                        "The school upgraded its __________ facilities for the students."
+                    ]
+                },
+                {
+                    "word": "athletics",
+                    "phonetic": "/æθˈletɪks/",
+                    "meaning": "môn điền kinh",
+                    "definition": "Sports such as running, jumping, and throwing.",
+                    "example": "Athletics is one of the main events at the Olympic Games.\nShe represented her school in athletics tournaments.\nHe enjoys athletics, especially sprinting and long jump.",
+                    "quizzes": [
+                        "He won two medals at the national __________ championship.",
+                        "__________ includes track and field events like running and jumping.",
+                        "Our school excels in both football and __________."
+                    ]
+                },
+                {
+                    "word": "child",
+                    "phonetic": "/tʃaɪld/",
+                    "meaning": "đứa trẻ",
+                    "definition": "A young human being below the age of puberty.",
+                    "example": "Every child deserves a good education and happy environment.\nShe is the youngest child in her family.\nWhen he was a child, he loved building model planes.",
+                    "quizzes": [
+                        "A young __________ needs love, care, and attention.",
+                        "She is an only __________ and has no brothers or sisters.",
+                        "When I was a __________, I wanted to be an astronaut."
+                    ]
+                },
+                {
+                    "word": "children",
+                    "phonetic": "/ˈtʃɪldrən/",
+                    "meaning": "trẻ em",
+                    "definition": "Plural of child; young human beings.",
+                    "example": "The playground was full of children laughing and playing.\nMany children enjoy playing video games after school.\nThey have three children, two boys and a girl.",
+                    "quizzes": [
+                        "The __________ were playing happily in the park.",
+                        "Books help __________ develop their imagination.",
+                        "How many __________ are there in your class?"
+                    ]
+                },
+                {
+                    "word": "childhood",
+                    "phonetic": "/ˈtʃaɪldhʊd/",
+                    "meaning": "thời thơ ấu",
+                    "definition": "The period of being a child.",
+                    "example": "He spent his childhood in a quiet countryside village.\nShe has fond memories of her childhood holidays.\nPlaying outdoors was the best part of my childhood.",
+                    "quizzes": [
+                        "He looked back at his happy __________ with a warm smile.",
+                        "She spent most of her __________ in a coastal town.",
+                        "Many of my __________ friends still keep in touch with me."
+                    ]
+                },
+                {
+                    "word": "collect",
+                    "phonetic": "/kəˈlekt/",
+                    "meaning": "thu thập, sưu tầm",
+                    "definition": "To gather together or accumulate items as a hobby or interest.",
+                    "example": "He likes to collect rare stamps from around the world.\nShe collects vintage comic books in her free time.\nThey collect seashells whenever they visit the beach.",
+                    "quizzes": [
+                        "My brother loves to __________ comic books from the 1990s.",
+                        "She started to __________ rare coins when she was ten.",
+                        "Some people __________ antique furniture as a passion."
+                    ]
+                },
+                {
+                    "word": "collection",
+                    "phonetic": "/kəˈlekʃn/",
+                    "meaning": "bộ sưu tập, sự sưu tập",
+                    "definition": "A group of accumulated items of a specific kind.",
+                    "example": "He showed us his impressive collection of sports cards.\nThe art gallery has a rare collection of oil paintings.\nHer shoe collection fills the entire closet.",
+                    "quizzes": [
+                        "He has an impressive __________ of antique stamps.",
+                        "The museum houses a valuable __________ of historical artifacts.",
+                        "She added a new painting to her private __________."
+                    ]
+                },
+                {
+                    "word": "collector",
+                    "phonetic": "/kəˈlektər/",
+                    "meaning": "người sưu tập",
+                    "definition": "A person who collects things of a specified type as a hobby or investment.",
+                    "example": "An art collector bought the painting for a high price.\nHe is a passionate collector of classic cars.\nThe coin collector searched for rare currency.",
+                    "quizzes": [
+                        "The art __________ purchased the rare painting at an auction.",
+                        "As a toy __________, he searches for vintage action figures.",
+                        "She is a serious __________ of ancient books."
+                    ]
+                },
+                {
+                    "word": "entertain",
+                    "phonetic": "/ˌentəˈteɪn/",
+                    "meaning": "giải trí",
+                    "definition": "To provide someone with amusement or enjoyment.",
+                    "example": "Magicians entertain audiences with clever tricks.\nHe loves to entertain his guests with music and good food.\nThe street performer entertained the crowd for hours.",
+                    "quizzes": [
+                        "The clown tried to __________ the kids at the party.",
+                        "A good host knows how to __________ guests warmly.",
+                        "Music and drama can __________ and inspire audiences."
+                    ]
+                },
+                {
+                    "word": "entertainment",
+                    "phonetic": "/ˌentəˈteɪnmənt/",
+                    "meaning": "sự giải trí",
+                    "definition": "Action of providing or being provided with amusement.",
+                    "example": "The resort offers great evening entertainment for families.\nVideo games are a popular form of entertainment today.\nWe hired a live band for entertainment at the wedding.",
+                    "quizzes": [
+                        "The hotel provides free __________ for all its guests.",
+                        "Television and movies are major forms of mass __________.",
+                        "They hired a magician to provide __________ at the party."
+                    ]
+                },
+                {
+                    "word": "hero",
+                    "phonetic": "/ˈhɪərəʊ/",
+                    "meaning": "anh hùng",
+                    "definition": "A person admired for courage, outstanding achievements, or noble qualities.",
+                    "example": "The firefighter was hailed as a hero after saving the family.\nHe is a national hero who fought for his country.\nSpider-Man is my favorite comic book hero.",
+                    "quizzes": [
+                        "The brave firefighter was treated as a local __________.",
+                        "Every child has a superhero or sports __________ they admire.",
+                        "He became a national __________ after winning the championship."
+                    ]
+                },
+                {
+                    "word": "heroic",
+                    "phonetic": "/həˈrəʊɪk/",
+                    "meaning": "khí phách, anh dũng",
+                    "definition": "Having the characteristics of a hero; courageous and brave.",
+                    "example": "The team made a heroic effort to come back and win.\nHis heroic actions saved the lives of several people.\nThey praised the soldier for his heroic courage.",
+                    "quizzes": [
+                        "The firefighters made a __________ effort to extinguish the blaze.",
+                        "She received a medal for her __________ actions during the rescue.",
+                        "It was a __________ performance by the underdog team."
+                    ]
+                },
+                {
+                    "word": "heroine",
+                    "phonetic": "/ˈherəʊɪn/",
+                    "meaning": "nữ anh hùng",
+                    "definition": "A female hero admired for her courage and noble qualities.",
+                    "example": "Joan of Arc is a famous historical heroine.\nThe main heroine of the story defeats the evil wizard.\nShe is considered a heroine by her hometown community.",
+                    "quizzes": [
+                        "Joan of Arc is a celebrated historical __________ of France.",
+                        "The novel's __________ saves her village from danger.",
+                        "She is a real-life __________ who works tirelessly for charity."
+                    ]
+                },
+                {
+                    "word": "music",
+                    "phonetic": "/ˈmjuːzɪk/",
+                    "meaning": "âm nhạc",
+                    "definition": "Vocal or instrumental sounds combined to produce beauty of form or harmony.",
+                    "example": "She loves listening to pop music while exercising.\nMusic plays an important role in many cultures.\nHe writes his own music on the piano.",
+                    "quizzes": [
+                        "I like listening to soft __________ while studying.",
+                        "__________ has the power to lift people's spirits.",
+                        "She plays background __________ during dinner parties."
+                    ]
+                },
+                {
+                    "word": "musical",
+                    "phonetic": "/ˈmjuːzɪkl/",
+                    "meaning": "thuộc về âm nhạc",
+                    "definition": "Relating to music, or having a talent for music.",
+                    "example": "She comes from a very musical family.\nThey went to see a broadway musical in New York.\nHe showed musical talent from a very early age.",
+                    "quizzes": [
+                        "She can play three different __________ instruments.",
+                        "We went to the theater to watch a famous Broadway __________.",
+                        "He comes from a very __________ family where everyone plays an instrument."
+                    ]
+                },
+                {
+                    "word": "musician",
+                    "phonetic": "/mjuˈzɪʃn/",
+                    "meaning": "nhạc sĩ",
+                    "definition": "A person who plays a musical instrument or writes music.",
+                    "example": "He is a talented musician who plays the violin and cello.\nThe street musician played a beautiful song on his saxophone.\nFamous musicians gathered for a global charity event.",
+                    "quizzes": [
+                        "The talented __________ played a solo on the violin.",
+                        "He dreams of becoming a professional jazz __________.",
+                        "A street __________ was playing guitar near the station."
+                    ]
+                },
+                {
+                    "word": "play",
+                    "phonetic": "/pleɪ/",
+                    "meaning": "chơi (các môn thể thao)",
+                    "definition": "To engage in activity for enjoyment, or participate in a sport or game.",
+                    "example": "Children love to play in the park after school.\nOur team will play against the champions tomorrow.\nDo you play any musical instruments?",
+                    "quizzes": [
+                        "We like to __________ basketball after school.",
+                        "Did you __________ board games with your family last night?",
+                        "Children need time to __________ freely outdoors."
+                    ]
+                },
+                {
+                    "word": "player",
+                    "phonetic": "/ˈpleɪər/",
+                    "meaning": "người chơi",
+                    "definition": "A person who takes part in a sport or game.",
+                    "example": "He is a star player on the football team.\nEach chess player has sixteen pieces at the start.\nShe is a key player in our company's success.",
+                    "quizzes": [
+                        "The tennis __________ served a powerful ace.",
+                        "Every __________ must follow the rules of the game.",
+                        "He is considered the best football __________ in the world."
+                    ]
+                },
+                {
+                    "word": "playful",
+                    "phonetic": "/ˈpleɪfl/",
+                    "meaning": "tinh nghịch, nhiều trò",
+                    "definition": "Full of fun and high spirits; lighthearted.",
+                    "example": "The playful kitten chased a ball of yarn across the room.\nHe gave her a playful nudge on the shoulder.\nHer playful smile brightened up the whole room.",
+                    "quizzes": [
+                        "The __________ puppy bounded across the lawn to fetch the ball.",
+                        "She has a energetic and __________ personality.",
+                        "He made a __________ comment to make his friends laugh."
+                    ]
+                },
+                {
+                    "word": "sail",
+                    "phonetic": "/seɪl/",
+                    "meaning": "đi thuyền",
+                    "definition": "To travel on water in a ship or boat.",
+                    "example": "They plan to sail across the Atlantic Ocean next summer.\nThe boat set sail from the harbor early in the morning.\nLearning to sail requires knowledge of wind direction.",
+                    "quizzes": [
+                        "We plan to __________ across the bay this weekend.",
+                        "The wooden ship began to __________ out into the open sea.",
+                        "He learned how to __________ a small sailboat when he was young."
+                    ]
+                },
+                {
+                    "word": "sailing",
+                    "phonetic": "/ˈseɪlɪŋ/",
+                    "meaning": "môn đua thuyền",
+                    "definition": "The sport or activity of using boats with sails.",
+                    "example": "Sailing is a popular sport in coastal cities.\nShe goes sailing every weekend with her club members.\nThey won a medal in the Olympic sailing event.",
+                    "quizzes": [
+                        "They enjoy going __________ on the lake in summer.",
+                        "__________ requires understanding wind currents and boat handling.",
+                        "Our town has a famous __________ club by the coast."
+                    ]
+                },
+                {
+                    "word": "sailor",
+                    "phonetic": "/ˈseɪlər/",
+                    "meaning": "thủy thủ",
+                    "definition": "A person who works as a member of the crew of a ship or boat.",
+                    "example": "The brave sailor managed the ship through the storm.\nHis grandfather was a sailor who traveled around the world.\nThe sailors raised the anchor and set sail.",
+                    "quizzes": [
+                        "The experienced __________ guided the ship safely into the harbor.",
+                        "His dream was to become a navy __________.",
+                        "The __________ adjusted the sails as the wind changed."
+                    ]
+                },
+                {
+                    "word": "sing",
+                    "phonetic": "/sɪŋ/",
+                    "meaning": "hát",
+                    "definition": "To make musical sounds with the voice.",
+                    "example": "She loves to sing in the shower every morning.\nThe birds began to sing as the sun rose.\nOur choir will sing at the annual concert.",
+                    "quizzes": [
+                        "She loves to __________ her favorite songs in the shower.",
+                        "The birds begin to __________ early in the morning.",
+                        "Can you __________ in high pitch without losing your voice?"
+                    ]
+                },
+                {
+                    "word": "song",
+                    "phonetic": "/sɒŋ/",
+                    "meaning": "bài hát",
+                    "definition": "A short poem or set of words set to music.",
+                    "example": "They sang a traditional birthday song for him.\nThis is my absolute favorite song on the album.\nShe wrote a beautiful song dedicated to her mother.",
+                    "quizzes": [
+                        "This catchy __________ is playing everywhere on the radio.",
+                        "She sang a sweet love __________ at the wedding.",
+                        "Do you know the lyrics to this popular __________?"
+                    ]
+                },
+                {
+                    "word": "singer",
+                    "phonetic": "/ˈsɪŋər/",
+                    "meaning": "ca sĩ",
+                    "definition": "A person who sings, especially professionally.",
+                    "example": "She is a famous opera singer with a powerful voice.\nThe lead singer of the rock band greeted the audience.\nHe works as a backup singer for pop stars.",
+                    "quizzes": [
+                        "The lead __________ sang with incredible power and emotion.",
+                        "Who is your favorite pop __________?",
+                        "She won the talent show and became a professional __________."
+                    ]
+                },
+                {
+                    "word": "singing",
+                    "phonetic": "/ˈsɪŋɪŋ/",
+                    "meaning": "ca hát",
+                    "definition": "The activity or art of performing songs with the voice.",
+                    "example": "Her singing impressed everyone in the audience.\nHe takes singing lessons twice a week.\nWe could hear the sweet singing of birds in the garden.",
+                    "quizzes": [
+                        "Her sweet __________ filled the entire concert hall.",
+                        "She enjoys __________ in the local church choir.",
+                        "The children took part in a __________ contest at school."
+                    ]
+                },
+                {
+                    "word": "sang",
+                    "phonetic": "/sæŋ/",
+                    "meaning": "V2 của sing (quá khứ)",
+                    "definition": "Past tense of sing.",
+                    "example": "She sang beautifully at the concert yesterday.\nThey sang happy birthday around the cake.\nHe sang his favorite melody during the car ride.",
+                    "quizzes": [
+                        "She __________ a beautiful lullaby to put the baby to sleep last night.",
+                        "The choir __________ magnificent hymns during the service yesterday.",
+                        "We all __________ along with the band at the concert."
+                    ]
+                },
+                {
+                    "word": "sung",
+                    "phonetic": "/sʌng/",
+                    "meaning": "V3 của sing (phân từ 2)",
+                    "definition": "Past participle of sing.",
+                    "example": "That famous song has been sung by many artists.\nThe national anthem was sung before the match began.\nThis hymn is sung in churches around the world.",
+                    "quizzes": [
+                        "The national anthem was __________ by a famous artist before the match.",
+                        "This popular ballad has been __________ by many different musicians.",
+                        "Have you ever __________ in front of a large audience?"
+                    ]
+                }
+            ],
+            "grammars": []
         }
     ]
 }

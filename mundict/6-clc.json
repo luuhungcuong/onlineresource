@@ -2547,6 +2547,241 @@
                 }
             ],
             "grammars": []
+        },
+        {
+            "sectionId": "unit-5-classroom-instruction",
+            "sectionName": "Unit 5: Classroom Instruction",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "turn on/off (your camera/ microphone)",
+                    "phonetic": "/tɜːn ɒn/ /ɒf/",
+                    "meaning": "bật/tắt (camera/ micro)",
+                    "definition": "To start or stop operating a camera or microphone by pressing a switch or clicking a button.",
+                    "example": "Please turn on your camera and turn off your microphone when not speaking.\nRemember to turn on your microphone before you speak.\nYou should turn off your camera if your internet connection is weak.",
+                    "quizzes": [
+                        "Please __________ your camera so the teacher can see you.",
+                        "Don't forget to __________ your microphone when you are not talking.",
+                        "The teacher asked all students to __________ their cameras during the test."
+                    ]
+                },
+                {
+                    "word": "sit down",
+                    "phonetic": "/sɪt daʊn/",
+                    "meaning": "ngồi xuống",
+                    "definition": "To move your body into a sitting position from standing.",
+                    "example": "The teacher asked everyone to sit down.\nPlease sit down and open your books.\nAll the students sat down when the class started.",
+                    "quizzes": [
+                        "The teacher asked the class to __________ quietly.",
+                        "Please __________ at your desk and start working.",
+                        "Everyone had to __________ when the principal entered the room."
+                    ]
+                },
+                {
+                    "word": "stand up",
+                    "phonetic": "/stænd ʌp/",
+                    "meaning": "đứng lên",
+                    "definition": "To rise from a sitting or lying position to a standing position.",
+                    "example": "Please stand up when you answer the question.\nThe students stood up to greet the teacher.\nWe all stand up when the national anthem plays.",
+                    "quizzes": [
+                        "Please __________ when you present your project to the class.",
+                        "The students had to __________ to stretch their legs after an hour.",
+                        "Raise your hand and __________ if you want to read the text."
+                    ]
+                },
+                {
+                    "word": "open your book",
+                    "phonetic": "/ˈoʊpən jɔːr bʊk/",
+                    "meaning": "mở sách ra",
+                    "definition": "To unclose a textbook or workbook to read or study.",
+                    "example": "Open your book to page 10, please.\nThe teacher told us to open our books and read paragraph one.\nBefore answering the question, open your book.",
+                    "quizzes": [
+                        "Please __________ to page 25 for today's lesson.",
+                        "The teacher said, open your book and look at the main diagram.",
+                        "Before we start the reading task, __________ to chapter three."
+                    ]
+                },
+                {
+                    "word": "close your book",
+                    "phonetic": "/kloʊz jɔːr bʊk/",
+                    "meaning": "đóng sách lại",
+                    "definition": "To move the covers of a book together so that it is no longer open.",
+                    "example": "Close your book after finishing the exercise.\nPlease close your book before taking the quiz.\nThe students closed their books when the test began.",
+                    "quizzes": [
+                        "Please __________ now and listen to the teacher.",
+                        "You must __________ before we start the spelling test.",
+                        "After reading the story, __________ and look at the whiteboard."
+                    ]
+                },
+                {
+                    "word": "raise your hand",
+                    "phonetic": "/reɪz jɔːr hænd/",
+                    "meaning": "giơ tay",
+                    "definition": "To lift your arm up in the air to get permission to speak or answer a question.",
+                    "example": "Raise your hand if you know the answer.\nIf you have any questions, please raise your hand.\nHe raised his hand to ask for help.",
+                    "quizzes": [
+                        "__________ if you want to answer the teacher's question.",
+                        "Always __________ before speaking in class.",
+                        "She __________ to tell the teacher she had finished the assignment."
+                    ]
+                },
+                {
+                    "word": "listen",
+                    "phonetic": "/ˈlɪsn/",
+                    "meaning": "lắng nghe",
+                    "definition": "To give attention to a sound or action of hearing.",
+                    "example": "Listen carefully to the teacher's directions.\nYou should listen to the audio track two times.\nListen to your classmate while they are talking.",
+                    "quizzes": [
+                        "Please __________ carefully while I explain the rules of the game.",
+                        "It is important to __________ to the audio recording to improve your pronunciation.",
+                        "Students should __________ to each other during group discussions."
+                    ]
+                },
+                {
+                    "word": "be quiet",
+                    "phonetic": "/biː ˈkwaɪət/",
+                    "meaning": "im lặng, giữ trật tự",
+                    "definition": "To stop making noise or speaking.",
+                    "example": "Please be quiet while others are speaking.\nThe teacher asked the class to be quiet during the exam.\nBe quiet so everyone can hear the announcement.",
+                    "quizzes": [
+                        "Please __________ while the teacher is giving instructions.",
+                        "The class was asked to __________ during the reading session.",
+                        "You need to __________ when taking a test in the library."
+                    ]
+                },
+                {
+                    "word": "pay attention",
+                    "phonetic": "/peɪ əˈtenʃn/",
+                    "meaning": "chú ý",
+                    "definition": "To listen, watch, or consider something carefully.",
+                    "example": "You must pay attention to the lesson.\nPay attention to the details on the board.\nHe did not pay attention and missed the homework instructions.",
+                    "quizzes": [
+                        "Students should __________ to the teacher during the presentation.",
+                        "Make sure to __________ to the safety instructions in the lab.",
+                        "If you don't __________, you might make mistakes on your test."
+                    ]
+                },
+                {
+                    "word": "present",
+                    "phonetic": "/prɪˈzent/",
+                    "meaning": "thuyết trình, trình bày",
+                    "definition": "To give a talk or show work to an audience.",
+                    "example": "She often presents in front of the class.\nEach group will present their ideas to the teacher.\nHe presented his science project yesterday.",
+                    "quizzes": [
+                        "Our group will __________ our project to the class tomorrow.",
+                        "She prepared slides to __________ her research finding.",
+                        "Each student needs to __________ their poster in front of everyone."
+                    ]
+                },
+                {
+                    "word": "present (noun)",
+                    "phonetic": "/ˈpreznt/",
+                    "meaning": "món quà",
+                    "definition": "Something given to someone as a gift.",
+                    "example": "I love my birthday present.\nShe received a lovely present from her best friend.\nOpening presents on Christmas morning is exciting.",
+                    "quizzes": [
+                        "I bought a special birthday __________ for my teacher.",
+                        "She unwrapped her birthday __________ with excitement.",
+                        "He gave his best friend a wonderful __________ on his birthday."
+                    ]
+                },
+                {
+                    "word": "submit",
+                    "phonetic": "/səbˈmɪt/",
+                    "meaning": "nộp (bài, báo cáo)",
+                    "definition": "To hand in a piece of work or document for assessment.",
+                    "example": "The student needs to submit his report to the teacher today.\nPlease submit your homework online by Friday.\nDon't forget to submit your assignment before midnight.",
+                    "quizzes": [
+                        "All students must __________ their essays by the end of the day.",
+                        "Did you __________ your online homework on time?",
+                        "Please check your work carefully before you __________ it."
+                    ]
+                },
+                {
+                    "word": "hand out",
+                    "phonetic": "/hænd aʊt/",
+                    "meaning": "phát ra, phân phát",
+                    "definition": "To distribute things to people in a group.",
+                    "example": "The teacher will hand out test papers to each student.\nCan you help me hand out these worksheets?\nThe monitor handed out the books to everyone.",
+                    "quizzes": [
+                        "The teacher asked a student to help __________ the exam papers.",
+                        "Could you please __________ these reading worksheets to your group?",
+                        "The teacher will __________ the new timetable today."
+                    ]
+                },
+                {
+                    "word": "practice",
+                    "phonetic": "/ˈpræktɪs/",
+                    "meaning": "luyện tập, sự luyện tập",
+                    "definition": "To do something repeatedly to improve skill.",
+                    "example": "They practice English every Tuesday and Friday.\nYou need to practice speaking English every day.\nPractice makes perfect when learning a language.",
+                    "quizzes": [
+                        "We should __________ speaking English as much as possible.",
+                        "If you __________ every day, your pronunciation will improve.",
+                        "They meet after school to __________ playing the guitar."
+                    ]
+                },
+                {
+                    "word": "observe",
+                    "phonetic": "/əbˈzɜːrv/",
+                    "meaning": "quan sát",
+                    "definition": "To watch carefully to see or notice something.",
+                    "example": "Please observe carefully when the teacher is demonstrating.\nScientists observe animals in their natural habitats.\nThe students observed the plant growth over two weeks.",
+                    "quizzes": [
+                        "Please __________ how the experiment works before trying it yourself.",
+                        "Students were asked to __________ the reactions in the science lab.",
+                        "Try to __________ how your partner pronounces difficult words."
+                    ]
+                },
+                {
+                    "word": "pick up",
+                    "phonetic": "/pɪk ʌp/",
+                    "meaning": "nhặt lên",
+                    "definition": "To lift something up with your hands.",
+                    "example": "I picked up the kids' clothes from the floor.\nPlease pick up your trash before leaving the classroom.\nHe picked up his pencil after dropping it.",
+                    "quizzes": [
+                        "Please __________ your trash and throw it in the bin.",
+                        "She dropped her eraser and had to __________ it.",
+                        "He asked the children to __________ their toys."
+                    ]
+                },
+                {
+                    "word": "log in",
+                    "phonetic": "/lɒɡ ɪn/",
+                    "meaning": "đăng nhập",
+                    "definition": "To connect to a computer system or website by entering account details.",
+                    "example": "Please log in with your username and password.\nStudents need to log in to access the online test.\nI couldn't log in because I forgot my password.",
+                    "quizzes": [
+                        "Please __________ to the online portal using your student account.",
+                        "You must __________ before taking the online quiz.",
+                        "Make sure you __________ with the correct username and password."
+                    ]
+                },
+                {
+                    "word": "turn off",
+                    "phonetic": "/tɜːrn ɒf/",
+                    "meaning": "tắt (thiết bị)",
+                    "definition": "To stop a machine, light, or appliance from working.",
+                    "example": "Turn off the lights when you leave the classroom.\nRemember to turn off your phone during class.\nPlease turn off the projector after the presentation.",
+                    "quizzes": [
+                        "Don't forget to __________ the lights before leaving.",
+                        "Please __________ your mobile phone during the exam.",
+                        "Always __________ electronic devices when you are done."
+                    ]
+                },
+                {
+                    "word": "spread out",
+                    "phonetic": "/spred aʊt/",
+                    "meaning": "trải ra, dàn ra",
+                    "definition": "To open, unfold, or arrange over a wider area or keep distance from each other.",
+                    "example": "Please spread out across the room so everyone has enough space.\nThe teacher asked us to spread out our papers on the table.\nStudents spread out on the floor to work on their posters.",
+                    "quizzes": [
+                        "Please __________ so everyone has enough space to work.",
+                        "The teacher asked the class to __________ their study materials.",
+                        "We should __________ during the activity to avoid crowding."
+                    ]
+                }
+            ]
         }
     ]
 }

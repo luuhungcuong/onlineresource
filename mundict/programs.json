@@ -104,6 +104,20 @@
                     "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/toef-primary.json"
                 }
             ]
+        },
+        {
+            "groupId": "Customs",
+            "groupName": "Customs & Import-Export",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDxW6CCiPGoPAkuZaR7d0fmC5Uv3SIDx_oxfh09iLoLw&s=10",
+            "programs": [
+                {
+                    "id": "customs-english",
+                    "name": "Tiếng Anh Hải Quan & XNK",
+                    "description": "Từ vựng & nghiệp vụ Hải quan dành cho người làm xuất nhập khẩu",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDxW6CCiPGoPAkuZaR7d0fmC5Uv3SIDx_oxfh09iLoLw&s=10",
+                    "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/customs.json"
+                }
+            ]
         }
     ]
 }

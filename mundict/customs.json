@@ -1,0 +1,684 @@
+{
+    "programId": "customs-english",
+    "programName": "Tiếng Anh Hải Quan & Xuất Nhập Khẩu",
+    "sections": [
+        {
+            "sectionId": "unit-1-system-data",
+            "sectionName": "Unit 1: System & Data (Hệ thống & Giao tiếp Dữ liệu)",
+            "vocabularies": [
+                {
+                    "word": "Single Window System (SWS)",
+                    "phonetic": "/ˈsɪŋɡl ˈwɪndəʊ ˈsɪstəm/",
+                    "meaning": "Hệ thống một cửa quốc gia",
+                    "definition": "A facility that allows parties involved in trade to lodge standardized information with a single entry point to fulfill all import/export regulations.",
+                    "example": "Declarants must transmit their certificates through the National Single Window System.\nThe Single Window System connects customs with other government ministries seamlessly.\nYou can track your permit approval status directly on the Single Window System portal.",
+                    "quizzes": [
+                        "Declarants must transmit their certificates through the National Single __________ System.",
+                        "The Single __________ System connects customs with other government ministries seamlessly.",
+                        "You can track your permit approval status directly on the Single __________ System portal."
+                    ]
+                },
+                {
+                    "word": "Electronic Data Interchange (EDI)",
+                    "phonetic": "/ɪˌlekˈtrɒnɪk ˈdeɪtə ˌɪntətʃeɪndʒ/",
+                    "meaning": "Trao đổi dữ liệu điện tử",
+                    "definition": "The computer-to-computer exchange of business documents in a standard electronic format between trade partners.",
+                    "example": "Our customs software uses EDI to transmit cargo manifests to port authorities.\nAn EDI transmission error delayed the automated response from the customs server.\nPlease confirm that your company's EDI system is compatible with our gateway.",
+                    "quizzes": [
+                        "Our customs software uses __________ to transmit cargo manifests to port authorities.",
+                        "An __________ transmission error delayed the automated response from the customs server.",
+                        "Please confirm that your company's __________ system is compatible with our gateway."
+                    ]
+                },
+                {
+                    "word": "HS Code (Harmonized System Code)",
+                    "phonetic": "/ˌeɪtʃ ˈes kəʊd/",
+                    "meaning": "Mã hài hòa / Mã phân loại hàng hóa",
+                    "definition": "An international standardized system of names and numbers to classify traded products.",
+                    "example": "Applying the correct HS Code is essential to determine applicable tariff rates.\nThe customs officer requested technical specifications to verify your declared HS Code.\nIf you are uncertain about the HS Code, you may apply for an advance ruling.",
+                    "quizzes": [
+                        "Applying the correct HS __________ is essential to determine applicable tariff rates.",
+                        "The customs officer requested technical specifications to verify your declared HS __________.",
+                        "If you are uncertain about the HS __________, you may apply for an advance ruling."
+                    ]
+                },
+                {
+                    "word": "Risk Management System (RMS)",
+                    "phonetic": "/rɪsk ˈmænɪdʒmənt ˈsɪstəm/",
+                    "meaning": "Hệ thống quản lý rủi ro",
+                    "definition": "An automated customs system that analyzes data to evaluate risk levels and determine inspection channels.",
+                    "example": "The Risk Management System automatically assigned this declaration to the yellow channel.\nRisk Management System algorithms analyze enterprise compliance history and commodity risk.\nUpdating your compliance record will improve your score in the Risk Management System.",
+                    "quizzes": [
+                        "The Risk __________ System automatically assigned this declaration to the yellow channel.",
+                        "Risk __________ System algorithms analyze enterprise compliance history and commodity risk.",
+                        "Updating your compliance record will improve your score in the Risk __________ System."
+                    ]
+                },
+                {
+                    "word": "Authorized Economic Operator (AEO)",
+                    "phonetic": "/ˈɔːθəraɪzd ˌiːkəˈnɒmɪk ˈɒpəreɪtə(r)/",
+                    "meaning": "Doanh nghiệp ưu tiên (uy tín cao)",
+                    "definition": "A party involved in international movement of goods certified by customs as complying with supply chain security standards.",
+                    "example": "Enterprises with AEO status enjoy priority customs clearance and reduced physical checks.\nAs an AEO enterprise, your shipments are automatically routed through simplified procedures.\nOur company is applying for Authorized Economic Operator status to reduce clearance times.",
+                    "quizzes": [
+                        "Enterprises with __________ status enjoy priority customs clearance and reduced physical checks.",
+                        "As an Authorized Economic __________, your shipments are automatically routed through simplified procedures.",
+                        "Our company is applying for Authorized Economic __________ status to reduce clearance times."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "unit-2-roles-entities",
+            "sectionName": "Unit 2: Roles & Entities (Chủ thể & Người dùng nghiệp vụ)",
+            "vocabularies": [
+                {
+                    "word": "declarant",
+                    "phonetic": "/dɪˈkleərənt/",
+                    "meaning": "Người khai hải quan",
+                    "definition": "The individual or legal entity submitting a customs declaration or on whose behalf it is submitted.",
+                    "example": "The declarant is legally responsible for the accuracy of all information entered on the declaration.\nOur officer contacted the declarant to request additional commercial documents.\nThe declarant signed the electronic form using a registered digital signature.",
+                    "quizzes": [
+                        "The __________ is legally responsible for the accuracy of all information entered on the declaration.",
+                        "Our officer contacted the __________ to request additional commercial documents.",
+                        "The __________ signed the electronic form using a registered digital signature."
+                    ]
+                },
+                {
+                    "word": "customs broker",
+                    "phonetic": "/ˈkʌstəmz ˈbrəʊkə(r)/",
+                    "meaning": "Đại lý thủ tục hải quan",
+                    "definition": "A licensed agent authorized to clear goods through customs on behalf of importers or exporters.",
+                    "example": "You can authorize a licensed customs broker to act on your behalf at the border checkpoint.\nThe customs broker submitted the declaration using their agency code.\nMake sure your customs broker has a valid power of attorney letter on file.",
+                    "quizzes": [
+                        "You can authorize a licensed customs __________ to act on your behalf at the border checkpoint.",
+                        "The customs __________ submitted the declaration using their agency code.",
+                        "Make sure your customs __________ has a valid power of attorney letter on file."
+                    ]
+                },
+                {
+                    "word": "importer / exporter",
+                    "phonetic": "/ɪmˈpɔːtə / ekˈspɔːtə/",
+                    "meaning": "Nhà nhập khẩu / Nhà xuất khẩu",
+                    "definition": "The purchasing buyer (importer) bringing goods in or the selling party (exporter) sending goods out.",
+                    "example": "Both the importer and exporter must be clearly named on the commercial invoice.\nThe foreign exporter issued a Certificate of Origin to assist the local importer.\nIs your company listed as the official importer on this shipping manifest?",
+                    "quizzes": [
+                        "Both the __________ and exporter must be clearly named on the commercial invoice.",
+                        "The foreign __________ issued a Certificate of Origin to assist the local importer.",
+                        "Is your company listed as the official __________ on this shipping manifest?"
+                    ]
+                },
+                {
+                    "word": "consignee / consignor",
+                    "phonetic": "/ˌkɒnsaɪˈniː / kənˈsaɪnə/",
+                    "meaning": "Người nhận hàng / Người gửi hàng",
+                    "definition": "The receiver (consignee) or sender (consignor) specified on a freight shipping contract or bill of lading.",
+                    "example": "Goods can only be released to the named consignee or their authorized agent.\nThe consignor arranged marine freight directly from the port of loading.\nPlease ensure the consignee's tax ID is accurately printed on the bill of lading.",
+                    "quizzes": [
+                        "Goods can only be released to the named __________ or their authorized agent.",
+                        "The __________ arranged marine freight directly from the port of loading.",
+                        "Please ensure the __________'s tax ID is accurately printed on the bill of lading."
+                    ]
+                },
+                {
+                    "word": "customs officer / inspector",
+                    "phonetic": "/ˈkʌstəmz ˈɒfɪsə / ɪnˈspektə/",
+                    "meaning": "Cán bộ / Nhân viên hải quan",
+                    "definition": "A government official responsible for enforcing customs laws, assessing duties, and inspecting goods.",
+                    "example": "The customs officer requested the original paper copy of the Certificate of Origin.\nA customs inspector will witness the unsealing of the red-channel container.\nPlease follow the customs officer's instructions during physical examination.",
+                    "quizzes": [
+                        "The customs __________ requested the original paper copy of the Certificate of Origin.",
+                        "A customs __________ will witness the unsealing of the red-channel container.",
+                        "Please follow the customs __________'s instructions during physical examination."
+                    ]
+                },
+                {
+                    "word": "enterprise / trader",
+                    "phonetic": "/ˈentəpraɪz / ˈtreɪdə(r)/",
+                    "meaning": "Doanh nghiệp / Thương nhân",
+                    "definition": "A commercial business entity engaged in international buying, selling, or manufacturing.",
+                    "example": "The enterprise must update its registered address in the customs database.\nTraders importing regulated commodities need special permits from line ministries.\nOur enterprise operates under the processing trade regime.",
+                    "quizzes": [
+                        "The __________ must update its registered address in the customs database.",
+                        "__________ importing regulated commodities need special permits from line ministries.",
+                        "Our __________ operates under the processing trade regime."
+                    ]
+                },
+                {
+                    "word": "guarantor",
+                    "phonetic": "/ˌɡærənˈtɔː(r)/",
+                    "meaning": "Người bảo lãnh (thường là Ngân hàng)",
+                    "definition": "A commercial bank or financial institution providing a legal guarantee to pay taxes on behalf of a declarant.",
+                    "example": "The commercial bank acts as a guarantor to secure conditional release of goods.\nCustoms will claim tax payment directly from the guarantor if the trader defaults.\nEnsure the guarantor's signature and seal on the guarantee letter are verified.",
+                    "quizzes": [
+                        "The commercial bank acts as a __________ to secure conditional release of goods.",
+                        "Customs will claim tax payment directly from the __________ if the trader defaults.",
+                        "Ensure the __________'s signature and seal on the guarantee letter are verified."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "unit-3-trade-regimes",
+            "sectionName": "Unit 3: Trade Regimes (Các loại hình Xuất Nhập Khẩu)",
+            "vocabularies": [
+                {
+                    "word": "import / export",
+                    "phonetic": "/ˈɪmpɔːt / ˈekspɔːt/",
+                    "meaning": "Nhập khẩu / Xuất khẩu",
+                    "definition": "The commercial process of bringing goods into (import) or sending goods out of (export) a nation's territory.",
+                    "example": "You must select the correct customs regime code for commercial import declarations.\nExport duties apply to specific mineral resources leaving the country.\nOur firm specializes in processing goods for export to European markets.",
+                    "quizzes": [
+                        "You must select the correct customs regime code for commercial __________ declarations.",
+                        "__________ duties apply to specific mineral resources leaving the country.",
+                        "Our firm specializes in processing goods for __________ to European markets."
+                    ]
+                },
+                {
+                    "word": "temporary import for re-export",
+                    "phonetic": "/ˈtemprəri ˈɪmpɔːt fə ˌriː ˈekspɔːt/",
+                    "meaning": "Tạm nhập tái xuất",
+                    "definition": "Bringing foreign goods into a country temporarily with the intention of re-exporting them without modification.",
+                    "example": "Exhibition equipment was cleared under the temporary import for re-export regime.\nCargo imported under temporary import for re-export must leave within the authorized timeframe.\nFailure to re-export on schedule will incur full import duties and tax penalties.",
+                    "quizzes": [
+                        "Exhibition equipment was cleared under the temporary __________ for re-export regime.",
+                        "Cargo imported under temporary import for re-__________ must leave within the authorized timeframe.",
+                        "Failure to re-export on schedule will incur full import duties and tax __________."
+                    ]
+                },
+                {
+                    "word": "temporary export for re-import",
+                    "phonetic": "/ˈtemprəri ˈekspɔːt fə ˌriː ˈɪmpɔːt/",
+                    "meaning": "Tạm xuất tái nhập",
+                    "definition": "Sending domestic goods overseas for repair, testing, or exhibition, to be re-imported later.",
+                    "example": "Machinery sent abroad for specialized calibration uses temporary export for re-import.\nUpon re-import, duty is charged only on the value added during overseas repair.\nPlease register the serial numbers prior to temporary export for re-import clearance.",
+                    "quizzes": [
+                        "Machinery sent abroad for specialized calibration uses temporary __________ for re-import.",
+                        "Upon re-import, duty is charged only on the value added during overseas __________.",
+                        "Please register the serial numbers prior to temporary export for re-__________ clearance."
+                    ]
+                },
+                {
+                    "word": "processing trade / toll manufacturing",
+                    "phonetic": "/ˈprəʊsesɪŋ treɪd/",
+                    "meaning": "Gia công / Sản xuất xuất khẩu (SXXK)",
+                    "definition": "A trade regime where raw materials are imported duty-free to produce finished goods exclusively for export.",
+                    "example": "Enterprises engaged in processing trade must submit periodic bill-of-materials reports.\nRaw materials imported under processing trade are exempt from import duty and VAT.\nCustoms officers conducted an audit on the factory's inventory for toll manufacturing.",
+                    "quizzes": [
+                        "Enterprises engaged in processing __________ must submit periodic bill-of-materials reports.",
+                        "Raw materials imported under processing __________ are exempt from import duty and VAT.",
+                        "Customs officers conducted an audit on the factory's inventory for toll __________."
+                    ]
+                },
+                {
+                    "word": "transit / transshipment",
+                    "phonetic": "/ˈtrænsɪt / trænˈʃɪpmənt/",
+                    "meaning": "Quá cảnh / Chuyển tải",
+                    "definition": "Transporting goods across a territory (transit) or transferring cargo between vessels (transshipment) to a final country.",
+                    "example": "Transshipment cargo at Cat Lai Port remains under customs seal while waiting for feeder ships.\nVehicles in customs transit must follow designated highway routes and stay sealed.\nNo import duties are assessed on cargo moving strictly under transshipment procedures.",
+                    "quizzes": [
+                        "__________ cargo at Cat Lai Port remains under customs seal while waiting for feeder ships.",
+                        "Vehicles in customs __________ must follow designated highway routes and stay sealed.",
+                        "No import duties are assessed on cargo moving strictly under __________ procedures."
+                    ]
+                },
+                {
+                    "word": "bonded transportation",
+                    "phonetic": "/ˈbɒndɪd ˌtrænspɔːˈteɪʃn/",
+                    "meaning": "Vận chuyển bảo thuế (Vận chuyển độc lập)",
+                    "definition": "The movement of uncleared cargo between customs checkpoints or bonded warehouses under customs supervision.",
+                    "example": "Bonded transportation allows moving cargo from the seaport to an inland container depot.\nThe carrier must use GPS-monitored trucks for bonded transportation of uncleared goods.\nCustoms seals must remain intact during bonded transportation until destination arrival.",
+                    "quizzes": [
+                        "Bonded __________ allows moving cargo from the seaport to an inland container depot.",
+                        "The carrier must use GPS-monitored trucks for bonded __________ of uncleared goods.",
+                        "Customs seals must remain intact during bonded __________ until destination arrival."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "unit-4-documents-declarations",
+            "sectionName": "Unit 4: Documents & Declarations (Chứng từ & Hồ sơ Khai báo)",
+            "vocabularies": [
+                {
+                    "word": "customs declaration (CD)",
+                    "phonetic": "/ˈkʌstəmz ˌdekləˈreɪʃn/",
+                    "meaning": "Tờ khai hải quan",
+                    "definition": "The primary administrative document declared to customs containing cargo, value, tax, and party details.",
+                    "example": "The declarant printed the registered customs declaration to submit with the physical dossier.\nEach customs declaration is assigned a unique 12-digit registration number.\nPlease double-check all item quantities on your customs declaration form.",
+                    "quizzes": [
+                        "The declarant printed the registered customs __________ to submit with the physical dossier.",
+                        "Each customs __________ is assigned a unique 12-digit registration number.",
+                        "Please double-check all item quantities on your customs __________ form."
+                    ]
+                },
+                {
+                    "word": "commercial invoice (C/I)",
+                    "phonetic": "/kəˈmɜːʃl ˈɪnvɔɪs/",
+                    "meaning": "Hóa đơn thương mại",
+                    "definition": "A legal bill provided by the seller to buyer stating product descriptions, values, currency, and trade terms.",
+                    "example": "The total FOB amount on the commercial invoice matches the contract value.\nCustoms officers compare unit prices on the commercial invoice against reference price databases.\nEnsure the commercial invoice clearly states the payment terms and Incoterms.",
+                    "quizzes": [
+                        "The total FOB amount on the commercial __________ matches the contract value.",
+                        "Customs officers compare unit prices on the commercial __________ against reference price databases.",
+                        "Ensure the commercial __________ clearly states the payment terms and Incoterms."
+                    ]
+                },
+                {
+                    "word": "packing list (P/L)",
+                    "phonetic": "/ˈpækɪŋ lɪst/",
+                    "meaning": "Phiếu đóng gói",
+                    "definition": "A shipping document providing itemized breakdown of package dimensions, gross weight, net weight, and carton counts.",
+                    "example": "The inspector checked the gross weight against the packing list during red channel inspection.\nMake sure every pallet number is cross-referenced correctly in the packing list.\nThe packing list indicated that the shipment consisted of fifty wooden crates.",
+                    "quizzes": [
+                        "The inspector checked the gross weight against the packing __________ during red channel inspection.",
+                        "Make sure every pallet number is cross-referenced correctly in the packing __________.",
+                        "The packing __________ indicated that the shipment consisted of fifty wooden crates."
+                    ]
+                },
+                {
+                    "word": "bill of lading (B/L)",
+                    "phonetic": "/bɪl əv ˈleɪdɪŋ/",
+                    "meaning": "Vận đơn đường biển",
+                    "definition": "A transport contract and title document issued by an ocean carrier acknowledging cargo receipt for sea carriage.",
+                    "example": "You must present an original endorsed bill of lading to obtain the delivery order.\nThe bill of lading specifies the ocean vessel name and voyage number.\nEnsure the container seal number on the bill of lading matches the actual seal.",
+                    "quizzes": [
+                        "You must present an original endorsed bill of __________ to obtain the delivery order.",
+                        "The bill of __________ specifies the ocean vessel name and voyage number.",
+                        "Ensure the container seal number on the bill of __________ matches the actual seal."
+                    ]
+                },
+                {
+                    "word": "air waybill (AWB)",
+                    "phonetic": "/eə ˈweɪbɪl/",
+                    "meaning": "Vận đơn đường hàng không",
+                    "definition": "A non-negotiable transport document issued by an airline for goods shipped by air freight.",
+                    "example": "Air waybill cargo usually undergoes rapid customs clearance at the airport terminal.\nThe master air waybill number is required to track incoming air cargo.\nAttach the flight details and house air waybill to the customs declaration.",
+                    "quizzes": [
+                        "Air waybill cargo usually undergoes rapid customs clearance at the airport __________.",
+                        "The master air __________ number is required to track incoming air cargo.",
+                        "Attach the flight details and house air __________ to the customs declaration."
+                    ]
+                },
+                {
+                    "word": "certificate of origin (C/O)",
+                    "phonetic": "/səˈtɪfɪkət əv ˈɒrɪdʒɪn/",
+                    "meaning": "Giấy chứng nhận xuất xứ",
+                    "definition": "An official document certifying the country in which the imported merchandise was manufactured.",
+                    "example": "Presenting Form AK Certificate of Origin grants a zero-percent preferential tariff rate.\nThe customs officer rejected the Certificate of Origin due to a signature mismatch.\nCheck if your Certificate of Origin fulfills the applicable rules of origin.",
+                    "quizzes": [
+                        "Presenting Form AK Certificate of __________ grants a zero-percent preferential tariff rate.",
+                        "The customs officer rejected the Certificate of __________ due to a signature mismatch.",
+                        "Check if your Certificate of __________ fulfills the applicable rules of origin."
+                    ]
+                },
+                {
+                    "word": "cargo manifest",
+                    "phonetic": "/ˈkɑːɡəʊ ˈmænɪfest/",
+                    "meaning": "Bản lược khai hàng hóa",
+                    "definition": "A master document listing all bills of lading, consignments, and goods carried on a vessel or aircraft.",
+                    "example": "The carrier submitted the electronic cargo manifest two hours prior to vessel docking.\nIf your shipment is missing from the cargo manifest, automated clearance cannot proceed.\nCustoms cross-checks the declaration bill number against the carrier's cargo manifest.",
+                    "quizzes": [
+                        "The carrier submitted the electronic cargo __________ two hours prior to vessel docking.",
+                        "If your shipment is missing from the cargo __________, automated clearance cannot proceed.",
+                        "Customs cross-checks the declaration bill number against the carrier's cargo __________."
+                    ]
+                },
+                {
+                    "word": "bill of materials (BOM)",
+                    "phonetic": "/bɪl əv məˈtɪəriəlz/",
+                    "meaning": "Định mức nguyên vật liệu",
+                    "definition": "A detailed list of raw materials, components, and quantities required to manufacture a finished export product.",
+                    "example": "Enterprises in processing trade must register their bill of materials with customs.\nAny change in production scrap rate requires an updated bill of materials filing.\nCustoms post-clearance auditors cross-checked actual consumption against declared bill of materials.",
+                    "quizzes": [
+                        "Enterprises in processing trade must register their bill of __________ with customs.",
+                        "Any change in production scrap rate requires an updated bill of __________ filing.",
+                        "Customs post-clearance auditors cross-checked actual consumption against declared bill of __________."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "unit-5-status-workflow",
+            "sectionName": "Unit 5: Status & Workflow (Trạng thái & Quy trình xử lý)",
+            "vocabularies": [
+                {
+                    "word": "customs clearance",
+                    "phonetic": "/ˈkʌstəmz ˈklɪərəns/",
+                    "meaning": "Thông quan (hoàn tất thủ tục)",
+                    "definition": "The completion of all statutory customs formalities enabling goods to be freely consumed, sold, or exported.",
+                    "example": "Once customs clearance is granted, you can pick up the container from the terminal.\nMissing origin certificates caused a delay in customs clearance for our cargo.\nThe system generated an automated electronic customs clearance notice.",
+                    "quizzes": [
+                        "Once customs __________ is granted, you can pick up the container from the terminal.",
+                        "Missing origin certificates caused a delay in customs __________ for our cargo.",
+                        "The system generated an automated electronic customs __________ notice."
+                    ]
+                },
+                {
+                    "word": "channel routing",
+                    "phonetic": "/ˈtʃænl ˈruːtɪŋ/",
+                    "meaning": "Phân luồng (Green/Yellow/Red)",
+                    "definition": "The automatic classification of declarations into Green (clearance), Yellow (doc check), or Red (physical check).",
+                    "example": "The automated system executed channel routing immediately after electronic submission.\nChannel routing outcome depends on importer compliance rating and commodity risk.\nOur declaration received yellow channel routing, so we must present paper documents.",
+                    "quizzes": [
+                        "The automated system executed channel __________ immediately after electronic submission.",
+                        "Channel __________ outcome depends on importer compliance rating and commodity risk.",
+                        "Our declaration received yellow channel __________, so we must present paper documents."
+                    ]
+                },
+                {
+                    "word": "documentary check",
+                    "phonetic": "/ˌdɒkjuˈmentri tʃek/",
+                    "meaning": "Kiểm tra chứng từ (Luồng Vàng)",
+                    "definition": "The inspection of paper or electronic trade documents by customs officers to verify data accuracy.",
+                    "example": "During documentary check, the officer noticed an discrepancy in the net weight.\nPlease upload clear PDF scans of your invoice and C/O for the documentary check.\nDocumentary check was completed successfully within two business hours.",
+                    "quizzes": [
+                        "During documentary __________, the officer noticed an discrepancy in the net weight.",
+                        "Please upload clear PDF scans of your invoice and C/O for the documentary __________.",
+                        "Documentary __________ was completed successfully within two business hours."
+                    ]
+                },
+                {
+                    "word": "physical inspection",
+                    "phonetic": "/ˈfɪzɪkl ɪnˈspekʃn/",
+                    "meaning": "Kiểm tra thực tế hàng hóa (Luồng Đỏ)",
+                    "definition": "The physical opening and examination of cargo by customs inspectors at designated inspection areas.",
+                    "example": "Red channel declarations require physical inspection at the port container yard.\nCustoms inspectors conducted a ten percent sample physical inspection of the boxes.\nEnsure your representative is present at the port during physical inspection.",
+                    "quizzes": [
+                        "Red channel declarations require physical __________ at the port container yard.",
+                        "Customs inspectors conducted a ten percent sample physical __________ of the boxes.",
+                        "Ensure your representative is present at the port during physical __________."
+                    ]
+                },
+                {
+                    "word": "release of goods",
+                    "phonetic": "/rɪˈliːs əv ɡʊdz/",
+                    "meaning": "Giải phóng hàng (cho về bảo quản)",
+                    "definition": "Allowing the importer to take physical custody of goods before full duty determination or specialized testing.",
+                    "example": "Customs approved conditional release of goods while awaiting food safety test results.\nProvide a bank guarantee to secure the temporary release of goods from the port.\nGoods subject to release of goods must be kept intact at the registered warehouse.",
+                    "quizzes": [
+                        "Customs approved conditional release of __________ while awaiting food safety test results.",
+                        "Provide a bank guarantee to secure the temporary release of __________ from the port.",
+                        "Goods subject to release of __________ must be kept intact at the registered warehouse."
+                    ]
+                },
+                {
+                    "word": "liquidation / reconciliation",
+                    "phonetic": "/ˌlɪkwɪˈdeɪʃn / ˌrekənsɪliˈeɪʃn/",
+                    "meaning": "Thanh khoản / Quyết toán",
+                    "definition": "The statutory accounting process reconciling imported raw materials against exported finished goods for duty relief.",
+                    "example": "Processing trade enterprises must submit annual raw material liquidation reports.\nThe customs office completed the tax reconciliation audit for fiscal year 2025.\nDiscrepancies found during liquidation may lead to retroactive tax assessments.",
+                    "quizzes": [
+                        "Processing trade enterprises must submit annual raw material __________ reports.",
+                        "The customs office completed the tax __________ audit for fiscal year 2025.",
+                        "Discrepancies found during __________ may lead to retroactive tax assessments."
+                    ]
+                },
+                {
+                    "word": "drawback / tax refund",
+                    "phonetic": "/ˈdrɔːbæk / tæks ˈriːfʌnd/",
+                    "meaning": "Hoàn thuế",
+                    "definition": "The legal repayment of customs duties previously paid on materials imported and subsequently exported.",
+                    "example": "The manufacturer filed an application for duty drawback after exporting the finished goods.\nEnsure your export customs declaration specifies eligibility for tax drawback.\nTax drawback applications are processed within thirty days of complete filing.",
+                    "quizzes": [
+                        "The manufacturer filed an application for duty __________ after exporting the finished goods.",
+                        "Ensure your export customs declaration specifies eligibility for tax __________.",
+                        "Tax __________ applications are processed within thirty days of complete filing."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "unit-6-taxes-duties-fees",
+            "sectionName": "Unit 6: Taxes, Duties & Fees (Thuế, Phí & Phụ phí)",
+            "vocabularies": [
+                {
+                    "word": "import duty / export duty",
+                    "phonetic": "/ˈɪmpɔːt ˈdjuːti / ˈekspɔːt ˈdjuːti/",
+                    "meaning": "Thuế Nhập khẩu / Thuế Xuất khẩu",
+                    "definition": "Statutory tariffs levied by customs on merchandise brought into or sent out of the country.",
+                    "example": "The calculated import duty amount must be remitted before clearance is authorized.\nExport duty applies primarily to unprocessed natural resources and raw minerals.\nCheck the national tariff schedule to find the exact import duty percentage.",
+                    "quizzes": [
+                        "The calculated import __________ amount must be remitted before clearance is authorized.",
+                        "Export __________ applies primarily to unprocessed natural resources and raw minerals.",
+                        "Check the national tariff schedule to find the exact import __________ percentage."
+                    ]
+                },
+                {
+                    "word": "value added tax (VAT)",
+                    "phonetic": "/ˈvæljuː ˈædɪd tæks/",
+                    "meaning": "Thuế Giá trị gia tăng",
+                    "definition": "A consumption tax calculated on the customs value of imported goods plus import duty.",
+                    "example": "The standard value added tax rate of 10 percent applies to imported machinery.\nValue added tax is collected at the port of entry upon customs clearance.\nKeep the electronic tax receipt to deduct value added tax on your monthly returns.",
+                    "quizzes": [
+                        "The standard value added __________ rate of 10 percent applies to imported machinery.",
+                        "Value added __________ is collected at the port of entry upon customs clearance.",
+                        "Keep the electronic tax receipt to deduct value added __________ on your monthly returns."
+                    ]
+                },
+                {
+                    "word": "special consumption tax",
+                    "phonetic": "/ˈspeʃl kənˈsʌmpʃn tæks/",
+                    "meaning": "Thuế Tiêu thụ đặc biệt (Excise Tax)",
+                    "definition": "An additional excise duty imposed on luxury goods, vehicles, alcohol, and tobacco products.",
+                    "example": "Imported passenger cars attract high special consumption tax rates.\nSpecial consumption tax is assessed on the customs value inclusive of import duty.\nVerify whether your luxury consignment is subject to special consumption tax.",
+                    "quizzes": [
+                        "Imported passenger cars attract high special consumption __________ rates.",
+                        "Special consumption __________ is assessed on the customs value inclusive of import duty.",
+                        "Verify whether your luxury consignment is subject to special consumption __________."
+                    ]
+                },
+                {
+                    "word": "environmental protection tax",
+                    "phonetic": "/ɪnˌvaɪrənˈmentl prəˈtekʃn tæks/",
+                    "meaning": "Thuế Bảo vệ môi trường",
+                    "definition": "A specific tax levied on products causing adverse environmental impact, such as petroleum or plastic bags.",
+                    "example": "Imported petroleum products are subject to fixed environmental protection tax rates.\nEnvironmental protection tax is collected along with import duty at the border.\nMake sure your tax calculation sheet includes environmental protection tax if applicable.",
+                    "quizzes": [
+                        "Imported petroleum products are subject to fixed environmental protection __________ rates.",
+                        "Environmental protection __________ is collected along with import duty at the border.",
+                        "Make sure your tax calculation sheet includes environmental protection __________ if applicable."
+                    ]
+                },
+                {
+                    "word": "anti-dumping duty",
+                    "phonetic": "/ˈænti ˈdʌmpɪŋ ˈdjuːti/",
+                    "meaning": "Thuế Chống bán phá giá",
+                    "definition": "A protective duty imposed on foreign goods imported at unfairly low prices below home market value.",
+                    "example": "An anti-dumping duty rate of 15 percent was imposed on imported steel coils.\nThe government enforces anti-dumping duty to protect domestic industries from unfair competition.\nCheck if the manufacturer's origin code triggers an anti-dumping duty penalty.",
+                    "quizzes": [
+                        "An anti-dumping __________ rate of 15 percent was imposed on imported steel coils.",
+                        "The government enforces anti-dumping __________ to protect domestic industries from unfair competition.",
+                        "Check if the manufacturer's origin code triggers an anti-dumping __________ penalty."
+                    ]
+                },
+                {
+                    "word": "customs processing fee",
+                    "phonetic": "/ˈkʌstəmz ˈprəʊsesɪŋ fiː/",
+                    "meaning": "Lệ phí làm thủ tục hải quan",
+                    "definition": "An administrative charge paid to the customs department for processing and clearing a declaration.",
+                    "example": "The nominal customs processing fee is paid electronically through online banking.\nMake sure the customs processing fee receipt is attached to your declaration dossier.\nA clearance declaration cannot be closed without settling the customs processing fee.",
+                    "quizzes": [
+                        "The nominal customs processing __________ is paid electronically through online banking.",
+                        "Make sure the customs processing __________ receipt is attached to your declaration dossier.",
+                        "A clearance declaration cannot be closed without settling the customs processing __________."
+                    ]
+                },
+                {
+                    "word": "demurrage / detention",
+                    "phonetic": "/dɪˈmʌrɪdʒ / dɪˈtenʃn/",
+                    "meaning": "Phí lưu bãi (DEM) / Phí lưu vỏ (DET)",
+                    "definition": "Fees charged by shipping lines for holding containers inside the port terminal (demurrage) or at outside warehouses (detention).",
+                    "example": "Clear the cargo quickly to avoid paying demurrage to the port operator.\nDetention fees accrue when empty containers are returned past free days.\nWe negotiated seven free days of demurrage and detention with the ocean carrier.",
+                    "quizzes": [
+                        "Clear the cargo quickly to avoid paying __________ to the port operator.",
+                        "__________ fees accrue when empty containers are returned past free days.",
+                        "We negotiated seven free days of demurrage and __________ with the ocean carrier."
+                    ]
+                },
+                {
+                    "word": "storage fee",
+                    "phonetic": "/ˈstɔːrɪdʒ fiː/",
+                    "meaning": "Phí lưu kho",
+                    "definition": "The rental charge incurred for storing cargo in port yards, bonded warehouses, or ICD depots.",
+                    "example": "The port warehouse billed a daily storage fee for holding uncleared cargo.\nStorage fee charges double after cargo remains in the yard beyond fourteen days.\nEnsure prompt customs clearance to minimize port storage fee expenses.",
+                    "quizzes": [
+                        "The port warehouse billed a daily __________ fee for holding uncleared cargo.",
+                        "__________ fee charges double after cargo remains in the yard beyond fourteen days.",
+                        "Ensure prompt customs clearance to minimize port __________ fee expenses."
+                    ]
+                },
+                {
+                    "word": "late payment penalty",
+                    "phonetic": "/leɪt ˈpeɪmənt ˈpenəlti/",
+                    "meaning": "Tiền phạt chậm nộp thuế",
+                    "definition": "An additional fine charged on taxes not remitted to the state budget within the statutory timeframe.",
+                    "example": "A daily late payment penalty of 0.03 percent is charged on overdue tax balances.\nPay duties before the grace period ends to avoid incurring a late payment penalty.\nThe customs system automatically calculates the late payment penalty upon tax settlement.",
+                    "quizzes": [
+                        "A daily late payment __________ of 0.03 percent is charged on overdue tax balances.",
+                        "Pay duties before the grace period ends to avoid incurring a late payment __________.",
+                        "The customs system automatically calculates the late payment __________ upon tax settlement."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "unit-7-guarantees-tax-payment",
+            "sectionName": "Unit 7: Guarantees & Tax Payment (Bảo lãnh & Thanh toán Thuế)",
+            "vocabularies": [
+                {
+                    "word": "bank guarantee",
+                    "phonetic": "/bæŋk ˌɡærənˈtiː/",
+                    "meaning": "Chứng thư bảo lãnh ngân hàng (B/G hoặc L/G)",
+                    "definition": "A formal commitment issued by a commercial bank undertaking to pay duties if the declarant defaults.",
+                    "example": "Submit the original bank guarantee to request conditional release of goods prior to tax payment.\nThe bank guarantee must specify the exact declaration number and maximum amount.\nCustoms verified the authenticity of the bank guarantee through the electronic banking portal.",
+                    "quizzes": [
+                        "Submit the original bank __________ to request conditional release of goods prior to tax payment.",
+                        "The bank __________ must specify the exact declaration number and maximum amount.",
+                        "Customs verified the authenticity of the bank __________ through the electronic banking portal."
+                    ]
+                },
+                {
+                    "word": "general guarantee",
+                    "phonetic": "/ˈdʒenrəl ˌɡærənˈtiː/",
+                    "meaning": "Bảo lãnh chung",
+                    "definition": "A single financial guarantee covering multiple customs declarations within an approved limit and duration.",
+                    "example": "Frequent importers can apply for a general guarantee to cover all shipments throughout the year.\nThe general guarantee limit is deducted automatically upon registering each new declaration.\nEnsure your general guarantee credit limit is sufficient before lodging a new shipment.",
+                    "quizzes": [
+                        "Frequent importers can apply for a general __________ to cover all shipments throughout the year.",
+                        "The general __________ limit is deducted automatically upon registering each new declaration.",
+                        "Ensure your general __________ credit limit is sufficient before lodging a new shipment."
+                    ]
+                },
+                {
+                    "word": "individual guarantee",
+                    "phonetic": "/ˌɪndɪˈvɪdʒuəl ˌɡærənˈtiː/",
+                    "meaning": "Bảo lãnh riêng (Single Guarantee)",
+                    "definition": "A specific guarantee issued exclusively to secure tax obligations for one specific customs declaration.",
+                    "example": "The importer secured an individual guarantee for this single high-value shipment.\nAn individual guarantee expires as soon as the tax on the specified declaration is settled.\nAttach the individual guarantee letter to your customs dossier for yellow channel clearance.",
+                    "quizzes": [
+                        "The importer secured an individual __________ for this single high-value shipment.",
+                        "An individual __________ expires as soon as the tax on the specified declaration is settled.",
+                        "Attach the individual __________ letter to your customs dossier for yellow channel clearance."
+                    ]
+                },
+                {
+                    "word": "tax notification",
+                    "phonetic": "/tæks ˌnəʊtɪfɪˈkeɪʃn/",
+                    "meaning": "Thông báo thuế (Tax Assessment Notice)",
+                    "definition": "An official system message issued by customs specifying the total payable tax amount for a declaration.",
+                    "example": "Check the system for the electronic tax notification after your declaration is approved.\nThe tax notification outlines the breakdown of import duty, VAT, and administrative fees.\nPlease present the tax notification code when transferring funds at your bank.",
+                    "quizzes": [
+                        "Check the system for the electronic tax __________ after your declaration is approved.",
+                        "The tax __________ outlines the breakdown of import duty, VAT, and administrative fees.",
+                        "Please present the tax __________ code when transferring funds at your bank."
+                    ]
+                },
+                {
+                    "word": "tax imposition",
+                    "phonetic": "/tæks ˌɪmpəˈzɪʃn/",
+                    "meaning": "Ấn định thuế",
+                    "definition": "An administrative decision where customs officially determines and imposes duty amounts due to non-compliance or valuation rejection.",
+                    "example": "Customs issued a tax imposition decision after rejecting the declared transaction value.\nThe enterprise filed an appeal against the tax imposition notice regarding raw material yields.\nPay the tax imposition amount within ten days to avoid enforcement measures.",
+                    "quizzes": [
+                        "Customs issued a tax __________ decision after rejecting the declared transaction value.",
+                        "The enterprise filed an appeal against the tax __________ notice regarding raw material yields.",
+                        "Pay the tax __________ amount within ten days to avoid enforcement measures."
+                    ]
+                },
+                {
+                    "word": "payment voucher",
+                    "phonetic": "/ˈpeɪmənt ˈvaʊtʃə(r)/",
+                    "meaning": "Giấy nộp tiền (vào ngân sách nhà nước)",
+                    "definition": "A formal remittance document created to transfer tax funds from a bank account to the State Treasury.",
+                    "example": "The accountant generated a state budget payment voucher containing the customs treasury account number.\nEnsure the tax chapter and sub-heading codes on the payment voucher are accurate.\nThe bank stamped the payment voucher after executing the electronic transfer.",
+                    "quizzes": [
+                        "The accountant generated a state budget payment __________ containing the customs treasury account number.",
+                        "Ensure the tax chapter and sub-heading codes on the payment __________ are accurate.",
+                        "The bank stamped the payment __________ after executing the electronic transfer."
+                    ]
+                },
+                {
+                    "word": "customs receipt",
+                    "phonetic": "/ˈkʌstəmz rɪˈsiːt/",
+                    "meaning": "Biên lai thu thuế / Giấy biên nhận",
+                    "definition": "An electronic confirmation issued by customs confirming tax payment receipt and unlocking clearance.",
+                    "example": "Once the customs receipt is generated, the declaration automatically moves to cleared status.\nYou can download the electronic customs receipt from the customs web portal.\nKeep the customs receipt in your financial audit files.",
+                    "quizzes": [
+                        "Once the customs __________ is generated, the declaration automatically moves to cleared status.",
+                        "You can download the electronic customs __________ from the customs web portal.",
+                        "Keep the customs __________ in your financial audit files."
+                    ]
+                },
+                {
+                    "word": "State Treasury",
+                    "phonetic": "/steɪt ˈtreʒəri/",
+                    "meaning": "Kho bạc Nhà nước",
+                    "definition": "The government institution managing public funds where all customs duties and taxes are deposited.",
+                    "example": "Tax payments are transferred directly to the account of the State Treasury.\nThe bank credited the State Treasury account within five minutes of payment execution.\nCustoms confirms clearance only after the State Treasury system acknowledges fund receipt.",
+                    "quizzes": [
+                        "Tax payments are transferred directly to the account of the State __________.",
+                        "The bank credited the State __________ account within five minutes of payment execution.",
+                        "Customs confirms clearance only after the State __________ system acknowledges fund receipt."
+                    ]
+                },
+                {
+                    "word": "tax arrears",
+                    "phonetic": "/tæks əˈrɪəz/",
+                    "meaning": "Nợ thuế (Outstanding Tax)",
+                    "definition": "Overdue tax obligations that remain unpaid past the statutory deadline.",
+                    "example": "Enterprises with tax arrears are automatically blocked from registering new declarations.\nClear your tax arrears immediately to restore your company's normal clearance status.\nThe system checks for tax arrears before authorizing automated channel routing.",
+                    "quizzes": [
+                        "Enterprises with tax __________ are automatically blocked from registering new declarations.",
+                        "Clear your tax __________ immediately to restore your company's normal clearance status.",
+                        "The system checks for tax __________ before authorizing automated channel routing."
+                    ]
+                },
+                {
+                    "word": "grace period",
+                    "phonetic": "/ɡreɪs ˈpɪəriəd/",
+                    "meaning": "Thời gian ân hạn",
+                    "definition": "The statutory timeframe allowed for paying taxes without incurring late payment fines.",
+                    "example": "Tax payment must be made within the 275-day grace period for processing trade raw materials.\nDuring the grace period, no late payment penalties are levied on the tax balance.\nMake sure your payment is executed before the grace period expires.",
+                    "quizzes": [
+                        "Tax payment must be made within the 275-day grace __________ for processing trade raw materials.",
+                        "During the grace __________, no late payment penalties are levied on the tax balance.",
+                        "Make sure your payment is executed before the grace __________ expires."
+                    ]
+                },
+                {
+                    "word": "exchange rate",
+                    "phonetic": "/ɪksˈtʃeɪndʒ reɪt/",
+                    "meaning": "Tỷ giá tính thuế",
+                    "definition": "The official foreign currency exchange rate published by customs for converting invoice values into local currency.",
+                    "example": "Customs uses the official weekly exchange rate announced on Thursday to calculate duties.\nConvert the USD invoice value into VND using the exchange rate on the declaration date.\nA fluctuating exchange rate affects the total payable duty in local currency.",
+                    "quizzes": [
+                        "Customs uses the official weekly exchange __________ announced on Thursday to calculate duties.",
+                        "Convert the USD invoice value into VND using the exchange __________ on the declaration date.",
+                        "A fluctuating exchange __________ affects the total payable duty in local currency."
+                    ]
+                }
+            ]
+        }
+    ]
+}

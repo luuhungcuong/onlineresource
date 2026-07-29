@@ -838,6 +838,218 @@
                     ]
                 }
             ]
+        },
+        {
+            "sectionId": "lesson-4-places-at-school",
+            "sectionName": "Lesson 4 – Vocabulary List (Places At School)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "corridor",
+                    "phonetic": "/ˈkɒrɪdɔː(r)/",
+                    "meaning": "hành lang",
+                    "definition": "A long passage in a building from which doors lead into rooms.",
+                    "example": "We walk through the corridor to get to the cafeteria for lunch.\nChúng ta đi qua hành lang để đến căn tin ăn trưa.",
+                    "quizzes": [
+                        "We walk through the __________ to get to the cafeteria for lunch.",
+                        "Don't run in the __________ — you might bump into someone!",
+                        "The doors along the long __________ were all locked."
+                    ]
+                },
+                {
+                    "word": "hallway",
+                    "phonetic": "/ˈhɔːlweɪ/",
+                    "meaning": "hành lang (tương tự corridor)",
+                    "definition": "A long passage in a building with doors on both sides.",
+                    "example": "A hallway is a long passage in a building with doors on both sides.\nHành lang là một lối đi dài trong tòa nhà với các cửa ở hai bên.",
+                    "quizzes": [
+                        "A __________ is a long passage in a building with doors on both sides.",
+                        "Students gathered in the __________ before the morning class.",
+                        "Please leave your umbrella in the __________ near the door."
+                    ]
+                },
+                {
+                    "word": "gym",
+                    "phonetic": "/dʒɪm/",
+                    "meaning": "phòng thể dục",
+                    "definition": "A large room equipped for indoor sports and physical exercise.",
+                    "example": "We usually play basketball in the gym after school.\nChúng tôi thường chơi bóng rổ trong phòng thể dục sau giờ học.",
+                    "quizzes": [
+                        "We usually play basketball in the __________ after school.",
+                        "Our PE class takes place in the school __________ on rainy days.",
+                        "He exercises at the __________ three times a week."
+                    ]
+                },
+                {
+                    "word": "playground",
+                    "phonetic": "/ˈpleɪɡraʊnd/",
+                    "meaning": "sân chơi",
+                    "definition": "An outdoor area provided for children to play in, especially at a school.",
+                    "example": "After lunch, we all go to the playground to play games together.\nSau bữa trưa, chúng tôi ra sân chơi để cùng chơi các trò chơi.",
+                    "quizzes": [
+                        "After lunch, we all go to the __________ to play games together.",
+                        "Children were laughing and running on the school __________.",
+                        "There are swings and slides in the outdoor __________."
+                    ]
+                },
+                {
+                    "word": "library",
+                    "phonetic": "/ˈlaɪbrəri/",
+                    "meaning": "thư viện",
+                    "definition": "A room or building containing books, periodicals, and other materials for reading or borrowing.",
+                    "example": "I love going to the library to borrow books and read.\nTớ thích đến thư viện để mượn sách và đọc.",
+                    "quizzes": [
+                        "I love going to the __________ to borrow books and read.",
+                        "Please be quiet when you are inside the school __________.",
+                        "She returned the storybooks to the __________ yesterday."
+                    ]
+                },
+                {
+                    "word": "art room",
+                    "phonetic": "/ɑːt ruːm/",
+                    "meaning": "phòng mỹ thuật",
+                    "definition": "A room in a school dedicated to teaching art and craft activities.",
+                    "example": "In the art room, we can paint, draw, and make cool crafts.\nTrong phòng mỹ thuật, chúng tôi có thể vẽ, tô màu và làm thủ công thú vị.",
+                    "quizzes": [
+                        "In the __________, we can paint, draw, and make cool crafts.",
+                        "Our teacher displayed all our watercolor paintings in the __________.",
+                        "We need brushes and paper for today's class in the __________."
+                    ]
+                },
+                {
+                    "word": "auditorium",
+                    "phonetic": "/ˌɔːdɪˈtɔːriəm/",
+                    "meaning": "hội trường",
+                    "definition": "A large room or hall used for concerts, plays, lectures, and assemblies.",
+                    "example": "We go to the auditorium to watch school plays and shows.\nChúng tôi đến hội trường để xem các buổi diễn ở trường.",
+                    "quizzes": [
+                        "We go to the __________ to watch school plays and shows.",
+                        "The principal welcomed all parents in the school __________.",
+                        "The students will perform on stage in the large __________."
+                    ]
+                },
+                {
+                    "word": "computer room",
+                    "phonetic": "/kəmˈpjuːtə(r) ruːm/",
+                    "meaning": "phòng máy tính",
+                    "definition": "A room equipped with computers for educational and technical use.",
+                    "example": "We practice typing and do projects in the computer room.\nChúng tôi luyện gõ và làm dự án trong phòng máy tính.",
+                    "quizzes": [
+                        "We practice typing and do projects in the __________.",
+                        "Every student has their own desktop in the __________.",
+                        "The IT lesson takes place in the __________ every Tuesday."
+                    ]
+                },
+                {
+                    "word": "music room",
+                    "phonetic": "/ˈmjuːzɪk ruːm/",
+                    "meaning": "phòng nhạc",
+                    "definition": "A room designed for singing, playing musical instruments, and music practice.",
+                    "example": "In the music room, we sing and play musical instruments.\nTrong phòng nhạc, chúng tôi hát và chơi nhạc cụ.",
+                    "quizzes": [
+                        "In the __________, we sing and play musical instruments.",
+                        "There are pianos, drums, and guitars stored in the __________.",
+                        "Our choir rehearses every morning in the school __________."
+                    ]
+                },
+                {
+                    "word": "science lab",
+                    "phonetic": "/ˈsaɪəns læb/",
+                    "meaning": "phòng thí nghiệm",
+                    "definition": "A room equipped for conducting scientific experiments and research.",
+                    "example": "In the science lab, we do exciting experiments with colorful chemicals.\nTrong phòng thí nghiệm, chúng tôi làm các thí nghiệm thú vị với hóa chất đầy màu sắc.",
+                    "quizzes": [
+                        "In the __________, we do exciting experiments with colorful chemicals.",
+                        "Always wear safety goggles when working in the __________.",
+                        "The teacher demonstrated a fun chemical reaction in the __________."
+                    ]
+                },
+                {
+                    "word": "main office",
+                    "phonetic": "/meɪn ˈɒfɪs/",
+                    "meaning": "văn phòng chính",
+                    "definition": "The central administrative office of a school or organization.",
+                    "example": "If you need help, go to the main office and the staff will assist you.\nNếu cần giúp đỡ, hãy đến văn phòng chính và nhân viên sẽ hỗ trợ bạn.",
+                    "quizzes": [
+                        "If you need help, go to the __________ and the staff will assist you.",
+                        "New visitors must sign in at the school __________ first.",
+                        "She dropped off her absence note at the __________."
+                    ]
+                },
+                {
+                    "word": "closet",
+                    "phonetic": "/ˈklɒzɪt/",
+                    "meaning": "tủ đồ",
+                    "definition": "A small room or cupboard used for storing items.",
+                    "example": "Quickly grab a soccer ball from the closet.\nLấy nhanh quả bóng đá từ trong tủ đồ.",
+                    "quizzes": [
+                        "Quickly grab a soccer ball from the storage __________.",
+                        "We keep all the cleaning supplies in the supply __________.",
+                        "He put his coat away in the classroom __________."
+                    ]
+                },
+                {
+                    "word": "bump into",
+                    "phonetic": "/bʌmp ˈɪntuː/",
+                    "meaning": "va vào",
+                    "definition": "To accidentally hit or collide with someone or something.",
+                    "example": "Don’t run in the corridor — you might bump into someone!\nĐừng chạy trong hành lang — bạn có thể va vào người khác!",
+                    "quizzes": [
+                        "Don't run in the corridor — you might __________ someone!",
+                        "Watch out where you are walking or you will __________ the door.",
+                        "She accidentally __________ed the table and spilled her milk."
+                    ]
+                },
+                {
+                    "word": "put on",
+                    "phonetic": "/pʊt ɒn/",
+                    "meaning": "mặc, đeo (vào người)",
+                    "definition": "To place clothes, accessories, or equipment on one's body.",
+                    "example": "Remember to put on your safety glasses before the experiment.\nNhớ đeo kính bảo hộ trước khi làm thí nghiệm.",
+                    "quizzes": [
+                        "Remember to __________ your safety glasses before starting the experiment.",
+                        "It is cold outside, so __________ your warm jacket.",
+                        "He __________ his shoes and ran out to play."
+                    ]
+                },
+                {
+                    "word": "gloves",
+                    "phonetic": "/ɡlʌvz/",
+                    "meaning": "găng tay",
+                    "definition": "Coverings for the hands with separate sheaths for each finger.",
+                    "example": "Wear your gloves to keep safe during the experiment.\nĐeo găng tay để giữ an toàn khi làm thí nghiệm.",
+                    "quizzes": [
+                        "Wear your __________ to keep safe during the chemical experiment.",
+                        "She put on wool __________ because her hands were freezing.",
+                        "The doctor put on sterile plastic __________ before the surgery."
+                    ]
+                },
+                {
+                    "word": "performance",
+                    "phonetic": "/pəˈfɔːməns/",
+                    "meaning": "buổi biểu diễn",
+                    "definition": "An act of staging a play, concert, or other form of entertainment.",
+                    "example": "We need performers for the Christmas performance!\nChúng ta cần người biểu diễn cho buổi diễn Giáng Sinh!",
+                    "quizzes": [
+                        "We need talented performers for the Christmas __________!",
+                        "Everyone clapped enthusiastically after the musical __________.",
+                        "The dramatic __________ in the auditorium was a huge success."
+                    ]
+                },
+                {
+                    "word": "perform",
+                    "phonetic": "/pəˈfɔːm/",
+                    "meaning": "biểu diễn",
+                    "definition": "To entertain an audience by acting, singing, dancing, or playing music.",
+                    "example": "The students will perform in the auditorium.\nHọc sinh sẽ biểu diễn ở hội trường.",
+                    "quizzes": [
+                        "The students will __________ on stage in the school auditorium.",
+                        "She loves to __________ magic tricks for her friends.",
+                        "The school choir will __________ three songs at the concert."
+                    ]
+                }
+            ],
+            "grammars": []
         }
     ]
 }

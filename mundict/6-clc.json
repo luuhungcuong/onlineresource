@@ -2547,6 +2547,490 @@
                 }
             ],
             "grammars": []
+        },
+        {
+            "sectionId": "unit-5-the-twelve-months",
+            "sectionName": "Unit 5: The Twelve Months",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "possess",
+                    "phonetic": "/pəˈzes/",
+                    "meaning": "sở hữu, có",
+                    "definition": "To have or own something, or to have a particular quality or feature.",
+                    "example": "She possesses a kind heart and a gentle spirit.\nHe possesses great skill in painting landscape art.\nThey possess all the necessary qualities to succeed in the test.",
+                    "quizzes": [
+                        "She __________ a kind heart and is always willing to help others.",
+                        "Does he __________ the experience needed for this difficult job?",
+                        "The small town __________s a rich history and beautiful architecture."
+                    ]
+                },
+                {
+                    "word": "remark",
+                    "phonetic": "/rɪˈmɑːk/",
+                    "meaning": "nhận xét, nói",
+                    "definition": "To say something as a comment or observation.",
+                    "example": "\"It is cold,\" her stepmother remarked.\nHe remarked on how much the children had grown.\nShe remarked that the movie was much longer than expected.",
+                    "quizzes": [
+                        "\"It is cold,\" her stepmother __________ed as she looked out the window.",
+                        "The teacher __________ed that everyone had done a great job on the test.",
+                        "He made a polite __________ about her lovely new dress."
+                    ]
+                },
+                {
+                    "word": "desire",
+                    "phonetic": "/dɪˈzaɪə(r)/",
+                    "meaning": "khao khát, muốn",
+                    "definition": "To want something strongly or to wish for something.",
+                    "example": "Your stepsister desires fresh flowers in the middle of winter.\nShe has a strong desire to learn foreign languages.\nHe desires nothing more than peace and quiet after a long day.",
+                    "quizzes": [
+                        "Your stepsister __________s fresh violet flowers right now.",
+                        "She had a deep __________ to travel the world and see new places.",
+                        "Many people __________ success, but few are willing to work hard for it."
+                    ]
+                },
+                {
+                    "word": "anxious",
+                    "phonetic": "/ˈæŋkʃəs/",
+                    "meaning": "lo lắng, bồn chồn",
+                    "definition": "Feeling worried, nervous, or eager about something.",
+                    "example": "Anna wasn't anxious to go out into the freezing storm.\nHe felt anxious before taking the final examination.\nShe was anxious about getting lost in the forest.",
+                    "quizzes": [
+                        "Anna wasn't __________ to go out into the freezing cold night.",
+                        "Feeling __________ before an exam is a common experience for students.",
+                        "She waited __________ly for the doctor to bring her the test results."
+                    ]
+                },
+                {
+                    "word": "landscape",
+                    "phonetic": "/ˈlændskeɪp/",
+                    "meaning": "phong cảnh",
+                    "definition": "Everything you can see across a large area of land, such as hills, trees, and buildings.",
+                    "example": "She walked through the chilled landscape covered in snow.\nThe snowy landscape looked like a scene from a fairy tale.\nThey sat on the top of the hill to enjoy the countryside landscape.",
+                    "quizzes": [
+                        "She walked slowly through the chilled __________ covered in white snow.",
+                        "The winter __________ was quiet, peaceful, and blanketed in frost.",
+                        "Artists often paint the beautiful mountain __________ in autumn."
+                    ]
+                },
+                {
+                    "word": "consist of",
+                    "phonetic": "/kənˈsɪst ɒv/",
+                    "meaning": "bao gồm",
+                    "definition": "To be made up of or formed from something.",
+                    "example": "The group consisted of twelve men sitting around the fire.\nA healthy breakfast should consist of fresh fruit and whole grains.\nThe test will consist of fifty multiple-choice questions.",
+                    "quizzes": [
+                        "The mysterious group __________ed of twelve men sitting around a fire.",
+                        "Her daily diet __________s of fresh vegetables, fruits, and nuts.",
+                        "The committee __________s of five experienced teachers and two parents."
+                    ]
+                },
+                {
+                    "word": "motion",
+                    "phonetic": "/ˈməʊʃn/",
+                    "meaning": "cử chỉ, sự ra hiệu",
+                    "definition": "A movement of the body or hand, or the act of moving.",
+                    "example": "January made a motion with his hand to call her closer.\nWith a smooth motion of her hand, she pointed to the mountain.\nThe car came to a complete stop with a sudden motion.",
+                    "quizzes": [
+                        "January made a quiet __________ with his hand to call her forward.",
+                        "He signaled to the waiter with a polite __________ of his hand.",
+                        "The gentle __________ of the boat put the tired baby to sleep."
+                    ]
+                },
+                {
+                    "word": "rapidly",
+                    "phonetic": "/ˈræpɪdli/",
+                    "meaning": "một cách nhanh chóng",
+                    "definition": "Very quickly or at a fast speed.",
+                    "example": "The days passed rapidly as the seasons changed.\nThe ice began to melt rapidly under the warm sunlight.\nOur local economy is growing rapidly this year.",
+                    "quizzes": [
+                        "The days passed __________ as the winter turned into spring.",
+                        "The river was flowing __________ after the heavy rainstorm.",
+                        "Technology is developing so __________ that it is hard to keep up."
+                    ]
+                },
+                {
+                    "word": "eager",
+                    "phonetic": "/ˈiːɡə(r)/",
+                    "meaning": "hăm hở, háo hức",
+                    "definition": "Very excited and interested to do or get something.",
+                    "example": "She was eager to show the beautiful flowers to her family.\nThe students were eager to answer the teacher's questions.\nHe is eager to start his new job next week.",
+                    "quizzes": [
+                        "She was __________ to show the fresh flowers to her stepmother.",
+                        "The children were __________ to open their presents on Christmas morning.",
+                        "He is an __________ learner who always asks thoughtful questions in class."
+                    ]
+                },
+                {
+                    "word": "polite",
+                    "phonetic": "/pəˈlaɪt/",
+                    "meaning": "lịch sự",
+                    "definition": "Having or showing good manners and respect for other people.",
+                    "example": "She gave a polite \"thank you\" to the twelve months.\nIt is important to be polite when speaking to older people.\nHe offered a polite smile as he greeted the guests.",
+                    "quizzes": [
+                        "She gave a __________ \"thank you\" before leaving the forest.",
+                        "It is always good practice to be __________ to your teachers and classmates.",
+                        "He gave a __________ bow when he received the award."
+                    ]
+                },
+                {
+                    "word": "intent",
+                    "phonetic": "/ɪnˈtent/",
+                    "meaning": "ý định, mục đích",
+                    "definition": "A plan, purpose, or intention.",
+                    "example": "Their intent was to ask the twelve months for rare gifts.\nShe entered the room with the intent of explaining the truth.\nIt was never my intent to hurt anyone's feelings.",
+                    "quizzes": [
+                        "Their main __________ was to ask the old men for help.",
+                        "She spoke clearly, and her __________ was understood by everyone.",
+                        "What was the author's __________ in writing this story?"
+                    ]
+                },
+                {
+                    "word": "seek",
+                    "phonetic": "/siːk/",
+                    "meaning": "tìm kiếm",
+                    "definition": "To look for, search for, or try to find something.",
+                    "example": "They went to seek the twelve months in the deep forest.\nMany people seek happiness in simple everyday things.\nYou should seek medical advice if your headache continues.",
+                    "quizzes": [
+                        "They went into the snowy forest to __________ the twelve months.",
+                        "He decided to __________ help from his teacher after class.",
+                        "Animals often __________ shelter under trees during a heavy storm."
+                    ]
+                },
+                {
+                    "word": "infer",
+                    "phonetic": "/ɪnˈfɜː(r)/",
+                    "meaning": "suy luận",
+                    "definition": "To form an opinion or reach a conclusion based on facts or evidence.",
+                    "example": "What can we infer from the details in the story?\nFrom his tone of voice, I could infer that he was unhappy.\nWe can infer that Anna is a kind and gentle girl.",
+                    "quizzes": [
+                        "What can we __________ about Anna's character from her actions?",
+                        "From the dark clouds in the sky, we can __________ that it will rain soon.",
+                        "Readers can __________ the main message of the fable easily."
+                    ]
+                },
+                {
+                    "word": "except",
+                    "phonetic": "/ɪkˈsept/",
+                    "meaning": "ngoại trừ",
+                    "definition": "Not including; excluding someone or something.",
+                    "example": "Everything in the story is true except for one small detail.\nThe shop is open every day except Sunday.\nAll the students passed the exam except John.",
+                    "quizzes": [
+                        "Everything in her account was accurate __________ for one detail.",
+                        "Everyone was invited to the birthday party __________ him.",
+                        "The library is open every day __________ on official holidays."
+                    ]
+                },
+                {
+                    "word": "pace",
+                    "phonetic": "/peɪs/",
+                    "meaning": "tốc độ, nhịp độ",
+                    "definition": "The speed at which someone or something moves, walks, or happens.",
+                    "example": "She walked at a slow pace through the deep snow.\nThe runner maintained a steady pace throughout the marathon.\nLife in the countryside moves at a much slower pace than in the city.",
+                    "quizzes": [
+                        "She walked through the dark woods at a very slow __________.",
+                        "You should work at your own __________ to avoid getting exhausted.",
+                        "The train moved at a fast __________ along the railway track."
+                    ]
+                },
+                {
+                    "word": "household",
+                    "phonetic": "/ˈhaʊshəʊld/",
+                    "meaning": "hộ gia đình",
+                    "definition": "All the people who live together in one house.",
+                    "example": "They lived in the same household but had very different personalities.\nShe managed all the household chores by herself.\nEnergy costs have risen for almost every household.",
+                    "quizzes": [
+                        "They all lived in the same __________ on the edge of the village.",
+                        "Her mother asked everyone to help with the daily __________ chores.",
+                        "Each __________ in the neighborhood received a safety pamphlet."
+                    ]
+                },
+                {
+                    "word": "speed up",
+                    "phonetic": "/spiːd ʌp/",
+                    "meaning": "đẩy nhanh tốc độ",
+                    "definition": "To go faster or cause something to happen more quickly.",
+                    "example": "February made the month speed up so spring would come sooner.\nThe driver had to speed up to pass the slow truck.\nUsing a computer can help speed up the calculation process.",
+                    "quizzes": [
+                        "February helped by making time __________ so spring could arrive.",
+                        "You need to __________ if you want to catch the morning train.",
+                        "New machinery helped __________ the production of goods in the factory."
+                    ]
+                },
+                {
+                    "word": "step-",
+                    "phonetic": "/step/",
+                    "meaning": "(tiền tố) kế, ghẻ",
+                    "definition": "Related by the remarriage of a parent, not by blood.",
+                    "example": "Anna lived with her stepmother and stepsister.\nHis stepfather taught him how to play baseball.\nShe has a wonderful stepbrother who always helps her.",
+                    "quizzes": [
+                        "Anna lived with her __________mother who treated her unkindly.",
+                        "His __________father supported him in starting his new business.",
+                        "She bonded quickly with her new __________sister."
+                    ]
+                },
+                {
+                    "word": "hardly",
+                    "phonetic": "/ˈhɑːdli/",
+                    "meaning": "hầu như không",
+                    "definition": "Almost not, or only just.",
+                    "example": "She could hardly lift the heavy basket full of flowers.\nThere was hardly any food left in the refrigerator.\nHe was so tired that he could hardly keep his eyes open.",
+                    "quizzes": [
+                        "She could __________ lift the heavy basket after walking so far.",
+                        "There was __________ any traffic on the highway early this morning.",
+                        "I could __________ hear what he was saying over the loud music."
+                    ]
+                },
+                {
+                    "word": "Make + O + V",
+                    "phonetic": "/meɪk + ˈɒbdʒɪkt + vɜːb/",
+                    "meaning": "khiến/làm cho...",
+                    "definition": "A grammatical structure used to cause someone or something to do an action.",
+                    "example": "March made the sun shine brightly over the snowy land.\nThe funny joke made everyone laugh out loud.\nHer story made me realize how important kindness is.",
+                    "quizzes": [
+                        "March __________ the sun shine warmly across the entire valley.",
+                        "The strict rules __________ students pay close attention in class.",
+                        "Sad movies always __________ her cry."
+                    ]
+                },
+                {
+                    "word": "one's turn",
+                    "phonetic": "/wʌnz tɜːn/",
+                    "meaning": "đến lượt của ai",
+                    "definition": "The proper time or opportunity for someone to do something in order.",
+                    "example": "It was February's turn to step forward and speak.\nNow it is your turn to roll the dice and play.\nEveryone waited patiently for their turn to see the doctor.",
+                    "quizzes": [
+                        "It was February's __________ to sit in the high chair by the fire.",
+                        "Please wait quietly until it is your __________ to present.",
+                        "Whose __________ is it to clean the kitchen tonight?"
+                    ]
+                },
+                {
+                    "word": "according to",
+                    "phonetic": "/əˈkɔːdɪŋ tuː/",
+                    "meaning": "theo như",
+                    "definition": "As stated by, reported by, or in agreement with.",
+                    "example": "According to the text, Anna is a kind and hard-working girl.\nAccording to the weather forecast, it will snow tomorrow.\nEverything went according to plan during the event.",
+                    "quizzes": [
+                        "__________ the story, Anna was sent into the forest by her stepmother.",
+                        "__________ the news report, heavy snow is expected tonight.",
+                        "They arranged the books on the shelf __________ their sizes."
+                    ]
+                },
+                {
+                    "word": "burn",
+                    "phonetic": "/bɜːn/",
+                    "meaning": "nóng rát, đau rát",
+                    "definition": "To feel hot, painful, or stinging, or to be consumed by fire.",
+                    "example": "The cold air made her lungs burn as she breathed deeply.\nThe bright fire continued to burn in the fireplace.\nHer skin began to burn after sitting in the sun too long.",
+                    "quizzes": [
+                        "The freezing winter wind made her face and lungs __________.",
+                        "Be careful not to __________ your tongue on that hot soup.",
+                        "The wood in the fireplace began to __________ brightly."
+                    ]
+                },
+                {
+                    "word": "spill",
+                    "phonetic": "/spɪl/",
+                    "meaning": "làm tràn, đổ ra",
+                    "definition": "To allow liquid or objects to flow or fall out of a container.",
+                    "example": "She spilled the flowers onto the table for her mother to see.\nBe careful not to spill hot tea on the carpet.\nThe basket tipped over and spilled apples all over the floor.",
+                    "quizzes": [
+                        "She __________ed the fresh flowers onto the table to show them.",
+                        "Don't carry the glass so full or you will __________ water.",
+                        "The bag ripped open and __________ed grain everywhere."
+                    ]
+                },
+                {
+                    "word": "find one's way",
+                    "phonetic": "/faɪnd wʌnz weɪ/",
+                    "meaning": "tìm được đường",
+                    "definition": "To discover or navigate the route to a destination.",
+                    "example": "They never found their way home after wandering into the storm.\nShe managed to find her way back to the main road using a map.\nThe lost puppy found its way back to its owner's house.",
+                    "quizzes": [
+                        "The greedy stepmother never __________ her way back home.",
+                        "Without a compass, it is difficult to __________ through the thick forest.",
+                        "With the help of GPS, we easily __________ed our way to the hotel."
+                    ]
+                },
+                {
+                    "word": "by oneself",
+                    "phonetic": "/baɪ wʌnˈself/",
+                    "meaning": "một mình",
+                    "definition": "Alone, without assistance or companionship.",
+                    "example": "Anna lived happily by herself in the small quiet cottage.\nHe finished the difficult project all by himself.\nShe enjoys going for long walks in the park by herself.",
+                    "quizzes": [
+                        "Anna lived happily by __________ in her cozy little cottage.",
+                        "Did you solve this complex math problem all by __________?",
+                        "He sat by __________ at the corner table reading a novel."
+                    ]
+                },
+                {
+                    "word": "chilled",
+                    "phonetic": "/tʃɪld/",
+                    "meaning": "lạnh giá",
+                    "definition": "Very cold or cooled down.",
+                    "example": "The air was chilled in January, freezing everything around.\nThey drank chilled fruit juice on a hot summer afternoon.\nHer hands felt chilled after playing in the snow for hours.",
+                    "quizzes": [
+                        "The __________ winter air made her shiver uncontrollably.",
+                        "We were served glasses of __________ water after the long walk.",
+                        "His fingers were __________ after holding the block of ice."
+                    ]
+                },
+                {
+                    "word": "load",
+                    "phonetic": "/ləʊd/",
+                    "meaning": "chất đầy",
+                    "definition": "To put a large quantity of things into a vehicle or container.",
+                    "example": "Anna loaded her basket with fresh violet flowers.\nThey loaded the truck with boxes before starting the journey.\nShe loaded the dishwasher after dinner.",
+                    "quizzes": [
+                        "Anna __________ed her wooden basket with beautiful spring flowers.",
+                        "The workers helped __________ the heavy cargo onto the ship.",
+                        "Please __________ the dirty dishes into the dishwasher after eating."
+                    ]
+                },
+                {
+                    "word": "show sb sth",
+                    "phonetic": "/ʃəʊ ˈsʌmbədi ˈsʌmθɪŋ/",
+                    "meaning": "cho ai xem cái gì",
+                    "definition": "To allow someone to see something or present it to them.",
+                    "example": "She wanted to show her mother the gift she had received.\nHe showed the doctor his injured arm.\nCan you show me the way to the nearest bus station?",
+                    "quizzes": [
+                        "She was happy to __________ her mother the fresh flowers from the woods.",
+                        "He __________ed the teacher his completed homework assignment.",
+                        "Can you __________ me how to solve this puzzle?"
+                    ]
+                },
+                {
+                    "word": "feeling of",
+                    "phonetic": "/ˈfiːlɪŋ ɒv/",
+                    "meaning": "cảm giác/cảm xúc",
+                    "definition": "An emotion, physical sensation, or impression of something.",
+                    "example": "She had feelings of hate and envy towards young Anna.\nA sudden feeling of warmth filled the room as spring arrived.\nHe had a strange feeling of unease before entering the dark house.",
+                    "quizzes": [
+                        "Her stepmother was driven by strong __________s of envy and anger.",
+                        "Walking into the quiet library gave her a __________ of peace.",
+                        "She experienced a deep __________ of relief when the exam was over."
+                    ]
+                }
+            ],
+            "grammars": []
+        },
+        {
+            "sectionId": "part-8-reading-comprehension-the-laboratory",
+            "sectionName": "PART 8: READING COMPREHENSION - \"The Laboratory\"",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "laboratory",
+                    "phonetic": "/ləˈbɒrətri/",
+                    "meaning": "phòng thí nghiệm",
+                    "definition": "A room or building equipped for scientific research, testing, or experiments.",
+                    "example": "Scientists are working day and night in the laboratory to find a cure.\nThey conducted several tests inside the research laboratory.\nStudents must wear protective goggles in the science laboratory.",
+                    "quizzes": [
+                        "Scientists are working day and night in the __________ to find a cure.",
+                        "The chemistry students walked into the __________ for their experiment.",
+                        "Safety rules must be strictly followed inside the research __________."
+                    ]
+                },
+                {
+                    "word": "have no idea",
+                    "phonetic": "/hæv nəʊ aɪˈdɪə/",
+                    "meaning": "không biết chút gì, không có ý niệm gì",
+                    "definition": "To not know something at all; to be completely blank about something.",
+                    "example": "I have no idea how to fix this broken computer.\nShe had no idea that her friends were planning a surprise party.\nThey have no idea where the missing keys could be.",
+                    "quizzes": [
+                        "I __________ how to fix this broken computer.",
+                        "She __________ what time the meeting starts.",
+                        "They confessed that they __________ about the secret plan."
+                    ]
+                },
+                {
+                    "word": "approach",
+                    "phonetic": "/əˈprəʊtʃ/",
+                    "meaning": "tiếp cận, tiến lại gần",
+                    "definition": "To come near or nearer to someone or something in distance or time.",
+                    "example": "We could hear the sound of footsteps as they approached the door.\nAs winter approaches, the weather gets colder and colder.\nThe cat quietly approached the small bird in the garden.",
+                    "quizzes": [
+                        "We could hear footsteps as they __________ed the front door.",
+                        "You should be careful when you __________ a wild animal.",
+                        "As the final exam __________es, students study harder."
+                    ]
+                },
+                {
+                    "word": "experiment",
+                    "phonetic": "/ɪkˈsperɪmənt/",
+                    "meaning": "cuộc thí nghiệm, thí nghiệm",
+                    "definition": "A scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.",
+                    "example": "The chemistry class conducted an experiment to observe chemical reactions.\nThe results of the laboratory experiment were published in a journal.\nHe carried out an experiment to test his new hypothesis.",
+                    "quizzes": [
+                        "The chemistry class conducted an __________ to observe chemical reactions.",
+                        "Their scientific __________ proved that the new theory was correct.",
+                        "We need to repeat the __________ to get accurate data."
+                    ]
+                },
+                {
+                    "word": "suddenly",
+                    "phonetic": "/ˈsʌdənli/",
+                    "meaning": "đột nhiên, bỗng nhiên",
+                    "definition": "Quickly and unexpectedly; all of a sudden.",
+                    "example": "Suddenly, a loud bang from the backyard startled everyone.\nThe sky turned dark and suddenly it started to rain heavily.\nShe suddenly remembered that she left her phone at home.",
+                    "quizzes": [
+                        "__________, a loud bang from the backyard startled everyone.",
+                        "The lights went out __________ during the storm.",
+                        "He __________ realized he had taken the wrong bus."
+                    ]
+                },
+                {
+                    "word": "terrible",
+                    "phonetic": "/ˈterəbl/",
+                    "meaning": "tồi tệ, khủng khiếp",
+                    "definition": "Extremely bad, unpleasant, or serious.",
+                    "example": "He made a terrible mistake by ignoring the safety warnings.\nThe weather was terrible with heavy rain and strong winds.\nShe had a terrible headache after working all day.",
+                    "quizzes": [
+                        "He made a __________ mistake by ignoring the laboratory safety warnings.",
+                        "We stayed inside all afternoon because of the __________ weather.",
+                        "She heard a __________ noise coming from the basement."
+                    ]
+                },
+                {
+                    "word": "adventure",
+                    "phonetic": "/ədˈventʃə(r)/",
+                    "meaning": "cuộc phiêu lưu",
+                    "definition": "An unusual, exciting, and typically hazardous experience or activity.",
+                    "example": "Camping in the deep jungle was a wild adventure for the teenagers.\nTheir trip across the desert was filled with exciting adventures.\nReading fantasy stories takes young readers on great adventures.",
+                    "quizzes": [
+                        "Camping in the deep jungle was a wild __________ for the teenagers.",
+                        "They went on a dangerous __________ to explore the hidden cave.",
+                        "The novel tells the thrilling story of a sea __________."
+                    ]
+                },
+                {
+                    "word": "chemicals",
+                    "phonetic": "/ˈkemɪklz/",
+                    "meaning": "hóa chất",
+                    "definition": "Substances obtained by a chemical process or producing a chemical effect.",
+                    "example": "You must wear protective gloves when handling these toxic chemicals.\nMixing these two chemicals can cause a dangerous explosion.\nStore all household chemicals away from young children.",
+                    "quizzes": [
+                        "You must wear protective gloves when handling these dangerous __________.",
+                        "The scientist mixed two __________ together in a glass beaker.",
+                        "Never touch unknown __________ without teacher supervision."
+                    ]
+                },
+                {
+                    "word": "run into",
+                    "phonetic": "/rʌn ˈɪntuː/",
+                    "meaning": "vô tình gặp (ai đó), gặp phải (khó khăn)",
+                    "definition": "To meet someone by chance, or to experience/encounter difficulties.",
+                    "example": "I didn't expect to run into my high school teacher at the cinema.\nWe ran into several unexpected problems during the experiment.\nShe ran into an old friend while shopping downtown.",
+                    "quizzes": [
+                        "I didn't expect to __________ my old classmate at the library.",
+                        "The researchers __________ unexpected technical difficulties during the project.",
+                        "Did you __________ anyone you knew at the conference yesterday?"
+                    ]
+                }
+            ],
+            "grammars": []
         }
     ]
 }

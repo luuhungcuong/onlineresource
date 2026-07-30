@@ -71,9 +71,16 @@
                 {
                     "id": "pronunciation",
                     "name": "Phát âm & Trọng âm",
-                    "description": "Quy tắc trọng âm, phát âm đuôi -ed, -s/-es và nguyên âm",
+                    "description": "Bí kíp đánh trọng âm 2 & 3 âm tiết, nhìn đuôi đoán trọng âm, quy tắc Phonics và phát âm -ed, -s/-es",
                     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH7g71vNlYlEksG01B3K_4rJ6kEaE2F9mRDA&s",
                     "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/pronunciation.json"
+                },
+                {
+                    "id": "prononciation",
+                    "name": "Phát âm & Trọng âm (Prononciation)",
+                    "description": "Bí kíp đánh trọng âm 2 & 3 âm tiết, nhìn đuôi đoán trọng âm, quy tắc Phonics và phát âm -ed, -s/-es",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH7g71vNlYlEksG01B3K_4rJ6kEaE2F9mRDA&s",
+                    "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/prononciation.json"
                 }
             ]
         },
@@ -116,6 +123,20 @@
                     "description": "Từ vựng & nghiệp vụ Hải quan dành cho người làm xuất nhập khẩu",
                     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDxW6CCiPGoPAkuZaR7d0fmC5Uv3SIDx_oxfh09iLoLw&s=10",
                     "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/customs.json"
+                }
+            ]
+        },
+        {
+            "groupId": "now-i-know",
+            "groupName": "Now I Know",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfkah3NW7JLa3ARii8tWYlHPyPzz5qaDa3JA9hThH-g&s=10",
+            "programs": [
+                {
+                    "id": "now-i-know-4",
+                    "name": "Now I Know 4",
+                    "description": "Từ vựng Pearson Now I Know! Level 4",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfkah3NW7JLa3ARii8tWYlHPyPzz5qaDa3JA9hThH-g&s=10",
+                    "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/nowIknow4.json"
                 }
             ]
         }

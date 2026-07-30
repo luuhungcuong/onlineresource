@@ -404,7 +404,18 @@
                     ]
                 }
             ],
-            "grammars": []
+            "grammars": [
+                {
+                    "structure": "Động từ chỉ giác quan (Sensory verbs)",
+                    "description": "Các động từ smell, look, taste (có mùi, trông có vẻ, có vị) được dùng để mô tả cảm nhận. Thường đi kèm với tính từ hoặc dùng cấu trúc smell / look / taste + like + Danh từ để so sánh.",
+                    "example": "It smells delicious and looks good.\nIt tastes like beef, but it looks like chicken."
+                },
+                {
+                    "structure": "Cấu trúc Will / Won't cho quyết định tức thời",
+                    "description": "Dùng will hoặc phủ định là won't để diễn tả một quyết định được đưa ra ngay tại thời điểm nói (quick decisions).",
+                    "example": "I'll look in the Indian restaurant.\nI won't drink soda every day."
+                }
+            ]
         },
         {
             "sectionId": "unit-2-why-are-some-buildings-famous",
@@ -892,7 +903,18 @@
                     ]
                 }
             ],
-            "grammars": []
+            "grammars": [
+                {
+                    "structure": "Hỏi đáp về kích thước và khoảng cách",
+                    "description": "Sử dụng từ để hỏi How kết hợp với tính từ (tall, long, deep, far) để hỏi về số đo hoặc khoảng cách.",
+                    "example": "How tall is the Galata Tower? – It's 67 meters tall.\nHow far is Mexico City from New York? – It's 3,360 kilometers away."
+                },
+                {
+                    "structure": "Tương lai gần (Be going to + verb)",
+                    "description": "Dùng cấu trúc going to + động từ nguyên thể để nói về các kế hoạch, dự định đã được đưa ra trước thời điểm nói (decisions taken before the time of speaking).",
+                    "example": "I'm going to do a lot of different activities.\nAre you going to study all day? – No, I'm not."
+                }
+            ]
         },
         {
             "sectionId": "unit-3-how-can-we-protect-wild-animals",
@@ -1296,7 +1318,18 @@
                     ]
                 }
             ],
-            "grammars": []
+            "grammars": [
+                {
+                    "structure": "Câu hỏi số lượng (How much / How many)",
+                    "description": "Dùng How many với danh từ đếm được số nhiều (countable nouns) và How much với danh từ không đếm được (uncountable nouns).",
+                    "example": "How many bananas did you eat yesterday?\nHow much milk do we have in the refrigerator?"
+                },
+                {
+                    "structure": "Động từ khuyết thiếu trong quá khứ (Could / Couldn't)",
+                    "description": "Chỉ khả năng có thể làm gì hoặc không thể làm gì trong quá khứ.",
+                    "example": "Could you ride a bike when you were five?\nI couldn't run fast when I was very young."
+                }
+            ]
         },
         {
             "sectionId": "unit-4-what-can-we-do-with-our-trash",
@@ -1700,7 +1733,18 @@
                     ]
                 }
             ],
-            "grammars": []
+            "grammars": [
+                {
+                    "structure": "Cấu trúc cần thiết (Need to / Don't need to)",
+                    "description": "Dùng để diễn tả những việc cần làm hoặc không cần thiết phải làm.",
+                    "example": "More people need to recycle more at home.\nYou don't need to have a lot of money to start a Three Rs project."
+                },
+                {
+                    "structure": "Lượng từ (Too much / Too many / Enough)",
+                    "description": "Dùng để diễn đạt sự dư thừa (too much đi với danh từ không đếm được, too many đi với danh từ đếm được) và mức độ vừa đủ (enough).",
+                    "example": "There's too much waste in the trash can.\nWe don't have enough money to buy that book!"
+                }
+            ]
         },
         {
             "sectionId": "unit-5-how-can-we-choose-our-jobs",
@@ -2116,7 +2160,18 @@
                     ]
                 }
             ],
-            "grammars": []
+            "grammars": [
+                {
+                    "structure": "Trạng từ so sánh (Comparative and superlative adverbs)",
+                    "description": "Sử dụng trạng từ để so sánh mức độ của hành động. Các trạng từ bất quy tắc cũng được nhấn mạnh (well -> better -> best, badly -> worse -> worst).",
+                    "example": "Holy sings loudly.\nShe sings more loudly than Dean.\nShe sings the most loudly of all."
+                },
+                {
+                    "structure": "Phân biệt Tính từ và Trạng từ trong so sánh",
+                    "description": "Phân biệt rõ tính từ dùng để miêu tả sự vật (describe things), trong khi trạng từ dùng để miêu tả hành động (describe actions).",
+                    "example": "The fire is very big -> It's the biggest fire.\nThe firefighters are working hard -> They're working the hardest."
+                }
+            ]
         },
         {
             "sectionId": "unit-6-what-happens-in-extreme-conditions",
@@ -2544,7 +2599,18 @@
                     ]
                 }
             ],
-            "grammars": []
+            "grammars": [
+                {
+                    "structure": "Động từ khuyết thiếu (Must / Have to)",
+                    "description": "Must thể hiện sự bắt buộc xuất phát từ phía người nói; Have to thể hiện sự bắt buộc đến từ khách quan bên ngoài (như luật lệ, quy định).",
+                    "example": "You must wear gloves, it's cold.\nYou have to wear a seat belt."
+                },
+                {
+                    "structure": "Thể phủ định (Mustn't / Don't have to)",
+                    "description": "Sự khác biệt rất lớn ở thể phủ định: Mustn't mang nghĩa cấm đoán, không được phép; Don't have to mang nghĩa không bắt buộc, không cần thiết.",
+                    "example": "We mustn't shout in class.\nAt the weekend, I don't have to go to school!"
+                }
+            ]
         },
         {
             "sectionId": "unit-7-how-and-why-do-fashions-change",
@@ -2936,7 +3002,18 @@
                     ]
                 }
             ],
-            "grammars": []
+            "grammars": [
+                {
+                    "structure": "Liên từ chỉ thời gian (Before / After / When)",
+                    "description": "Dùng để nối các mệnh đề lại với nhau, diễn tả thứ tự trước, sau hoặc sự đồng thời của các sự kiện.",
+                    "example": "I had breakfast before I went to school.\nI had classes when I got to school."
+                },
+                {
+                    "structure": "Các cấu trúc rủ rê, đề nghị (Let's / Should / Shall / Why don't)",
+                    "description": "Đưa ra lời khuyên hoặc rủ ai làm gì qua các mẫu câu Let's / Should / Shall / Why don't.",
+                    "example": "Let's turn off the lights!\nWhy don't we turn off the lights?\nShall we turn off the lights?"
+                }
+            ]
         },
         {
             "sectionId": "unit-8-how-has-entertainment-developed",
@@ -3328,7 +3405,18 @@
                     ]
                 }
             ],
-            "grammars": []
+            "grammars": [
+                {
+                    "structure": "Cấu trúc gợi ý với V-ing (What about / How about)",
+                    "description": "Dùng What about / How about + Verb-ing để đưa ra một gợi ý mới cho người nghe.",
+                    "example": "What about going to a concert tonight?\nHow about eating some pizza for dinner?"
+                },
+                {
+                    "structure": "Hiện tại tiếp diễn và Will trong thì tương lai",
+                    "description": "Dùng thì Hiện tại tiếp diễn cho các kế hoạch, sắp xếp tương lai chắc chắn sẽ diễn ra (definite future arrangements); Dùng Will cho quyết định bộc phát (spontaneous decisions).",
+                    "example": "My grandma is visiting us next week.\nThose bags are too heavy, Mom. I'll help you."
+                }
+            ]
         },
         {
             "sectionId": "unit-9-why-are-adventure-stories-popular",
@@ -3732,7 +3820,18 @@
                     ]
                 }
             ],
-            "grammars": []
+            "grammars": [
+                {
+                    "structure": "Quá khứ tiếp diễn (Khẳng định & Phủ định)",
+                    "description": "Dùng was / were + verb + -ing để diễn tả một hành động kéo dài (longer action) đang diễn ra tại một thời điểm trong quá khứ.",
+                    "example": "I / He / She was sailing to the island.\nYou / We / They weren't sailing to the island."
+                },
+                {
+                    "structure": "Quá khứ tiếp diễn (Câu hỏi)",
+                    "description": "Đảo to-be Was / Were lên trước chủ ngữ để hỏi ai đó đang làm gì trong quá khứ.",
+                    "example": "Were you / we / they digging?\nWas he / she / it digging? – Yes, he was."
+                }
+            ]
         },
         {
             "sectionId": "unit-10-why-do-we-raise-money-for-charity",
@@ -4052,7 +4151,18 @@
                     ]
                 }
             ],
-            "grammars": []
+            "grammars": [
+                {
+                    "structure": "Kỹ năng và sự hiểu biết (Know / Understand how to)",
+                    "description": "Diễn tả một người biết cách hoặc hiểu cách để làm một việc gì đó.",
+                    "example": "I / You / We know how to help.\nHe doesn't understand how to help."
+                },
+                {
+                    "structure": "Kết hợp Quá khứ tiếp diễn và Quá khứ đơn",
+                    "description": "Sử dụng hai thì cùng lúc với liên từ when hoặc while để diễn tả một hành động dài đang diễn ra (Past Progressive) thì một hành động ngắn khác xen vào (Past Simple).",
+                    "example": "I was looking on the internet when I found the picture."
+                }
+            ]
         },
         {
             "sectionId": "unit-11-how-are-we-similar-but-different",
@@ -4588,7 +4698,18 @@
                     ]
                 }
             ],
-            "grammars": []
+            "grammars": [
+                {
+                    "structure": "Đại từ bất định (Indefinite Pronouns)",
+                    "description": "Kết hợp các tiền tố some-, every-, no-, any- với one, body, thing để nói về người hoặc vật một cách chung chung, không cụ thể (Ví dụ: someone, everybody, nothing, anything...).",
+                    "example": "Everyone had fun at the party last night.\nI went to the park, but there wasn't anybody there."
+                },
+                {
+                    "structure": "Phân biệt Look like và Be like",
+                    "description": "Look like dùng để hỏi/miêu tả về đặc điểm ngoại hình thể chất (physical appearance); trong khi Be like dùng để hỏi/miêu tả về tính cách (personality).",
+                    "example": "Who do you look like? – I look like my dad. We both have blond hair.\nWho are you like? – I'm like my mom. We're both pretty stubborn."
+                }
+            ]
         },
         {
             "sectionId": "unit-12-how-did-people-live-in-the-past",
@@ -4956,7 +5077,18 @@
                     ]
                 }
             ],
-            "grammars": []
+            "grammars": [
+                {
+                    "structure": "Thói quen trong quá khứ (Used to)",
+                    "description": "Dùng để diễn tả một hành động hoặc thói quen được lặp đi lặp lại trong một khoảng thời gian ở quá khứ nhưng nay không còn nữa (repeated action over a period of time in the past).",
+                    "example": "They used to travel to work by bike.\nThey didn't use to have supermarkets."
+                },
+                {
+                    "structure": "Đại từ quan hệ (that / who / where)",
+                    "description": "Sử dụng đại từ quan hệ để bổ nghĩa hoặc xác định danh từ đi trước: that (chỉ đồ vật/sự vật), who (chỉ người) và where (chỉ nơi chốn).",
+                    "example": "This is the machine that makes the pollution.\nDoctor Who is the man who defeated the Smogator.\nThe village is the place where the workers lived."
+                }
+            ]
         }
     ]
 }

@@ -3031,6 +3031,674 @@
                 }
             ],
             "grammars": []
+        },
+        {
+            "sectionId": "unit-6-gardening",
+            "sectionName": "Unit 6: Gardening",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "in the yard",
+                    "phonetic": "/ɪn ðə jɑːd/",
+                    "meaning": "Ở trong sân",
+                    "definition": "Located in the area of land next to a house.",
+                    "example": "The children are playing happily in the yard.\nWe set up a small table and chairs in the yard.\nThere is a big mango tree in the yard.",
+                    "quizzes": [
+                        "The children are playing soccer __________ after school.",
+                        "My dog loves to run around __________ in the afternoon.",
+                        "We placed a wooden bench __________ to enjoy the fresh air."
+                    ]
+                },
+                {
+                    "word": "fence",
+                    "phonetic": "/fens/",
+                    "meaning": "Hàng rào",
+                    "definition": "A barrier enclosing an area of ground to prevent access or provide privacy.",
+                    "example": "Our neighbor built a wooden fence around his garden.\nThe dog jumped over the low fence.\nShe painted the garden fence white.",
+                    "quizzes": [
+                        "They built a tall wooden __________ around the backyard for privacy.",
+                        "The cat sat on top of the garden __________ watching the birds.",
+                        "You should repair the broken __________ so animals cannot get in."
+                    ]
+                },
+                {
+                    "word": "branch",
+                    "phonetic": "/brɑːntʃ/",
+                    "meaning": "Cành cây",
+                    "definition": "A part of a tree that grows out from the trunk or a bough.",
+                    "example": "A bird is singing on a high branch of the tree.\nThe heavy snow broke a big branch off the oak tree.\nHe climbed up to the lowest branch of the tree.",
+                    "quizzes": [
+                        "A small bird built its nest on a tree __________.",
+                        "The wind was so strong that a large tree __________ fell down.",
+                        "He hung a swing from the thickest __________ of the banyan tree."
+                    ]
+                },
+                {
+                    "word": "shed",
+                    "phonetic": "/ʃed/",
+                    "meaning": "Nhà kho nhỏ / Chái nhà",
+                    "definition": "A simple roofed structure used for storage in a garden.",
+                    "example": "My father keeps all his gardening tools in the shed.\nWe stored our old bicycles in the garden shed.\nHe built a small wooden shed behind the house.",
+                    "quizzes": [
+                        "Put the lawn mower back into the __________ when you finish.",
+                        "We keep extra pots and fertilizer in the garden __________.",
+                        "The rain started, so we ran inside the small wooden __________ for shelter."
+                    ]
+                },
+                {
+                    "word": "snail",
+                    "phonetic": "/sneɪl/",
+                    "meaning": "Con ốc sên",
+                    "definition": "A slow-moving mollusk with a spiral shell.",
+                    "example": "A snail leaves a shiny trail as it moves.\nI found a slow snail crawling on a plant leaf.\nThe snail pulled its body back into its shell.",
+                    "quizzes": [
+                        "A __________ moves very slowly and carries its house on its back.",
+                        "We spotted a tiny __________ crawling along the damp wall.",
+                        "After the rain, many __________s appeared in the garden."
+                    ]
+                },
+                {
+                    "word": "birdhouse",
+                    "phonetic": "/ˈbɜːdhaʊs/",
+                    "meaning": "Chuồng chim / Tổ chim nhân tạo",
+                    "definition": "A small box made for birds to nest in.",
+                    "example": "He hung a wooden birdhouse on the tree trunk.\nA family of sparrows built a nest in our birdhouse.\nWe made a simple birdhouse during art class.",
+                    "quizzes": [
+                        "We hung a wooden __________ on the oak tree to attract birds.",
+                        "A sparrow is flying into the __________ with a twig in its beak.",
+                        "Grandpa helped me build a small __________ for the garden."
+                    ]
+                },
+                {
+                    "word": "bird",
+                    "phonetic": "/bɜːd/",
+                    "meaning": "Con chim",
+                    "definition": "A feathered two-legged animal with wings and a beak.",
+                    "example": "A colorful bird is singing outside my window.\nBirds fly south during the cold winter months.\nShe loves feeding the birds in the park.",
+                    "quizzes": [
+                        "A beautiful blue __________ flew into the garden and landed on a branch.",
+                        "Listen! A __________ is singing a lovely song high in the tree.",
+                        "The robin is a common __________ seen in many European gardens."
+                    ]
+                },
+                {
+                    "word": "bush",
+                    "phonetic": "/bʊʃ/",
+                    "meaning": "Bụi cây",
+                    "definition": "A shrub or clump of shrubs with many woody branches.",
+                    "example": "The ball rolled under a thick green bush.\nHe trimmed the rose bush with garden shears.\nA small bird hid inside the dense bush.",
+                    "quizzes": [
+                        "The rabbit ran quickly and hid behind a rose __________.",
+                        "Dad spent the morning trimming the __________es along the driveway.",
+                        "Bright red berries grew on the tall green __________."
+                    ]
+                },
+                {
+                    "word": "broom",
+                    "phonetic": "/bruːm/",
+                    "meaning": "Cái chổi",
+                    "definition": "A brush with a long handle used for sweeping floors or ground.",
+                    "example": "She used a broom to sweep the dry leaves off the patio.\nAlways store the broom in the corner after sweeping.\nHe bought a sturdy new broom for outdoor sweeping.",
+                    "quizzes": [
+                        "Grab the __________ and help me sweep up the dirt on the patio.",
+                        "She swept the outdoor path clean with a long-handled __________.",
+                        "The gardener leaned the __________ against the garden wall."
+                    ]
+                },
+                {
+                    "word": "tree trunk",
+                    "phonetic": "/triː trʌŋk/",
+                    "meaning": "Thân cây",
+                    "definition": "The main wooden axis of a tree.",
+                    "example": "The tree trunk was covered in dark green moss.\nA squirrel ran quickly up the tree trunk.\nThis ancient oak has a very thick tree trunk.",
+                    "quizzes": [
+                        "The cat sharpened its claws against the rough __________.",
+                        "It takes three people to wrap their arms around this huge __________.",
+                        "A woodlouse was crawling slowly on the bark of the __________."
+                    ]
+                },
+                {
+                    "word": "wheelbarrow",
+                    "phonetic": "/ˈwiːlbærəʊ/",
+                    "meaning": "Xe rùa / Xe đẩy tay 1 bánh",
+                    "definition": "A small handcart with one wheel used for carrying loads in a garden.",
+                    "example": "He filled the wheelbarrow with heavy soil and pushed it.\nWe used a wheelbarrow to transport weeds to the compost bin.\nThe wheelbarrow makes moving heavy stones much easier.",
+                    "quizzes": [
+                        "He loaded the __________ with fresh soil and rolled it across the garden.",
+                        "Use the __________ to carry those heavy bags of fertilizer.",
+                        "The gardener tipped over the __________ to dump out the weeds."
+                    ]
+                },
+                {
+                    "word": "hose",
+                    "phonetic": "/həʊz/",
+                    "meaning": "Vòi nước / Ống dẫn nước",
+                    "definition": "A flexible tube used to convey liquids such as water.",
+                    "example": "Connect the garden hose to the outdoor tap.\nHe sprayed the dirty car using a long hose.\nMake sure to roll up the hose neatly after watering.",
+                    "quizzes": [
+                        "Turn on the tap so I can spray water through the garden __________.",
+                        "He used a rubber __________ to wash the muddy garden tools.",
+                        "Be careful not to step on the water __________ while walking across the lawn."
+                    ]
+                },
+                {
+                    "word": "lawn",
+                    "phonetic": "/lɔːn/",
+                    "meaning": "Bãi cỏ / Thảm cỏ",
+                    "definition": "An area of short mown grass in a yard or park.",
+                    "example": "The green lawn looks so neat after being mowed.\nWe sat on the lawn and enjoyed a sunny summer picnic.\nChildren love running barefoot on the soft lawn.",
+                    "quizzes": [
+                        "The grass on the front __________ is growing very fast.",
+                        "We laid a blanket on the __________ and had a picnic under the sun.",
+                        "Please keep off the newly planted green __________."
+                    ]
+                },
+                {
+                    "word": "lawn mower",
+                    "phonetic": "/ˈlɔːn məʊər/",
+                    "meaning": "Máy cắt cỏ",
+                    "definition": "A machine used for cutting grass on a lawn.",
+                    "example": "My dad starts the lawn mower every Saturday morning.\nThe loud sound of the lawn mower echoed through the neighborhood.\nPushing a manual lawn mower can be good exercise.",
+                    "quizzes": [
+                        "Dad is using the loud __________ to cut the long grass.",
+                        "Store the electric __________ safely inside the shed.",
+                        "The noise of the __________ woke me up early on Sunday."
+                    ]
+                },
+                {
+                    "word": "watering can",
+                    "phonetic": "/ˈwɔːtərɪŋ kæn/",
+                    "meaning": "Bình tưới cây",
+                    "definition": "A portable container with a spout used to water plants.",
+                    "example": "She filled the watering can with fresh tap water.\nUse a small watering can to water delicate potted seedlings.\nThe green plastic watering can sits near the flowerpot.",
+                    "quizzes": [
+                        "She filled the blue __________ with water and poured it over the potted flowers.",
+                        "A small child was happily using a mini __________ to water the plants.",
+                        "Don't forget to take the __________ when you go out to the garden."
+                    ]
+                },
+                {
+                    "word": "petal",
+                    "phonetic": "/ˈpetl/",
+                    "meaning": "Cánh hoa",
+                    "definition": "Each of the segments of the corolla of a flower.",
+                    "example": "A soft rose petal dropped gently onto the ground.\nThe red petals of the flower attracted many bees.\nShe picked a petal off the sunflower to examine it.",
+                    "quizzes": [
+                        "A soft pink __________ fell from the blooming rose.",
+                        "The flower has five yellow __________s surrounding its center.",
+                        "Bees collect pollen from inside the colorful flower __________s."
+                    ]
+                },
+                {
+                    "word": "bee",
+                    "phonetic": "/biː/",
+                    "meaning": "Con ong",
+                    "definition": "A stinging winged insect that collects nectar and pollen.",
+                    "example": "A busy bee buzzed around the bright yellow flower.\nBees play an essential role in pollinating garden crops.\nBe careful not to step on a bee in the grass.",
+                    "quizzes": [
+                        "A honey __________ was flying from flower to flower collecting nectar.",
+                        "Listen to the loud buzzing sound of the __________ in the blossom tree.",
+                        "__________s are very important insects because they help plants grow."
+                    ]
+                },
+                {
+                    "word": "ladybug",
+                    "phonetic": "/ˈleɪdɪbʌɡ/",
+                    "meaning": "Con bọ rùa",
+                    "definition": "A small round beetle, typically red with black spots.",
+                    "example": "A cute ladybug landed softly on my leaf.\nLadybugs eat small pests like aphids to protect plants.\nI counted seven black spots on the ladybug.",
+                    "quizzes": [
+                        "A small red __________ with black spots landed on her arm.",
+                        "__________s are beneficial garden insects that eat harmful pests.",
+                        "Children love watching a tiny __________ crawl up a green stem."
+                    ]
+                },
+                {
+                    "word": "leaf",
+                    "phonetic": "/liːf/",
+                    "meaning": "Lá cây",
+                    "definition": "A flattened green structure of a plant attached to a stem.",
+                    "example": "A green leaf absorbs sunlight to make food for the plant.\nIn autumn, every leaf changes color from green to orange.\nA caterpillar was munching on a broad plant leaf.",
+                    "quizzes": [
+                        "A green __________ absorbs sunlight to keep the plant healthy.",
+                        "The insect hid underneath a large green __________.",
+                        "In the autumn, every leaf falls from the deciduous tree."
+                    ]
+                },
+                {
+                    "word": "spider",
+                    "phonetic": "/ˈspaɪdər/",
+                    "meaning": "Con nhện",
+                    "definition": "An arachnid with eight legs and silk-spinning organs.",
+                    "example": "A tiny spider spun a delicate web between two branches.\nMost garden spiders are harmless to human beings.\nThe spider waited patiently for a fly to land in its web.",
+                    "quizzes": [
+                        "A small black __________ was spinning a web in the corner of the shed.",
+                        "Unlike insects, a __________ has eight legs instead of six.",
+                        "The garden __________ caught a small fly in its silky trap."
+                    ]
+                },
+                {
+                    "word": "web",
+                    "phonetic": "/web/",
+                    "meaning": "Mạng nhện",
+                    "definition": "A network of fine threads constructed by a spider to catch prey.",
+                    "example": "Early morning dew sparkled on the spider's web.\nA fly got trapped inside the sticky spider web.\nThe spider repaired its broken web after the storm.",
+                    "quizzes": [
+                        "Morning raindrops glinted on the spider's circular __________.",
+                        "The insect tried to break free from the sticky spider __________.",
+                        "Look at that intricate spider __________ stretching between the branches."
+                    ]
+                },
+                {
+                    "word": "roses",
+                    "phonetic": "/ˈrəʊzɪz/",
+                    "meaning": "Những bông hoa hồng",
+                    "definition": "Prickly shrubs with fragrant, colorful flowers.",
+                    "example": "The red roses in the front garden smell delightful.\nShe planted a row of pink roses along the garden fence.\nWatch out for the sharp thorns when picking roses.",
+                    "quizzes": [
+                        "The garden is filled with red and white __________ that smell wonderful.",
+                        "She picked a bouquet of fresh __________ for her mother.",
+                        "Watch out for sharp thorns when cutting those lovely __________."
+                    ]
+                },
+                {
+                    "word": "rosebud",
+                    "phonetic": "/ˈrəʊzbʌd/",
+                    "meaning": "Nụ hoa hồng",
+                    "definition": "The bud of a rose flower before it opens.",
+                    "example": "A small rosebud is starting to open in the spring sunshine.\nShe loves the delicate shape of a closed rosebud.\nThe rosebud will blossom into a beautiful flower in a few days.",
+                    "quizzes": [
+                        "A tiny pink __________ is beginning to open in the warm sun.",
+                        "This tight __________ will turn into a full bloom by tomorrow.",
+                        "The garden was full of promising young __________s."
+                    ]
+                },
+                {
+                    "word": "trowel",
+                    "phonetic": "/ˈtraʊəl/",
+                    "meaning": "Cái xẻng nhỏ làm vườn",
+                    "definition": "A small handheld tool with a curved blade used for gardening.",
+                    "example": "Use a hand trowel to dig small holes for planting seeds.\nShe scraped the soil clean with a small metal trowel.\nA trowel is an essential tool for potting plants.",
+                    "quizzes": [
+                        "Use a handheld garden __________ to dig small holes for seedlings.",
+                        "He scooped up fresh soil with his stainless steel __________.",
+                        "Every gardener needs a sturdy __________ to transplant small flowers."
+                    ]
+                },
+                {
+                    "word": "fly",
+                    "phonetic": "/flaɪ/",
+                    "meaning": "Con ruồi",
+                    "definition": "A small insect with two transparent wings.",
+                    "example": "An annoying fly buzzed around the garden table.\nKeep food covered so flies do not land on it.\nThe spider quickly caught the buzzing fly in its web.",
+                    "quizzes": [
+                        "An annoying __________ kept buzzing around my head while I was gardening.",
+                        "The spider trapped a small __________ in its web.",
+                        "Close the shed door so no __________ gets inside."
+                    ]
+                },
+                {
+                    "word": "gardening gloves",
+                    "phonetic": "/ˈɡɑːdnɪŋ ɡlʌvz/",
+                    "meaning": "Găng tay làm vườn",
+                    "definition": "Gloves worn to protect hands while working in the garden.",
+                    "example": "Always wear thick gardening gloves when pruning thorny bushes.\nHer gardening gloves were covered in dry soil.\nShe bought a colorful pair of rubber gardening gloves.",
+                    "quizzes": [
+                        "Put on your heavy __________ to protect your hands from sharp thorns.",
+                        "My hands stayed clean because I wore my rubber __________.",
+                        "She pulled off her muddy __________ after planting the flowers."
+                    ]
+                },
+                {
+                    "word": "bulbs",
+                    "phonetic": "/bʌlbz/",
+                    "meaning": "Củ giống (hoa, cây)",
+                    "definition": "Underground resting roots or stems of plants that grow into new shoots.",
+                    "example": "We planted tulip bulbs in late autumn before the soil froze.\nFlower bulbs store energy to bloom in early spring.\nDig a hole three inches deep for planting these flower bulbs.",
+                    "quizzes": [
+                        "In autumn, we plant tulip __________ in the fertile soil for spring blooms.",
+                        "These flower __________ will grow into beautiful daffodils next year.",
+                        "Store the unplanted plant __________ in a cool, dry place."
+                    ]
+                },
+                {
+                    "word": "daffodils",
+                    "phonetic": "/ˈdæfədɪlz/",
+                    "meaning": "Hoa thủy tiên vàng",
+                    "definition": "Yellow spring-flowering flowers with a trumpet-shaped central crown.",
+                    "example": "Bright yellow daffodils are a clear sign that spring has arrived.\nA field of bright daffodils bloomed beside the garden path.\nShe placed fresh daffodils in a glass vase.",
+                    "quizzes": [
+                        "Bright yellow __________ bloomed along the garden border in March.",
+                        "A vase full of golden __________ brightened up the living room.",
+                        "Spring has arrived when yellow __________ start blooming."
+                    ]
+                },
+                {
+                    "word": "blossom",
+                    "phonetic": "/ˈblɒsəm/",
+                    "meaning": "Hoa (thường là hoa cây ăn quả)",
+                    "definition": "A flower or a mass of flowers, especially on a fruit tree.",
+                    "example": "The cherry tree is covered in delicate pink blossom.\nBees visit the apple blossom in early May.\nA gentle breeze blew white fruit blossoms across the grass.",
+                    "quizzes": [
+                        "In spring, the apple tree is covered in beautiful white __________.",
+                        "Petals of cherry __________ drifted down onto the lawn.",
+                        "Bees love collecting nectar from the plum tree __________."
+                    ]
+                },
+                {
+                    "word": "tree",
+                    "phonetic": "/triː/",
+                    "meaning": "Cây thân gỗ",
+                    "definition": "A woody perennial plant, typically having a single trunk.",
+                    "example": "They planted an apple tree in the corner of the garden.\nBirds build their nests high up in the leafy tree.\nThat old oak tree provides lovely shade on hot days.",
+                    "quizzes": [
+                        "We sat in the cool shade of a large oak __________.",
+                        "An apple __________ was planted in the middle of the yard.",
+                        "A bird perched on the top branch of the tall __________."
+                    ]
+                },
+                {
+                    "word": "dig soil",
+                    "phonetic": "/dɪɡ sɔɪl/",
+                    "meaning": "Đào đất",
+                    "definition": "To break up and move earth using a tool or hands.",
+                    "example": "Use a spade to dig soil before planting your vegetable seeds.\nWe had to dig soil all afternoon to prepare the garden bed.\nEarthworms help turn and loosen the earth when you dig soil.",
+                    "quizzes": [
+                        "Use a shovel to __________ before planting new vegetable seeds.",
+                        "The gardener spent two hours __________ing __________ for the garden bed.",
+                        "It is hard work to __________ when the ground is dry and packed."
+                    ]
+                },
+                {
+                    "word": "woodlouse",
+                    "phonetic": "/ˈwʊdlaʊs/",
+                    "meaning": "Con bọ chân đều / Con mối gỗ",
+                    "definition": "A small terrestrial crustacean with a rigid segmented body.",
+                    "example": "I lifted a damp log and found a woodlouse underneath.\nA woodlouse rolls up into a tiny ball when it feels threatened.\nWoodlice feed on decaying leaves and rotting wood in damp places.",
+                    "quizzes": [
+                        "When I turned over the wet rock, a tiny gray __________ curled into a ball.",
+                        "A __________ thrives in dark, moist places like decaying wood.",
+                        "You can find many a __________ under damp flower pots."
+                    ]
+                },
+                {
+                    "word": "plant pot",
+                    "phonetic": "/plɑːnt pɒt/",
+                    "meaning": "Chậu cây",
+                    "definition": "A container in which plants are cultivated.",
+                    "example": "She repotted the growing seedling into a larger terracotta plant pot.\nPlace the plant pot on a sunny windowsill.\nMake sure the plant pot has drainage holes at the bottom.",
+                    "quizzes": [
+                        "She bought a terracotta __________ to grow herbs on her kitchen windowsill.",
+                        "Make sure your ceramic __________ has holes at the bottom for drainage.",
+                        "He transferred the young plant into a bigger plastic __________."
+                    ]
+                },
+                {
+                    "word": "bark",
+                    "phonetic": "/bɑːk/",
+                    "meaning": "Vỏ cây",
+                    "definition": "The tough protective outer sheath of the trunk and branches of a tree.",
+                    "example": "The rough bark of the birch tree peeled away easily.\nBark protects the tree from cold weather and harmful pests.\nSome insects live underneath the loose bark of old trees.",
+                    "quizzes": [
+                        "The outer layer of a tree trunk is called the __________.",
+                        "Different trees have smooth or rough __________ on their trunks.",
+                        "Peeling the protective __________ off a living tree can harm it."
+                    ]
+                },
+                {
+                    "word": "plant seeds and flowers",
+                    "phonetic": "/plɑːnt siːdz ənd ˈflaʊərz/",
+                    "meaning": "Trồng hạt giống và hoa",
+                    "definition": "To place seeds and blossoms in the ground to grow.",
+                    "example": "Spring is the best season to plant seeds and flowers in your yard.\nThe children helped their grandmother plant seeds and flowers.\nAfter you plant seeds and flowers, remember to water them daily.",
+                    "quizzes": [
+                        "Spring is the perfect time to __________ in the garden.",
+                        "We spent the weekend in the yard to __________ for summer bloom.",
+                        "Remember to water the ground after you __________."
+                    ]
+                },
+                {
+                    "word": "string",
+                    "phonetic": "/strɪŋ/",
+                    "meaning": "Sợi dây / Dây dù nhỏ",
+                    "definition": "Material consisting of threads twisted together to form a thin cord.",
+                    "example": "Tie the tall tomato plant to a wooden cane with strong string.\nHe used garden string to keep the climbing plants growing upright.\nCut a piece of string to wrap around the bundle of sticks.",
+                    "quizzes": [
+                        "Tie the weak plant stem to a bamboo stake using garden __________.",
+                        "He used a length of strong __________ to support the climbing tomatoes.",
+                        "Keep a ball of garden __________ handy for supporting tall flowers."
+                    ]
+                },
+                {
+                    "word": "canes",
+                    "phonetic": "/keɪnz/",
+                    "meaning": "Cọc tre / Cọc hỗ trợ cây",
+                    "definition": "Slender flexible stem sticks used to support climbing plants.",
+                    "example": "Insert bamboo canes next to climbing bean plants for support.\nThe canes held up the heavy fruit plants against the wind.\nStore the bamboo canes neatly in the shed during winter.",
+                    "quizzes": [
+                        "Push sturdy bamboo __________ into the ground to support bean plants.",
+                        "We tied climbing pea vines to tall wooden __________.",
+                        "The tomatoes were growing tall with the help of green garden __________."
+                    ]
+                },
+                {
+                    "word": "soil",
+                    "phonetic": "/sɔɪl/",
+                    "meaning": "Đất trồng",
+                    "definition": "The upper layer of earth in which plants grow.",
+                    "example": "Rich dark soil is essential for growing healthy vegetables.\nMix compost into the soil to add vital nutrients.\nKeep the soil damp but not overly wet.",
+                    "quizzes": [
+                        "Add nutrient-rich compost to the __________ before planting seeds.",
+                        "Plants absorb water and essential nutrients from the fertile __________.",
+                        "Make sure the garden __________ is loose enough for roots to spread."
+                    ]
+                },
+                {
+                    "word": "water the plants",
+                    "phonetic": "/ˈwɔːtər ðə plɑːnts/",
+                    "meaning": "Tưới cây",
+                    "definition": "To pour water over plants to help them grow.",
+                    "example": "Don't forget to water the plants every evening during hot summer days.\nShe used a hose to water the plants in her front yard.\nIf you don't water the plants regularly, they will wither and dry up.",
+                    "quizzes": [
+                        "Don't forget to __________ using the hose every evening in summer.",
+                        "My brother was assigned to __________ while our parents were away.",
+                        "If you do not __________ regularly, their leaves will turn yellow and dry."
+                    ]
+                },
+                {
+                    "word": "garden fork",
+                    "phonetic": "/ˈɡɑːdn fɔːk/",
+                    "meaning": "Cào đất làm vườn / Nĩa xới đất",
+                    "definition": "A tool with sturdy prongs used for loosening and turning soil.",
+                    "example": "Use a heavy garden fork to turn over hard garden soil.\nThe gardener pushed the garden fork deep into the ground to loosen weeds.\nClean dirt off the metal tines of the garden fork after use.",
+                    "quizzes": [
+                        "He used a sturdy __________ to break up hard clumps of earth.",
+                        "Loosen the compact soil using a steel __________ before planting.",
+                        "Clean the dirt off the metal prongs of your __________."
+                    ]
+                },
+                {
+                    "word": "shovel",
+                    "phonetic": "/ˈʃʌvl/",
+                    "meaning": "Cái xẻng lớn",
+                    "definition": "A tool used for digging, lifting, and moving bulk material.",
+                    "example": "He used a heavy shovel to dig a deep hole for the new tree.\nShovel the pile of sand into the wheelbarrow.\nShe leaned the iron shovel against the shed wall.",
+                    "quizzes": [
+                        "He picked up a large __________ to dig a hole for the apple sapling.",
+                        "Use a metal __________ to move piles of compost across the yard.",
+                        "The workman pushed his __________ deep into the mound of gravel."
+                    ]
+                },
+                {
+                    "word": "flower",
+                    "phonetic": "/ˈflaʊər/",
+                    "meaning": "Bông hoa",
+                    "definition": "The seed-bearing part of a plant, consisting of colorful petals.",
+                    "example": "A beautiful purple flower opened up in the morning sun.\nShe picked a fresh flower from her grandmother's garden.\nThe garden was full of colorful summer flowers.",
+                    "quizzes": [
+                        "A vibrant yellow __________ opened its petals in the sunlight.",
+                        "She picked a fresh __________ to place inside a glass vase.",
+                        "Bees fly from one colorful __________ to another to collect pollen."
+                    ]
+                },
+                {
+                    "word": "stem",
+                    "phonetic": "/stem/",
+                    "meaning": "Thân cây / Cánh hoa",
+                    "definition": "The main body or stalk of a plant or shrub.",
+                    "example": "Cut the flower stem at an angle before putting it in water.\nThe plant stem holds up the leaves and blossoms toward the light.\nA thick green stem supports the heavy sunflower head.",
+                    "quizzes": [
+                        "Trim the bottom of the rose __________ before putting it in a vase.",
+                        "Water travels up the plant __________ to nourish the leaves and petals.",
+                        "The thick green __________ of the sunflower grew over six feet tall."
+                    ]
+                },
+                {
+                    "word": "roots",
+                    "phonetic": "/ruːts/",
+                    "meaning": "Rễ cây",
+                    "definition": "The parts of a plant that attach it to the ground and absorb water.",
+                    "example": "The tree's strong roots spread deep under the ground.\nRoots absorb water and essential minerals from the moist soil.\nBe careful not to damage the delicate roots when transplanting.",
+                    "quizzes": [
+                        "Plant __________ grow deep into the ground to absorb water and nutrients.",
+                        "The strong __________ of the oak tree prevented the soil from washing away.",
+                        "Be very careful not to break the fragile __________ of the seedling."
+                    ]
+                },
+                {
+                    "word": "worm",
+                    "phonetic": "/wɜːm/",
+                    "meaning": "Con giun",
+                    "definition": "A long, thin invertebrate animal living in soil.",
+                    "example": "An earthworm wriggled through the damp garden soil.\nWorms are great for the garden because they aerate the ground.\nAfter the heavy rain, many worms came up onto the driveway.",
+                    "quizzes": [
+                        "An earth__________ wriggled slowly through the wet dirt after rain.",
+                        "__________s are beneficial to gardens because they keep the soil healthy.",
+                        "A robin pulled a long red __________ out of the lawn."
+                    ]
+                },
+                {
+                    "word": "slug",
+                    "phonetic": "/slʌɡ/",
+                    "meaning": "Con sên trần (không vỏ)",
+                    "definition": "A slow-moving terrestrial mollusk that lacks a shell.",
+                    "example": "A slug ate big holes in our lettuce leaves last night.\nUnlike a snail, a slug does not carry a hard shell on its back.\nSlugs usually come out at night or on rainy days.",
+                    "quizzes": [
+                        "A shell-less __________ left a slimy trail on the vegetable leaves.",
+                        "Protect your young lettuce plants from hungry __________s.",
+                        "Unlike a snail, a __________ has no protective shell on its back."
+                    ]
+                },
+                {
+                    "word": "fern",
+                    "phonetic": "/fɜːn/",
+                    "meaning": "Cây dương xỉ",
+                    "definition": "A flowerless plant that has feathery or leafy fronds.",
+                    "example": "Green ferns grow well in shady, damp parts of the garden.\nThe feathery fronds of the fern uncurled in spring.\nShe potted a graceful green fern to keep indoors.",
+                    "quizzes": [
+                        "Shady and damp corners of the garden are ideal for growing green __________s.",
+                        "The feathery leaves of the __________ uncurled in early spring.",
+                        "A lush potted __________ decorated the shaded patio wall."
+                    ]
+                },
+                {
+                    "word": "sunflower seeds",
+                    "phonetic": "/ˈsʌnflaʊər siːdz/",
+                    "meaning": "Hạt hướng dương",
+                    "definition": "Seeds obtained from the large flowering head of a sunflower.",
+                    "example": "We planted sunflower seeds in early spring to grow tall flowers.\nBirds love picking sunflower seeds out of the feeder.\nShe roasted sunflower seeds for a healthy snack.",
+                    "quizzes": [
+                        "We planted __________ in a sunny spot to grow tall yellow flowers.",
+                        "Fill the bird feeder with crisp __________ to attract sparrows.",
+                        "Harvest the dried __________ from the big flower head in autumn."
+                    ]
+                },
+                {
+                    "word": "ants",
+                    "phonetic": "/ænts/",
+                    "meaning": "Con kiến",
+                    "definition": "Small social insects living in complex colonies.",
+                    "example": "A line of tiny ants marched across the garden stone.\nAnts work together to build underground anthills in the yard.\nKeep sweet food covered outdoor so ants won't get into it.",
+                    "quizzes": [
+                        "A long line of tiny black __________ was marching toward a dropped piece of fruit.",
+                        "__________ work together in large colonies under the garden soil.",
+                        "Be careful not to disturb an __________' nest when digging in the yard."
+                    ]
+                },
+                {
+                    "word": "mow the lawn",
+                    "phonetic": "/məʊ ðə lɔːn/",
+                    "meaning": "Cắt cỏ bãi cỏ",
+                    "definition": "To cut the grass on a lawn with a machine.",
+                    "example": "My father will mow the lawn once a week during summer.\nIt takes about an hour to mow the front lawn completely.\nAfter you mow the lawn, rake up the loose cut grass.",
+                    "quizzes": [
+                        "My dad spends Saturday mornings using the machine to __________.",
+                        "It takes about forty minutes to __________ in front of our house.",
+                        "Remember to wear closed shoes when you __________."
+                    ]
+                },
+                {
+                    "word": "sweep up leaves",
+                    "phonetic": "/swiːp ʌp liːvz/",
+                    "meaning": "Quét lá cây",
+                    "definition": "To clean up fallen leaves using a broom or rake.",
+                    "example": "In autumn, we have to sweep up leaves every day.\nUse a wide rake or broom to sweep up leaves off the patio.\nWe collected five big bags after we swept up leaves in the yard.",
+                    "quizzes": [
+                        "In the fall, we use a big rake to __________ off the driveway.",
+                        "Helped grandpa __________ that had fallen from the maple tree.",
+                        "We gathered four large bags when we began to __________."
+                    ]
+                },
+                {
+                    "word": "garden",
+                    "phonetic": "/ˈɡɑːdn/",
+                    "meaning": "Khu vườn",
+                    "definition": "A piece of ground next to a house used for growing flowers, fruit, or vegetables.",
+                    "example": "She loves spending her weekends working in the garden.\nOur garden is full of blooming flowers and fresh vegetables.\nHe built a neat wooden fence around his backyard garden.",
+                    "quizzes": [
+                        "She loves growing vegetables and colorful flowers in her home __________.",
+                        "The family sat in the backyard __________ enjoying afternoon tea.",
+                        "Our __________ looks green and full after the gentle spring rain."
+                    ]
+                },
+                {
+                    "word": "creature",
+                    "phonetic": "/ˈkriːtʃər/",
+                    "meaning": "Sinh vật / Sinh thể",
+                    "definition": "An animal, as distinct from a human being.",
+                    "example": "The garden is home to many small creatures like birds and insects.\nA strange little creature was hiding under the flower pot.\nRespect every living creature that inhabits your garden.",
+                    "quizzes": [
+                        "A garden is home to many small __________s like frogs, spiders, and birds.",
+                        "We saw a small woodland __________ scurrying under the bushes.",
+                        "Be gentle with every living __________ you encounter outdoors."
+                    ]
+                },
+                {
+                    "word": "eight",
+                    "phonetic": "/eɪt/",
+                    "meaning": "Số 8",
+                    "definition": "Equivalent to the product of two and four; the number 8.",
+                    "example": "A spider has eight long legs.\nShe planted eight new tomato seedlings in a straight row.\nOur garden section has eight different types of flowers.",
+                    "quizzes": [
+                        "A spider is easily recognized because it has __________ legs.",
+                        "We planted __________ tomato seeds in small starter pots.",
+                        "The gardener bought __________ bags of topsoil for the garden bed."
+                    ]
+                },
+                {
+                    "word": "legs",
+                    "phonetic": "/leɡz/",
+                    "meaning": "Đôi chân / Các chân",
+                    "definition": "The limbs on which a person or animal walks or stands.",
+                    "example": "Insects have six legs while spiders have eight legs.\nHis legs were tired after working in the garden all day.\nA woodlouse has many tiny jointed legs.",
+                    "quizzes": [
+                        "Insects typically have six __________, whereas spiders have eight.",
+                        "A woodlouse uses its many small __________ to crawl quickly under rocks.",
+                        "My __________ felt tired after bending down to weed the garden all morning."
+                    ]
+                }
+            ],
+            "grammars": []
         }
     ]
 }

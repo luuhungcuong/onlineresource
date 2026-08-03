@@ -30,15 +30,8 @@
                     "id": "pronunciation",
                     "name": "Phát âm & Trọng âm",
                     "description": "Bí kíp đánh trọng âm 2 & 3 âm tiết, nhìn đuôi đoán trọng âm, quy tắc Phonics và phát âm -ed, -s/-es",
-                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH7g71vNlYlEksG01B3K_4rJ6kEaE2F9mRDA&s",
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZ6MxibpkdhXBsE7ruKajfs8v2EUVjsfeu_gs1l3omg&s=10",
                     "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/pronunciation.json"
-                },
-                {
-                    "id": "prononciation",
-                    "name": "Phát âm & Trọng âm (Prononciation)",
-                    "description": "Bí kíp đánh trọng âm 2 & 3 âm tiết, nhìn đuôi đoán trọng âm, quy tắc Phonics và phát âm -ed, -s/-es",
-                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH7g71vNlYlEksG01B3K_4rJ6kEaE2F9mRDA&s",
-                    "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/prononciation.json"
                 }
             ]
         },

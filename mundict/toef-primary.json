@@ -1050,6 +1050,146 @@
                 }
             ],
             "grammars": []
+        },
+        {
+            "sectionId": "room",
+            "sectionName": "Room",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "living room",
+                    "phonetic": "/'lɪvɪŋ ru:m/",
+                    "meaning": "phòng khách",
+                    "definition": "A room in a house for general and informal everyday use.",
+                    "example": "We watch TV in the living room.\nChúng tôi xem TV trong phòng khách.",
+                    "quizzes": [
+                        "We watch TV in the __________.",
+                        "Our sofa and television are in the __________.",
+                        "Guests sit and chat with us in the __________."
+                    ]
+                },
+                {
+                    "word": "bedroom",
+                    "phonetic": "/'bedru:m/",
+                    "meaning": "phòng ngủ",
+                    "definition": "A room used for sleeping in.",
+                    "example": "My bedroom is next to the bathroom.\nPhòng ngủ của tôi ở cạnh phòng tắm.",
+                    "quizzes": [
+                        "My __________ is next to the bathroom.",
+                        "I sleep in my comfortable bed in my __________.",
+                        "She keeps her toys and clothes in her __________."
+                    ]
+                },
+                {
+                    "word": "bathroom",
+                    "phonetic": "/'bɑ:θru:m/",
+                    "meaning": "phòng tắm",
+                    "definition": "A room containing a bath or shower and usually a toilet and sink.",
+                    "example": "I brush my teeth in the bathroom.\nTôi đánh răng trong phòng tắm.",
+                    "quizzes": [
+                        "I brush my teeth in the __________.",
+                        "He takes a warm shower in the __________.",
+                        "Wash your hands with soap in the __________."
+                    ]
+                },
+                {
+                    "word": "laundry room",
+                    "phonetic": "/'lɔ:ndri ru:m/",
+                    "meaning": "phòng giặt",
+                    "definition": "A room where clothes and linens are washed and dried.",
+                    "example": "We wash clothes in the laundry room.\nChúng tôi giặt đồ trong phòng giặt.",
+                    "quizzes": [
+                        "We wash clothes in the __________.",
+                        "The washing machine is located in the __________.",
+                        "She put the dirty towels into the basket in the __________."
+                    ]
+                },
+                {
+                    "word": "dining room",
+                    "phonetic": "/'daɪnɪŋ ru:m/",
+                    "meaning": "phòng ăn",
+                    "definition": "A room in a house where meals are eaten.",
+                    "example": "We have dinner in the dining room.\nChúng tôi ăn tối trong phòng ăn.",
+                    "quizzes": [
+                        "We have dinner in the __________.",
+                        "There is a big table and six chairs in the __________.",
+                        "The family gathers in the __________ to eat lunch."
+                    ]
+                },
+                {
+                    "word": "storage room",
+                    "phonetic": "/'stɔ:rɪdʒ ru:m/",
+                    "meaning": "phòng chứa đồ",
+                    "definition": "A room used for storing items, tools, or old belongings.",
+                    "example": "Old boxes are kept in the storage room.\nCác hộp cũ được cất trong phòng chứa đồ.",
+                    "quizzes": [
+                        "Old boxes are kept in the __________.",
+                        "We store our winter coats and suitcases in the __________.",
+                        "He went into the __________ to find an old ladder."
+                    ]
+                },
+                {
+                    "word": "yard",
+                    "phonetic": "/jɑ:rd/",
+                    "meaning": "sân",
+                    "definition": "An area of ground surrounding a house, often with grass or plants.",
+                    "example": "The kids play in the yard.\nLũ trẻ chơi ở sân.",
+                    "quizzes": [
+                        "The kids play in the __________.",
+                        "We planted beautiful flowers in the front __________.",
+                        "The dog runs around happily in the green __________."
+                    ]
+                },
+                {
+                    "word": "garage",
+                    "phonetic": "/gə'rɑ:ʒ/",
+                    "meaning": "ga-ra",
+                    "definition": "A building or indoor space for parking motor vehicles.",
+                    "example": "Dad parks the car in the garage.\nBố đỗ xe trong ga-ra.",
+                    "quizzes": [
+                        "Dad parks the car in the __________.",
+                        "We keep our bicycles and tools in the __________.",
+                        "Close the __________ door after parking the car."
+                    ]
+                },
+                {
+                    "word": "beside",
+                    "phonetic": "/bɪ'saɪd/",
+                    "meaning": "bên cạnh",
+                    "definition": "At the side of; next to.",
+                    "example": "The dining room is beside the kitchen.\nPhòng ăn ở bên cạnh bếp.",
+                    "quizzes": [
+                        "The dining room is __________ the kitchen.",
+                        "Sit __________ me so we can read the book together.",
+                        "There is a small nightstand __________ the bed."
+                    ]
+                },
+                {
+                    "word": "behind",
+                    "phonetic": "/bɪ'haɪnd/",
+                    "meaning": "phía sau",
+                    "definition": "At or toward the back of something.",
+                    "example": "The garden is behind the house.\nKhu vườn ở phía sau nhà.",
+                    "quizzes": [
+                        "The garden is __________ the house.",
+                        "The sun disappeared __________ the mountains.",
+                        "He hid __________ the door to surprise his friend."
+                    ]
+                },
+                {
+                    "word": "between ... and ...",
+                    "phonetic": "/bɪ'twi:n/",
+                    "meaning": "ở giữa ... và ...",
+                    "definition": "In or into the space separating two points, places, or objects.",
+                    "example": "The living room is between the study and the bedroom.\nPhòng khách ở giữa phòng học và phòng ngủ.",
+                    "quizzes": [
+                        "The living room is __________ the study __________ the bedroom.",
+                        "The supermarket is located __________ the bank __________ the post office.",
+                        "Choose a number __________ 1 __________ 10."
+                    ]
+                }
+            ],
+            "grammars": []
         }
     ]
 }

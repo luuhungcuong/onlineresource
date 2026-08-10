@@ -1190,6 +1190,164 @@
                 }
             ],
             "grammars": []
+        },
+        {
+            "sectionId": "family",
+            "sectionName": "Family",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "grandmother / grandma",
+                    "phonetic": "/'græn.mʌð.ər/",
+                    "meaning": "bà",
+                    "definition": "The mother of your father or mother.",
+                    "example": "My grandmother bakes cookies.\nBà tôi nướng bánh quy.",
+                    "quizzes": [
+                        "My __________ bakes cookies for us.",
+                        "I visited my __________ at her house last weekend.",
+                        "My __________ loves reading stories to her grandchildren."
+                    ]
+                },
+                {
+                    "word": "father / dad",
+                    "phonetic": "/'fɑ:ðər/",
+                    "meaning": "bố",
+                    "definition": "A male parent of a child.",
+                    "example": "My dad teaches me how to ride a bike.\nBố tôi dạy tôi đi xe đạp.",
+                    "quizzes": [
+                        "My __________ teaches me how to ride a bike.",
+                        "Her __________ works in a big office.",
+                        "He helped his __________ fix the bicycle."
+                    ]
+                },
+                {
+                    "word": "sister",
+                    "phonetic": "/'sɪstər/",
+                    "meaning": "chị gái / em gái",
+                    "definition": "A girl or woman who has the same parents as another person.",
+                    "example": "My sister and I play together.\nTôi và chị gái chơi cùng nhau.",
+                    "quizzes": [
+                        "My __________ and I play together in the park.",
+                        "She has an older __________ who goes to high school.",
+                        "His little __________ likes drawing funny pictures."
+                    ]
+                },
+                {
+                    "word": "brother",
+                    "phonetic": "/'brʌðər/",
+                    "meaning": "anh trai / em trai",
+                    "definition": "A boy or man who has the same parents as another person.",
+                    "example": "My brother loves games.\nAnh tôi thích chơi game.",
+                    "quizzes": [
+                        "My __________ loves playing video games.",
+                        "He shares a bedroom with his younger __________.",
+                        "Her older __________ helped her with homework."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "occupations",
+            "sectionName": "Occupations",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "cashier",
+                    "phonetic": "/kæ'ʃɪr/",
+                    "meaning": "thu ngân",
+                    "definition": "A person whose job is to receive and pay out money in a store or bank.",
+                    "example": "The cashier gives me change.\nThu ngân trả lại tiền thừa cho tôi.",
+                    "quizzes": [
+                        "The __________ gives me change after I pay for the book.",
+                        "We paid the __________ at the supermarket checkout.",
+                        "A __________ works behind the cash register."
+                    ]
+                },
+                {
+                    "word": "librarian",
+                    "phonetic": "/laɪ'breə.ri.ən/",
+                    "meaning": "thủ thư",
+                    "definition": "A person who works in or is in charge of a library.",
+                    "example": "The librarian helps me find books.\nThủ thư giúp tôi tìm sách.",
+                    "quizzes": [
+                        "The __________ helps me find books for my school report.",
+                        "You can ask the __________ if you cannot find a book.",
+                        "The __________ told us to speak quietly in the library."
+                    ]
+                },
+                {
+                    "word": "pilot",
+                    "phonetic": "/'paɪlət/",
+                    "meaning": "phi công",
+                    "definition": "A person who flies an aircraft.",
+                    "example": "I want to be a pilot one day.\nTôi muốn trở thành phi công.",
+                    "quizzes": [
+                        "I want to be a __________ one day.",
+                        "The __________ safely landed the airplane at the airport.",
+                        "A __________ needs special training to fly planes."
+                    ]
+                },
+                {
+                    "word": "farmer",
+                    "phonetic": "/'fɑ:rmər/",
+                    "meaning": "nông dân",
+                    "definition": "A person who owns or works on a farm.",
+                    "example": "The farmer grows vegetables.\nNông dân trồng rau củ.",
+                    "quizzes": [
+                        "The __________ grows vegetables in the field.",
+                        "Every morning, the __________ wakes up early to feed the cows.",
+                        "A __________ works outdoors on a farm."
+                    ]
+                },
+                {
+                    "word": "soldier",
+                    "phonetic": "/'soʊldʒər/",
+                    "meaning": "người lính",
+                    "definition": "A person who serves in an army.",
+                    "example": "A soldier protects our country.\nNgười lính bảo vệ đất nước.",
+                    "quizzes": [
+                        "A __________ protects our country.",
+                        "The brave __________ wore a dark green uniform.",
+                        "His uncle is a __________ in the army."
+                    ]
+                },
+                {
+                    "word": "engineer",
+                    "phonetic": "/ˌen.dʒɪ'nɪr/",
+                    "meaning": "kỹ sư",
+                    "definition": "A person who designs or builds machines, engines, or structures.",
+                    "example": "My father is an engineer.\nBố tôi là kỹ sư.",
+                    "quizzes": [
+                        "My father is an __________ who designs bridges.",
+                        "An __________ uses science and math to solve problems.",
+                        "She wants to become a software __________."
+                    ]
+                },
+                {
+                    "word": "nurse",
+                    "phonetic": "/nɜ:rs/",
+                    "meaning": "y tá",
+                    "definition": "A person trained to care for sick or injured people.",
+                    "example": "A nurse takes care of patients.\nY tá chăm sóc bệnh nhân.",
+                    "quizzes": [
+                        "A __________ takes care of patients.",
+                        "The friendly __________ checked my temperature.",
+                        "She works as a __________ at the city hospital."
+                    ]
+                },
+                {
+                    "word": "hairdresser",
+                    "phonetic": "/'herˌdresər/",
+                    "meaning": "thợ cắt tóc",
+                    "definition": "A person whose job is to cut and style hair.",
+                    "example": "The hairdresser cuts my hair.\nThợ cắt tóc tỉa tóc cho tôi.",
+                    "quizzes": [
+                        "The __________ cuts my hair.",
+                        "I went to the __________ to get a new hairstyle.",
+                        "A __________ uses scissors and combs to style hair."
+                    ]
+                }
+            ]
         }
     ]
 }

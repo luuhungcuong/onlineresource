@@ -1348,6 +1348,133 @@
                     ]
                 }
             ]
+        },
+        {
+            "sectionId": "house-chores",
+            "sectionName": "House Chores",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "clean the room",
+                    "phonetic": "/kli:n ðə ru:m/",
+                    "meaning": "dọn phòng",
+                    "definition": "To remove dirt, dust, and untidiness from a room.",
+                    "example": "Let’s clean the room before Mom gets home.\nHãy dọn phòng trước khi mẹ về nhé.",
+                    "quizzes": [
+                        "Let’s __________ before Mom gets home.",
+                        "I help my sister __________ every Saturday morning.",
+                        "Please __________ so your toys are not on the floor."
+                    ]
+                },
+                {
+                    "word": "do laundry",
+                    "phonetic": "/du: 'lɔ:ndri/",
+                    "meaning": "giặt đồ",
+                    "definition": "To wash clothes, sheets, and towels.",
+                    "example": "I always do laundry on weekends.\nTôi luôn giặt đồ vào cuối tuần.",
+                    "quizzes": [
+                        "I always __________ on weekends.",
+                        "My mother asked me to __________ after school.",
+                        "We put the dirty clothes into the washing machine to __________."
+                    ]
+                },
+                {
+                    "word": "mop the floor",
+                    "phonetic": "/mɒp ðə flɔ:r/",
+                    "meaning": "lau sàn",
+                    "definition": "To clean the floor using a mop and water.",
+                    "example": "We mop the floor every morning.\nChúng tôi lau sàn mỗi sáng.",
+                    "quizzes": [
+                        "We __________ every morning to keep it clean.",
+                        "Be careful not to slip after I __________.",
+                        "Use a bucket of soapy water to __________."
+                    ]
+                },
+                {
+                    "word": "fold the clothes",
+                    "phonetic": "/fəʊld ðə kləʊðz/",
+                    "meaning": "gấp quần áo",
+                    "definition": "To bend items of clothing neatly so they can be stored.",
+                    "example": "I fold my clothes neatly after washing.\nTôi gấp quần áo gọn gàng sau khi giặt.",
+                    "quizzes": [
+                        "I __________ neatly after washing.",
+                        "Can you help me __________ and put them in the closet?",
+                        "After drying, we need to __________ before putting them away."
+                    ]
+                },
+                {
+                    "word": "wash the dishes",
+                    "phonetic": "/wɒʃ ðə 'dɪʃɪz/",
+                    "meaning": "rửa bát",
+                    "definition": "To clean plates, glasses, and utensils after a meal.",
+                    "example": "It’s my turn to wash the dishes.\nĐến lượt tôi rửa bát.",
+                    "quizzes": [
+                        "It’s my turn to __________ after dinner.",
+                        "She uses soap and warm water to __________.",
+                        "Don't forget to __________ before you watch TV."
+                    ]
+                },
+                {
+                    "word": "set the table",
+                    "phonetic": "/set ðə 'teɪbəl/",
+                    "meaning": "dọn bàn ăn",
+                    "definition": "To put plates, spoons, and glasses on a table before a meal.",
+                    "example": "I help my mom set the table for dinner.\nTôi giúp mẹ dọn bàn ăn tối.",
+                    "quizzes": [
+                        "I help my mom __________ for dinner.",
+                        "Please __________ with plates, forks, and spoons.",
+                        "Before we eat, we need to __________."
+                    ]
+                },
+                {
+                    "word": "make cookies",
+                    "phonetic": "/meɪk 'kʊkiz/",
+                    "meaning": "làm bánh quy",
+                    "definition": "To mix ingredients and bake sweet biscuits.",
+                    "example": "We make cookies together on Sunday.\nChúng tôi làm bánh quy cùng nhau vào Chủ Nhật.",
+                    "quizzes": [
+                        "We __________ together on Sunday.",
+                        "My grandmother taught me how to __________ with chocolate chips.",
+                        "The kitchen smelled delicious when we decided to __________."
+                    ]
+                },
+                {
+                    "word": "babysit",
+                    "phonetic": "/'beɪbiˌsɪt/",
+                    "meaning": "trông trẻ",
+                    "definition": "To look after a child while the parents are away.",
+                    "example": "I babysit my brother on weekends.\nTôi trông em vào cuối tuần.",
+                    "quizzes": [
+                        "I __________ my brother on weekends.",
+                        "She was asked to __________ her neighbors' children tonight.",
+                        "My older sister gets paid to __________ for our aunt."
+                    ]
+                },
+                {
+                    "word": "feed a pet",
+                    "phonetic": "/fi:d ə pet/",
+                    "meaning": "cho thú cưng ăn",
+                    "definition": "To give food to a domestic animal.",
+                    "example": "Don’t forget to feed the cat.\nĐừng quên cho mèo ăn nhé.",
+                    "quizzes": [
+                        "Don’t forget to __________ before you leave for school.",
+                        "It is my daily duty to __________ every morning.",
+                        "Remember to __________ with fresh pet food and clean water."
+                    ]
+                },
+                {
+                    "word": "wipe down",
+                    "phonetic": "/waɪp daʊn/",
+                    "meaning": "lau sạch",
+                    "definition": "To clean a surface using a wet or dry cloth.",
+                    "example": "Please wipe down the table after dinner.\nLau sạch bàn sau bữa tối nhé.",
+                    "quizzes": [
+                        "Please __________ the table after dinner.",
+                        "Use a damp cloth to __________ the kitchen counter.",
+                        "He had to __________ the desk because it was dusty."
+                    ]
+                }
+            ]
         }
     ]
 }

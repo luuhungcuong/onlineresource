@@ -3699,6 +3699,614 @@
                 }
             ],
             "grammars": []
+        },
+        {
+            "sectionId": "lesson-07-topic-2-story-time",
+            "sectionName": "LESSON 07 - TOPIC 2: STORY TIME",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "alien",
+                    "phonetic": "/ˈeɪliən/",
+                    "meaning": "Người ngoài hành tinh",
+                    "definition": "A creature from outer space or another world.",
+                    "example": "The movie was about a friendly alien visiting Earth.\nAstronomers search the night sky for signs of alien life.\nAn alien spaceship landed in the middle of the field.",
+                    "quizzes": [
+                        "A friendly __________ landed its spaceship in the forest.",
+                        "Do you believe that an __________ could exist on another planet?",
+                        "The movie features a cute green __________ from outer space."
+                    ]
+                },
+                {
+                    "word": "armor",
+                    "phonetic": "/ˈɑːmər/",
+                    "meaning": "Bộ áo giáp",
+                    "definition": "A metal covering worn to protect the body in battle.",
+                    "example": "The brave knight put on his shiny suit of armor.\nArmor protected medieval soldiers from swords and arrows.\nThe museum displays ancient iron armor.",
+                    "quizzes": [
+                        "The knight wore heavy steel __________ to protect himself in battle.",
+                        "His shiny __________ gleamed under the bright sunlight.",
+                        "The museum exhibited a suit of medieval __________."
+                    ]
+                },
+                {
+                    "word": "bad guy",
+                    "phonetic": "/ˈbæd ɡaɪ/",
+                    "meaning": "Kẻ xấu / Nhân vật phản diện",
+                    "definition": "A villain or malevolent character in a story.",
+                    "example": "The hero defeated the bad guy at the end of the story.\nIn fairytale movies, the bad guy usually loses.\nHe always gets to play the bad guy in school plays.",
+                    "quizzes": [
+                        "The hero fought bravely to stop the evil __________.",
+                        "In this comic book, who is the main __________?",
+                        "The __________ tried to escape, but the superhero caught him."
+                    ]
+                },
+                {
+                    "word": "beanstalk",
+                    "phonetic": "/ˈbiːnstɔːk/",
+                    "meaning": "Cây đậu thần / Thân cây đậu",
+                    "definition": "The stem of a bean plant, often gigantic in fairy tales.",
+                    "example": "Jack climbed high up the magic beanstalk.\nAt the top of the beanstalk was a giant castle.\nThe beanstalk grew all the way into the clouds.",
+                    "quizzes": [
+                        "Jack traded his cow for magic beans that grew into a huge __________.",
+                        "He climbed to the top of the tall __________ into the sky.",
+                        "The giant lived in a cloud kingdom above the gigantic __________."
+                    ]
+                },
+                {
+                    "word": "beast",
+                    "phonetic": "/biːst/",
+                    "meaning": "Quái thú / Dã thú",
+                    "definition": "A large, dangerous, or terrifying animal or creature.",
+                    "example": "Beauty learned to love the gentle Beast in the enchanted castle.\nA terrifying wild beast roared inside the dark cave.\nThe hunters tracked the mysterious beast through the forest.",
+                    "quizzes": [
+                        "The princess showed kindness to the terrifying __________.",
+                        "A fierce __________ was guarding the entrance to the enchanted forest.",
+                        "The fairytale tells the story of Beauty and the __________."
+                    ]
+                },
+                {
+                    "word": "broomstick",
+                    "phonetic": "/ˈbruːmstɪk/",
+                    "meaning": "Cán chổi bay (của mụ phù thủy)",
+                    "definition": "The handle of a broom, traditionally ridden by witches.",
+                    "example": "The witch flew across the full moon on her broomstick.\nShe leaned her magic broomstick against the cottage wall.\nHe bought a toy broomstick for Halloween.",
+                    "quizzes": [
+                        "The wicked witch soared high in the night sky on her __________.",
+                        "She cast a spell and hopped onto her wooden __________.",
+                        "In stories, witches use a __________ to travel through the air."
+                    ]
+                },
+                {
+                    "word": "castle",
+                    "phonetic": "/ˈkɑːsl/",
+                    "meaning": "Lâu đài",
+                    "definition": "A large fortified building or residence of royalty.",
+                    "example": "The king and queen lived in a magnificent stone castle.\nA deep moat surrounded the old medieval castle.\nThey climbed to the highest tower of the castle.",
+                    "quizzes": [
+                        "The royal family lived in a magnificent stone __________.",
+                        "High walls and a deep moat protected the king's __________.",
+                        "We visited an ancient medieval __________ during our trip."
+                    ]
+                },
+                {
+                    "word": "cauldron",
+                    "phonetic": "/ˈkɔːldrən/",
+                    "meaning": "Vạc nấu phép thuật",
+                    "definition": "A large metal pot used over an open fire, often by witches.",
+                    "example": "The witch stirred a bubbling green potion inside her cauldron.\nSmoke rose from the heavy iron cauldron.\nThey tossed strange magical ingredients into the cauldron.",
+                    "quizzes": [
+                        "The old witch stirred her magical potion in a black __________.",
+                        "Bubbles rose from the giant iron __________ over the fire.",
+                        "She dropped herbs and spider legs into the bubbling __________."
+                    ]
+                },
+                {
+                    "word": "cave",
+                    "phonetic": "/keɪv/",
+                    "meaning": "Hang động",
+                    "definition": "A large natural underground chamber in a mountain or cliff.",
+                    "example": "The dragon slept soundly inside a deep mountain cave.\nExplorers found ancient wall paintings in the cave.\nBats flew out of the dark cave at sunset.",
+                    "quizzes": [
+                        "The dragon kept its stolen treasure hidden deep inside a dark __________.",
+                        "They used flashlights to explore the underground rock __________.",
+                        "Bears often hibernate inside a warm mountain __________ during winter."
+                    ]
+                },
+                {
+                    "word": "coins",
+                    "phonetic": "/kɔɪnz/",
+                    "meaning": "Đồng tiền xu",
+                    "definition": "Flat, round pieces of metal used as money.",
+                    "example": "The chest was filled with shiny gold coins.\nHe dropped three silver coins into the wishing well.\nPirates traded gold coins for supplies.",
+                    "quizzes": [
+                        "The treasure chest was filled to the brim with gold __________.",
+                        "She tossed a few silver __________ into the fountain.",
+                        "He collected rare antique __________ from around the world."
+                    ]
+                },
+                {
+                    "word": "crown",
+                    "phonetic": "/kraʊn/",
+                    "meaning": "Vương miện",
+                    "definition": "An ornamental circlet worn on the head by monarchs.",
+                    "example": "The golden crown was decorated with diamonds and rubies.\nThe king placed the crown upon his head.\nShe wore a small silver crown to the fancy dress party.",
+                    "quizzes": [
+                        "The queen wore a sparkling golden __________ adorned with jewels.",
+                        "The king placed the royal __________ upon his son's head.",
+                        "A royal princess usually wears a delicate silver __________."
+                    ]
+                },
+                {
+                    "word": "dinosaur",
+                    "phonetic": "/ˈdaɪnəsɔːr/",
+                    "meaning": "Khủng long",
+                    "definition": "A reptile of a group that dominated the earth in the Mesozoic era.",
+                    "example": "The children loved reading stories about huge dinosaurs.\nA giant T-Rex dinosaur roared loudly in the film.\nFossils show that many dinosaurs lived millions of years ago.",
+                    "quizzes": [
+                        "The Tyrannosaurus Rex was a giant carnivore __________.",
+                        "Children enjoy learning about pre-historic __________s at the museum.",
+                        "Fossils reveal how ancient __________s used to live."
+                    ]
+                },
+                {
+                    "word": "dragon",
+                    "phonetic": "/ˈdræɡən/",
+                    "meaning": "Con rồng",
+                    "definition": "A mythical monster resembling a giant reptile, often fire-breathing.",
+                    "example": "The fire-breathing dragon guarded the princess in the tower.\nA brave knight rode out to fight the fierce dragon.\nThe dragon flew high above the mountain peaks.",
+                    "quizzes": [
+                        "The fierce fire-breathing __________ flew over the castle walls.",
+                        "A brave knight drew his sword to fight the terrible __________.",
+                        "Legend says a giant __________ guards the secret mountain pass."
+                    ]
+                },
+                {
+                    "word": "explorer",
+                    "phonetic": "/ɪkˈsplɔːrər/",
+                    "meaning": "Nhà thám hiểm",
+                    "definition": "A person who travels in search of geographical discoveries.",
+                    "example": "The famous explorer discovered an uncharted island.\nEvery explorer needs a compass and a reliable map.\nShe dreamed of becoming a space explorer one day.",
+                    "quizzes": [
+                        "The brave __________ journeyed deep into the uncharted jungle.",
+                        "An __________ uses maps and compasses to navigate unknown lands.",
+                        "She wanted to be an ocean __________ and discover new species."
+                    ]
+                },
+                {
+                    "word": "fairy",
+                    "phonetic": "/ˈfeəri/",
+                    "meaning": "Nàng tiên / Bụt",
+                    "definition": "A mythical small humanlike creature with magical powers and wings.",
+                    "example": "The tiny fairy waved her magic wand to grant a wish.\nFairies are said to live in enchanted forest glades.\nShe dressed up as a pink woodland fairy.",
+                    "quizzes": [
+                        "A small magical __________ appeared with delicate wings.",
+                        "The good __________ sprinkled magic dust over the sleeping maiden.",
+                        "Legend says that __________s hide deep inside the magical woods."
+                    ]
+                },
+                {
+                    "word": "fairy godmother",
+                    "phonetic": "/ˈfeəri ˈɡɒdmʌðər/",
+                    "meaning": "Bà tiên ban phép / Bà mẹ đỡ đầu",
+                    "definition": "A female spirit who magically helps a godchild in fairy tales.",
+                    "example": "Cinderella's fairy godmother turned a pumpkin into a carriage.\nHer fairy godmother gave her a stunning gown and glass slippers.\nThe fairy godmother promised to protect her.",
+                    "quizzes": [
+                        "Cinderella's __________ transformed a pumpkin into a gold carriage.",
+                        "With a tap of her wand, the __________ helped her attend the ball.",
+                        "The kind __________ granted her godchild three wonderful wishes."
+                    ]
+                },
+                {
+                    "word": "genie",
+                    "phonetic": "/ˈdʒiːni/",
+                    "meaning": "Thần đèn",
+                    "definition": "A spirit imprisoned in a bottle or lamp who grants wishes.",
+                    "example": "Aladdin rubbed the magic lamp and a genie appeared.\nThe genie granted him three wishes.\nThe powerful genie lived inside the brass lamp for centuries.",
+                    "quizzes": [
+                        "When Aladdin rubbed the magic lamp, a powerful __________ appeared.",
+                        "The generous __________ offered to grant three magical wishes.",
+                        "The __________ returned into the lamp after fulfilling the wish."
+                    ]
+                },
+                {
+                    "word": "ghost",
+                    "phonetic": "/ɡəʊst/",
+                    "meaning": "Con ma / Hồn ma",
+                    "definition": "An apparition of a dead person that appears to the living.",
+                    "example": "They told scary stories about a ghost haunting the castle.\nA pale ghost floated silently down the hallway.\nDo you believe that ghosts really exist?",
+                    "quizzes": [
+                        "People say a friendly __________ haunts the old abandoned house.",
+                        "The frightened children saw a white __________ float through the door.",
+                        "He told a creepy story about a ghost ship at night."
+                    ]
+                },
+                {
+                    "word": "giant",
+                    "phonetic": "/ˈdʒaɪənt/",
+                    "meaning": "Người khổng lồ",
+                    "definition": "An imaginary creature of human form but of superhuman size.",
+                    "example": "The angry giant stomped his massive feet on the ground.\nA giant lived in a castle above the beanstalk.\nThe giant roared, 'Fee-fi-fo-fum!'",
+                    "quizzes": [
+                        "The huge __________ stomped through the forest, shaking the trees.",
+                        "Jack hid behind a cupboard so the hungry __________ would not see him.",
+                        "In fairy tales, a __________ is often pictured as huge and powerful."
+                    ]
+                },
+                {
+                    "word": "glass slipper",
+                    "phonetic": "/ɡlɑːs ˈslɪpər/",
+                    "meaning": "Giày thủy tinh",
+                    "definition": "A mythical shoe made entirely of glass, famous from Cinderella.",
+                    "example": "Cinderella accidentally lost her glass slipper on the stairs.\nThe prince searched the kingdom for the girl who fit the glass slipper.\nThe glass slipper fit her foot perfectly.",
+                    "quizzes": [
+                        "Cinderella dropped her sparkling __________ while running down the castle steps.",
+                        "The prince searched everywhere to find the owner of the lost __________.",
+                        "Only Cinderella's foot could fit into the delicate __________."
+                    ]
+                },
+                {
+                    "word": "horse and carriage",
+                    "phonetic": "/hɔːs ənd ˈkærɪdʒ/",
+                    "meaning": "Xe ngựa kéo",
+                    "definition": "A four-wheeled passenger vehicle pulled by horses.",
+                    "example": "The royal couple rode through the city in a horse and carriage.\nA splendid horse and carriage waited outside the palace.\nBefore cars were invented, people traveled by horse and carriage.",
+                    "quizzes": [
+                        "The princess arrived at the ball in a grand __________.",
+                        "They enjoyed a romantic ride in a traditional __________.",
+                        "A handsome black steed pulled the elegant royal __________."
+                    ]
+                },
+                {
+                    "word": "king",
+                    "phonetic": "/kɪŋ/",
+                    "meaning": "Nhà vua / Quốc vương",
+                    "definition": "The male ruler of an independent state, especially one who inherits position.",
+                    "example": "The king ruled his country with wisdom and fairness.\nEveryone bowed down before the king.\nThe king sat upon a majestic throne.",
+                    "quizzes": [
+                        "The wise __________ ruled over the kingdom with fairness and justice.",
+                        "All the subjects bowed politely when the __________ entered the court.",
+                        "The prince will become the next __________ of the realm."
+                    ]
+                },
+                {
+                    "word": "knight",
+                    "phonetic": "/naɪt/",
+                    "meaning": "Hiệp sĩ",
+                    "definition": "A nobleman who served his sovereign as a mounted man-at-arms.",
+                    "example": "The knight fought bravely to protect his kingdom.\nHe was knighted by the queen for his heroic actions.\nA valiant knight mounted his white horse.",
+                    "quizzes": [
+                        "The brave __________ rode on horseback to protect the villagers.",
+                        "A loyal __________ pledged to defend the royal family against enemies.",
+                        "He drew his sharp sword like a true __________ in shining armor."
+                    ]
+                },
+                {
+                    "word": "lamp",
+                    "phonetic": "/læmp/",
+                    "meaning": "Cây đèn / Đèn thần",
+                    "definition": "A device or vessel for producing light, often holding a genie in stories.",
+                    "example": "Aladdin found a dusty golden lamp inside the magic cave.\nRubbing the magic lamp summoned a genie.\nShe lit an oil lamp to read her storybook.",
+                    "quizzes": [
+                        "Aladdin wiped the dirt off the mysterious magic __________.",
+                        "A magical genie came out of the golden oil __________.",
+                        "She held a glowing lantern __________ to light her way in the dark."
+                    ]
+                },
+                {
+                    "word": "magic carpet",
+                    "phonetic": "/ˈmædʒɪk ˈkɑːpɪt/",
+                    "meaning": "Thảm thần",
+                    "definition": "A legendary carpet that can transport people through the air.",
+                    "example": "They flew over starry skies on a magic carpet.\nThe magic carpet soared high above city rooftops.\nHe wished he owned a magic carpet to travel the world.",
+                    "quizzes": [
+                        "Aladdin and Jasmine flew through the night sky on a __________.",
+                        "The legendary __________ floated smoothly through the clouds.",
+                        "He dreamed of soaring over mountains on a flying __________."
+                    ]
+                },
+                {
+                    "word": "mermaid",
+                    "phonetic": "/ˈmɜːmeɪd/",
+                    "meaning": "Nàng tiên cá",
+                    "definition": "A mythical sea creature with a woman's head and a fish's tail.",
+                    "example": "The little mermaid swam to the surface to look at the sunset.\nMermaids are legendary creatures living deep under the ocean.\nShe sang a beautiful melody while resting on a sea rock.",
+                    "quizzes": [
+                        "The beautiful __________ sat on a rock combing her long golden hair.",
+                        "In legends, a __________ has the upper body of a woman and the tail of a fish.",
+                        "The little __________ traded her voice for human legs."
+                    ]
+                },
+                {
+                    "word": "monster",
+                    "phonetic": "/ˈmɒnstər/",
+                    "meaning": "Quái vật",
+                    "definition": "An imaginary creature that is large, ugly, and frightening.",
+                    "example": "The hero defeated the sea monster that threatened the ship.\nChildren sometimes worry about a monster hiding under the bed.\nA scary monster with sharp claws appeared in the nightmare.",
+                    "quizzes": [
+                        "A terrifying ocean __________ rose up from the dark waves.",
+                        "The hero was not afraid to fight the hideous giant __________.",
+                        "The story tells of a scary __________ that lived deep inside the forest."
+                    ]
+                },
+                {
+                    "word": "mouse",
+                    "phonetic": "/maʊs/",
+                    "meaning": "Con chuột",
+                    "definition": "A small rodent, often turned into horses or servants in fairy tales.",
+                    "example": "The tiny mouse squeaked quietly under the floorboards.\nIn Cinderella, four mice were turned into white horses.\nThe lion spared the life of the small mouse.",
+                    "quizzes": [
+                        "The fairy godmother turned four friendly __________s into white horses.",
+                        "A little __________ helped the lion by chewing through the net.",
+                        "The tiny __________ nibbled on a piece of yellow cheese."
+                    ]
+                },
+                {
+                    "word": "palace",
+                    "phonetic": "/ˈpæləs/",
+                    "meaning": "Cung điện",
+                    "definition": "The official residence of a sovereign, chief of state, or high dignitary.",
+                    "example": "The royal ball was held inside the grand palace.\nBeautiful gardens surrounded the emperor's palace.\nServants worked busy hours inside the palace walls.",
+                    "quizzes": [
+                        "The king invited everyone in the town to a grand ball at his __________.",
+                        "Golden gates welcomed guests into the magnificent royal __________.",
+                        "The princess spent her afternoon walking around the __________ garden."
+                    ]
+                },
+                {
+                    "word": "parrot",
+                    "phonetic": "/ˈpærət/",
+                    "meaning": "Con chim vẹt",
+                    "definition": "A tropical bird often depicted as a companion to pirates.",
+                    "example": "The pirate had a colorful parrot perched on his shoulder.\nThe parrot mimicked everything the captain said.\nA tropical parrot has bright red and green feathers.",
+                    "quizzes": [
+                        "A colorful __________ sat on the pirate captain's shoulder and squawked.",
+                        "The smart __________ could repeat words spoken by its master.",
+                        "Bright yellow and green feathers covered the tropical __________."
+                    ]
+                },
+                {
+                    "word": "pirate",
+                    "phonetic": "/ˈpaɪrət/",
+                    "meaning": "Cướp biển / Hải tặc",
+                    "definition": "A person who attacks and robs ships at sea.",
+                    "example": "The pirate captain searched for buried treasure on the island.\nPirates flew a black flag decorated with a skull and crossbones.\nThe fierce pirate drew his sword.",
+                    "quizzes": [
+                        "The notorious __________ captain searched the deserted island for treasure.",
+                        "A brave sailor fought off the __________s who raided his vessel.",
+                        "The __________ raised a black flag as his ship sailed into the harbor."
+                    ]
+                },
+                {
+                    "word": "pirate ship",
+                    "phonetic": "/ˈpaɪrət ʃɪp/",
+                    "meaning": "Tàu cướp biển",
+                    "definition": "A vessel used by sea robbers to attack other ships.",
+                    "example": "The pirate ship sailed across stormy ocean waters.\nCannonballs fired from the pirate ship during the battle.\nThey spotted a wooden pirate ship on the horizon.",
+                    "quizzes": [
+                        "A large wooden __________ with black sails approached the harbor.",
+                        "Cannons fired from the side of the incoming __________.",
+                        "The captain stood proudly at the wheel of his fast __________."
+                    ]
+                },
+                {
+                    "word": "prince",
+                    "phonetic": "/prɪns/",
+                    "meaning": "Hoàng tử",
+                    "definition": "The son of a monarch or the ruler of a small state.",
+                    "example": "The handsome prince danced with Cinderella at the ball.\nPrince Charming searched for the maiden who wore the glass slipper.\nThe young prince studied hard to prepare for his future rule.",
+                    "quizzes": [
+                        "The handsome __________ danced all night with Cinderella.",
+                        "The young __________ rode his white horse into the kingdom.",
+                        "He was the brave son of the king, known as the royal __________."
+                    ]
+                },
+                {
+                    "word": "princess",
+                    "phonetic": "/ˌprɪnˈses/",
+                    "meaning": "Công chúa",
+                    "definition": "The daughter of a monarch or the wife of a prince.",
+                    "example": "The princess lived safely inside the high castle tower.\nA beautiful princess kissed the frog to break the spell.\nThe entire kingdom celebrated the birth of the new princess.",
+                    "quizzes": [
+                        "The beautiful __________ wore a pink dress and a silver tiara.",
+                        "A brave knight rescued the captive __________ from the dragon.",
+                        "In many fairy tales, the princess marries a kind young man."
+                    ]
+                },
+                {
+                    "word": "queen",
+                    "phonetic": "/kwiːn/",
+                    "meaning": "Nữ hoàng / Hoàng hậu",
+                    "definition": "The female ruler of an independent state or wife of a king.",
+                    "example": "The evil queen looked into her magic mirror every morning.\nThe gracious queen smiled warmly at her subjects.\nShe was crowned queen after her father passed away.",
+                    "quizzes": [
+                        "The evil __________ asked her magic mirror, 'Who is the fairest of them all?'",
+                        "The gracious __________ greeted all the townspeople at the palace gate.",
+                        "She ruled the kingdom wisely as the reigning __________."
+                    ]
+                },
+                {
+                    "word": "servant",
+                    "phonetic": "/ˈsɜːvənt/",
+                    "meaning": "Người hầu / Đầy tớ",
+                    "definition": "A person who performs duties for others, especially in a household.",
+                    "example": "The loyal servant cleaned the royal dining room.\nCinderella worked hard as a servant in her stepmother's house.\nMany servants prepared the grand feast for the feast day.",
+                    "quizzes": [
+                        "Cinderella was treated like a humble __________ by her cruel stepmother.",
+                        "The loyal __________ brought hot tea and meals to the king.",
+                        "Servants worked hard to keep the massive palace clean."
+                    ]
+                },
+                {
+                    "word": "shield",
+                    "phonetic": "/ʃiːld/",
+                    "meaning": "Cái khiên / Khiên đỡ",
+                    "definition": "A broad piece of armor carried on the arm to deflect sword blows.",
+                    "example": "The knight used his heavy metal shield to block the dragon's fire.\nA crest was painted on the warrior's wooden shield.\nHe held up his shield during the duel.",
+                    "quizzes": [
+                        "The warrior held up his steel __________ to block the opponent's sword attack.",
+                        "A lion emblem was painted on the knight's heavy __________.",
+                        "He deflected the sharp arrow with his wooden __________."
+                    ]
+                },
+                {
+                    "word": "spy",
+                    "phonetic": "/spaɪ/",
+                    "meaning": "Điệp viên / Gián điệp",
+                    "definition": "A person employed to collect secret information about an enemy.",
+                    "example": "The secret spy gathered confidential plans from the enemy camp.\nA clever spy moved quietly through the dark castle corridors.\nHe worked undercover as a royal spy.",
+                    "quizzes": [
+                        "The secret __________ gathered important information without being caught.",
+                        "A clever __________ sneaked into the enemy fortress at night.",
+                        "He wore a dark cloak so no one would recognize him as a __________."
+                    ]
+                },
+                {
+                    "word": "superhero",
+                    "phonetic": "/ˈsuːpəhɪərəʊ/",
+                    "meaning": "Siêu nhân / Siêu anh hùng",
+                    "definition": "A benevolent fictional character possessing extraordinary powers.",
+                    "example": "The superhero flew through the sky to rescue citizens from danger.\nEvery comic book superhero has a unique special power.\nChildren love wearing superhero costumes at Halloween.",
+                    "quizzes": [
+                        "The flying __________ saved the city from the villain's plot.",
+                        "Children admire the brave __________ who fights for justice.",
+                        "He put on his red cape to look like a comic book __________."
+                    ]
+                },
+                {
+                    "word": "sword",
+                    "phonetic": "/sɔːd/",
+                    "meaning": "Thanh kiếm",
+                    "definition": "A weapon with a long metal blade used for slashing and thrusting.",
+                    "example": "King Arthur pulled the legendary sword Excalibur from the stone.\nThe knight unsheathed his sharp steel sword.\nThey practiced fencing with wooden swords.",
+                    "quizzes": [
+                        "King Arthur pulled the legendary steel __________ from the solid stone.",
+                        "The knight drew his sharp __________ to defend his king.",
+                        "He carried a shiny golden __________ attached to his belt."
+                    ]
+                },
+                {
+                    "word": "toad",
+                    "phonetic": "/təʊd/",
+                    "meaning": "Con cóc",
+                    "definition": "A tailless amphibian resembling a frog, often enchanted in stories.",
+                    "example": "The wicked witch turned the handsome prince into an ugly toad.\nA bumpy green toad sat quietly near the garden pond.\nThe princess kissed the toad, hoping it would turn back into a prince.",
+                    "quizzes": [
+                        "The witch cast a wicked spell that turned the prince into an ugly __________.",
+                        "A green __________ hopped out of the muddy pond.",
+                        "In fairy tales, kissing a __________ might turn it into a prince."
+                    ]
+                },
+                {
+                    "word": "tower",
+                    "phonetic": "/ˈtaʊər/",
+                    "meaning": "Tòa tháp",
+                    "definition": "A tall narrow building or part of a building, such as a castle stronghold.",
+                    "example": "Rapunzel let down her long golden hair from the high tower window.\nThe tall stone tower stood guard at the castle corner.\nThey climbed two hundred steps to reach the top of the tower.",
+                    "quizzes": [
+                        "Rapunzel was locked in a tall stone __________ with no doors.",
+                        "The castle's highest __________ provided a great view of the entire land.",
+                        "They climbed up the narrow stairs of the old clock __________."
+                    ]
+                },
+                {
+                    "word": "treasure",
+                    "phonetic": "/ˈtreʒər/",
+                    "meaning": "Kho báu / Báu vật",
+                    "definition": "A quantity of precious metals, gems, or other valuable objects.",
+                    "example": "The pirates buried their stolen treasure on a remote island.\nA map marked with an 'X' led them to the hidden treasure.\nThey searched for lost royal treasure in the ancient ruins.",
+                    "quizzes": [
+                        "The pirates buried their gold __________ on a hidden deserted island.",
+                        "An old map marked with an 'X' revealed where the secret __________ lay.",
+                        "They unlocked the iron box and found sparkling diamond __________."
+                    ]
+                },
+                {
+                    "word": "treasure chest",
+                    "phonetic": "/ˈtreʒər tʃest/",
+                    "meaning": "Rương kho báu",
+                    "definition": "A large, sturdy box used to hold money and jewels.",
+                    "example": "They unearthed a heavy wooden treasure chest filled with gold coins.\nThe lock on the old treasure chest was rusted shut.\nPirates locked their loot inside a wooden treasure chest.",
+                    "quizzes": [
+                        "The divers found an old wooden __________ filled with gold coins on the seabed.",
+                        "They pried open the heavy lid of the antique __________.",
+                        "The pirate captain guarded his wooden __________ with his life."
+                    ]
+                },
+                {
+                    "word": "unicorn",
+                    "phonetic": "/ˈjuːnɪkɔːn/",
+                    "meaning": "Kỳ lân / Ngựa một sừng",
+                    "definition": "A mythical creature resembling a horse with a single horn.",
+                    "example": "The magical unicorn galloped gracefully through the mystic forest.\nA single glowing horn grew from the forehead of the white unicorn.\nStories describe the unicorn as a pure and gentle creature.",
+                    "quizzes": [
+                        "A beautiful white __________ with a single spiraled horn appeared in the forest.",
+                        "Mythology describes the magical __________ as a symbol of purity.",
+                        "The little girl loved reading books about wild __________s."
+                    ]
+                },
+                {
+                    "word": "wand",
+                    "phonetic": "/wɒnd/",
+                    "meaning": "Đũa phép",
+                    "definition": "A slender stick used by magicians, fairies, or witches to cast spells.",
+                    "example": "The magician flicked his magic wand and a rabbit popped out of the hat.\nThe fairy godmother tapped the pumpkin with her glowing wand.\nShe bought a wooden wand at the magic shop.",
+                    "quizzes": [
+                        "The fairy godmother waved her glowing magic __________ to cast a spell.",
+                        "The magician tapped his wooden __________ against the hat.",
+                        "With a flick of her magical __________, the pumpkin turned into a coach."
+                    ]
+                },
+                {
+                    "word": "witch",
+                    "phonetic": "/wɪtʃ/",
+                    "meaning": "Mụ phù thủy",
+                    "definition": "A woman thought to have magic powers, typically depicted with a pointed hat.",
+                    "example": "The wicked witch offered Snow White a poisoned apple.\nA witch flew across the dark night sky on her broomstick.\nShe wore a tall pointed black hat like a traditional witch.",
+                    "quizzes": [
+                        "The wicked __________ gave Snow White a shiny poisoned red apple.",
+                        "An old __________ lived in a small gingerbread house in the woods.",
+                        "She wore a pointy black hat and acted like a spooky Halloween __________."
+                    ]
+                },
+                {
+                    "word": "witch's cat",
+                    "phonetic": "/ˈwɪtʃɪz kæt/",
+                    "meaning": "Con mèo của phù thủy",
+                    "definition": "A black cat companion kept by a witch.",
+                    "example": "A mysterious black cat served as the witch's cat companion.\nThe witch's cat sat quietly beside the bubbling cauldron.\nLegend says a witch's cat brings magical luck.",
+                    "quizzes": [
+                        "A sleek black __________ sat on the windowsill beside the cauldron.",
+                        "In horror tales, a black __________ often accompanies an evil sorceress.",
+                        "The old hag stroked her loyal __________ while reading her spell book."
+                    ]
+                },
+                {
+                    "word": "wizard",
+                    "phonetic": "/ˈwɪzəd/",
+                    "meaning": "Pháp sư / Phù thủy nam",
+                    "definition": "A man who has magical powers; a sorcerer.",
+                    "example": "The wise wizard Merlin guided the young king.\nA wizard with a long white beard read from a heavy book of spells.\nThe powerful wizard cast a spell of protection.",
+                    "quizzes": [
+                        "The powerful old __________ Merlin guided King Arthur with his wisdom.",
+                        "A wise __________ wearing a blue robe cast a spell to protect the kingdom.",
+                        "The young sorcerer wanted to become the greatest __________ in the land."
+                    ]
+                },
+                {
+                    "word": "wolf",
+                    "phonetic": "/wʊlf/",
+                    "meaning": "Con chó sói",
+                    "definition": "A wild canine species, frequently featured as an antagonist in fables.",
+                    "example": "The big bad wolf blew down the straw house of the little pig.\nA hungry wolf howled loudly at the full moon.\nRed Riding Hood met a sneaky wolf in the dark woods.",
+                    "quizzes": [
+                        "The big bad __________ tried to blow down the three little pigs' brick house.",
+                        "Little Red Riding Hood met a clever __________ in the dark woods.",
+                        "A hungry __________ howled at the full moon in the middle of the night."
+                    ]
+                }
+            ],
+            "grammars": []
         }
     ]
 }

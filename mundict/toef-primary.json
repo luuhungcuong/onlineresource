@@ -1475,6 +1475,93 @@
                     ]
                 }
             ]
+        },
+        {
+            "sectionId": "food-cooking",
+            "sectionName": "Lesson 11 – Vocabulary List (Food & Cooking)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "chef",
+                    "phonetic": "/ʃef/",
+                    "meaning": "đầu bếp",
+                    "definition": "",
+                    "example": "The chef is cooking a new dish.\nĐầu bếp đang nấu một món mới.",
+                    "quizzes": []
+                },
+                {
+                    "word": "boil",
+                    "phonetic": "/bɔɪl/",
+                    "meaning": "luộc, đun sôi",
+                    "definition": "",
+                    "example": "Please boil the eggs for breakfast.\nLàm ơn luộc trứng cho bữa sáng.",
+                    "quizzes": []
+                },
+                {
+                    "word": "fry",
+                    "phonetic": "/fraɪ/",
+                    "meaning": "chiên, rán",
+                    "definition": "",
+                    "example": "We fry fish in a pan.\nChúng tôi chiên cá trong chảo.",
+                    "quizzes": []
+                },
+                {
+                    "word": "bake",
+                    "phonetic": "/beɪk/",
+                    "meaning": "nướng",
+                    "definition": "",
+                    "example": "She bakes cookies every Sunday.\nCô ấy nướng bánh quy mỗi Chủ Nhật.",
+                    "quizzes": []
+                },
+                {
+                    "word": "mix",
+                    "phonetic": "/mɪks/",
+                    "meaning": "trộn",
+                    "definition": "",
+                    "example": "Mix the flour and eggs together.\nTrộn bột và trứng lại với nhau.",
+                    "quizzes": []
+                },
+                {
+                    "word": "delicious",
+                    "phonetic": "/dɪˈlɪʃəs/",
+                    "meaning": "ngon",
+                    "definition": "",
+                    "example": "The soup tastes delicious.\nSúp có vị rất ngon.",
+                    "quizzes": []
+                },
+                {
+                    "word": "spicy",
+                    "phonetic": "/ˈspaɪsi/",
+                    "meaning": "cay",
+                    "definition": "",
+                    "example": "This curry is too spicy for me.\nMón cà ri này quá cay với tôi.",
+                    "quizzes": []
+                },
+                {
+                    "word": "sour",
+                    "phonetic": "/ˈsaʊər/",
+                    "meaning": "chua",
+                    "definition": "",
+                    "example": "The lemon tastes sour.\nQuả chanh có vị chua.",
+                    "quizzes": []
+                },
+                {
+                    "word": "sweet",
+                    "phonetic": "/swiːt/",
+                    "meaning": "ngọt",
+                    "definition": "",
+                    "example": "I like sweet desserts.\nTôi thích các món tráng miệng ngọt.",
+                    "quizzes": []
+                },
+                {
+                    "word": "salty",
+                    "phonetic": "/ˈsɔːlti/",
+                    "meaning": "mặn",
+                    "definition": "",
+                    "example": "The soup is too salty.\nSúp mặn quá.",
+                    "quizzes": []
+                }
+            ]
         }
     ]
 }

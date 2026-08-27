@@ -1,0 +1,1248 @@
+{
+    "programId": "ielts-100-c1-c2",
+    "programName": "100 TỪ C1-C2 DÙNG TRONG IELTS",
+    "sections": [
+        {
+            "sectionId": "nhom-giai-thich",
+            "sectionName": "I. NHÓM GIẢI THÍCH – NGUYÊN NHÂN – ẢNH HƯỞNG",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "Mitigate",
+                    "phonetic": "/ˈmɪtɪɡeɪt/",
+                    "meaning": "giảm thiểu",
+                    "definition": "To make something less severe, harmful, or painful.",
+                    "example": "Policies are needed to mitigate environmental damage.\nTrees can help to mitigate the effects of air pollution.\nWe must find ways to mitigate the risks associated with this new technology.",
+                    "quizzes": [
+                        "Policies are needed to __________ environmental damage.",
+                        "Trees can help to __________ the effects of air pollution.",
+                        "We must find ways to __________ the risks associated with this new technology."
+                    ]
+                },
+                {
+                    "word": "Exacerbate",
+                    "phonetic": "/ɪɡˈzæsəbeɪt/",
+                    "meaning": "làm trầm trọng",
+                    "definition": "To make a problem, bad situation, or negative feeling worse.",
+                    "example": "High taxes may exacerbate economic inequality.\nHis angry comments only served to exacerbate the tension in the room.\nThe lack of rain will exacerbate the already severe drought.",
+                    "quizzes": [
+                        "High taxes may __________ economic inequality.",
+                        "His angry comments only served to __________ the tension in the room.",
+                        "The lack of rain will __________ the already severe drought."
+                    ]
+                },
+                {
+                    "word": "Alleviate",
+                    "phonetic": "/əˈliːvieɪt/",
+                    "meaning": "làm giảm",
+                    "definition": "To make pain or problems less severe.",
+                    "example": "New measures aim to alleviate traffic problems.\nThe doctor prescribed some medication to alleviate the pain.\nCharity organisations are working hard to alleviate poverty in the region.",
+                    "quizzes": [
+                        "New measures aim to __________ traffic problems.",
+                        "The doctor prescribed some medication to __________ the pain.",
+                        "Charity organisations are working hard to __________ poverty in the region."
+                    ]
+                },
+                {
+                    "word": "Trigger",
+                    "phonetic": "/ˈtrɪɡər/",
+                    "meaning": "kích hoạt, gây ra",
+                    "definition": "To cause something to start or happen.",
+                    "example": "Job loss can trigger mental health issues.\nCertain foods can trigger an allergic reaction in sensitive individuals.\nThe announcement triggered a massive drop in the stock market.",
+                    "quizzes": [
+                        "Job loss can __________ mental health issues.",
+                        "Certain foods can __________ an allergic reaction in sensitive individuals.",
+                        "The announcement __________ a massive drop in the stock market."
+                    ]
+                },
+                {
+                    "word": "Fuel",
+                    "phonetic": "/ˈfjuːəl/",
+                    "meaning": "làm tăng, kích động",
+                    "definition": "To make a situation or feeling worse or more intense.",
+                    "example": "Social media fuels unrealistic beauty standards.\nThe rumors fuelled public anxiety about the economy.\nHis aggressive speech fueled the anger of the protesters.",
+                    "quizzes": [
+                        "Social media __________ unrealistic beauty standards.",
+                        "The rumors __________ public anxiety about the economy.",
+                        "His aggressive speech __________ the anger of the protesters."
+                    ]
+                },
+                {
+                    "word": "Prompt",
+                    "phonetic": "/prɒmpt/",
+                    "meaning": "thúc đẩy",
+                    "definition": "To cause someone to take action; to cause something to happen.",
+                    "example": "The crisis prompted the government to act faster.\nHis sudden departure prompted much speculation among his colleagues.\nThe letter prompted him to make a difficult decision.",
+                    "quizzes": [
+                        "The crisis __________ the government to act faster.",
+                        "His sudden departure __________ much speculation among his colleagues.",
+                        "The letter __________ him to make a difficult decision."
+                    ]
+                },
+                {
+                    "word": "Reinforce",
+                    "phonetic": "/ˌriːɪnˈfɔːs/",
+                    "meaning": "củng cố",
+                    "definition": "To make an idea, feeling, or structural material stronger.",
+                    "example": "Parents should reinforce positive behaviour.\nThe building was reinforced with steel beams to withstand earthquakes.\nThese latest figures reinforce the view that the economy is recovering.",
+                    "quizzes": [
+                        "Parents should __________ positive behaviour.",
+                        "The building was __________ with steel beams to withstand earthquakes.",
+                        "These latest figures __________ the view that the economy is recovering."
+                    ]
+                },
+                {
+                    "word": "Undermine",
+                    "phonetic": "/ˌʌndəˈmaɪn/",
+                    "meaning": "làm suy yếu",
+                    "definition": "To gradually weaken or destroy someone or something.",
+                    "example": "Misinformation undermines public trust.\nConstant criticism can severely undermine a child's confidence.\nThey accused him of secretly trying to undermine the team's efforts.",
+                    "quizzes": [
+                        "Misinformation __________ public trust.",
+                        "Constant criticism can severely __________ a child's confidence.",
+                        "They accused him of secretly trying to __________ the team's efforts."
+                    ]
+                },
+                {
+                    "word": "Cultivate",
+                    "phonetic": "/ˈkʌltɪveɪt/",
+                    "meaning": "nuôi dưỡng",
+                    "definition": "To try to develop or improve a particular skill, quality, or relationship.",
+                    "example": "Schools should cultivate creativity among students.\nShe has carefully cultivated her image as a successful businesswoman.\nIt takes time and effort to cultivate lasting friendships.",
+                    "quizzes": [
+                        "Schools should __________ creativity among students.",
+                        "She has carefully __________ her image as a successful businesswoman.",
+                        "It takes time and effort to __________ lasting friendships."
+                    ]
+                },
+                {
+                    "word": "Hamper",
+                    "phonetic": "/ˈhæmpər/",
+                    "meaning": "cản trở",
+                    "definition": "To prevent someone from doing something easily, or to slow down progress.",
+                    "example": "Strict rules may hamper innovation.\nRescue efforts were heavily hampered by the severe weather conditions.\nLack of funding will hamper the project's development.",
+                    "quizzes": [
+                        "Strict rules may __________ innovation.",
+                        "Rescue efforts were heavily __________ by the severe weather conditions.",
+                        "Lack of funding will __________ the project's development."
+                    ]
+                },
+                {
+                    "word": "Encroach on",
+                    "phonetic": "/ɪnˈkrəʊtʃ ɒn/",
+                    "meaning": "xâm lấn",
+                    "definition": "To gradually take more of someone's time, space, or rights than you should.",
+                    "example": "Urban expansion encroaches on natural habitats.\nI won't let my job encroach on my family life.\nFarmers complained that the new regulations were encroaching on their freedoms.",
+                    "quizzes": [
+                        "Urban expansion __________ natural habitats.",
+                        "I won't let my job __________ my family life.",
+                        "Farmers complained that the new regulations were __________ their freedoms."
+                    ]
+                },
+                {
+                    "word": "Erode",
+                    "phonetic": "/ɪˈrəʊd/",
+                    "meaning": "bào mòn",
+                    "definition": "To gradually destroy something or make it weaker.",
+                    "example": "Corruption erodes people's faith in the system.\nThe coastline has been slowly eroded by the powerful waves.\nYears of stress slowly eroded his mental health.",
+                    "quizzes": [
+                        "Corruption __________ people's faith in the system.",
+                        "The coastline has been slowly __________ by the powerful waves.",
+                        "Years of stress slowly __________ his mental health."
+                    ]
+                },
+                {
+                    "word": "Violate",
+                    "phonetic": "/ˈvaɪəleɪt/",
+                    "meaning": "vi phạm",
+                    "definition": "To break or act against a law, agreement, or principle.",
+                    "example": "These policies violate basic human rights.\nThe company was fined heavily for violating environmental regulations.\nReading his private diary would violate his privacy.",
+                    "quizzes": [
+                        "These policies __________ basic human rights.",
+                        "The company was fined heavily for __________ environmental regulations.",
+                        "Reading his private diary would __________ his privacy."
+                    ]
+                },
+                {
+                    "word": "Facilitate",
+                    "phonetic": "/fəˈsɪlɪteɪt/",
+                    "meaning": "tạo điều kiện",
+                    "definition": "To make an action or a process possible or easier.",
+                    "example": "Technology facilitates cross-border communication.\nThe new ramp will facilitate access for wheelchair users.\nA good moderator facilitates a productive discussion among participants.",
+                    "quizzes": [
+                        "Technology __________ cross-border communication.",
+                        "The new ramp will __________ access for wheelchair users.",
+                        "A good moderator __________ a productive discussion among participants."
+                    ]
+                },
+                {
+                    "word": "Inhibit",
+                    "phonetic": "/ɪnˈhɪbɪt/",
+                    "meaning": "kìm hãm",
+                    "definition": "To prevent something from happening or make it happen more slowly.",
+                    "example": "Fear of failure inhibits creativity.\nCold weather inhibits the growth of many tropical plants.\nStrict regulations can sometimes inhibit economic expansion.",
+                    "quizzes": [
+                        "Fear of failure __________ creativity.",
+                        "Cold weather __________ the growth of many tropical plants.",
+                        "Strict regulations can sometimes __________ economic expansion."
+                    ]
+                },
+                {
+                    "word": "Accelerate",
+                    "phonetic": "/əkˈseləreɪt/",
+                    "meaning": "đẩy nhanh",
+                    "definition": "To happen or make something happen faster or earlier.",
+                    "example": "Automation accelerates industrial growth.\nThe government introduced tax cuts to accelerate the economic recovery.\nExposure to the sun can accelerate the ageing process of the skin.",
+                    "quizzes": [
+                        "Automation __________ industrial growth.",
+                        "The government introduced tax cuts to __________ the economic recovery.",
+                        "Exposure to the sun can __________ the ageing process of the skin."
+                    ]
+                },
+                {
+                    "word": "Exert (influence/pressure)",
+                    "phonetic": "/ɪɡˈzɜːt/",
+                    "meaning": "gây ảnh hưởng, gây áp lực",
+                    "definition": "To use something such as authority, power, influence, etc. in order to make something happen.",
+                    "example": "Parents often exert pressure on children to succeed.\nLarge corporations can exert considerable influence over government policy.\nEnvironmental groups are exerting pressure on the company to change its practices.",
+                    "quizzes": [
+                        "Parents often __________ pressure on children to succeed.",
+                        "Large corporations can __________ considerable influence over government policy.",
+                        "Environmental groups are __________ pressure on the company to change its practices."
+                    ]
+                },
+                {
+                    "word": "Entail",
+                    "phonetic": "/ɪnˈteɪl/",
+                    "meaning": "kéo theo, đòi hỏi",
+                    "definition": "To involve something as a necessary part or consequence.",
+                    "example": "The job entails frequent travel.\nStarting your own business entails a lot of hard work and risk.\nFixing the roof will entail replacing several wooden beams.",
+                    "quizzes": [
+                        "The job __________ frequent travel.",
+                        "Starting your own business __________ a lot of hard work and risk.",
+                        "Fixing the roof will __________ replacing several wooden beams."
+                    ]
+                },
+                {
+                    "word": "Contribute to",
+                    "phonetic": "/kənˈtrɪbjuːt tuː/",
+                    "meaning": "góp phần",
+                    "definition": "To help to cause an event or situation.",
+                    "example": "Unhealthy diets contribute to obesity.\nSeveral factors contributed to the failure of the project.\nStress often contributes to a weakened immune system.",
+                    "quizzes": [
+                        "Unhealthy diets __________ obesity.",
+                        "Several factors __________ the failure of the project.",
+                        "Stress often __________ a weakened immune system."
+                    ]
+                },
+                {
+                    "word": "Yield",
+                    "phonetic": "/jiːld/",
+                    "meaning": "tạo ra, đem lại",
+                    "definition": "To produce or provide something, such as a result, profit, or crop.",
+                    "example": "The new method yields better results.\nThese investments are expected to yield a high return.\nThe investigation has not yet yielded any new evidence.",
+                    "quizzes": [
+                        "The new method __________ better results.",
+                        "These investments are expected to __________ a high return.",
+                        "The investigation has not yet __________ any new evidence."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "nhom-danh-gia",
+            "sectionName": "II. NHÓM ĐÁNH GIÁ – NGHĨA TÍCH CỰC/TIÊU CỰC",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "Beneficial",
+                    "phonetic": "/ˌbenɪˈfɪʃl/",
+                    "meaning": "có lợi",
+                    "definition": "Helpful, useful, or producing good results.",
+                    "example": "Physical activity is beneficial for children.\nA moderate amount of sunlight is beneficial to your health.\nLearning a second language can be highly beneficial in the modern workplace.",
+                    "quizzes": [
+                        "Physical activity is __________ for children.",
+                        "A moderate amount of sunlight is __________ to your health.",
+                        "Learning a second language can be highly __________ in the modern workplace."
+                    ]
+                },
+                {
+                    "word": "Detrimental",
+                    "phonetic": "/ˌdetrɪˈmentl/",
+                    "meaning": "có hại",
+                    "definition": "Causing harm or damage.",
+                    "example": "Excessive screen time is detrimental to eyesight.\nSmoking has a highly detrimental effect on the lungs.\nThe budget cuts could be detrimental to the quality of education.",
+                    "quizzes": [
+                        "Excessive screen time is __________ to eyesight.",
+                        "Smoking has a highly __________ effect on the lungs.",
+                        "The budget cuts could be __________ to the quality of education."
+                    ]
+                },
+                {
+                    "word": "Feasible",
+                    "phonetic": "/ˈfiːzəbl/",
+                    "meaning": "khả thi",
+                    "definition": "Possible to do easily or conveniently; workable.",
+                    "example": "Building more metro lines is a feasible solution.\nIt's not financially feasible to expand the business right now.\nWe need to find a feasible alternative to our current plan.",
+                    "quizzes": [
+                        "Building more metro lines is a __________ solution.",
+                        "It's not financially __________ to expand the business right now.",
+                        "We need to find a __________ alternative to our current plan."
+                    ]
+                },
+                {
+                    "word": "Viable",
+                    "phonetic": "/ˈvaɪəbl/",
+                    "meaning": "khả thi",
+                    "definition": "Capable of working successfully; feasible.",
+                    "example": "Solar power is a viable alternative.\nThe company is no longer commercially viable without government subsidies.\nWe need to come up with a viable strategy for reducing debt.",
+                    "quizzes": [
+                        "Solar power is a __________ alternative.",
+                        "The company is no longer commercially __________ without government subsidies.",
+                        "We need to come up with a __________ strategy for reducing debt."
+                    ]
+                },
+                {
+                    "word": "Plausible",
+                    "phonetic": "/ˈplɔːzəbl/",
+                    "meaning": "hợp lý",
+                    "definition": "Seeming likely to be true, or able to be believed.",
+                    "example": "Her explanation seems plausible.\nThe police are looking for a plausible motive for the crime.\nIt's a plausible theory, but it hasn't been proven yet.",
+                    "quizzes": [
+                        "Her explanation seems __________.",
+                        "The police are looking for a __________ motive for the crime.",
+                        "It's a __________ theory, but it hasn't been proven yet."
+                    ]
+                },
+                {
+                    "word": "Inevitable",
+                    "phonetic": "/ɪnˈevɪtəbl/",
+                    "meaning": "không thể tránh khỏi",
+                    "definition": "Certain to happen and unable to be avoided or prevented.",
+                    "example": "Technological unemployment seems inevitable.\nWhen you're working such long hours, mistakes are inevitable.\nThe closure of the factory was an inevitable consequence of the economic crisis.",
+                    "quizzes": [
+                        "Technological unemployment seems __________.",
+                        "When you're working such long hours, mistakes are __________.",
+                        "The closure of the factory was an __________ consequence of the economic crisis."
+                    ]
+                },
+                {
+                    "word": "Prominent",
+                    "phonetic": "/ˈprɒmɪnənt/",
+                    "meaning": "nổi bật",
+                    "definition": "Important, well-known, or easily noticeable.",
+                    "example": "She is a prominent figure in environmental research.\nThe company logo was placed in a prominent position on the website.\nSeveral prominent politicians have spoken out against the new law.",
+                    "quizzes": [
+                        "She is a __________ figure in environmental research.",
+                        "The company logo was placed in a __________ position on the website.",
+                        "Several __________ politicians have spoken out against the new law."
+                    ]
+                },
+                {
+                    "word": "Substantial",
+                    "phonetic": "/səbˈstænʃl/",
+                    "meaning": "đáng kể",
+                    "definition": "Large in size, value, or importance.",
+                    "example": "Substantial progress has been made in AI.\nThe project required a substantial amount of time and money.\nThere was a substantial difference between the two proposals.",
+                    "quizzes": [
+                        "__________ progress has been made in AI.",
+                        "The project required a __________ amount of time and money.",
+                        "There was a __________ difference between the two proposals."
+                    ]
+                },
+                {
+                    "word": "Notable",
+                    "phonetic": "/ˈnəʊtəbl/",
+                    "meaning": "đáng chú ý",
+                    "definition": "Deserving of attention or notice; remarkable.",
+                    "example": "There has been a notable rise in tourism.\nOne notable feature of the city is its beautiful architecture.\nHe made a notable contribution to the field of medical research.",
+                    "quizzes": [
+                        "There has been a __________ rise in tourism.",
+                        "One __________ feature of the city is its beautiful architecture.",
+                        "He made a __________ contribution to the field of medical research."
+                    ]
+                },
+                {
+                    "word": "Marginal",
+                    "phonetic": "/ˈmɑːdʒɪnl/",
+                    "meaning": "nhỏ, không đáng kể",
+                    "definition": "Very small in amount or effect; not important.",
+                    "example": "The new policy had only a marginal effect.\nThere has been a marginal improvement in his condition.\nThe differences between the two products are only marginal.",
+                    "quizzes": [
+                        "The new policy had only a __________ effect.",
+                        "There has been a __________ improvement in his condition.",
+                        "The differences between the two products are only __________."
+                    ]
+                },
+                {
+                    "word": "Sustainable",
+                    "phonetic": "/səˈsteɪnəbl/",
+                    "meaning": "bền vững",
+                    "definition": "Able to be maintained or continued at a certain rate or level; environmentally friendly.",
+                    "example": "We must adopt sustainable farming practices.\nThe current rate of economic growth is not sustainable in the long term.\nThey are looking for a sustainable solution to the energy crisis.",
+                    "quizzes": [
+                        "We must adopt __________ farming practices.",
+                        "The current rate of economic growth is not __________ in the long term.",
+                        "They are looking for a __________ solution to the energy crisis."
+                    ]
+                },
+                {
+                    "word": "Sophisticated",
+                    "phonetic": "/səˈfɪstɪkeɪtɪd/",
+                    "meaning": "tinh vi, phức tạp",
+                    "definition": "Advanced, complex, and developed with high technology or refined taste.",
+                    "example": "Cybercriminals are using increasingly sophisticated tools.\nThe museum has a highly sophisticated security system.\nShe has very sophisticated taste in art and literature.",
+                    "quizzes": [
+                        "Cybercriminals are using increasingly __________ tools.",
+                        "The museum has a highly __________ security system.",
+                        "She has very __________ taste in art and literature."
+                    ]
+                },
+                {
+                    "word": "Resilient",
+                    "phonetic": "/rɪˈzɪliənt/",
+                    "meaning": "kiên cường, phục hồi tốt",
+                    "definition": "Able to recover quickly from difficult conditions or setbacks.",
+                    "example": "Children can be surprisingly resilient.\nThe economy proved to be highly resilient despite the global crisis.\nYou have to be resilient to succeed in this highly competitive industry.",
+                    "quizzes": [
+                        "Children can be surprisingly __________.",
+                        "The economy proved to be highly __________ despite the global crisis.",
+                        "You have to be __________ to succeed in this highly competitive industry."
+                    ]
+                },
+                {
+                    "word": "Controversial",
+                    "phonetic": "/ˌkɒntrəˈvɜːʃl/",
+                    "meaning": "gây tranh cãi",
+                    "definition": "Causing or likely to cause a lot of disagreement or argument.",
+                    "example": "Animal testing is a controversial topic.\nThe author's new book explores highly controversial political themes.\nThe referee made a highly controversial decision at the end of the match.",
+                    "quizzes": [
+                        "Animal testing is a __________ topic.",
+                        "The author's new book explores highly __________ political themes.",
+                        "The referee made a highly __________ decision at the end of the match."
+                    ]
+                },
+                {
+                    "word": "Compelling",
+                    "phonetic": "/kəmˈpelɪŋ/",
+                    "meaning": "thuyết phục",
+                    "definition": "Very exciting, interesting, or convincing.",
+                    "example": "The data presents a compelling argument.\nShe gave a highly compelling performance in the new film.\nThere is compelling evidence to suggest that the climate is changing.",
+                    "quizzes": [
+                        "The data presents a __________ argument.",
+                        "She gave a highly __________ performance in the new film.",
+                        "There is __________ evidence to suggest that the climate is changing."
+                    ]
+                },
+                {
+                    "word": "Erratic",
+                    "phonetic": "/ɪˈrætɪk/",
+                    "meaning": "thất thường",
+                    "definition": "Not even or regular in pattern or movement; unpredictable.",
+                    "example": "The weather has become increasingly erratic.\nHe has been exhibiting erratic behavior for the past few weeks.\nThe stock market has been highly erratic lately.",
+                    "quizzes": [
+                        "The weather has become increasingly __________.",
+                        "He has been exhibiting __________ behavior for the past few weeks.",
+                        "The stock market has been highly __________ lately."
+                    ]
+                },
+                {
+                    "word": "Extensive",
+                    "phonetic": "/ɪkˈstensɪv/",
+                    "meaning": "rộng, bao quát",
+                    "definition": "Covering a large area; having a great range or scale.",
+                    "example": "The report is based on extensive research.\nThe hurricane caused extensive damage to the coastal towns.\nShe has extensive knowledge of European history.",
+                    "quizzes": [
+                        "The report is based on __________ research.",
+                        "The hurricane caused __________ damage to the coastal towns.",
+                        "She has __________ knowledge of European history."
+                    ]
+                },
+                {
+                    "word": "Scarce",
+                    "phonetic": "/skeəs/",
+                    "meaning": "khan hiếm",
+                    "definition": "Not available in necessary amounts, or rare.",
+                    "example": "Clean water is becoming scarce.\nFood and fuel were extremely scarce during the harsh winter.\nGood quality timber is becoming increasingly scarce in this region.",
+                    "quizzes": [
+                        "Clean water is becoming __________.",
+                        "Food and fuel were extremely __________ during the harsh winter.",
+                        "Good quality timber is becoming increasingly __________ in this region."
+                    ]
+                },
+                {
+                    "word": "Imperative",
+                    "phonetic": "/ɪmˈperətɪv/",
+                    "meaning": "cấp thiết",
+                    "definition": "Extremely important or urgent.",
+                    "example": "It is imperative to address climate change.\nIt's absolutely imperative that we finish this project on time.\nWater is imperative for survival.",
+                    "quizzes": [
+                        "It is __________ to address climate change.",
+                        "It's absolutely __________ that we finish this project on time.",
+                        "Water is __________ for survival."
+                    ]
+                },
+                {
+                    "word": "Adverse",
+                    "phonetic": "/ˈædvɜːs/",
+                    "meaning": "bất lợi",
+                    "definition": "Having a negative or harmful effect on something.",
+                    "example": "Air pollution has adverse effects on children's health.\nThe match was cancelled due to adverse weather conditions.\nMany patients experience adverse reactions to this specific medication.",
+                    "quizzes": [
+                        "Air pollution has __________ effects on children's health.",
+                        "The match was cancelled due to __________ weather conditions.",
+                        "Many patients experience __________ reactions to this specific medication."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "nhom-mo-ta-xu-huong",
+            "sectionName": "III. NHÓM MÔ TẢ XU HƯỚNG – SỐ LIỆU",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "Escalate",
+                    "phonetic": "/ˈeskəleɪt/",
+                    "meaning": "tăng nhanh",
+                    "definition": "To become or make something become greater or more serious.",
+                    "example": "Living costs have escalated in recent years.\nThe minor disagreement quickly escalated into a full-blown argument.\nThe conflict threatens to escalate into a regional war.",
+                    "quizzes": [
+                        "Living costs have __________ in recent years.",
+                        "The minor disagreement quickly __________ into a full-blown argument.",
+                        "The conflict threatens to __________ into a regional war."
+                    ]
+                },
+                {
+                    "word": "Plummet",
+                    "phonetic": "/ˈplʌmɪt/",
+                    "meaning": "giảm mạnh",
+                    "definition": "To fall very quickly and suddenly.",
+                    "example": "Birth rates have plummeted dramatically.\nHouse prices have plummeted in this neighborhood recently.\nThe eagle plummeted from the sky to catch its prey.",
+                    "quizzes": [
+                        "Birth rates have __________ dramatically.",
+                        "House prices have __________ in this neighborhood recently.",
+                        "The eagle __________ from the sky to catch its prey."
+                    ]
+                },
+                {
+                    "word": "Surge",
+                    "phonetic": "/sɜːdʒ/",
+                    "meaning": "tăng đột biến",
+                    "definition": "A sudden and great increase.",
+                    "example": "There has been a surge in online shopping.\nThe company reported a massive surge in profits this quarter.\nAn unexpected surge in demand caused a shortage of medical supplies.",
+                    "quizzes": [
+                        "There has been a __________ in online shopping.",
+                        "The company reported a massive __________ in profits this quarter.",
+                        "An unexpected __________ in demand caused a shortage of medical supplies."
+                    ]
+                },
+                {
+                    "word": "Fluctuate",
+                    "phonetic": "/ˈflʌktʃueɪt/",
+                    "meaning": "dao động",
+                    "definition": "To change frequently in size, amount, or quality.",
+                    "example": "Temperatures fluctuate throughout the day.\nVegetable prices fluctuate according to the season.\nHis mood tends to fluctuate wildly depending on the weather.",
+                    "quizzes": [
+                        "Temperatures __________ throughout the day.",
+                        "Vegetable prices __________ according to the season.",
+                        "His mood tends to __________ wildly depending on the weather."
+                    ]
+                },
+                {
+                    "word": "Stabilise",
+                    "phonetic": "/ˈsteɪbəlaɪz/",
+                    "meaning": "ổn định",
+                    "definition": "To become or to make something firm, steady, and unlikely to change.",
+                    "example": "Prices are expected to stabilise soon.\nThe patient's condition has finally stabilised after the operation.\nThe government took immediate measures to stabilise the banking system.",
+                    "quizzes": [
+                        "Prices are expected to __________ soon.",
+                        "The patient's condition has finally __________ after the operation.",
+                        "The government took immediate measures to __________ the banking system."
+                    ]
+                },
+                {
+                    "word": "Dwarf",
+                    "phonetic": "/dwɔːf/",
+                    "meaning": "làm lu mờ",
+                    "definition": "To make something seem small by comparison.",
+                    "example": "China's population dwarfs that of many nations.\nThe new skyscraper dwarfs all the other buildings in the city center.\nHis recent achievements completely dwarf his earlier accomplishments.",
+                    "quizzes": [
+                        "China's population __________ that of many nations.",
+                        "The new skyscraper __________ all the other buildings in the city center.",
+                        "His recent achievements completely __________ his earlier accomplishments."
+                    ]
+                },
+                {
+                    "word": "Outpace",
+                    "phonetic": "/ˌaʊtˈpeɪs/",
+                    "meaning": "vượt tốc độ",
+                    "definition": "To move, grow, or develop faster than someone or something else.",
+                    "example": "Tech innovation outpaces government regulations.\nDemand for housing continues to outpace the available supply.\nThe company's revenue growth has outpaced its competitors for three consecutive years.",
+                    "quizzes": [
+                        "Tech innovation __________ government regulations.",
+                        "Demand for housing continues to __________ the available supply.",
+                        "The company's revenue growth has __________ its competitors for three consecutive years."
+                    ]
+                },
+                {
+                    "word": "Exceed",
+                    "phonetic": "/ɪkˈsiːd/",
+                    "meaning": "vượt quá",
+                    "definition": "To be greater than a number or amount, or to go beyond a permitted limit.",
+                    "example": "The profits exceeded expectations.\nDrivers who exceed the speed limit will face heavy fines.\nThe final cost of the project should not exceed the agreed budget.",
+                    "quizzes": [
+                        "The profits __________ expectations.",
+                        "Drivers who __________ the speed limit will face heavy fines.",
+                        "The final cost of the project should not __________ the agreed budget."
+                    ]
+                },
+                {
+                    "word": "Undergo",
+                    "phonetic": "/ˌʌndəˈɡəʊ/",
+                    "meaning": "trải qua",
+                    "definition": "To experience something that is unpleasant or something that involves a change.",
+                    "example": "The city has undergone major changes.\nThe candidate must undergo a series of rigorous medical tests.\nThe company is currently undergoing a complete restructuring.",
+                    "quizzes": [
+                        "The city has __________ major changes.",
+                        "The candidate must __________ a series of rigorous medical tests.",
+                        "The company is currently __________ a complete restructuring."
+                    ]
+                },
+                {
+                    "word": "Peak",
+                    "phonetic": "/piːk/",
+                    "meaning": "đạt đỉnh",
+                    "definition": "To reach the highest, strongest, or best point, value, or level.",
+                    "example": "The number of cases peaked in July.\nTraffic usually peaks between 8 AM and 9 AM.\nHer athletic career peaked when she won the Olympic gold medal.",
+                    "quizzes": [
+                        "The number of cases __________ in July.",
+                        "Traffic usually __________ between 8 AM and 9 AM.",
+                        "Her athletic career __________ when she won the Olympic gold medal."
+                    ]
+                },
+                {
+                    "word": "Deteriorate",
+                    "phonetic": "/dɪˈtɪəriəreɪt/",
+                    "meaning": "xấu đi",
+                    "definition": "To become worse.",
+                    "example": "Air quality has deteriorated recently.\nHis health began to deteriorate rapidly after the accident.\nThe political situation in the region is steadily deteriorating.",
+                    "quizzes": [
+                        "Air quality has __________ recently.",
+                        "His health began to __________ rapidly after the accident.",
+                        "The political situation in the region is steadily __________."
+                    ]
+                },
+                {
+                    "word": "Soar",
+                    "phonetic": "/sɔːr/",
+                    "meaning": "tăng vọt",
+                    "definition": "To rise very quickly to a high level.",
+                    "example": "Housing prices have soared over the past decade.\nTemperatures will soar over the weekend, bringing intense heat.\nThe company's shares soared following the successful product launch.",
+                    "quizzes": [
+                        "Housing prices have __________ over the past decade.",
+                        "Temperatures will __________ over the weekend, bringing intense heat.",
+                        "The company's shares __________ following the successful product launch."
+                    ]
+                },
+                {
+                    "word": "Decline",
+                    "phonetic": "/dɪˈklaɪn/",
+                    "meaning": "suy giảm",
+                    "definition": "To gradually become less, worse, or lower.",
+                    "example": "The unemployment rate declined steadily last year.\nThere has been a sharp decline in profits this quarter.\nAs people grow older, their physical strength naturally begins to decline.",
+                    "quizzes": [
+                        "The unemployment rate __________ steadily last year.",
+                        "There has been a sharp __________ in profits this quarter.",
+                        "As people grow older, their physical strength naturally begins to __________."
+                    ]
+                },
+                {
+                    "word": "Plateau",
+                    "phonetic": "/ˈplætəʊ/",
+                    "meaning": "chững lại, đi ngang",
+                    "definition": "To reach a particular level and then stay the same.",
+                    "example": "Sales increased rapidly before plateauing at around 50,000 units.\nAfter months of rapid weight loss, his progress has finally hit a plateau.\nThe national inflation rate has plateaued in recent months.",
+                    "quizzes": [
+                        "Sales increased rapidly before __________ at around 50,000 units.",
+                        "After months of rapid weight loss, his progress has finally hit a __________.",
+                        "The national inflation rate has __________ in recent months."
+                    ]
+                },
+                {
+                    "word": "Rebound",
+                    "phonetic": "/rɪˈbaʊnd/",
+                    "meaning": "phục hồi, tăng trở lại",
+                    "definition": "To rise again after falling.",
+                    "example": "Tourist numbers rebounded after a sharp decline.\nShare prices rebounded today after yesterday's heavy losses.\nThe economy was quick to rebound from the short-lived recession.",
+                    "quizzes": [
+                        "Tourist numbers __________ after a sharp decline.",
+                        "Share prices __________ today after yesterday's heavy losses.",
+                        "The economy was quick to __________ from the short-lived recession."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "nhom-dong-tu",
+            "sectionName": "IV. NHÓM ĐỘNG TỪ THÔNG DỤNG",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "Address (a problem)",
+                    "phonetic": "/əˈdres/",
+                    "meaning": "xử lý",
+                    "definition": "To give attention to or deal with a matter or problem.",
+                    "example": "The government needs to address the problem of homelessness.\nWe must urgently address these issues before they become worse.\nHe failed to address the main concerns raised by the committee.",
+                    "quizzes": [
+                        "The government needs to __________ the problem of homelessness.",
+                        "We must urgently __________ these issues before they become worse.",
+                        "He failed to __________ the main concerns raised by the committee."
+                    ]
+                },
+                {
+                    "word": "Acknowledge",
+                    "phonetic": "/əkˈnɒlɪdʒ/",
+                    "meaning": "công nhận",
+                    "definition": "To accept, admit, or recognize something, or the truth or existence of something.",
+                    "example": "She refused to acknowledge that she had made a mistake.\nThe government officially acknowledged the need for educational reform.\nIt is important to acknowledge the hard work of all the volunteers.",
+                    "quizzes": [
+                        "She refused to __________ that she had made a mistake.",
+                        "The government officially __________ the need for educational reform.",
+                        "It is important to __________ the hard work of all the volunteers."
+                    ]
+                },
+                {
+                    "word": "Assert",
+                    "phonetic": "/əˈsɜːt/",
+                    "meaning": "khẳng định mạnh mẽ",
+                    "definition": "To behave in a way that expresses your confidence, importance, or power; to state firmly.",
+                    "example": "He continued to assert his innocence throughout the trial.\nThe teacher had to assert her authority to control the noisy classroom.\nShe asserted that the company's financial records were completely inaccurate.",
+                    "quizzes": [
+                        "He continued to __________ his innocence throughout the trial.",
+                        "The teacher had to __________ her authority to control the noisy classroom.",
+                        "She __________ that the company's financial records were completely inaccurate."
+                    ]
+                },
+                {
+                    "word": "Concede",
+                    "phonetic": "/kənˈsiːd/",
+                    "meaning": "thừa nhận",
+                    "definition": "To admit, often unwillingly, that something is true.",
+                    "example": "The government was forced to concede that the policy had failed.\nHe eventually conceded defeat in the difficult election.\nWhile I disagree with his conclusion, I concede that his research is thorough.",
+                    "quizzes": [
+                        "The government was forced to __________ that the policy had failed.",
+                        "He eventually __________ defeat in the difficult election.",
+                        "While I disagree with his conclusion, I __________ that his research is thorough."
+                    ]
+                },
+                {
+                    "word": "Contradict",
+                    "phonetic": "/ˌkɒntrəˈdɪkt/",
+                    "meaning": "mâu thuẫn",
+                    "definition": "To state the opposite of what someone has said, or to be so different that one of them must be wrong.",
+                    "example": "The witness's statement clearly contradicts the suspect's story.\nRecent studies completely contradict earlier scientific theories.\nShe didn't dare to contradict her boss during the important meeting.",
+                    "quizzes": [
+                        "The witness's statement clearly __________ the suspect's story.",
+                        "Recent studies completely __________ earlier scientific theories.",
+                        "She didn't dare to __________ her boss during the important meeting."
+                    ]
+                },
+                {
+                    "word": "Overlook",
+                    "phonetic": "/ˌəʊvəˈlʊk/",
+                    "meaning": "bỏ qua",
+                    "definition": "To fail to notice or consider something or someone.",
+                    "example": "It's easy to overlook a small mistake in such a long document.\nThe board overlooked several important details when making their decision.\nWe cannot simply overlook the severity of these environmental issues.",
+                    "quizzes": [
+                        "It's easy to __________ a small mistake in such a long document.",
+                        "The board __________ several important details when making their decision.",
+                        "We cannot simply __________ the severity of these environmental issues."
+                    ]
+                },
+                {
+                    "word": "Rectify",
+                    "phonetic": "/ˈrektɪfaɪ/",
+                    "meaning": "sửa chữa",
+                    "definition": "To correct something or make something right.",
+                    "example": "I am doing everything I can to rectify the situation.\nThe company must immediately rectify the errors in the financial report.\nMeasures were taken to rectify the poor safety standards.",
+                    "quizzes": [
+                        "I am doing everything I can to __________ the situation.",
+                        "The company must immediately __________ the errors in the financial report.",
+                        "Measures were taken to __________ the poor safety standards."
+                    ]
+                },
+                {
+                    "word": "Curb",
+                    "phonetic": "/kɜːb/",
+                    "meaning": "kiềm chế",
+                    "definition": "To control or limit something that is not wanted.",
+                    "example": "The government should act to curb tax evasion.\nStrict laws were introduced to curb carbon emissions.\nYou must try to curb your spending if you want to save money.",
+                    "quizzes": [
+                        "The government should act to __________ tax evasion.",
+                        "Strict laws were introduced to __________ carbon emissions.",
+                        "You must try to __________ your spending if you want to save money."
+                    ]
+                },
+                {
+                    "word": "Curtail",
+                    "phonetic": "/kɜːˈteɪl/",
+                    "meaning": "cắt giảm",
+                    "definition": "To stop something before it is finished, or to reduce or limit something.",
+                    "example": "The new laws will severely curtail the freedom of the press.\nWe had to curtail our holiday because of a family emergency.\nBudget cuts have severely curtailed the school's sports programs.",
+                    "quizzes": [
+                        "The new laws will severely __________ the freedom of the press.",
+                        "We had to __________ our holiday because of a family emergency.",
+                        "Budget cuts have severely __________ the school's sports programs."
+                    ]
+                },
+                {
+                    "word": "Devise",
+                    "phonetic": "/dɪˈvaɪz/",
+                    "meaning": "nghĩ ra",
+                    "definition": "To invent a plan, system, object, etc., usually using your intelligence or imagination.",
+                    "example": "He devised a new method for purifying drinking water.\nThe company needs to devise a strategy for dealing with the crisis.\nThe engineers devised a clever solution to the complex problem.",
+                    "quizzes": [
+                        "He __________ a new method for purifying drinking water.",
+                        "The company needs to __________ a strategy for dealing with the crisis.",
+                        "The engineers __________ a clever solution to the complex problem."
+                    ]
+                },
+                {
+                    "word": "Implement",
+                    "phonetic": "/ˈɪmplɪment/",
+                    "meaning": "thực thi",
+                    "definition": "To start using a plan or system.",
+                    "example": "The changes to the national health system will be implemented next year.\nThe school decided to implement a new strict uniform policy.\nIt can be difficult to implement large-scale changes in a big corporation.",
+                    "quizzes": [
+                        "The changes to the national health system will be __________ next year.",
+                        "The school decided to __________ a new strict uniform policy.",
+                        "It can be difficult to __________ large-scale changes in a big corporation."
+                    ]
+                },
+                {
+                    "word": "Enforce",
+                    "phonetic": "/ɪnˈfɔːs/",
+                    "meaning": "thi hành",
+                    "definition": "To make people obey a law, or to make a particular situation happen or be accepted.",
+                    "example": "It is the job of the police to enforce the law.\nThe school strictly enforces its attendance policy.\nNew parking regulations will be strictly enforced starting next month.",
+                    "quizzes": [
+                        "It is the job of the police to __________ the law.",
+                        "The school strictly __________ its attendance policy.",
+                        "New parking regulations will be strictly __________ starting next month."
+                    ]
+                },
+                {
+                    "word": "Embody",
+                    "phonetic": "/ɪmˈbɒdi/",
+                    "meaning": "hiện thân của",
+                    "definition": "To represent a quality or an idea exactly.",
+                    "example": "She embodies everything I admire in a teacher.\nThe new building embodies the company's innovative spirit.\nHe perfectly embodies the values of hard work and determination.",
+                    "quizzes": [
+                        "She __________ everything I admire in a teacher.",
+                        "The new building __________ the company's innovative spirit.",
+                        "He perfectly __________ the values of hard work and determination."
+                    ]
+                },
+                {
+                    "word": "Instil",
+                    "phonetic": "/ɪnˈstɪl/",
+                    "meaning": "truyền dạy",
+                    "definition": "To put a feeling, idea, or principle gradually into someone's mind.",
+                    "example": "It is part of a teacher's job to instil confidence in their students.\nMy parents instilled a strong work ethic in me from a young age.\nThe coach tried to instil a sense of discipline in the team.",
+                    "quizzes": [
+                        "It is part of a teacher's job to __________ confidence in their students.",
+                        "My parents __________ a strong work ethic in me from a young age.",
+                        "The coach tried to __________ a sense of discipline in the team."
+                    ]
+                },
+                {
+                    "word": "Invoke",
+                    "phonetic": "/ɪnˈvəʊk/",
+                    "meaning": "viện dẫn",
+                    "definition": "To mention or use a law, rule, etc. as a reason for doing something.",
+                    "example": "The President may invoke emergency powers to deal with the crisis.\nDefense attorneys will often invoke the right to remain silent.\nHe constantly invokes his father's memory when making difficult decisions.",
+                    "quizzes": [
+                        "The President may __________ emergency powers to deal with the crisis.",
+                        "Defense attorneys will often __________ the right to remain silent.",
+                        "He constantly __________ his father's memory when making difficult decisions."
+                    ]
+                },
+                {
+                    "word": "Precipitate",
+                    "phonetic": "/prɪˈsɪpɪteɪt/",
+                    "meaning": "làm xảy ra (negative)",
+                    "definition": "To make something happen suddenly or sooner than expected (usually something bad).",
+                    "example": "The assassination precipitated a catastrophic global conflict.\nAn unexpected drop in sales precipitated the company's financial ruin.\nThis new policy may precipitate a major crisis in the housing market.",
+                    "quizzes": [
+                        "The assassination __________ a catastrophic global conflict.",
+                        "An unexpected drop in sales __________ the company's financial ruin.",
+                        "This new policy may __________ a major crisis in the housing market."
+                    ]
+                },
+                {
+                    "word": "Perpetuate",
+                    "phonetic": "/pəˈpetʃueɪt/",
+                    "meaning": "kéo dài, duy trì",
+                    "definition": "To cause something to continue.",
+                    "example": "Increasing the supply of weapons will only perpetuate the violence.\nThe media has been accused of perpetuating negative stereotypes.\nFailing to fund education will merely perpetuate poverty.",
+                    "quizzes": [
+                        "Increasing the supply of weapons will only __________ the violence.",
+                        "The media has been accused of __________ negative stereotypes.",
+                        "Failing to fund education will merely __________ poverty."
+                    ]
+                },
+                {
+                    "word": "Eliminate",
+                    "phonetic": "/ɪˈlɪmɪneɪt/",
+                    "meaning": "loại bỏ",
+                    "definition": "To remove or take away someone or something completely.",
+                    "example": "The new diet helped her eliminate sugar from her meals.\nWe must work hard to eliminate racism from our society.\nThe team was eliminated from the tournament in the first round.",
+                    "quizzes": [
+                        "The new diet helped her __________ sugar from her meals.",
+                        "We must work hard to __________ racism from our society.",
+                        "The team was __________ from the tournament in the first round."
+                    ]
+                },
+                {
+                    "word": "Harness",
+                    "phonetic": "/ˈhɑːnɪs/",
+                    "meaning": "khai thác",
+                    "definition": "To control something, usually in order to use its power.",
+                    "example": "Organizations need to harness the skills of their older workers.\nEngineers are discovering new ways to harness the power of the wind.\nWe must harness our resources effectively to succeed in this project.",
+                    "quizzes": [
+                        "Organizations need to __________ the skills of their older workers.",
+                        "Engineers are discovering new ways to __________ the power of the wind.",
+                        "We must __________ our resources effectively to succeed in this project."
+                    ]
+                },
+                {
+                    "word": "Retain",
+                    "phonetic": "/rɪˈteɪn/",
+                    "meaning": "giữ lại",
+                    "definition": "To keep or continue to have something.",
+                    "example": "She succeeded in retaining her lead in the second half of the race.\nThe company needs to find ways to retain its best employees.\nDespite the renovation, the building has retained its historical charm.",
+                    "quizzes": [
+                        "She succeeded in __________ her lead in the second half of the race.",
+                        "The company needs to find ways to __________ its best employees.",
+                        "Despite the renovation, the building has __________ its historical charm."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "nhom-tu-duy",
+            "sectionName": "V. NHÓM TƯ DUY – LẬP LUẬN",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "Scrutinise",
+                    "phonetic": "/ˈskruːtənaɪz/",
+                    "meaning": "xem xét kỹ",
+                    "definition": "To examine something very carefully in order to discover information.",
+                    "example": "The committee will scrutinise the new proposed budget.\nEvery detail of the contract was carefully scrutinised before signing.\nHis personal life has been closely scrutinised by the media.",
+                    "quizzes": [
+                        "The committee will __________ the new proposed budget.",
+                        "Every detail of the contract was carefully __________ before signing.",
+                        "His personal life has been closely __________ by the media."
+                    ]
+                },
+                {
+                    "word": "Speculate",
+                    "phonetic": "/ˈspekjuleɪt/",
+                    "meaning": "phỏng đoán",
+                    "definition": "To guess possible answers to a question when you do not have enough information to be certain.",
+                    "example": "Journalists began to speculate about the reasons for his resignation.\nIt's useless to speculate without having the full facts.\nExperts speculate that the economy will recover by next year.",
+                    "quizzes": [
+                        "Journalists began to __________ about the reasons for his resignation.",
+                        "It's useless to __________ without having the full facts.",
+                        "Experts __________ that the economy will recover by next year."
+                    ]
+                },
+                {
+                    "word": "Infer",
+                    "phonetic": "/ɪnˈfɜːr/",
+                    "meaning": "suy ra",
+                    "definition": "To form an opinion or guess that something is true because of the information that you have.",
+                    "example": "I inferred from her expression that she wanted to leave.\nWhat can we reasonably infer from these recent statistics?\nBased on the evidence, the detective inferred that the suspect was lying.",
+                    "quizzes": [
+                        "I __________ from her expression that she wanted to leave.",
+                        "What can we reasonably __________ from these recent statistics?",
+                        "Based on the evidence, the detective __________ that the suspect was lying."
+                    ]
+                },
+                {
+                    "word": "Deduce",
+                    "phonetic": "/dɪˈdjuːs/",
+                    "meaning": "suy luận",
+                    "definition": "To reach an answer or a decision by thinking carefully about the known facts.",
+                    "example": "We can deduce a lot from what people choose to buy.\nThe police were able to deduce where the fugitive was hiding.\nFrom the evidence, he deduced that the painting was a forgery.",
+                    "quizzes": [
+                        "We can __________ a lot from what people choose to buy.",
+                        "The police were able to __________ where the fugitive was hiding.",
+                        "From the evidence, he __________ that the painting was a forgery."
+                    ]
+                },
+                {
+                    "word": "Highlight",
+                    "phonetic": "/ˈhaɪlaɪt/",
+                    "meaning": "nhấn mạnh",
+                    "definition": "To attract attention to or emphasize something important.",
+                    "example": "The report highlights the need for improved safety.\nThe recent crisis highlights the flaws in our current system.\nThe speaker highlighted the key benefits of the new software.",
+                    "quizzes": [
+                        "The report __________ the need for improved safety.",
+                        "The recent crisis __________ the flaws in our current system.",
+                        "The speaker __________ the key benefits of the new software."
+                    ]
+                },
+                {
+                    "word": "Contend",
+                    "phonetic": "/kənˈtend/",
+                    "meaning": "cho rằng",
+                    "definition": "To state as the truth; claim.",
+                    "example": "The lawyer contended that her client had never been near the scene.\nCritics contend that the new law will only increase crime rates.\nI would contend that unemployment is our most serious problem.",
+                    "quizzes": [
+                        "The lawyer __________ that her client had never been near the scene.",
+                        "Critics __________ that the new law will only increase crime rates.",
+                        "I would __________ that unemployment is our most serious problem."
+                    ]
+                },
+                {
+                    "word": "Reiterate",
+                    "phonetic": "/riˈɪtəreɪt/",
+                    "meaning": "nhắc lại",
+                    "definition": "To say something again, once or several times.",
+                    "example": "The government has reiterated its commitment to lower taxes.\nLet me reiterate the importance of arriving on time.\nThe professor reiterated his earlier points about the risks of inflation.",
+                    "quizzes": [
+                        "The government has __________ its commitment to lower taxes.",
+                        "Let me __________ the importance of arriving on time.",
+                        "The professor __________ his earlier points about the risks of inflation."
+                    ]
+                },
+                {
+                    "word": "Justify",
+                    "phonetic": "/ˈdʒʌstɪfaɪ/",
+                    "meaning": "biện minh",
+                    "definition": "To give or to be a good reason for.",
+                    "example": "I can't really justify taking another day off work.\nThe results of the experiment completely justify our original hypothesis.\nNothing can justify such cruel behaviour towards animals.",
+                    "quizzes": [
+                        "I can't really __________ taking another day off work.",
+                        "The results of the experiment completely __________ our original hypothesis.",
+                        "Nothing can __________ such cruel behaviour towards animals."
+                    ]
+                },
+                {
+                    "word": "Underscore",
+                    "phonetic": "/ˌʌndəˈskɔːr/",
+                    "meaning": "nhấn mạnh",
+                    "definition": "To emphasize the importance of something.",
+                    "example": "These failures underscore the difficulty of what we're attempting to do.\nThe recent tragic events underscore the need for better security.\nHer speech underscored the urgent need for environmental protection.",
+                    "quizzes": [
+                        "These failures __________ the difficulty of what we're attempting to do.",
+                        "The recent tragic events __________ the need for better security.",
+                        "Her speech __________ the urgent need for environmental protection."
+                    ]
+                },
+                {
+                    "word": "Conceptualise",
+                    "phonetic": "/kənˈseptʃuəlaɪz/",
+                    "meaning": "hình dung",
+                    "definition": "To form an idea or principle in your mind.",
+                    "example": "He argued that morality could be conceptualised as a series of social rules.\nIt is difficult to conceptualise how the universe began.\nShe is helping the team to conceptualise the new marketing campaign.",
+                    "quizzes": [
+                        "He argued that morality could be __________ as a series of social rules.",
+                        "It is difficult to __________ how the universe began.",
+                        "She is helping the team to __________ the new marketing campaign."
+                    ]
+                },
+                {
+                    "word": "Articulate",
+                    "phonetic": "/ɑːˈtɪkjuleɪt/",
+                    "meaning": "diễn đạt rõ",
+                    "definition": "To express in words.",
+                    "example": "I found myself unable to articulate my feelings.\nShe gave a witty, entertaining, and highly articulate speech.\nHe found it difficult to articulate his concerns to the management.",
+                    "quizzes": [
+                        "I found myself unable to __________ my feelings.",
+                        "She gave a witty, entertaining, and highly __________ speech.",
+                        "He found it difficult to __________ his concerns to the management."
+                    ]
+                },
+                {
+                    "word": "Evaluate",
+                    "phonetic": "/ɪˈvæljueɪt/",
+                    "meaning": "đánh giá",
+                    "definition": "To judge or calculate the quality, importance, amount, or value of something.",
+                    "example": "It's impossible to evaluate these results without knowing more about the research.\nEmployees will be carefully evaluated on their performance every six months.\nThe researchers evaluated the effectiveness of the new drug.",
+                    "quizzes": [
+                        "It's impossible to __________ these results without knowing more about the research.",
+                        "Employees will be carefully __________ on their performance every six months.",
+                        "The researchers __________ the effectiveness of the new drug."
+                    ]
+                },
+                {
+                    "word": "Differentiate",
+                    "phonetic": "/ˌdɪfəˈrenʃieɪt/",
+                    "meaning": "phân biệt",
+                    "definition": "To show or find the difference between things that are compared.",
+                    "example": "We do not differentiate between our employees on the basis of their race or gender.\nIt's important to differentiate between fact and opinion.\nWhat exactly differentiates this product from its cheaper competitors?",
+                    "quizzes": [
+                        "We do not __________ between our employees on the basis of their race or gender.",
+                        "It's important to __________ between fact and opinion.",
+                        "What exactly __________ this product from its cheaper competitors?"
+                    ]
+                },
+                {
+                    "word": "Synthesize",
+                    "phonetic": "/ˈsɪnθəsaɪz/",
+                    "meaning": "tổng hợp",
+                    "definition": "To put separate facts, etc. together to form a single piece of work.",
+                    "example": "The report synthesizes information from several different sources.\nStudents must learn to synthesize complex arguments from various texts.\nHe managed to synthesize all their ideas into a brilliant proposal.",
+                    "quizzes": [
+                        "The report __________ information from several different sources.",
+                        "Students must learn to __________ complex arguments from various texts.",
+                        "He managed to __________ all their ideas into a brilliant proposal."
+                    ]
+                },
+                {
+                    "word": "Demonstrate",
+                    "phonetic": "/ˈdemənstreɪt/",
+                    "meaning": "chứng minh",
+                    "definition": "To show or make make something clear.",
+                    "example": "These numbers clearly demonstrate the size of the economic problem.\nThe team needs to demonstrate their commitment to the project.\nLet me demonstrate how this new machine works.",
+                    "quizzes": [
+                        "These numbers clearly __________ the size of the economic problem.",
+                        "The team needs to __________ their commitment to the project.",
+                        "Let me __________ how this new machine works."
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionId": "nhom-hoc-thuat",
+            "sectionName": "VI. NHÓM HỌC THUẬT – XÃ HỘI",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "Disparity",
+                    "phonetic": "/dɪˈspærəti/",
+                    "meaning": "sự chênh lệch",
+                    "definition": "A lack of equality or similarity, especially in a way that is not fair.",
+                    "example": "There is a growing disparity between the rich and the poor.\nThe state aims to reduce the regional disparities in wealth.\nWe noticed a huge disparity in the test scores between the two schools.",
+                    "quizzes": [
+                        "There is a growing __________ between the rich and the poor.",
+                        "The state aims to reduce the regional __________ in wealth.",
+                        "We noticed a huge __________ in the test scores between the two schools."
+                    ]
+                },
+                {
+                    "word": "Inequity",
+                    "phonetic": "/ɪnˈekwəti/",
+                    "meaning": "sự bất bình đẳng",
+                    "definition": "The fact that a situation is not fair, or something that is not fair in a situation.",
+                    "example": "The inequity of the healthcare system was exposed during the crisis.\nThere are still massive inequities in global resource distribution.\nThe new tax law seeks to address financial inequity.",
+                    "quizzes": [
+                        "The __________ of the healthcare system was exposed during the crisis.",
+                        "There are still massive __________ in global resource distribution.",
+                        "The new tax law seeks to address financial __________."
+                    ]
+                },
+                {
+                    "word": "Prosperity",
+                    "phonetic": "/prɒˈsperəti/",
+                    "meaning": "thịnh vượng",
+                    "definition": "The state of being successful and having a lot of money.",
+                    "example": "A country's future prosperity depends, to an extent, upon the quality of education of its people.\nThe 1950s were a period of great economic prosperity.\nWe wish you health, happiness, and prosperity in the new year.",
+                    "quizzes": [
+                        "A country's future __________ depends, to an extent, upon the quality of education of its people.",
+                        "The 1950s were a period of great economic __________.",
+                        "We wish you health, happiness, and __________ in the new year."
+                    ]
+                },
+                {
+                    "word": "Affluence",
+                    "phonetic": "/ˈæfluəns/",
+                    "meaning": "giàu có",
+                    "definition": "The state of having a lot of money or owning many things.",
+                    "example": "What we are seeing increasingly is a society of private affluence and public squalor.\nThe nation experienced a decade of remarkable economic affluence.\nTheir newfound affluence allowed them to travel the world.",
+                    "quizzes": [
+                        "What we are seeing increasingly is a society of private __________ and public squalor.",
+                        "The nation experienced a decade of remarkable economic __________.",
+                        "Their newfound __________ allowed them to travel the world."
+                    ]
+                },
+                {
+                    "word": "Initiative",
+                    "phonetic": "/ɪˈnɪʃətɪv/",
+                    "meaning": "sáng kiến",
+                    "definition": "A new plan or process to achieve something or solve a problem.",
+                    "example": "The peace initiative was welcomed by both sides.\nThe government has launched a new initiative to promote recycling.\nShe took the initiative and organized a fundraising event for the charity.",
+                    "quizzes": [
+                        "The peace __________ was welcomed by both sides.",
+                        "The government has launched a new __________ to promote recycling.",
+                        "She took the __________ and organized a fundraising event for the charity."
+                    ]
+                },
+                {
+                    "word": "Intervention",
+                    "phonetic": "/ˌɪntəˈvenʃn/",
+                    "meaning": "sự can thiệp",
+                    "definition": "Action taken to intentionally become involved in a difficult situation, in order to improve it or prevent it from getting worse.",
+                    "example": "Half the people questioned said they were opposed to military intervention in the civil war.\nEarly medical intervention can significantly improve the patient's chances.\nThe central bank's intervention helped to stabilize the currency.",
+                    "quizzes": [
+                        "Half the people questioned said they were opposed to military __________ in the civil war.",
+                        "Early medical __________ can significantly improve the patient's chances.",
+                        "The central bank's __________ helped to stabilize the currency."
+                    ]
+                },
+                {
+                    "word": "Infrastructure",
+                    "phonetic": "/ˈɪnfrəstrʌktʃər/",
+                    "meaning": "cơ sở hạ tầng",
+                    "definition": "The basic systems and services, such as transport and power supplies, that a country or organization uses in order to work effectively.",
+                    "example": "The war has badly damaged the country's infrastructure.\nThe government plans to invest heavily in public infrastructure.\nA strong IT infrastructure is essential for any modern business.",
+                    "quizzes": [
+                        "The war has badly damaged the country's __________.",
+                        "The government plans to invest heavily in public __________.",
+                        "A strong IT __________ is essential for any modern business."
+                    ]
+                },
+                {
+                    "word": "Legislation",
+                    "phonetic": "/ˌledʒɪsˈleɪʃn/",
+                    "meaning": "luật pháp",
+                    "definition": "A law or set of laws suggested by a government and made official by a parliament.",
+                    "example": "The government has promised to introduce legislation to limit fuel emissions.\nNew legislation is required to protect consumer rights online.\nThe proposed legislation was heavily criticized by environmental groups.",
+                    "quizzes": [
+                        "The government has promised to introduce __________ to limit fuel emissions.",
+                        "New __________ is required to protect consumer rights online.",
+                        "The proposed __________ was heavily criticized by environmental groups."
+                    ]
+                },
+                {
+                    "word": "Socioeconomic",
+                    "phonetic": "/ˌsəʊsiəʊˌiːkəˈnɒmɪk/",
+                    "meaning": "kinh tế – xã hội",
+                    "definition": "Related to the differences between groups of people caused mainly by their financial situation.",
+                    "example": "They face a variety of socioeconomic problems.\nChildren from lower socioeconomic backgrounds often face educational disadvantages.\nThe study analyzed the socioeconomic impact of the new healthcare policy.",
+                    "quizzes": [
+                        "They face a variety of __________ problems.",
+                        "Children from lower __________ backgrounds often face educational disadvantages.",
+                        "The study analyzed the __________ impact of the new healthcare policy."
+                    ]
+                },
+                {
+                    "word": "Prevalence",
+                    "phonetic": "/ˈprevələns/",
+                    "meaning": "mức độ phổ biến",
+                    "definition": "The fact that something is very common or happens often.",
+                    "example": "The prevalence of smoking among teenagers is alarming.\nDoctors are concerned about the growing prevalence of obesity in children.\nThere is a high prevalence of malaria in these tropical regions.",
+                    "quizzes": [
+                        "The __________ of smoking among teenagers is alarming.",
+                        "Doctors are concerned about the growing __________ of obesity in children.",
+                        "There is a high __________ of malaria in these tropical regions."
+                    ]
+                }
+            ]
+        }
+    ]
+}

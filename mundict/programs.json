@@ -121,7 +121,7 @@
         },
         {
             "groupId": "Customs",
-            "groupName": "Customs & Import-Export",
+            "groupName": "Chuyên ngành",
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDxW6CCiPGoPAkuZaR7d0fmC5Uv3SIDx_oxfh09iLoLw&s=10",
             "programs": [
                 {
@@ -130,6 +130,20 @@
                     "description": "Từ vựng & nghiệp vụ Hải quan dành cho người làm xuất nhập khẩu",
                     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDxW6CCiPGoPAkuZaR7d0fmC5Uv3SIDx_oxfh09iLoLw&s=10",
                     "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/customs.json"
+                }
+            ]
+        },
+        {
+            "groupId": "IELTS",
+            "groupName": "IELTS",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/IELTSlogo.gif?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original",
+            "programs": [
+                {
+                    "id": "ielts-100-c1-c2",
+                    "name": "100 TỪ C1-C2 DÙNG TRONG IELTS",
+                    "description": "100 từ vựng C1-C2 thường dùng trong IELTS",
+                    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/IELTSlogo.gif?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original",
+                    "detailUrl": "https://raw.githubusercontent.com/luuhungcuong/onlineresource/refs/heads/main/mundict/ielts-100-c1-c2.json"
                 }
             ]
         }

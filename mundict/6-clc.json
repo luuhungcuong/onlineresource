@@ -4307,6 +4307,434 @@
                 }
             ],
             "grammars": []
+        },
+        {
+            "sectionId": "part-1-reading-comprehension-walt-disney",
+            "sectionName": "PART 1: READING COMPREHENSION - \"Walt Disney\"",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "Disneyland",
+                    "phonetic": "/ˈdɪznilænd/",
+                    "meaning": "công viên giải trí Disneyland",
+                    "definition": "A famous theme park created by Walt Disney featuring rides, shows, and costumed characters.",
+                    "example": "Disneyland is popular with children.\nThousands of families visit Disneyland every holiday season.\nMeeting Mickey Mouse at Disneyland was a magical experience.",
+                    "quizzes": [
+                        "__________ is popular with children all over the world.",
+                        "The children were thrilled to visit the magical attractions at __________.",
+                        "We took a family trip to __________ during the summer vacation."
+                    ]
+                },
+                {
+                    "word": "create",
+                    "phonetic": "/kriˈeɪt/",
+                    "meaning": "tạo ra, sáng tạo",
+                    "definition": "To bring something into existence or make something new.",
+                    "example": "He created many cartoons.\nArtists use their imagination to create inspiring paintings.\nThe new project will create exciting opportunities for students.",
+                    "quizzes": [
+                        "Walt Disney __________d many world-famous cartoon characters.",
+                        "She used colorful paper and clay to __________ a miniature castle.",
+                        "Scientists are working to __________ new renewable energy solutions."
+                    ]
+                },
+                {
+                    "word": "amazing",
+                    "phonetic": "/əˈmeɪzɪŋ/",
+                    "meaning": "tuyệt vời, kinh ngạc",
+                    "definition": "Causing great surprise or wonder; astonishing and impressive.",
+                    "example": "The show was amazing.\nShe has an amazing talent for telling captivating stories.\nThe fireworks display over the castle looked truly amazing.",
+                    "quizzes": [
+                        "The magic show was __________ and left the entire audience speechless.",
+                        "He showed an __________ ability to learn difficult musical instruments quickly.",
+                        "From the mountain summit, we enjoyed an __________ view of the sunrise."
+                    ]
+                },
+                {
+                    "word": "pioneer",
+                    "phonetic": "/ˌpaɪəˈnɪə(r)/",
+                    "meaning": "người tiên phong / tiên phong",
+                    "definition": "A person who is among the first to explore or develop a new area; to develop or be the first to use.",
+                    "example": "He was a pioneer in animation.\nMarie Curie was a pioneer in the field of radioactivity.\nThe company pioneered innovative techniques in modern filmmaking.",
+                    "quizzes": [
+                        "Walt Disney was a true __________ in the history of animated cinema.",
+                        "She is recognized as a __________ who paved the way for female engineers.",
+                        "The research team __________ed new treatments for rare diseases."
+                    ]
+                },
+                {
+                    "word": "motion",
+                    "phonetic": "/ˈməʊʃn/",
+                    "meaning": "sự chuyển động, chuyển động",
+                    "definition": "The action or process of moving or of changing place or position.",
+                    "example": "Motion pictures are popular.\nThe gentle rocking motion of the boat helped the baby fall asleep.\nHe made a subtle hand motion to signal everyone to stop talking.",
+                    "quizzes": [
+                        "Early __________ pictures entertained audiences before modern movies existed.",
+                        "The continuous __________ of the planetary orbits fascinated astronomers.",
+                        "With a swift __________ of her hand, the dancer caught the flying ribbon."
+                    ]
+                },
+                {
+                    "word": "receive",
+                    "phonetic": "/rɪˈsiːv/",
+                    "meaning": "nhận được",
+                    "definition": "To get, accept, or be given something sent or offered.",
+                    "example": "He received many awards.\nDid you receive the invitation letter I sent last week?\nShe was delighted to receive warm compliments on her presentation.",
+                    "quizzes": [
+                        "During his career, he __________d twenty-six prestigious Academy Awards.",
+                        "Did you __________ the package that the delivery courier brought today?",
+                        "Students who perform well will __________ a certificate of excellence."
+                    ]
+                },
+                {
+                    "word": "award",
+                    "phonetic": "/əˈwɔːd/",
+                    "meaning": "giải thưởng",
+                    "definition": "A prize, trophy, or certificate given to honor an achievement.",
+                    "example": "She won an award.\nHe received a special award for his outstanding contributions to film.\nThe annual film award ceremony was broadcast worldwide.",
+                    "quizzes": [
+                        "She won an __________ for the best original artwork in the school contest.",
+                        "The director was honored with a lifetime achievement __________.",
+                        "Winning first place earned the young athlete a gold medal and a cash __________."
+                    ]
+                },
+                {
+                    "word": "raise",
+                    "phonetic": "/reɪz/",
+                    "meaning": "nuôi dưỡng",
+                    "definition": "To bring up, care for, and educate a child until adulthood.",
+                    "example": "He was raised in a poor family.\nHer grandparents helped raise her on a peaceful farm.\nIt takes immense dedication and love to raise a child well.",
+                    "quizzes": [
+                        "Walt was born in Chicago and __________d on a family farm in Missouri.",
+                        "Her parents worked multiple jobs to __________ four successful children.",
+                        "He was lovingly __________d by his aunt and uncle after losing his parents."
+                    ]
+                },
+                {
+                    "word": "sibling",
+                    "phonetic": "/ˈsɪblɪŋ/",
+                    "meaning": "anh chị em ruột",
+                    "definition": "A brother or sister having one or both parents in common.",
+                    "example": "He has two siblings.\nDo you get along well with your older siblings?\nWalt and his brother Roy were close siblings who built a business together.",
+                    "quizzes": [
+                        "Walt Disney grew up alongside four other __________s in his household.",
+                        "Do you have any __________s, such as an older brother or younger sister?",
+                        "Although the two __________s argued occasionally, they supported each other."
+                    ]
+                },
+                {
+                    "word": "encourage",
+                    "phonetic": "/ɪnˈkʌrɪdʒ/",
+                    "meaning": "khuyến khích, động viên",
+                    "definition": "To give support, confidence, or courage to someone to do something.",
+                    "example": "His parents encouraged him.\nThe art teacher encouraged the students to experiment with colors.\nHer inspiring words encouraged him to never abandon his dream.",
+                    "quizzes": [
+                        "His family and friends __________d him to pursue his passion for drawing.",
+                        "Teachers should always __________ their students to ask inquisitive questions.",
+                        "The mentor __________d the young animator to develop his own unique style."
+                    ]
+                },
+                {
+                    "word": "creativity",
+                    "phonetic": "/ˌkriːeɪˈtɪvəti/",
+                    "meaning": "sự sáng tạo",
+                    "definition": "The use of imagination or original ideas to create something artistic or inventive.",
+                    "example": "Creativity is important in art.\nThe animation studio fostered a workplace full of boundless creativity.\nChildren naturally show incredible creativity when they play pretend.",
+                    "quizzes": [
+                        "Developing animated worlds requires immense imagination and __________.",
+                        "The competition evaluates both technical drawing skill and original __________.",
+                        "Reading diverse storybooks stimulates a child's artistic __________."
+                    ]
+                },
+                {
+                    "word": "sketch",
+                    "phonetic": "/sketʃ/",
+                    "meaning": "bản vẽ phác thảo / phác thảo",
+                    "definition": "A rough or unfinished drawing; or to make a quick preliminary drawing without much detail.",
+                    "example": "He drew sketches every day.\nShe quickly sketched the scenery in her travel diary.\nThe animator drew several pencil sketches before finalizing the character.",
+                    "quizzes": [
+                        "He carried a small notebook everywhere to draw quick __________es of animals.",
+                        "The artist sat on the park bench to __________ the passing pedestrians.",
+                        "Before painting the canvas, she created a detailed charcoal __________."
+                    ]
+                },
+                {
+                    "word": "sell",
+                    "phonetic": "/sel/",
+                    "meaning": "bán",
+                    "definition": "To give or hand over something in exchange for money.",
+                    "example": "He sold his drawings.\nThe bookstore sells novels, comic books, and art supplies.\nThey sold their old furniture before moving to the new studio.",
+                    "quizzes": [
+                        "As a young boy, Walt __________ his small drawings to neighbors for pocket money.",
+                        "The studio hopes to __________ millions of movie tickets worldwide.",
+                        "They decided to __________ handmade souvenirs outside the theme park."
+                    ]
+                },
+                {
+                    "word": "at the age of",
+                    "phonetic": "/æt ði eɪdʒ əv/",
+                    "meaning": "ở độ tuổi",
+                    "definition": "Used to describe how old someone was when a particular event occurred.",
+                    "example": "He started at the age of 10.\nShe began learning the piano at the age of four.\nAt the age of sixteen, he left school to join the ambulance corps.",
+                    "quizzes": [
+                        "Walt began selling sketches to his neighbors __________ seven.",
+                        "__________ eighteen, she moved to California to pursue an acting career.",
+                        "He founded his first animation company __________ twenty-one."
+                    ]
+                },
+                {
+                    "word": "serve",
+                    "phonetic": "/sɜːv/",
+                    "meaning": "phục vụ, nhập ngũ",
+                    "definition": "To perform duties in the armed forces or work on behalf of an organization or country.",
+                    "example": "He served in the army.\nDuring World War I, he served as an ambulance driver in France.\nShe served on the municipal arts committee for five years.",
+                    "quizzes": [
+                        "During the First World War, Walt Disney __________d as a Red Cross driver.",
+                        "Many young men enlisted to __________ their country bravely in times of crisis.",
+                        "She __________d faithfully as the president of the film society."
+                    ]
+                },
+                {
+                    "word": "get a job",
+                    "phonetic": "/ɡet ə dʒɒb/",
+                    "meaning": "tìm được công việc",
+                    "definition": "To succeed in obtaining paid employment with a company or organization.",
+                    "example": "He got a job in a company.\nAfter returning from Europe, he managed to get a job at an art studio.\nShe was thrilled to get a job as an apprentice animator.",
+                    "quizzes": [
+                        "After finishing military duty, he wanted to __________ at a newspaper as a cartoonist.",
+                        "She submitted her portfolio hoping to __________ at the new animation studio.",
+                        "It took several interviews before he finally __________ in graphic design."
+                    ]
+                },
+                {
+                    "word": "advertising",
+                    "phonetic": "/ˈædvətaɪzɪŋ/",
+                    "meaning": "ngành quảng cáo",
+                    "definition": "The business or activity of creating advertisements for commercial products and services.",
+                    "example": "He worked in advertising.\nModern advertising relies heavily on social media and video campaigns.\nThe commercial artist created illustrations for advertising posters.",
+                    "quizzes": [
+                        "Walt began his commercial career working for an __________ company in Kansas City.",
+                        "Creative __________ campaigns can dramatically increase product sales.",
+                        "She graduated with a university degree in marketing and commercial __________."
+                    ]
+                },
+                {
+                    "word": "cartoonist",
+                    "phonetic": "/kɑːˈtuːnɪst/",
+                    "meaning": "họa sĩ truyện tranh/hoạt hình",
+                    "definition": "An artist who specializes in drawing comic strips or animated illustrations.",
+                    "example": "He became a cartoonist.\nThe political cartoonist drew witty caricatures for the newspaper.\nMany aspiring cartoonists study the animation styles of early pioneers.",
+                    "quizzes": [
+                        "Walt Disney's early ambition was to become a famous newspaper __________.",
+                        "The talented __________ sketched a humorous comic strip for the daily magazine.",
+                        "Every Saturday, the young __________ practiced sketching new funny animals."
+                    ]
+                },
+                {
+                    "word": "market",
+                    "phonetic": "/ˈmɑːkɪt/",
+                    "meaning": "tiếp thị, quảng bá sản phẩm",
+                    "definition": "To advertise and promote a commercial product or service to prospective buyers.",
+                    "example": "The company marketed the film.\nThey are marketing a new line of toys based on the cartoon characters.\nEffective branding makes it easier to market films to global audiences.",
+                    "quizzes": [
+                        "The studio strategically __________ed the new animated film to families everywhere.",
+                        "They plan to __________ the popular video game across international regions.",
+                        "Movie producers must know how to __________ their merchandise to young viewers."
+                    ]
+                },
+                {
+                    "word": "animated cartoon",
+                    "phonetic": "/ˈænɪmeɪtɪd kɑːˈtuːn/",
+                    "meaning": "phim hoạt hình",
+                    "definition": "A motion picture made by filming a sequence of drawings or models to create the illusion of movement.",
+                    "example": "He made animated cartoons.\nChildren gathered around the television to watch their favorite animated cartoon.\nSteamboat Willie became a landmark animated cartoon with synchronized sound.",
+                    "quizzes": [
+                        "Steamboat Willie was a groundbreaking __________ that introduced Mickey Mouse to the world.",
+                        "The Saturday morning lineup featured a brand new funny __________.",
+                        "Producing a classic __________ required thousands of hand-drawn cell frames."
+                    ]
+                },
+                {
+                    "word": "daughter",
+                    "phonetic": "/ˈdɔːtə(r)/",
+                    "meaning": "con gái",
+                    "definition": "A female child or person in relation to her parents.",
+                    "example": "He has two daughters.\nWhile watching his young daughters play on the carousel, he envisioned Disneyland.\nShe is the eldest daughter in a family of four children.",
+                    "quizzes": [
+                        "Walt was inspired to create Disneyland while spending weekend afternoons with his __________s.",
+                        "The proud father took his young __________ to the amusement park.",
+                        "She followed in her mother's footsteps and became an accomplished artist like her mother's __________."
+                    ]
+                },
+                {
+                    "word": "bring to life",
+                    "phonetic": "/brɪŋ tə laɪf/",
+                    "meaning": "thổi hồn vào, làm sống động",
+                    "definition": "To make something vivid, realistic, exciting, or animated.",
+                    "example": "He brought characters to life.\nThe talented animators brought drawings of woodland creatures to life on screen.\nVivid colors and dynamic sound effects brought the ancient fairy tale to life.",
+                    "quizzes": [
+                        "With innovative movement and sound, Walt __________ his drawn characters __________.",
+                        "The storyteller used expressive voices to __________ the fairy tale creatures __________.",
+                        "Advanced computer graphics help filmmakers __________ mythical creatures __________."
+                    ]
+                },
+                {
+                    "word": "perfect",
+                    "phonetic": "/pəˈfekt/",
+                    "meaning": "hoàn thiện",
+                    "definition": "To improve something so that it is without faults or as good as possible.",
+                    "example": "He perfected his skills.\nThe studio spent months perfecting the synchronization between sound and animation.\nShe practiced daily to perfect her figure skating routine.",
+                    "quizzes": [
+                        "Walt Disney worked tirelessly to __________ the art of synchronized sound in cartoons.",
+                        "The master animator practiced for years to __________ realistic character movements.",
+                        "You must dedicate time and effort to __________ your foreign language skills."
+                    ]
+                },
+                {
+                    "word": "combination",
+                    "phonetic": "/ˌkɒmbɪˈneɪʃn/",
+                    "meaning": "sự kết hợp",
+                    "definition": "The result of combining or joining different things, ideas, or elements together.",
+                    "example": "This is a good combination.\nThe animated musical was a masterful combination of storytelling and melody.\nA healthy combination of balanced nutrition and regular exercise keeps you strong.",
+                    "quizzes": [
+                        "The success of his films came from a brilliant __________ of humor, art, and music.",
+                        "This delicious dessert is a unique __________ of chocolate and tropical fruit.",
+                        "Creativity combined with persistence makes a winning __________ in any career."
+                    ]
+                },
+                {
+                    "word": "animation",
+                    "phonetic": "/ˌænɪˈmeɪʃn/",
+                    "meaning": "nghệ thuật/ngành hoạt hình",
+                    "definition": "The technique or process of creating moving images using drawings, models, or computers.",
+                    "example": "Animation is popular.\nModern 3D computer animation has transformed the entertainment world.\nShe studied traditional hand-drawn animation at an arts institute in California.",
+                    "quizzes": [
+                        "Walt Disney revolutionized the entire industry of hand-drawn __________.",
+                        "Many children and adults enjoy Japanese __________ films for their deep storylines.",
+                        "He decided to pursue a professional career in digital 3D __________."
+                    ]
+                },
+                {
+                    "word": "produce",
+                    "phonetic": "/prəˈdʒuːs/",
+                    "meaning": "sản xuất",
+                    "definition": "To make, create, or oversee the manufacture or artistic creation of films, books, or goods.",
+                    "example": "He produced many films.\nThe studio produced the first full-length animated feature film in history.\nThis local factory produces high-quality art supplies and sketchbooks.",
+                    "quizzes": [
+                        "In 1937, Walt Disney __________d 'Snow White and the Seven Dwarfs'.",
+                        "The new film studio aims to __________ inspiring family movies every year.",
+                        "The fertile orchards along the river valley __________ sweet red apples."
+                    ]
+                },
+                {
+                    "word": "indifferent",
+                    "phonetic": "/ɪnˈdɪfrənt/",
+                    "meaning": "thờ ơ, lãnh đạm",
+                    "definition": "Having no particular interest, enthusiasm, or concern; unconcerned.",
+                    "example": "He felt indifferent about it.\nSome early movie distributors were indifferent to full-length cartoons.\nShe remained completely indifferent to the praise and criticism alike.",
+                    "quizzes": [
+                        "Some movie distributors were initially __________ to the idea of a full-length cartoon.",
+                        "He seemed strangely __________ to the results of the final art competition.",
+                        "We cannot afford to remain __________ to environmental issues affecting our planet."
+                    ]
+                },
+                {
+                    "word": "disapprove",
+                    "phonetic": "/ˌdɪsəˈpruːv/",
+                    "meaning": "phản đối, không chấp thuận",
+                    "definition": "To have an unfavorable opinion of someone or something; to consider something wrong or inadvisable.",
+                    "example": "His parents disapproved.\nMany film industry skeptics disapproved of spending millions on an animated feature.\nThe teacher strongly disapproved of students submitting unfinished homework.",
+                    "quizzes": [
+                        "Critics and bankers __________d of his risky investment in a full-length animated movie.",
+                        "Her father strongly __________s of staying up late playing video games on weekdays.",
+                        "The school council __________d the proposal to reduce art classes."
+                    ]
+                },
+                {
+                    "word": "unsure",
+                    "phonetic": "/ʌnˈʃʊə(r)/",
+                    "meaning": "không chắc chắn",
+                    "definition": "Lacking confidence or certainty; doubtful or hesitant about something.",
+                    "example": "She is unsure about the plan.\nAt first, the investors were unsure whether the cartoon park would attract visitors.\nHe was unsure which drawing style would best suit the humorous story.",
+                    "quizzes": [
+                        "Investors were __________ whether building a giant theme park in California would succeed.",
+                        "She felt __________ about which foreign language to study next semester.",
+                        "The young artist was __________ of how the public would react to his newest cartoon."
+                    ]
+                },
+                {
+                    "word": "admire",
+                    "phonetic": "/ədˈmaɪə(r)/",
+                    "meaning": "ngưỡng mộ",
+                    "definition": "To look at with pleasure, respect, or warm approval.",
+                    "example": "I admire his work.\nPeople around the world admire Walt Disney for his boundless creativity.\nVisitors stopped in awe to admire the breathtaking paintings in the gallery.",
+                    "quizzes": [
+                        "Millions of animators __________ Walt Disney for his courage and innovation.",
+                        "We all __________ people who work tirelessly to achieve their lifelong ambitions.",
+                        "Art lovers from across the globe visit the museum to __________ the master's paintings."
+                    ]
+                },
+                {
+                    "word": "agency",
+                    "phonetic": "/ˈeɪdʒənsi/",
+                    "meaning": "đại lý, công ty dịch vụ",
+                    "definition": "A business or organization providing a specific service on behalf of clients.",
+                    "example": "He worked for an agency.\nHis first commercial art job was at a local advertising agency in Kansas City.\nShe contacted a reputable travel agency to plan her family holiday.",
+                    "quizzes": [
+                        "Walt gained valuable drawing experience while working for an advertising __________.",
+                        "The employment __________ helped recent college graduates find suitable jobs.",
+                        "We booked our vacation tour packages through an international travel __________."
+                    ]
+                },
+                {
+                    "word": "invent",
+                    "phonetic": "/ɪnˈvent/",
+                    "meaning": "phát minh, sáng tạo ra",
+                    "definition": "To create or design something that has never existed before.",
+                    "example": "He invented new characters.\nThomas Edison invented many revolutionary devices including the phonograph.\nStorytellers often invent magical worlds filled with mythical creatures.",
+                    "quizzes": [
+                        "Walt Disney __________ed beloved animated figures like Mickey Mouse and Donald Duck.",
+                        "Scientists continue to __________ clever gadgets to make daily life more convenient.",
+                        "Writers can __________ captivating fictional universes that entertain millions."
+                    ]
+                },
+                {
+                    "word": "trailblazer",
+                    "phonetic": "/ˈtreɪlbleɪzə(r)/",
+                    "meaning": "người mở đường, người tiên phong",
+                    "definition": "A pioneer or innovator who is the first to do something and paves the way for others.",
+                    "example": "He is a trailblazer in film.\nAs a trailblazer in family entertainment, he set standards that last to this day.\nShe was celebrated as a trailblazer for young women pursuing aerospace engineering.",
+                    "quizzes": [
+                        "Walt Disney was a visionary __________ whose ideas transformed global entertainment.",
+                        "The scientist was recognized as a __________ in the field of renewable clean energy.",
+                        "As an industry __________, the company launched the very first commercial smartphone."
+                    ]
+                },
+                {
+                    "word": "plain",
+                    "phonetic": "/pleɪn/",
+                    "meaning": "đồng bằng",
+                    "definition": "A large, flat, and open area of land with few or no trees.",
+                    "example": "They lived on the plains.\nHerds of wild bison roamed across the vast grassy plains of North America.\nThe fertile river plains are ideal for growing wheat, rice, and vegetables.",
+                    "quizzes": [
+                        "Herds of wild horses galloped freely across the open __________s of the midwest.",
+                        "Farmers settled in the fertile green __________ to plant seasonal crops.",
+                        "The vast snow-covered __________ stretched as far as the eye could see in winter."
+                    ]
+                },
+                {
+                    "word": "nomad",
+                    "phonetic": "/ˈnəʊmæd/",
+                    "meaning": "người du mục",
+                    "definition": "A person or member of a community having no permanent home, moving from place to place to find pasture or sustenance.",
+                    "example": "Nomads travel across the desert.\nThe desert nomads travel with their camels in search of water and grazing land.\nHe lived like a digital nomad, traveling the world while working remotely.",
+                    "quizzes": [
+                        "The desert __________s set up portable tents whenever they reached fresh water wells.",
+                        "A traditional __________ moves his herd of livestock with each changing season.",
+                        "Unlike townspeople who stay in fixed houses, a __________ travels constantly from place to place."
+                    ]
+                }
+            ],
+            "grammars": []
         }
     ]
 }

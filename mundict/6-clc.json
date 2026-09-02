@@ -4735,6 +4735,542 @@
                 }
             ],
             "grammars": []
+        },
+        {
+            "sectionId": "reading-comprehension-helen-keller",
+            "sectionName": "READING COMPREHENSION - \"Helen Keller\"",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "imagine",
+                    "phonetic": "/ɪˈmædʒɪn/",
+                    "meaning": "tưởng tượng, hình dung",
+                    "definition": "To form a mental picture or idea of something in the mind.",
+                    "example": "Imagine a world without sound.\nCan you imagine living on a deserted tropical island?\nClose your eyes and try to imagine a quiet green forest.",
+                    "quizzes": [
+                        "__________ a world without sound, where everything is completely quiet.",
+                        "Can you __________ what our city will look like in fifty years?",
+                        "It is hard to __________ living without internet or smartphones today."
+                    ]
+                },
+                {
+                    "word": "ill",
+                    "phonetic": "/ɪl/",
+                    "meaning": "bị ốm, đau yếu",
+                    "definition": "Not in good health; sick or suffering from a disease.",
+                    "example": "She felt ill yesterday.\nHe was too ill to attend school for several days.\nThe doctor gave her medicine when she fell ill.",
+                    "quizzes": [
+                        "She felt __________ yesterday and had to stay in bed all morning.",
+                        "Eating unwashed fruits might make you feel __________.",
+                        "He was absent from class because he suddenly fell __________ with a fever."
+                    ]
+                },
+                {
+                    "word": "illness",
+                    "phonetic": "/ˈɪlnəs/",
+                    "meaning": "bệnh tật, căn bệnh",
+                    "definition": "A condition of being unhealthy in body or mind; a disease or sickness.",
+                    "example": "He recovered from illness.\nA sudden severe illness left Helen blind and deaf in infancy.\nRegular exercise and good sleep help protect against illness.",
+                    "quizzes": [
+                        "He gradually recovered from his serious __________ after two weeks of rest.",
+                        "A mysterious childhood __________ changed the course of Helen's life.",
+                        "Proper nutrition strengthens your immune system against viral __________es."
+                    ]
+                },
+                {
+                    "word": "expect",
+                    "phonetic": "/ɪkˈspekt/",
+                    "meaning": "mong đợi, dự kiến, kỳ vọng",
+                    "definition": "To think or believe that something will happen, or someone will arrive.",
+                    "example": "Doctors expected her to recover.\nWe expect sunny weather for our weekend picnic.\nThe teacher expects every student to finish their homework.",
+                    "quizzes": [
+                        "Doctors __________ed her to recover from the high fever.",
+                        "We __________ the school bus to arrive in about ten minutes.",
+                        "Parents always __________ their children to try their hardest at school."
+                    ]
+                },
+                {
+                    "word": "survive",
+                    "phonetic": "/səˈvaɪv/",
+                    "meaning": "sống sót, tồn tại qua khó khăn",
+                    "definition": "To continue to live or exist, especially through or after a dangerous ordeal.",
+                    "example": "She survived the accident.\nDesert plants have special roots to survive long droughts.\nHelen survived the severe illness, but lost her sight and hearing.",
+                    "quizzes": [
+                        "She __________d the terrible car accident without serious injury.",
+                        "Few desert plants can __________ in such extremely dry conditions.",
+                        "The baby miraculously __________d a dangerous fever that nearly took her life."
+                    ]
+                },
+                {
+                    "word": "notice",
+                    "phonetic": "/ˈnəʊtɪs/",
+                    "meaning": "nhận thấy, chú ý thấy",
+                    "definition": "To become aware of something by seeing, hearing, or sensing it.",
+                    "example": "He noticed a change.\nHelen's mother noticed that the baby did not respond when the dinner bell rang.\nDid you notice the colorful rainbow in the sky?",
+                    "quizzes": [
+                        "He __________d a subtle change in his friend's mood.",
+                        "Her mother __________d that the baby did not react when the bell rang.",
+                        "Did you __________ the beautiful new painting hanging in the hallway?"
+                    ]
+                },
+                {
+                    "word": "respond",
+                    "phonetic": "/rɪˈspɒnd/",
+                    "meaning": "phản ứng, đáp lại, trả lời",
+                    "definition": "To react to something that has been said, done, or experienced.",
+                    "example": "She responded quickly.\nThe baby did not respond when someone called her name.\nHe responded politely to all the questions during the interview.",
+                    "quizzes": [
+                        "She __________ed quickly when the teacher asked her a question.",
+                        "The baby did not __________ to loud sounds or sudden bright lights.",
+                        "How did the audience __________ to the musician's performance?"
+                    ]
+                },
+                {
+                    "word": "wave",
+                    "phonetic": "/weɪv/",
+                    "meaning": "vẫy tay",
+                    "definition": "To move one's hand back and forth to greet, signal, or say goodbye.",
+                    "example": "She waved her hand.\nHelen did not react when her mother waved her hand in front of her face.\nThe children waved goodbye as their parents drove away.",
+                    "quizzes": [
+                        "She __________d her hand cheerfully to greet her friends across the street.",
+                        "The mother __________d her hand right before the baby's eyes, but she did not blink.",
+                        "We stood on the platform and __________d farewell to our grandparents."
+                    ]
+                },
+                {
+                    "word": "apparent",
+                    "phonetic": "/əˈpærənt/",
+                    "meaning": "rõ ràng, hiển nhiên, thấy rõ",
+                    "definition": "Clearly visible, evident, or easy to understand.",
+                    "example": "It became apparent she was tired.\nIt soon became apparent that Helen could neither hear nor see.\nThere was no apparent reason for his sudden absence.",
+                    "quizzes": [
+                        "It became __________ that she was exhausted after the long journey.",
+                        "It was __________ to the doctors that the child needed specialized care.",
+                        "There was no __________ damage to the car after the small collision."
+                    ]
+                },
+                {
+                    "word": "blind",
+                    "phonetic": "/blaɪnd/",
+                    "meaning": "mù, khiếm thị",
+                    "definition": "Unable to see because of injury, disease, or birth condition.",
+                    "example": "He was born blind.\nHelen Keller became blind and deaf before she was two years old.\nGuide dogs help blind people navigate city streets safely.",
+                    "quizzes": [
+                        "He was born __________, but developed an extraordinary ear for music.",
+                        "The severe childhood fever left Helen completely __________ and deaf.",
+                        "Braille books allow __________ readers to enjoy literature independently."
+                    ]
+                },
+                {
+                    "word": "deaf",
+                    "phonetic": "/def/",
+                    "meaning": "điếc, khiếm thính",
+                    "definition": "Unable to hear completely or partially.",
+                    "example": "She is deaf in one ear.\nBeing deaf made it difficult for Helen to learn spoken words at first.\nMany deaf people communicate fluently using sign language.",
+                    "quizzes": [
+                        "She is __________ in one ear, so please sit on her right side.",
+                        "People who are __________ can express complex ideas using sign language.",
+                        "Because Helen was both blind and __________, her world was dark and silent."
+                    ]
+                },
+                {
+                    "word": "frustrated",
+                    "phonetic": "/frʌˈstreɪtɪd/",
+                    "meaning": "bực bội, nản lòng, cáu kỉnh",
+                    "definition": "Feeling annoyed, discouraged, or angry because you cannot achieve what you want.",
+                    "example": "He felt frustrated.\nHelen grew very frustrated because she could not express what she wanted.\nStudents feel frustrated when they cannot solve a difficult riddle.",
+                    "quizzes": [
+                        "He felt __________ when his computer crashed before he could save the file.",
+                        "Helen was deeply __________ because she had no way to explain her feelings.",
+                        "Don't feel __________ if you make mistakes while learning a foreign language."
+                    ]
+                },
+                {
+                    "word": "confused",
+                    "phonetic": "/kənˈfjuːzd/",
+                    "meaning": "bối rối, lúng túng, không hiểu gì",
+                    "definition": "Unable to understand something clearly or think clearly about a situation.",
+                    "example": "I am confused by the question.\nAt first, Helen was confused by the hand signs her teacher made.\nThe complicated road map left the tourists feeling confused.",
+                    "quizzes": [
+                        "I am __________ by this tricky grammar rule and need extra examples.",
+                        "The little girl felt __________ when her teacher spelled strange letters on her hand.",
+                        "The driver took the wrong turn because the street signs were __________."
+                    ]
+                },
+                {
+                    "word": "hire",
+                    "phonetic": "/ˈhaɪə(r)/",
+                    "meaning": "thuê, tuyển dụng (người)",
+                    "definition": "To pay someone to do a specific job or work for you.",
+                    "example": "They hired a teacher.\nHelen's parents decided to hire Anne Sullivan to teach their young daughter.\nThe company plans to hire ten new programmers next month.",
+                    "quizzes": [
+                        "They decided to __________ a specialized tutor to help Helen learn.",
+                        "The bookstore owner wanted to __________ a student for weekend shifts.",
+                        "Her parents __________d Anne Sullivan from the Perkins School for the Blind."
+                    ]
+                },
+                {
+                    "word": "tutor",
+                    "phonetic": "/ˈtjuːtə(r)/",
+                    "meaning": "gia sư, người dạy kèm",
+                    "definition": "A private teacher who provides individual instruction to a student.",
+                    "example": "She has a math tutor.\nAnne Sullivan became Helen's dedicated tutor and lifelong companion.\nA private tutor helped him prepare for the challenging entrance exam.",
+                    "quizzes": [
+                        "She hired a math __________ to help her improve her test scores.",
+                        "Anne Sullivan was the patient __________ who unlocked Helen's mind.",
+                        "A skilled __________ can provide personal attention tailored to a child's needs."
+                    ]
+                },
+                {
+                    "word": "right away",
+                    "phonetic": "/raɪt əˈweɪ/",
+                    "meaning": "ngay lập tức, ngay tức thì",
+                    "definition": "Immediately, without delay.",
+                    "example": "Come here right away.\nAnne Sullivan started teaching Helen finger spelling right away.\nPlease call the doctor right away if her fever returns.",
+                    "quizzes": [
+                        "Please finish your homework __________ so we can watch a movie.",
+                        "Anne began teaching Helen letters __________ upon arriving at the house.",
+                        "If you notice any danger, inform the teacher __________."
+                    ]
+                },
+                {
+                    "word": "water pump",
+                    "phonetic": "/ˈwɔːtə pʌmp/",
+                    "meaning": "máy bơm nước, cần bơm nước tay",
+                    "definition": "A mechanical device used to pump water up from an underground source.",
+                    "example": "She stood by the water pump.\nAnne pumped cool well water over Helen's hand at the outdoor water pump.\nEvery morning, villagers gathered around the village water pump.",
+                    "quizzes": [
+                        "She stood beside the old __________ as fresh, cool water gushed over her hand.",
+                        "The breakthrough moment happened right next to the garden's __________.",
+                        "In old country houses, families drew their daily water from an outdoor __________."
+                    ]
+                },
+                {
+                    "word": "breakthrough",
+                    "phonetic": "/ˈbreɪkθruː/",
+                    "meaning": "bước đột phá, phát kiến quan trọng",
+                    "definition": "An important discovery or event that helps solve a major problem or achieve success.",
+                    "example": "This was a major breakthrough.\nConnecting the cool liquid to the spelled word 'W-A-T-E-R' was Helen's biggest breakthrough.\nScientists achieved a breakthrough in clean renewable energy.",
+                    "quizzes": [
+                        "This experiment proved to be a major __________ in modern medicine.",
+                        "Understanding that everything has a name was a life-changing __________ for Helen.",
+                        "The research team celebrated an amazing technological __________ today."
+                    ]
+                },
+                {
+                    "word": "spell",
+                    "phonetic": "/spel/",
+                    "meaning": "đánh vần, viết bằng các chữ cái",
+                    "definition": "To form words with letters in the correct order, or sign letters into someone's palm.",
+                    "example": "She spelled the word correctly.\nAnne spelled words into Helen's open hand using finger motions.\nCan you spell 'encyclopedia' for the spelling bee?",
+                    "quizzes": [
+                        "She __________ed each difficult word correctly on the spelling test.",
+                        "Anne Sullivan patiently __________ed letters into the palm of Helen's hand.",
+                        "How do you __________ your last name in English?"
+                    ]
+                },
+                {
+                    "word": "catch on",
+                    "phonetic": "/kætʃ ɒn/",
+                    "meaning": "hiểu ra, nắm bắt được, tiếp thu",
+                    "definition": "To understand or realize something after some time or instruction.",
+                    "example": "He quickly caught on.\nHelen caught on that the finger patterns represented the cool liquid flowing over her skin.\nWith a little practice, students soon caught on to the game.",
+                    "quizzes": [
+                        "He quickly __________ to the rules of chess after watching a single match.",
+                        "Helen finally __________ that every single object in the world possessed a name.",
+                        "It took several minutes for the audience to __________ to the hidden joke."
+                    ]
+                },
+                {
+                    "word": "suddenly",
+                    "phonetic": "/ˈsʌdənli/",
+                    "meaning": "đột nhiên, bất thình lình",
+                    "definition": "Quickly and unexpectedly, without prior warning.",
+                    "example": "Suddenly, it started raining.\nSuddenly, Helen understood the connection between words and objects.\nThe lights went out suddenly during the thunderous storm.",
+                    "quizzes": [
+                        "__________, a heavy downpour started while we were cycling home.",
+                        "She __________ understood what the teacher had been trying to explain for weeks.",
+                        "The train came to a stop __________ when an obstacle was spotted on the tracks."
+                    ]
+                },
+                {
+                    "word": "reach down",
+                    "phonetic": "/riːtʃ daʊn/",
+                    "meaning": "với xuống, cúi xuống lấy/chạm",
+                    "definition": "To extend one's arm or body downward to touch or pick up something.",
+                    "example": "She reached down to pick it up.\nHelen reached down to touch the ground and learn its name eagerly.\nHe reached down into his school bag to pull out his pencil case.",
+                    "quizzes": [
+                        "She __________ to pick up the book that had dropped onto the floor.",
+                        "The eager young girl __________ to touch the cool grass and soil.",
+                        "He __________ and helped his fallen classmate get back on his feet."
+                    ]
+                },
+                {
+                    "word": "ground",
+                    "phonetic": "/ɡraʊnd/",
+                    "meaning": "mặt đất, đất",
+                    "definition": "The solid surface of the earth under our feet.",
+                    "example": "The ball fell to the ground.\nHelen knelt on the ground, touching plants, soil, and rocks.\nAutumn leaves covered the muddy ground in vibrant yellow and gold.",
+                    "quizzes": [
+                        "The rubber ball bounced high into the air after hitting the __________.",
+                        "Helen touched the wet __________ to learn how to spell and identify it.",
+                        "Blankets of white snow covered the cold __________ throughout January."
+                    ]
+                },
+                {
+                    "word": "by the age of",
+                    "phonetic": "/baɪ ði eɪdʒ əv/",
+                    "meaning": "vào năm ... tuổi, trước khi đạt độ tuổi ...",
+                    "definition": "At or before reaching a specific age.",
+                    "example": "By the age of 10, he could read.\nBy the age of ten, Helen had learned Braille and how to use a typewriter.\nShe could speak three foreign languages fluently by the age of eight.",
+                    "quizzes": [
+                        "__________ ten, he had read dozens of classic adventure novels.",
+                        "__________ sixteen, Helen had mastered finger spelling and Braille.",
+                        "Mozart composed beautiful musical pieces __________ five."
+                    ]
+                },
+                {
+                    "word": "Braille",
+                    "phonetic": "/breɪl/",
+                    "meaning": "chữ nổi Braille (hệ thống chữ cho người mù)",
+                    "definition": "A system of writing and printing for blind people with patterns of raised dots felt with fingers.",
+                    "example": "She learned Braille.\nLearning Braille opened up an entire library of literature for Helen.\nPublic signs in airports are frequently printed with Braille letters.",
+                    "quizzes": [
+                        "She learned __________ so she could read inspiring stories with her fingertips.",
+                        "Books printed in __________ provide blind students with equal access to education.",
+                        "Elevator buttons often have __________ symbols alongside regular numbers."
+                    ]
+                },
+                {
+                    "word": "raised dots",
+                    "phonetic": "/reɪzd dɒts/",
+                    "meaning": "các chấm nổi",
+                    "definition": "Elevated bumps on paper or surfaces that can be felt by fingertips.",
+                    "example": "Braille uses raised dots.\nBlind people read by sliding their fingertips across rows of raised dots.\nEach character in the Braille alphabet is formed by distinct raised dots.",
+                    "quizzes": [
+                        "The Braille alphabet uses combinations of __________ to represent different letters.",
+                        "By feeling the tiny __________ on the page, she could read complete sentences.",
+                        "Special keyboards feature __________ on specific keys to assist blind typists."
+                    ]
+                },
+                {
+                    "word": "represent",
+                    "phonetic": "/ˌreprɪˈzent/",
+                    "meaning": "đại diện, tượng trưng cho",
+                    "definition": "To be a symbol, sign, or expression of something.",
+                    "example": "Letters represent sounds.\nIn Braille, different arrangements of raised dots represent specific letters.\nThe olive branch is widely known to represent peace.",
+                    "quizzes": [
+                        "Letters of the alphabet __________ different spoken sounds in language.",
+                        "Combinations of raised dots __________ letters, numbers, and punctuation in Braille.",
+                        "The national flag __________s the history and unity of our people."
+                    ]
+                },
+                {
+                    "word": "go on",
+                    "phonetic": "/ɡəʊ ɒn/",
+                    "meaning": "tiếp tục, tiến bước (làm điều gì tiếp theo)",
+                    "definition": "To continue doing something, or proceed to do something next in life.",
+                    "example": "She went on to succeed.\nHelen went on to graduate from college with high honors and write many books.\nPlease go on with your interesting story.",
+                    "quizzes": [
+                        "Despite immense challenges, Helen __________ to become a celebrated author and activist.",
+                        "The teacher smiled and urged the student to __________ reading aloud.",
+                        "After finishing secondary school, she will __________ to study medicine at university."
+                    ]
+                },
+                {
+                    "word": "speech",
+                    "phonetic": "/spiːtʃ/",
+                    "meaning": "bài phát biểu, lời phát biểu, khả năng nói",
+                    "definition": "A formal address delivered to an audience; the expression of thoughts in spoken words.",
+                    "example": "He gave a speech.\nHelen gave powerful speeches around the globe to advocate for the blind.\nThe headmaster delivered an encouraging speech on the first day of term.",
+                    "quizzes": [
+                        "He delivered an inspiring __________ before thousands of enthusiastic students.",
+                        "Helen learned to speak and traveled worldwide giving remarkable __________es.",
+                        "The president gave a televised __________ to announce the new education policy."
+                    ]
+                },
+                {
+                    "word": "president",
+                    "phonetic": "/ˈprezɪdənt/",
+                    "meaning": "tổng thống, chủ tịch",
+                    "definition": "The elected head of a republic or sovereign state; the leader of an institution.",
+                    "example": "The president visited.\nHelen Keller met every United States president from Grover Cleveland to Lyndon Johnson.\nThe university president handed diplomas to all graduates.",
+                    "quizzes": [
+                        "Helen Keller was invited to the White House to meet the __________ of the United States.",
+                        "The __________ addressed the entire nation during the annual celebration.",
+                        "Our school club elected a new __________ to lead environmental projects."
+                    ]
+                },
+                {
+                    "word": "dozen",
+                    "phonetic": "/ˈdʌzn/",
+                    "meaning": "một tá (số lượng 12)",
+                    "definition": "A group or collection of twelve items.",
+                    "example": "She bought a dozen eggs.\nHelen Keller wrote over a dozen books and numerous articles during her life.\nThere were about a dozen students participating in the debate.",
+                    "quizzes": [
+                        "My mother bought a __________ fresh eggs and a bottle of milk from the market.",
+                        "Over her remarkable career, Helen authored more than a __________ published books.",
+                        "A baker's __________ usually contains thirteen items instead of twelve."
+                    ]
+                },
+                {
+                    "word": "book",
+                    "phonetic": "/bʊk/",
+                    "meaning": "cuốn sách",
+                    "definition": "A written or printed work consisting of pages bound together.",
+                    "example": "She wrote many books.\nHelen's autobiography, 'The Story of My Life', is an inspiring book.\nReading books every day enriches your vocabulary and knowledge.",
+                    "quizzes": [
+                        "She wrote an autobiographical __________ describing her journey from silence to knowledge.",
+                        "I borrowed a wonderful history __________ from the town library yesterday.",
+                        "Every child should have access to engaging __________s in school."
+                    ]
+                },
+                {
+                    "word": "inspire",
+                    "phonetic": "/ɪnˈspaɪə(r)/",
+                    "meaning": "truyền cảm hứng",
+                    "definition": "To fill someone with the urge, confidence, or motivation to do something great.",
+                    "example": "Her story inspires people.\nHelen Keller continues to inspire millions of people facing physical hardships.\nA great teacher can inspire students to pursue their biggest dreams.",
+                    "quizzes": [
+                        "Her courage and unwavering optimism __________ people all around the globe.",
+                        "True stories of overcoming adversity never fail to __________ young learners.",
+                        "The legendary artist was able to __________ generations of creative painters."
+                    ]
+                },
+                {
+                    "word": "worldwide",
+                    "phonetic": "/ˌwɜːldˈwaɪd/",
+                    "meaning": "khắp thế giới, trên toàn cầu",
+                    "definition": "Extending throughout or affecting the entire world.",
+                    "example": "She is known worldwide.\nHelen Keller's achievements earned her worldwide admiration and respect.\nThe Olympic Games are watched by millions worldwide.",
+                    "quizzes": [
+                        "Helen Keller achieved __________ fame as a passionate advocate for disability rights.",
+                        "Her inspirational message spread __________ through international publications.",
+                        "Soccer is celebrated as a popular sport with __________ appeal."
+                    ]
+                },
+                {
+                    "word": "successful",
+                    "phonetic": "/səkˈsesfl/",
+                    "meaning": "thành công, đạt kết quả tốt",
+                    "definition": "Accomplishing an aim or purpose; achieving success, fame, or prosperity.",
+                    "example": "She became successful.\nHelen grew up to be a very successful author, speaker, and humanitarian.\nThe school charity event was extremely successful in raising funds.",
+                    "quizzes": [
+                        "With dedication and guidance, she became a highly __________ author and speaker.",
+                        "Hard work and good planning led to a __________ science exhibition.",
+                        "He managed a __________ enterprise that created many community jobs."
+                    ]
+                },
+                {
+                    "word": "take pity on",
+                    "phonetic": "/teɪk ˈpɪti ɒn/",
+                    "meaning": "thương hại, rủ lòng thương, thương xót",
+                    "definition": "To feel compassion, sympathy, or mercy toward someone in a difficult situation.",
+                    "example": "They took pity on him.\nKind doctors took pity on young Anne Sullivan and provided surgery for her eyes.\nShe took pity on the lost stray puppy and gave it food and shelter.",
+                    "quizzes": [
+                        "A kind-hearted doctor __________ the young orphan and arranged medical treatment.",
+                        "They __________ the cold, hungry kittens and brought them into the warm barn.",
+                        "We should __________ those in misfortune and offer practical assistance."
+                    ]
+                },
+                {
+                    "word": "eventually",
+                    "phonetic": "/ɪˈventʃuəli/",
+                    "meaning": "cuối cùng, rốt cuộc thì",
+                    "definition": "In the end, especially after a prolonged period of effort or delay.",
+                    "example": "He eventually agreed.\nThrough persistent daily practice, Helen eventually learned to speak aloud.\nIf you continue practicing every day, you will eventually master the piano.",
+                    "quizzes": [
+                        "Through months of patient teaching, Helen __________ unlocked the power of words.",
+                        "After a long and tiring hike through the woods, they __________ reached the mountaintop.",
+                        "If you work diligently, your persistent efforts will __________ pay off."
+                    ]
+                },
+                {
+                    "word": "vision",
+                    "phonetic": "/ˈvɪʒn/",
+                    "meaning": "thị lực, khả năng nhìn, tầm nhìn",
+                    "definition": "The faculty or state of being able to see; eyesight.",
+                    "example": "He lost his vision.\nAnne Sullivan struggled with limited vision due to a severe childhood infection.\nEating healthy vegetables like carrots helps protect your vision.",
+                    "quizzes": [
+                        "The severe illness caused Helen to lose her hearing and __________ permanently.",
+                        "Anne Sullivan suffered from impaired __________ throughout most of her life.",
+                        "Regular eye examinations help doctors maintain and protect your __________."
+                    ]
+                },
+                {
+                    "word": "overcome",
+                    "phonetic": "/ˌəʊvəˈkʌm/",
+                    "meaning": "vượt qua, khắc phục (khó khăn, thử thách)",
+                    "definition": "To defeat, conquer, or successfully deal with a problem or obstacle.",
+                    "example": "She overcame difficulties.\nHelen Keller overcame extreme challenges to live a rich and meaningful life.\nTogether, we can overcome any obstacle that stands in our way.",
+                    "quizzes": [
+                        "She __________ extraordinary challenges to graduate from university with honors.",
+                        "With courage and strong support, children can __________ their fears.",
+                        "The team worked together to __________ all technical problems before launch day."
+                    ]
+                },
+                {
+                    "word": "diligent in",
+                    "phonetic": "/ˈdɪlɪdʒənt ɪn/",
+                    "meaning": "chăm chỉ trong, cần cù, siêng năng trong",
+                    "definition": "Showing steady, persistent, and earnest effort in performing a task or responsibility.",
+                    "example": "He is diligent in his studies.\nAnne Sullivan was diligent in her teaching, never giving up on Helen.\nShe was always diligent in checking her math exercises for errors.",
+                    "quizzes": [
+                        "He was remarkably __________ his daily revision and scored top marks on the test.",
+                        "Anne Sullivan was endlessly __________ her efforts to guide Helen step by step.",
+                        "Students who are __________ their studies usually make remarkable progress."
+                    ]
+                },
+                {
+                    "word": "effort",
+                    "phonetic": "/ˈefət/",
+                    "meaning": "sự nỗ lực, cố gắng",
+                    "definition": "Vigorous or determined attempt and physical or mental energy put into achieving a goal.",
+                    "example": "She made a great effort.\nWith enormous effort and dedication, Helen learned to communicate effectively.\nSuccess is the result of continuous effort and determination.",
+                    "quizzes": [
+                        "She put great __________ into mastering finger spelling and Braille.",
+                        "The rescue team made every possible __________ to reach the stranded travelers.",
+                        "Learning a musical instrument takes time, patience, and consistent daily __________."
+                    ]
+                },
+                {
+                    "word": "place in",
+                    "phonetic": "/pleɪs ɪn/",
+                    "meaning": "đưa vào, gửi vào, xếp vào",
+                    "definition": "To put, position, or assign someone into a specific institution, location, or condition.",
+                    "example": "He was placed in a school.\nAs a poor young girl, Anne Sullivan was placed in a state almshouse.\nThe teacher placed the new students in suitable study groups.",
+                    "quizzes": [
+                        "After losing her parents, young Anne was __________ a state-run institution.",
+                        "The precious historical artifacts were carefully __________ glass display cases.",
+                        "The coach __________ the fastest runner in the final position of the relay race."
+                    ]
+                },
+                {
+                    "word": "orphanage",
+                    "phonetic": "/ˈɔːfənɪdʒ/",
+                    "meaning": "trại trẻ mồ côi",
+                    "definition": "A public or charitable residential home for the care of children who have lost their parents.",
+                    "example": "She grew up in an orphanage.\nAnne Sullivan lived in a difficult orphanage environment before attending the Perkins School.\nThe charity organization donates books and warm clothes to the local orphanage.",
+                    "quizzes": [
+                        "She spent several years of her early childhood in a crowded __________.",
+                        "Volunteers visited the local __________ to read stories and play games with children.",
+                        "Despite growing up in an __________, Anne showed great resilience and ambition."
+                    ]
+                },
+                {
+                    "word": "work hard",
+                    "phonetic": "/wɜːk hɑːd/",
+                    "meaning": "làm việc chăm chỉ, nỗ lực hết mình",
+                    "definition": "To apply oneself with great energy, diligence, and persistence.",
+                    "example": "You must work hard to succeed.\nBoth Helen and Anne had to work hard every single day to overcome difficulties.\nIf you work hard at your studies, you can accomplish your biggest goals.",
+                    "quizzes": [
+                        "You must __________ every single day if you wish to master a new skill.",
+                        "The students __________ throughout the semester to prepare for their examinations.",
+                        "Helen and her dedicated teacher continued to __________ without losing hope."
+                    ]
+                }
+            ],
+            "grammars": []
         }
     ]
 }

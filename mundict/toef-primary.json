@@ -1562,6 +1562,134 @@
                     "quizzes": []
                 }
             ]
+        },
+        {
+            "sectionId": "friends",
+            "sectionName": "Friends",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "join",
+                    "phonetic": "/dʒɔɪn/",
+                    "meaning": "tham gia",
+                    "definition": "To become a member of an organization, group, or club.",
+                    "example": "I want to join the art club.\nTôi muốn tham gia câu lạc bộ mỹ thuật.",
+                    "quizzes": [
+                        "I want to __________ the art club.",
+                        "Do you want to __________ our study group this afternoon?",
+                        "Many students __________ sports clubs after school."
+                    ]
+                },
+                {
+                    "word": "be interested in",
+                    "phonetic": "/bi: 'ɪntrəstɪd ɪn/",
+                    "meaning": "quan tâm đến",
+                    "definition": "To want to give your attention to something and learn more about it.",
+                    "example": "I'm interested in learning English.\nTôi quan tâm đến việc học tiếng Anh.",
+                    "quizzes": [
+                        "I'm __________ learning English.",
+                        "She is __________ reading books about animals.",
+                        "Are you __________ joining our science project?"
+                    ]
+                },
+                {
+                    "word": "homework",
+                    "phonetic": "/'həʊmwɜ:k/",
+                    "meaning": "bài tập về nhà",
+                    "definition": "Work that a teacher gives to a student to do at home.",
+                    "example": "I do my homework every evening.\nTôi làm bài tập về nhà mỗi tối.",
+                    "quizzes": [
+                        "I do my __________ every evening.",
+                        "Remember to finish your math __________ before dinner.",
+                        "The teacher gave us a lot of __________ today."
+                    ]
+                },
+                {
+                    "word": "assignment",
+                    "phonetic": "/ə'saɪnmənt/",
+                    "meaning": "bài tập, nhiệm vụ",
+                    "definition": "A piece of work or job that you are given to do.",
+                    "example": "We have a group assignment this week.\nTuần này chúng tôi có bài tập nhóm.",
+                    "quizzes": [
+                        "We have a group __________ this week.",
+                        "Please submit your science __________ on Monday.",
+                        "He worked hard to complete his history __________."
+                    ]
+                },
+                {
+                    "word": "souvenir",
+                    "phonetic": "/,su:və'nɪər/",
+                    "meaning": "quà lưu niệm",
+                    "definition": "Something you buy or keep to remind you of a place, holiday, or event.",
+                    "example": "I bought a souvenir from my trip.\nTôi mua quà lưu niệm từ chuyến đi.",
+                    "quizzes": [
+                        "I bought a __________ from my trip.",
+                        "She brought back a nice __________ for her best friend.",
+                        "This keychain is a __________ from our visit to the museum."
+                    ]
+                },
+                {
+                    "word": "partner",
+                    "phonetic": "/'pɑ:tnər/",
+                    "meaning": "bạn cùng làm",
+                    "definition": "A person with whom one is associated in a team or school activity.",
+                    "example": "Work with your partner.\nLàm việc với bạn cùng nhóm của bạn.",
+                    "quizzes": [
+                        "Work with your __________.",
+                        "Discuss the question with your __________.",
+                        "My __________ and I completed the project together."
+                    ]
+                },
+                {
+                    "word": "competitive",
+                    "phonetic": "/kəm'petɪtɪv/",
+                    "meaning": "có tính cạnh tranh",
+                    "definition": "Wanting very much to win or be more successful than other people.",
+                    "example": "My brother is very competitive.\nAnh tôi rất hiếu thắng.",
+                    "quizzes": [
+                        "My brother is very __________.",
+                        "Playing sports can make students more __________.",
+                        "She is a __________ player who always tries her best to win."
+                    ]
+                },
+                {
+                    "word": "respect",
+                    "phonetic": "/rɪ'spekt/",
+                    "meaning": "tôn trọng",
+                    "definition": "To admire someone deeply or treat someone with care and honor.",
+                    "example": "We should respect our teachers.\nChúng ta nên tôn trọng thầy cô.",
+                    "quizzes": [
+                        "We should __________ our teachers.",
+                        "It is important to __________ your classmates and listen to them.",
+                        "Good friends always __________ each other's opinions."
+                    ]
+                },
+                {
+                    "word": "come over",
+                    "phonetic": "/kʌm 'əʊvər/",
+                    "meaning": "ghé qua",
+                    "definition": "To visit someone at their house for a short time.",
+                    "example": "My friends come over after school.\nBạn tôi ghé qua sau giờ học.",
+                    "quizzes": [
+                        "My friends __________ after school.",
+                        "Can you __________ to my house this weekend?",
+                        "He invited his classmates to __________ and play games."
+                    ]
+                },
+                {
+                    "word": "hang out",
+                    "phonetic": "/hæŋ aʊt/",
+                    "meaning": "đi chơi",
+                    "definition": "To spend a lot of time in a place or with someone.",
+                    "example": "We hang out at the park on weekends.\nChúng tôi đi chơi ở công viên cuối tuần.",
+                    "quizzes": [
+                        "We __________ at the park on weekends.",
+                        "Where do you and your friends usually __________?",
+                        "They love to __________ together after school."
+                    ]
+                }
+            ],
+            "grammars": []
         }
     ]
 }

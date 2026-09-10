@@ -1690,6 +1690,134 @@
                 }
             ],
             "grammars": []
+        },
+        {
+            "sectionId": "lesson-14-around-the-town",
+            "sectionName": "Lesson 14 – Vocabulary List (Around the Town)",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "bank",
+                    "phonetic": "/bæŋk/",
+                    "meaning": "ngân hàng",
+                    "definition": "A place of business for looking after people's money.",
+                    "example": "Mom is at the bank to withdraw money.\nMẹ đang ở ngân hàng để rút tiền.",
+                    "quizzes": [
+                        "Mom is at the __________ to withdraw money.",
+                        "I need to go to the __________ to open a new savings account.",
+                        "The __________ closes at four o'clock in the afternoon."
+                    ]
+                },
+                {
+                    "word": "restaurant",
+                    "phonetic": "/'restərɒnt/",
+                    "meaning": "nhà hàng",
+                    "definition": "A place where you can buy and eat a meal.",
+                    "example": "Let's eat at a restaurant tonight.\nHãy ăn ở nhà hàng tối nay.",
+                    "quizzes": [
+                        "Let's eat at a __________ tonight.",
+                        "They went to an Italian __________ for dinner.",
+                        "This __________ is famous for its delicious seafood."
+                    ]
+                },
+                {
+                    "word": "aquarium",
+                    "phonetic": "/ə'kweəriəm/",
+                    "meaning": "thủy cung",
+                    "definition": "A building or large container where fish and other water animals are kept for people to see.",
+                    "example": "We saw many fish at the aquarium.\nChúng tôi thấy nhiều cá ở thủy cung.",
+                    "quizzes": [
+                        "We saw many fish at the __________.",
+                        "The children loved seeing the sharks and dolphins at the __________.",
+                        "Our school is planning a field trip to the city __________."
+                    ]
+                },
+                {
+                    "word": "skatepark",
+                    "phonetic": "/'skeit,pɑ:k/",
+                    "meaning": "sân trượt ván",
+                    "definition": "A purpose-built area for people to ride skateboards, roller skates, or BMX bikes.",
+                    "example": "They play at the skatepark after school.\nHọ chơi ở sân trượt ván sau giờ học.",
+                    "quizzes": [
+                        "They play at the __________ after school.",
+                        "He practiced new skateboarding tricks at the local __________.",
+                        "Wear your helmet and knee pads when you go to the __________."
+                    ]
+                },
+                {
+                    "word": "shopping mall",
+                    "phonetic": "/'ʃɒpɪŋ mɔ:l/",
+                    "meaning": "trung tâm thương mại",
+                    "definition": "A large enclosed shopping area containing many shops, restaurants, and entertainment places.",
+                    "example": "There are many stores in the shopping mall.\nCó nhiều cửa hàng trong trung tâm thương mại.",
+                    "quizzes": [
+                        "There are many stores in the __________.",
+                        "We spent the afternoon looking at shops in the __________.",
+                        "The new __________ has a cinema and a food court on the top floor."
+                    ]
+                },
+                {
+                    "word": "clothing store",
+                    "phonetic": "/'kləʊðɪŋ stɔ:r/",
+                    "meaning": "cửa hàng quần áo",
+                    "definition": "A shop that sells clothes and garments.",
+                    "example": "I bought a new T-shirt at the clothing store.\nTôi mua áo thun mới ở cửa hàng quần áo.",
+                    "quizzes": [
+                        "I bought a new T-shirt at the __________.",
+                        "She works as a shop assistant at a popular __________.",
+                        "Let's go to that __________ to find a warm winter jacket."
+                    ]
+                },
+                {
+                    "word": "book fair",
+                    "phonetic": "/bʊk feər/",
+                    "meaning": "hội sách",
+                    "definition": "An event or exhibition where books are displayed, promoted, and sold.",
+                    "example": "We visited the book fair last weekend.\nChúng tôi đã đi hội sách cuối tuần trước.",
+                    "quizzes": [
+                        "We visited the __________ last weekend.",
+                        "I bought three storybooks at a discount at the school __________.",
+                        "Many famous authors attended the annual __________ to sign books."
+                    ]
+                },
+                {
+                    "word": "craft store",
+                    "phonetic": "/krɑ:ft stɔ:r/",
+                    "meaning": "cửa hàng đồ thủ công",
+                    "definition": "A store selling materials and tools for arts and crafts.",
+                    "example": "Let's buy paper at the craft store.\nMua giấy ở cửa hàng đồ thủ công nhé.",
+                    "quizzes": [
+                        "Let's buy paper at the __________.",
+                        "We need colored pencils, glue, and scissors from the __________.",
+                        "She bought yarn and beads at the local __________ for her art project."
+                    ]
+                },
+                {
+                    "word": "space museum",
+                    "phonetic": "/speɪs mju'zi:əm/",
+                    "meaning": "bảo tàng vũ trụ",
+                    "definition": "A museum dedicated to the history and science of space exploration.",
+                    "example": "The space museum has rockets and spacesuits.\nBảo tàng vũ trụ có tên lửa và bộ đồ phi hành gia.",
+                    "quizzes": [
+                        "The __________ has rockets and spacesuits.",
+                        "We learned about planets and astronauts during our trip to the __________.",
+                        "You can see real spacecraft models inside the __________."
+                    ]
+                },
+                {
+                    "word": "national gallery",
+                    "phonetic": "/'næʃənəl 'gæləri/",
+                    "meaning": "phòng trưng bày quốc gia",
+                    "definition": "A public art gallery or museum that houses an important national collection of art.",
+                    "example": "We saw famous paintings at the national gallery.\nChúng tôi xem các bức tranh nổi tiếng ở phòng trưng bày quốc gia.",
+                    "quizzes": [
+                        "We saw famous paintings at the __________.",
+                        "Tourists from around the world visit the __________ to see historical art.",
+                        "The guide explained the story behind the masterpiece at the __________."
+                    ]
+                }
+            ],
+            "grammars": []
         }
     ]
 }

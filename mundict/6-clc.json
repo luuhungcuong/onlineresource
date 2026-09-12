@@ -5271,6 +5271,686 @@
                 }
             ],
             "grammars": []
+        },
+        {
+            "sectionId": "unit-7-learning-and-doing",
+            "sectionName": "Unit 7: Learning and Doing",
+            "imageUrl": "",
+            "vocabularies": [
+                {
+                    "word": "achieve",
+                    "phonetic": "/əˈtʃiːv/",
+                    "meaning": "đạt được, hoàn thành",
+                    "definition": "To succeed in reaching a particular goal, status or standard, especially by making an effort for a long time.",
+                    "example": "They have both achieved great results.\nShe worked hard to achieve her dream of becoming a doctor.\nHe achieved success through dedication and perseverance.",
+                    "quizzes": [
+                        "They have both __________ great results in their final examinations.",
+                        "She worked hard day and night to __________ her lifelong dream.",
+                        "You can __________ great things if you believe in yourself."
+                    ]
+                },
+                {
+                    "word": "brain",
+                    "phonetic": "/breɪn/",
+                    "meaning": "não, trí não",
+                    "definition": "The organ inside the head that controls movement, thought, memory and feeling.",
+                    "example": "The human brain is a complex organ.\nReading regularly exercises your brain and improves concentration.\nHe suffered a mild concussion to the brain during the match.",
+                    "quizzes": [
+                        "The human __________ is a complex organ that controls all thoughts and movements.",
+                        "Puzzles and math games are wonderful exercises for the __________.",
+                        "Wear a helmet to protect your __________ while riding a bicycle."
+                    ]
+                },
+                {
+                    "word": "clever",
+                    "phonetic": "/ˈklevər/",
+                    "meaning": "thông minh, khéo léo",
+                    "definition": "Quick to learn, understand, or devise ideas; intelligent.",
+                    "example": "He came up with a clever solution to the problem.\nShe is a clever student who grasps difficult concepts very quickly.\nThat was a clever idea to organize the notes alphabetically.",
+                    "quizzes": [
+                        "He came up with a __________ solution to the challenging problem.",
+                        "The __________ detective solved the mystery within a few hours.",
+                        "She is a __________ girl who always achieves top scores in class."
+                    ]
+                },
+                {
+                    "word": "concentrate",
+                    "phonetic": "/ˈkɒnsntreɪt/",
+                    "meaning": "tập trung",
+                    "definition": "To give all your attention to something and not think about anything else.",
+                    "example": "I can't concentrate with all that noise going on.\nPlease turn down the radio so I can concentrate on my studies.\nIt requires intense mental effort to concentrate for three hours.",
+                    "quizzes": [
+                        "I can't __________ on my homework with all that loud noise going on.",
+                        "She tried to __________ on the road while driving through the storm.",
+                        "A quiet environment helps students __________ much better."
+                    ]
+                },
+                {
+                    "word": "consider",
+                    "phonetic": "/kənˈsɪdər/",
+                    "meaning": "xem xét, cân nhắc",
+                    "definition": "To think about something carefully, especially in order to make a decision.",
+                    "example": "I'd like some time to consider.\nHave you considered applying for a scholarship abroad?\nWe must consider all possible consequences before deciding.",
+                    "quizzes": [
+                        "I'd like some time to __________ your offer before giving an answer.",
+                        "You should __________ taking an online course to improve your skills.",
+                        "The committee will __________ several candidates for the open position."
+                    ]
+                },
+                {
+                    "word": "course",
+                    "phonetic": "/kɔːs/",
+                    "meaning": "khóa học",
+                    "definition": "A series of lessons or lectures on a particular subject.",
+                    "example": "I want to do a course in art and design.\nHe registered for an intensive French language course.\nAll students who finish the course will receive a certificate.",
+                    "quizzes": [
+                        "I want to do a __________ in art and design at the local college.",
+                        "She enrolled in an advanced mathematics __________ this term.",
+                        "The online training __________ lasted six weeks."
+                    ]
+                },
+                {
+                    "word": "degree",
+                    "phonetic": "/dɪˈɡriː/",
+                    "meaning": "bằng đại học",
+                    "definition": "The qualification obtained by students who successfully complete a university or college course.",
+                    "example": "My brother has a master's degree from Harvard.\nShe graduated with a bachelor's degree in computer science.\nHaving a university degree opens up diverse career paths.",
+                    "quizzes": [
+                        "My brother has a master's __________ from Harvard University.",
+                        "After four years of study, she proudly received her bachelor's __________.",
+                        "Most engineering jobs require a recognized university __________."
+                    ]
+                },
+                {
+                    "word": "experience",
+                    "phonetic": "/ɪkˈspɪəriəns/",
+                    "meaning": "kinh nghiệm, trải nghiệm",
+                    "definition": "The knowledge and skill that you have gained through doing something for a period of time; the process of gaining this.",
+                    "example": "My lack of practical experience was a disadvantage.\nTraveling alone in a foreign country was an unforgettable experience.\nHe has over fifteen years of teaching experience.",
+                    "quizzes": [
+                        "My lack of practical __________ was a disadvantage in the job interview.",
+                        "Living with a host family was an eye-opening cultural __________.",
+                        "She gained valuable hands-on __________ working in the research lab."
+                    ]
+                },
+                {
+                    "word": "expert",
+                    "phonetic": "/ˈekspɜːt/",
+                    "meaning": "chuyên gia, tài giỏi",
+                    "definition": "A person with special knowledge, skill or training in something.",
+                    "example": "She is a world expert on butterflies.\nWe consulted a financial expert to help plan our company budget.\nHe is an expert swimmer who trains future olympians.",
+                    "quizzes": [
+                        "She is a world __________ on butterflies and tropical insects.",
+                        "If your computer has serious issues, consult a technical __________.",
+                        "He is an __________ at fixing vintage mechanical clocks."
+                    ]
+                },
+                {
+                    "word": "fail",
+                    "phonetic": "/feɪl/",
+                    "meaning": "thất bại, trượt, không đỗ",
+                    "definition": "To not be successful in achieving something, or not reach the required standard in an exam.",
+                    "example": "I tried to cheer her up, but failed miserably.\nHe was terrified that he might fail his driving test.\nIf you don't revise your notes, you could fail the quiz.",
+                    "quizzes": [
+                        "I tried to cheer her up, but __________ miserably.",
+                        "He studied hard so that he would not __________ the physics exam.",
+                        "Many inventors __________ numerous times before achieving a breakthrough."
+                    ]
+                },
+                {
+                    "word": "guess",
+                    "phonetic": "/ɡes/",
+                    "meaning": "đoán, dự đoán",
+                    "definition": "To try and give an answer or make a judgement about something without being sure of all the facts.",
+                    "example": "I don't really know. I'm just guessing.\nCan you guess how many marbles are inside the glass jar?\nIf you don't know the exact answer, make an educated guess.",
+                    "quizzes": [
+                        "I don't really know the right answer; I'm just __________.",
+                        "Can you __________ who came to visit us unexpectedly today?",
+                        "She took a wild __________ and surprisingly answered correctly."
+                    ]
+                },
+                {
+                    "word": "hesitate",
+                    "phonetic": "/ˈhezɪteɪt/",
+                    "meaning": "do dự, ngập ngừng",
+                    "definition": "To be slow to speak or act because you feel uncertain or nervous.",
+                    "example": "He seemed to hesitate a second.\nPlease do not hesitate to contact our customer support team.\nShe hesitated before stepping onto the stage to give her speech.",
+                    "quizzes": [
+                        "He seemed to __________ a second before answering the difficult question.",
+                        "Do not __________ to ask for assistance whenever you feel confused.",
+                        "She __________ before opening the envelope with her exam results."
+                    ]
+                },
+                {
+                    "word": "instruction",
+                    "phonetic": "/ɪnˈstrʌkʃn/",
+                    "meaning": "sự hướng dẫn, chỉ dẫn",
+                    "definition": "Detailed information on how to do or use something.",
+                    "example": "There are instructions that tell you where everything goes.\nRead the exam instructions carefully before writing your answers.\nFollow the manufacturer's instruction to assemble the desk.",
+                    "quizzes": [
+                        "There are clear __________ that tell you where everything goes.",
+                        "Be sure to read the test __________ carefully before you start writing.",
+                        "The teacher gave step-by-step __________ for the science experiment."
+                    ]
+                },
+                {
+                    "word": "progress",
+                    "phonetic": "/ˈprəʊɡres/",
+                    "meaning": "sự tiến bộ, tiến trình",
+                    "definition": "The process of developing, advancing, or improving towards a higher standard or completion.",
+                    "example": "She is making steady progress in her English pronunciation.\nWe will assess your academic progress at the end of the term.\nMedical science has made tremendous progress over the last decade.",
+                    "quizzes": [
+                        "The students have made remarkable __________ in mathematics this semester.",
+                        "The doctor was pleased with the patient's steady __________ after surgery.",
+                        "We are holding weekly meetings to track our project __________."
+                    ]
+                },
+                {
+                    "word": "process",
+                    "phonetic": "/ˈprəʊses/",
+                    "meaning": "quá trình, quy trình",
+                    "definition": "A series of things or actions that are done in order to achieve a particular result.",
+                    "example": "Repeat this process until the entire area is tiled.\nLearning a foreign language is a gradual process that takes patience.\nApplying for a visa can be a lengthy bureaucratic process.",
+                    "quizzes": [
+                        "Repeat this __________ until the entire area is tiled properly.",
+                        "Writing an essay is a multi-step __________ of researching, drafting, and editing.",
+                        "They are currently in the __________ of reviewing all college applications."
+                    ]
+                },
+                {
+                    "word": "mark",
+                    "phonetic": "/mɑːk/",
+                    "meaning": "chấm điểm, điểm số",
+                    "definition": "To give marks to students' work, or a number/letter showing how good someone's work is.",
+                    "example": "I hate marking exam papers.\nShe got the highest mark in the chemistry test.\nThe teacher marked the essays and provided encouraging feedback.",
+                    "quizzes": [
+                        "The teacher stayed up late __________ all the exam papers.",
+                        "He received a high __________ on his biology project.",
+                        "Each question in this section carries one __________."
+                    ]
+                },
+                {
+                    "word": "mental",
+                    "phonetic": "/ˈmentl/",
+                    "meaning": "thuộc về tinh thần, trí óc",
+                    "definition": "Connected with or happening in the mind; involving the process of thinking.",
+                    "example": "The elderly woman has the mental capacity of a child.\nDoing crosswords helps maintain your mental agility.\nRegular physical exercise benefits both bodily and mental well-being.",
+                    "quizzes": [
+                        "Solving logic puzzles is great for keeping your __________ faculties sharp.",
+                        "Good sleep is essential for a student's physical and __________ health.",
+                        "He did the complex calculation using __________ arithmetic."
+                    ]
+                },
+                {
+                    "word": "pass",
+                    "phonetic": "/pɑːs/",
+                    "meaning": "qua, vượt qua, đỗ (kỳ thi)",
+                    "definition": "To achieve the required standard in an exam, test, or course.",
+                    "example": "I'm not really expecting to pass the first time.\nWith diligent preparation, she managed to pass the bar exam.\nDid all students pass the final term evaluation?",
+                    "quizzes": [
+                        "I'm not really expecting to __________ the first time without revising.",
+                        "If you study consistently every day, you will surely __________.",
+                        "She was delighted to find out she had __________ her driving test."
+                    ]
+                },
+                {
+                    "word": "qualification",
+                    "phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/",
+                    "meaning": "bằng cấp, trình độ chuyên môn",
+                    "definition": "An exam that you have passed or a course of study that you have successfully completed.",
+                    "example": "He left school with no formal qualifications.\nYou must have recognized educational qualifications to apply.\nHer qualifications in nursing made her a strong candidate.",
+                    "quizzes": [
+                        "He left school with no formal __________ but built a successful business.",
+                        "What professional __________ are needed to become an architect?",
+                        "She gained a recognized teaching __________ after two years of training."
+                    ]
+                },
+                {
+                    "word": "remind",
+                    "phonetic": "/rɪˈmaɪnd/",
+                    "meaning": "nhắc, gợi nhắc",
+                    "definition": "To help somebody remember something, especially something important that they must do.",
+                    "example": "I loved her and wanted to remind her of that.\nPlease remind me to return the library books tomorrow.\nThis melody reminds me of our family vacations in the countryside.",
+                    "quizzes": [
+                        "Could you please __________ me to submit the assignment before 5 PM?",
+                        "I loved her and wanted to __________ her of that.",
+                        "These old photographs always __________ me of my childhood friends."
+                    ]
+                },
+                {
+                    "word": "report",
+                    "phonetic": "/rɪˈpɔːt/",
+                    "meaning": "bài báo cáo, bản báo cáo",
+                    "definition": "A written or spoken account of an event, especially one that is published, broadcast, or presented.",
+                    "example": "Are these news reports true?\nEach team must hand in their science report by Friday afternoon.\nAccording to the annual financial report, profits increased by ten percent.",
+                    "quizzes": [
+                        "Are these news __________ about the archaeological discovery true?",
+                        "The teacher instructed us to write a two-page __________ on climate change.",
+                        "He gave a comprehensive __________ on the outcome of the experiment."
+                    ]
+                },
+                {
+                    "word": "revise",
+                    "phonetic": "/rɪˈvaɪz/",
+                    "meaning": "ôn tập, xem lại kiến thức",
+                    "definition": "To prepare for an exam by looking again at work and notes that you have done.",
+                    "example": "I can't come out tonight. I have to revise.\nShe spends every evening revising her vocabulary and grammar.\nIt is much more effective to revise gradually rather than the night before.",
+                    "quizzes": [
+                        "I can't come out tonight because I have to __________ for my history test.",
+                        "Make sure you __________ all the key formulas before the exam.",
+                        "Students gathered in the library to __________ together for finals."
+                    ]
+                },
+                {
+                    "word": "research",
+                    "phonetic": "/rɪˈsɜːtʃ/",
+                    "meaning": "bài nghiên cứu, nghiên cứu (search/research)",
+                    "definition": "A careful study of a subject, especially in order to discover new facts or information about it.",
+                    "example": "They are raising money for cancer research.\nScientific research shows that green tea has many health benefits.\nShe is conducting research into renewable sources of energy.",
+                    "quizzes": [
+                        "They are raising money for cancer __________ and new treatments.",
+                        "He spent years conducting medical __________ at the university hospital.",
+                        "Recent scientific __________ shows the importance of drinking enough water."
+                    ]
+                },
+                {
+                    "word": "search",
+                    "phonetic": "/sɜːtʃ/",
+                    "meaning": "tìm kiếm, cuộc tìm kiếm",
+                    "definition": "An act of looking carefully thoroughly in order to find something or someone.",
+                    "example": "The police carried out an extensive search for the missing boy.\nI did a quick online search to find the nearest bookstore.\nAfter a long search, she finally found her car keys.",
+                    "quizzes": [
+                        "The rescue team began a mountain __________ at dawn.",
+                        "I did a quick internet __________ to look for more information.",
+                        "After a thorough __________ of his room, he found his lost wallet."
+                    ]
+                },
+                {
+                    "word": "skill",
+                    "phonetic": "/skɪl/",
+                    "meaning": "kỹ năng",
+                    "definition": "The ability to do something well, usually as a result of experience and practice.",
+                    "example": "The job requires skill and an eye for detail.\nLearning to communicate clearly is an essential life skill.\nHe demonstrated remarkable skill on the soccer field.",
+                    "quizzes": [
+                        "The job requires exceptional communication __________ and teamwork.",
+                        "Public speaking is a valuable __________ that can be learned with practice.",
+                        "She showed great artistic __________ in creating these portraits."
+                    ]
+                },
+                {
+                    "word": "smart",
+                    "phonetic": "/smɑːt/",
+                    "meaning": "thông minh, sáng dạ",
+                    "definition": "Intelligent; quick at learning or thinking.",
+                    "example": "Why do smart people do such stupid things?\nHe is a smart boy who loves solving mathematical riddles.\nIt was a smart decision to buy tickets early before they sold out.",
+                    "quizzes": [
+                        "Why do __________ people sometimes make unreasonable choices?",
+                        "She is a very __________ student who answers every question eagerly.",
+                        "Bringing a portable charger was a __________ move for the trip."
+                    ]
+                },
+                {
+                    "word": "subject",
+                    "phonetic": "/ˈsʌbdʒɪkt/",
+                    "meaning": "môn học, chủ đề",
+                    "definition": "An area of knowledge studied in a school, college, or university.",
+                    "example": "Biology is my favourite subject.\nEnglish and mathematics are compulsory subjects for high school students.\nHistory was always his strongest subject at school.",
+                    "quizzes": [
+                        "Biology is my favourite __________ because I am fascinated by animals.",
+                        "What is your most challenging school __________ this academic year?",
+                        "Mathematics is an important __________ that develops logical thinking."
+                    ]
+                },
+                {
+                    "word": "talented",
+                    "phonetic": "/ˈtæləntɪd/",
+                    "meaning": "tài năng, có năng khiếu",
+                    "definition": "Having a natural ability to do something well.",
+                    "example": "Some of these young musicians are incredibly talented.\nShe is a talented writer whose first novel became an instant bestseller.\nHe is extremely talented at competitive chess.",
+                    "quizzes": [
+                        "Some of these young musicians are incredibly __________.",
+                        "She is a __________ artist who won the national painting contest.",
+                        "The academy is looking for __________ young actors for the new play."
+                    ]
+                },
+                {
+                    "word": "term",
+                    "phonetic": "/tɜːm/",
+                    "meaning": "học kỳ, kỳ hạn",
+                    "definition": "One of the fixed periods of time into which a school or university year is divided.",
+                    "example": "He served a short term for drunk driving.\nOur school year is divided into three terms.\nFinal exams are held during the last week of term.",
+                    "quizzes": [
+                        "We have lots of tests and projects due at the end of this __________.",
+                        "Students look forward to the two-week break between the autumn and spring __________.",
+                        "She worked diligently throughout the entire academic __________."
+                    ]
+                },
+                {
+                    "word": "wonder",
+                    "phonetic": "/ˈwʌndər/",
+                    "meaning": "băn khoăn, tự hỏi",
+                    "definition": "To think about something and try to decide what is true, what will happen, what you should do, etc.",
+                    "example": "'Why do you want to know?' 'No particular reason. I was just wondering.'\nI wonder whether our train will be on schedule today.\nShe wondered what it would be like to live in a different country.",
+                    "quizzes": [
+                        "'Why do you want to know?' 'No particular reason. I was just __________.'",
+                        "I __________ if it will snow during our winter vacation.",
+                        "Many people __________ about how the universe first began."
+                    ]
+                },
+                {
+                    "word": "cross out",
+                    "phonetic": "/krɒs aʊt/",
+                    "meaning": "gạch bỏ",
+                    "definition": "To draw a line through something written to indicate it is wrong or cancelled.",
+                    "example": "If you think it's wrong, cross it out and write it again.\nShe crossed out two names on the attendance list.\nDo not erase the mistake; just cross it out with a neat pen line.",
+                    "quizzes": [
+                        "If you think it's wrong, __________ it and write it again clearly.",
+                        "The teacher told us to __________ any misspelled words on the draft.",
+                        "Please __________ the items on the grocery list that we already have."
+                    ]
+                },
+                {
+                    "word": "look up",
+                    "phonetic": "/lʊk ʌp/",
+                    "meaning": "tra cứu",
+                    "definition": "To try to find information in a book, dictionary, encyclopedia, or computer database.",
+                    "example": "I looked it up in the dictionary.\nWhenever you encounter a word you don't know, look it up.\nHe looked up the train times on his smartphone.",
+                    "quizzes": [
+                        "I didn't understand the vocabulary word, so I __________ it in the dictionary.",
+                        "Can you __________ the address of the restaurant on the internet?",
+                        "She __________ the historical dates in the encyclopedia for her essay."
+                    ]
+                },
+                {
+                    "word": "point out",
+                    "phonetic": "/pɔɪnt aʊt/",
+                    "meaning": "chỉ ra",
+                    "definition": "To tell someone important information or draw their attention to a fact.",
+                    "example": "He pointed out the dangers of driving alone.\nThe tutor pointed out several minor grammatical mistakes in my essay.\nI'd like to point out that this report is still a preliminary draft.",
+                    "quizzes": [
+                        "He __________ the dangers of driving alone at night in the heavy rain.",
+                        "The teacher __________ that many students had made the same spelling error.",
+                        "Thank you for __________ that important detail before we submitted the work."
+                    ]
+                },
+                {
+                    "word": "read out",
+                    "phonetic": "/riːd aʊt/",
+                    "meaning": "đọc lớn tiếng",
+                    "definition": "To say something out loud which you are reading so that others can hear it.",
+                    "example": "He read out all names.\nThe teacher asked Mary to read out the poem to the rest of the class.\nShe read out the list of winners at the end of the ceremony.",
+                    "quizzes": [
+                        "He __________ all names from the list so everyone could hear.",
+                        "The teacher asked a volunteer to __________ the short story to the class.",
+                        "Could you please __________ the instructions on the package for me?"
+                    ]
+                },
+                {
+                    "word": "rip up",
+                    "phonetic": "/rɪp ʌp/",
+                    "meaning": "xé thành mảnh",
+                    "definition": "To tear something, especially paper or cloth, violently into small pieces.",
+                    "example": "I ripped up the letter.\nHe was unhappy with the rough draft and ripped it up.\nAlways rip up confidential documents before discarding them in the trash.",
+                    "quizzes": [
+                        "He was so upset that he __________ the letter into tiny pieces.",
+                        "Be sure to __________ old bills and receipts before throwing them away.",
+                        "She __________ the flawed sketch and decided to start fresh on a new canvas."
+                    ]
+                },
+                {
+                    "word": "rub out",
+                    "phonetic": "/rʌb aʊt/",
+                    "meaning": "tẩy xóa",
+                    "definition": "To remove pencil marks, chalk, or drawings with an eraser or rubber.",
+                    "example": "He rubbed out his painting.\nIf you make a drawing mistake in pencil, you can easily rub it out.\nShe rubbed out the circle on the chalkboard and drew a square.",
+                    "quizzes": [
+                        "He __________ his painting and started over on a clean sheet of paper.",
+                        "Use a clean rubber eraser to __________ the pencil guidelines neatly.",
+                        "The teacher __________ the previous notes on the whiteboard before writing new ones."
+                    ]
+                },
+                {
+                    "word": "turn over",
+                    "phonetic": "/tɜːn ˈəʊvər/",
+                    "meaning": "lật sang trang, lật mặt khác",
+                    "definition": "To turn something so that the other side is facing towards you or turn to the next page.",
+                    "example": "I turned over the paperwork.\nDo not turn over your exam paper until the examiner instructs you to do so.\nTurn over the page and complete exercise number four.",
+                    "quizzes": [
+                        "I __________ the paperwork to see if there was any text on the back.",
+                        "Students may not __________ their exam papers until the bell sounds.",
+                        "Please __________ to page 48 to find the reading comprehension passage."
+                    ]
+                },
+                {
+                    "word": "write down",
+                    "phonetic": "/raɪt daʊn/",
+                    "meaning": "viết ra, ghi chép lại",
+                    "definition": "To write information on a piece of paper or in a notebook.",
+                    "example": "I wrote down some formulas.\nMake sure you write down the teacher's instructions in your planner.\nShe wrote down his phone number and address on a sticky note.",
+                    "quizzes": [
+                        "I __________ some formulas in my notebook so that I wouldn't forget them.",
+                        "Always __________ the key deadlines in your study planner.",
+                        "The secretary carefully __________ every point discussed during the conference."
+                    ]
+                },
+                {
+                    "word": "by heart",
+                    "phonetic": "/baɪ hɑːt/",
+                    "meaning": "ghi nhớ, học thuộc lòng",
+                    "definition": "Learned from memory word for word without needing to look at a text.",
+                    "example": "I learned the poem by heart.\nActors must learn their dialogue by heart before rehearsals start.\nCan you recite the entire multiplication table by heart?",
+                    "quizzes": [
+                        "I learned the entire poem __________ and recited it to the class without looking.",
+                        "Theater performers must memorize their lines __________ before opening night.",
+                        "He practiced every day until he knew the speech __________."
+                    ]
+                },
+                {
+                    "word": "for instance",
+                    "phonetic": "/fər ˈɪnstəns/",
+                    "meaning": "ví dụ, chẳng hạn",
+                    "definition": "As an example; for example.",
+                    "example": "What would you do, for instance, if you found a member of staff stealing?\nMany Asian nations, for instance Vietnam and Japan, celebrate the Lunar New Year.\nYou can learn many practical skills online, for instance coding or graphic design.",
+                    "quizzes": [
+                        "What would you do, __________, if you found a member of staff stealing?",
+                        "Some flightless birds, penguins and ostriches __________, have adapted to land life.",
+                        "You should eat more fresh fruit, apples and oranges __________."
+                    ]
+                },
+                {
+                    "word": "in conclusion",
+                    "phonetic": "/ɪn kənˈkluːʒn/",
+                    "meaning": "kết luận, tóm lại",
+                    "definition": "Finally, to conclude; used to introduce the final part of a speech or essay.",
+                    "example": "In conclusion, I still live alone.\nIn conclusion, regular physical activity is vital for long-term health.\nIn conclusion, the speaker thanked the audience for their kind attention.",
+                    "quizzes": [
+                        "__________, I still live alone and enjoy my peaceful routine.",
+                        "__________, protecting the environment requires the cooperation of all citizens.",
+                        "The essay ended with a powerful statement __________."
+                    ]
+                },
+                {
+                    "word": "in fact",
+                    "phonetic": "/ɪn fækt/",
+                    "meaning": "thực ra, trên thực tế",
+                    "definition": "Actually; used to emphasize the truth of something or add more detailed facts.",
+                    "example": "He was in fact near death by the time they reached him.\nI thought the test would be difficult, but in fact it was quite simple.\nShe looks very young, but in fact she has been teaching for over a decade.",
+                    "quizzes": [
+                        "He was __________ near death by the time the rescue team reached him.",
+                        "We expected a rainy day, but __________ it was bright and sunny.",
+                        "He seemed calm on the surface, but __________ he was extremely anxious."
+                    ]
+                },
+                {
+                    "word": "in favour of",
+                    "phonetic": "/ɪn ˈfeɪvər əv/",
+                    "meaning": "tán thành, ủng hộ",
+                    "definition": "In agreement with, supporting, or approving of an idea, person, or proposal.",
+                    "example": "I'm all in favour of equal pay for equal work.\nAre you in favour of having longer school holidays in the summer?\nThe majority of members voted in favour of building a new sports center.",
+                    "quizzes": [
+                        "I'm all __________ equal pay for equal work across all professions.",
+                        "Most teachers were __________ introducing modern digital tablets into classrooms.",
+                        "Are you __________ the proposal to ban single-use plastics in school cafeterias?"
+                    ]
+                },
+                {
+                    "word": "in general",
+                    "phonetic": "/ɪn ˈdʒenrəl/",
+                    "meaning": "nhìn chung, nói chung",
+                    "definition": "Usually, mostly, or considering the whole of something rather than specific details.",
+                    "example": "In general, Japanese cars are very reliable and breakdowns are rare.\nIn general, students who read extensively have wider vocabularies.\nHer exam results were decent, and in general she performed very well this term.",
+                    "quizzes": [
+                        "__________, Japanese cars are very reliable and breakdowns are rare.",
+                        "__________, teenagers today are remarkably skilled at navigating modern technology.",
+                        "The weather had occasional showers, but __________ our camping trip was delightful."
+                    ]
+                },
+                {
+                    "word": "capable of",
+                    "phonetic": "/ˈkeɪpəbl əv/",
+                    "meaning": "có thể, có khả năng làm gì",
+                    "definition": "Having the ability, power, or qualities necessary to do something.",
+                    "example": "I am capable of working effectively.\nShe is fully capable of managing this large marketing project on her own.\nModern computers are capable of analyzing millions of data points in seconds.",
+                    "quizzes": [
+                        "I am confident that I am __________ working effectively under pressure.",
+                        "With dedicated practice, every student is __________ mastering a musical instrument.",
+                        "This advanced robot is __________ performing delicate surgical procedures."
+                    ]
+                },
+                {
+                    "word": "talented at",
+                    "phonetic": "/ˈtæləntɪd æt/",
+                    "meaning": "có tài năng về",
+                    "definition": "Having a natural skill or exceptional ability to do something well.",
+                    "example": "She is talented at singing.\nMy younger brother is remarkably talented at solving difficult puzzles.\nHe has always been talented at painting vivid natural landscapes.",
+                    "quizzes": [
+                        "She is exceptionally __________ singing traditional and classical songs.",
+                        "My friend is __________ playing the violin and performs with the city orchestra.",
+                        "He proved to be very __________ organizing school charity events."
+                    ]
+                },
+                {
+                    "word": "cheat at/in",
+                    "phonetic": "/tʃiːt æt / ɪn/",
+                    "meaning": "gian lận trong (thi cử, trò chơi)",
+                    "definition": "To act dishonestly in order to gain an unfair advantage in an exam or a game.",
+                    "example": "He cheated in the final exam.\nIt is never acceptable to cheat at board games when playing with friends.\nAnyone caught trying to cheat in the test will be disqualified immediately.",
+                    "quizzes": [
+                        "He __________ the final exam and faced severe disciplinary consequences.",
+                        "It is completely unfair to __________ board games with your family.",
+                        "The teacher watched the room attentively so that no one could __________ the test."
+                    ]
+                },
+                {
+                    "word": "confuse sb with",
+                    "phonetic": "/kənˈfjuːz ... wɪð/",
+                    "meaning": "nhầm lẫn ai với người khác",
+                    "definition": "To mistake someone for another person because of similar appearance or name.",
+                    "example": "I confused him with my old friend.\nPeople often confuse the twin brothers with each other because they look identical.\nDo not confuse confidence with arrogance when presenting your ideas.",
+                    "quizzes": [
+                        "I __________ him __________ my old friend from middle school because they looked alike.",
+                        "Because the two actors have similar voices, listeners easily __________ one __________ the other.",
+                        "Make sure you don't __________ facts __________ personal opinions in your essay."
+                    ]
+                },
+                {
+                    "word": "continue with",
+                    "phonetic": "/kənˈtɪnjuː wɪð/",
+                    "meaning": "tiếp tục với cái gì",
+                    "definition": "To keep carrying on or proceeding with an activity or project without stopping.",
+                    "example": "She continued with my research.\nAfter a brief water break, the team continued with their intensive training.\nHe decided to continue with his piano lessons despite having a busy school schedule.",
+                    "quizzes": [
+                        "She __________ my research while I was away attending the conference.",
+                        "After lunch, the students __________ their science project in the laboratory.",
+                        "Are you planning to __________ your language course next semester?"
+                    ]
+                },
+                {
+                    "word": "cope with",
+                    "phonetic": "/kəʊp wɪð/",
+                    "meaning": "đương đầu, đối phó thành công với",
+                    "definition": "To deal successfully with a difficult situation, heavy workload, or problem.",
+                    "example": "I tried to cope with the upcoming problems.\nShe developed effective study strategies to cope with final exam stress.\nIt can be challenging for new students to cope with living away from home.",
+                    "quizzes": [
+                        "I tried my very best to __________ the upcoming problems calmly.",
+                        "Exercising and sleeping well help students __________ high levels of academic stress.",
+                        "The local hospital managed to __________ the unexpected influx of patients."
+                    ]
+                },
+                {
+                    "word": "help (sb) with",
+                    "phonetic": "/help wɪð/",
+                    "meaning": "giúp (ai) việc gì",
+                    "definition": "To give assistance or support to someone with a task, problem, or chore.",
+                    "example": "My mom helped with my cooking.\nCan you help me with my chemistry homework this evening?\nVolunteers from the community arrived early to help with setting up the tents.",
+                    "quizzes": [
+                        "My mom __________ my cooking when I was preparing dinner for guests.",
+                        "Could you please __________ me __________ solving this complicated math equation?",
+                        "The older students gladly __________ the newcomers __________ finding their classrooms."
+                    ]
+                },
+                {
+                    "word": "know about",
+                    "phonetic": "/nəʊ əˈbaʊt/",
+                    "meaning": "biết về cái gì",
+                    "definition": "To have information, knowledge, or familiarity concerning something.",
+                    "example": "They knew about private life.\nDo you know about the history of the ancient citadel in our city?\nShe knows a great deal about marine ecosystems and coral preservation.",
+                    "quizzes": [
+                        "They __________ private life details that had never been shared publicly.",
+                        "Does anyone here __________ the historical background of this old temple?",
+                        "He __________ a lot __________ computer hardware and can build PCs from scratch."
+                    ]
+                },
+                {
+                    "word": "learn about",
+                    "phonetic": "/lɜːn əˈbaʊt/",
+                    "meaning": "học về, tìm hiểu về cái gì",
+                    "definition": "To gain knowledge, understanding, or information concerning a particular topic.",
+                    "example": "She's very keen to learn about Japanese culture.\nIn history class today, we learned about the industrial revolution.\nReading documentaries is a wonderful way to learn about wildlife conservation.",
+                    "quizzes": [
+                        "She's very keen to __________ Japanese culture and traditional tea ceremonies.",
+                        "Today in geography class, we will __________ the major rivers and mountain ranges of Europe.",
+                        "Children love visiting museums to __________ dinosaurs and ancient civilizations."
+                    ]
+                },
+                {
+                    "word": "succeed in",
+                    "phonetic": "/səkˈsiːd ɪn/",
+                    "meaning": "thành công trong việc gì",
+                    "definition": "To achieve something that you have been aiming for, working towards, or trying to do.",
+                    "example": "I am trying to succeed in life.\nAfter years of disciplined practice, she succeeded in winning an Olympic medal.\nHe succeeded in passing his university entrance examinations with flying colors.",
+                    "quizzes": [
+                        "I am trying every day to __________ life through diligence and honest effort.",
+                        "After several attempts, the scientists finally __________ finding a reliable cure.",
+                        "If you stay focused and persevere, you will surely __________ your chosen career."
+                    ]
+                },
+                {
+                    "word": "an opinion about/of",
+                    "phonetic": "/ən əˈpɪnjən əˈbaʊt / əv/",
+                    "meaning": "quan điểm, ý kiến về cái gì/ai",
+                    "definition": "A thought, belief, view, or judgment formed about a particular subject or person.",
+                    "example": "She has an opinion about bullying.\nWhat is your opinion of the new principal's educational policy?\nHe expressed a well-reasoned opinion about the benefits of online learning.",
+                    "quizzes": [
+                        "She has __________ bullying and how schools should prevent it effectively.",
+                        "What is your personal __________ the new school uniform design?",
+                        "Everyone in class was encouraged to express __________ the documentary we watched."
+                    ]
+                },
+                {
+                    "word": "a question about",
+                    "phonetic": "/ə ˈkwestʃən əˈbaʊt/",
+                    "meaning": "câu hỏi về, băn khoăn về cái gì",
+                    "definition": "A sentence, inquiry, or phrase that asks for information or clarification concerning something.",
+                    "example": "I have a question about wild animals.\nIf you have a question about the test format, please raise your hand now.\nShe asked the professor a question about modern quantum physics.",
+                    "quizzes": [
+                        "I have __________ wild animals that I would love the teacher to answer.",
+                        "Please feel free to ask __________ the homework assignment if anything is unclear.",
+                        "The curious student asked thoughtful __________ the history of the solar system."
+                    ]
+                }
+            ],
+            "grammars": []
         }
     ]
 }
